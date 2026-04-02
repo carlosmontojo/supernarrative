@@ -1,0 +1,26 @@
+# User data - never commit
+source/*
+!source/.gitkeep
+db/*.db
+db/*.db-shm
+db/*.db-wal
+db/snapshots/
+exports/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
