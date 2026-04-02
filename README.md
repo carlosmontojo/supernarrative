@@ -53,7 +53,7 @@ verify.py = your test suite
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/supernarrative.git
+git clone https://github.com/carlosmontojo/supernarrative.git
 cd supernarrative
 
 # Initialize a project
