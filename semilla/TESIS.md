@@ -175,6 +175,91 @@ autor: (a) archivar, o (b) v1 con mundo estocástico (test de calibración
 justo) y percepción ruidosa (primer contacto con el problema del asiento),
 aceptando que esto es una revisión post-hoc del protocolo y dejándolo escrito.
 
+### 2026-08-22 — v1: protocolo prerregistrado (escrito ANTES de ejecutar)
+
+Decisión del autor: continuar. Cambios respecto a v0, atacando sus dos huecos:
+
+1. **Mundo estocástico**: algunos tipos tienen incertidumbre real (la cuenta
+   correcta se sortea, p. ej. 70/30). La calibración se mide con Brier
+   *esperado* analítico contra la distribución verdadera — un agente
+   perfectamente calibrado debe decir "70%", no "100%". Esto corrige el test
+   que en v0 premiaba estructuralmente la sobreconfianza.
+2. **Percepción ruidosa (primer contacto con el problema del asiento)**: la
+   transacción ya no llega como clave limpia sino como documento (bolsa de
+   tokens, algunos comunes a todo, alguno erróneo con probabilidad ε). El
+   agente debe aprender qué tokens son asentables. LIBRO lleva saldos por
+   token cuya informatividad se aprende (los tokens comunes se auto-anulan
+   por entropía); RED recibe los mismos tokens como features de extremo a
+   extremo.
+3. **La disciplina del descuadre**: LIBRO solo asienta ajuste (depreciación +
+   sospecha) cuando el fallo contradice su propia confianza (conf ≥ 0.75). El
+   ruido esperado se asienta sin drama; solo la sorpresa es descuadre. Esta es
+   la respuesta de la tesis al dilema estabilidad/plasticidad.
+4. **RED sin debilitar**: barrido completo de lr {0.05, 0.15, 0.3, 0.6, 1.0}
+   publicado entero.
+
+**Criterios de vida o muerte de la v1** (fijados antes de ver un solo número):
+
+- **VIVE** si ningún lr único de RED iguala o supera a LIBRO simultáneamente
+  en P1' (recuperación) y P2' (Brier esperado) — es decir, si LIBRO escapa al
+  dilema estabilidad/plasticidad que obliga a RED a elegir; Y ADEMÁS con
+  ε = 0.3 de ruido de percepción LIBRO conserva ≥ 85% de su acierto limpio.
+- **MUERE** si algún lr de RED gana o empata ambas a la vez, o si el ruido de
+  percepción lo derrumba (el problema del asiento pudo con él a la primera).
+
+### 2026-08-22 — v1: resultados (5 semillas × 3000 pasos, barrido RED completo)
+
+Durante la puesta a punto (sanity, 2 semillas) se corrigió una interacción:
+la prudencia declarada suprimía la señal de sorpresa y detenía la reexpresión
+a medias. Arreglo conceptual, no paramétrico: separar **convicción interna**
+(dispara el descuadre; solo evidencia) de **confianza declarada** (con
+prudencia; la que se evalúa). Aplicado antes de las corridas finales.
+
+**ε = 0 (percepción limpia, mundo estocástico):**
+
+| Métrica | mejor RED del barrido | LIBRO |
+|---|---|---|
+| P1' recuperación | 70 pasos (lr 1.0) | **34** |
+| P2' Brier esperado | 0.093 (lr 0.6) | **0.075** |
+| Acierto modal | 92.8% (lr 0.15) | **98.6%** |
+| Proveedores nuevos | 92.9% | **98.7%** |
+
+**LIBRO domina en Pareto a las cinco configuraciones de RED a la vez**: ningún
+lr escapa al dilema estabilidad/plasticidad; la disciplina del descuadre sí
+(los fallos esperados no deprecian nada; solo la sorpresa reexpresa). La
+derrota de calibración de la v0 era, en efecto, el artefacto del mundo
+determinista.
+
+**ε = 0.3 (problema del asiento):**
+
+| Métrica | mejor RED | LIBRO |
+|---|---|---|
+| P1' recuperación | 80 pasos (lr 0.6) | 288, con **7/25 reformas nunca superadas** |
+| P2' Brier esperado | 0.095 | 0.157 |
+| Acierto modal | 92.7% | 87.1% |
+| Retención vs. su acierto limpio | — | 88.3% (criterio ≥85%: pasa) |
+
+Con percepción ruidosa, **RED gana con claridad**: la escritura nítida de
+LIBRO acredita cuentas equivocadas a tokens equivocados y el veneno persiste;
+la ponderación blanda del gradiente digiere el ruido mejor. El premortem #1
+acertó en diana.
+
+**Veredicto v1 según criterios prerregistrados**: el criterio se redactó sin
+fijar a qué ε aplicaba el test de Pareto — ambigüedad nuestra y queda anotada.
+Lectura estricta: **VIVE en régimen pre-asentado, MUERE (por ahora) bajo ruido
+de percepción**. El experimento ha hecho algo mejor que aprobar o suspender:
+ha **dibujado empíricamente la frontera de lo asentable** que la estrategia de
+esta tesis ya postulaba. Donde los documentos llegan limpios (finanzas), el
+libro domina en todo; donde la percepción es turbia, manda el gradiente.
+
+**Dirección v2** (de nuevo dictada por la contabilidad): LIBRO v1 asienta toda
+observación en firme. Un contable no hace eso: lo dudoso va a una **cuenta
+puente — 555, "partidas pendientes de aplicación", existe literalmente en el
+PGC** — y solo pasa al mayor cuando se concilia. v2 = asientos provisionales
+para documentos de baja confianza perceptiva, aplicados o revertidos al
+aclararse. Si eso no cierra el hueco con ruido, la tesis queda confinada al
+dominio pre-asentado y se archiva como arquitectura (valiosa) de producto.
+
 ## Precedentes declarados
 
 Truth maintenance systems (Doyle, años 80) — registro de justificaciones de
