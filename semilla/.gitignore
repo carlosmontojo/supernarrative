@@ -1,0 +1,9 @@
+# El corpus no se versiona (puede ser enorme y/o personal) — solo su README
+corpus/*
+!corpus/README.md
+
+# Artefactos generados
+data/
+checkpoints/
+__pycache__/
+*.pyc
