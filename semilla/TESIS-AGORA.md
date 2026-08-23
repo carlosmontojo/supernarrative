@@ -143,3 +143,45 @@ completa; los tres juntos dibujan dónde habría que buscarla.
 pequeños libros (condición + saldo con pureza, en vez de condición + clase
 fija), o mercado para la percepción y libro para los hechos. La conjetura:
 los regímenes se suman. El riesgo: también se suman las complejidades.
+
+## Búsqueda bibliográfica adversarial (2026-08-23)
+
+**Veredicto: reinvención en cada componente; posible novedad solo en la
+síntesis (confianza ~75% en que la combinación exacta no está publicada).**
+
+Los dos hits que juntos cubren ~90% de la tesis:
+
+- **Barbu & Lay, "Artificial Prediction Markets for Classification" (JMLR
+  2012)**: traders con presupuesto que apuestan fracciones de capital por
+  clases; precio = probabilidad; liquidación = aprendizaje; demostrado
+  estimador de máxima verosimilitud que generaliza boosting y random forest.
+- **XCS (Wilson 1995) y la línea LCS viva hasta 2024**: el *covering* ES
+  nuestra inmigración empirista (regla nueva nacida de la observación actual),
+  la *deletion* con población llena ES el desplazamiento del pobre, el GA ES
+  la reproducción con mutación.
+
+Más prior art relevante: Storkey (ML markets = mixture-of-experts por
+riqueza, 2011-12); Kelly bettors = multiplicative weights (Beygelzimer et
+al. 2012); **Logical Induction** (Garrabrant 2016: mercado de traders =
+creencias demostrablemente calibradas); mercados sintéticos de predicción con
+agentes evolucionados (Penn State/DARPA, AAAI 2022); specialists/sleeping
+experts (Freund et al. 1997); Dynamic Weighted Majority (2007); Tsetlin
+Machine (cláusulas conjuntivas sin gradiente, 2018); Santa Fe Artificial
+Stock Market (1994-97); Numerai/Bittensor como infraestructura en producción;
+revival explícito de la línea Holland→Baum en AAMAS 2025 (arXiv:2503.05828).
+
+**El golpe adversarial más duro**: hay teoremas de equivalencia (Chen &
+Vaughan 2010; Frongillo 2012) que muestran que la liquidación de mercado ES
+descenso espejo / multiplicative weights implícito. **"Inteligencia sin
+optimizador" es una afirmación de implementación, no matemática: el mercado
+es el optimizador.** Retirada esa retórica de la tesis.
+
+**Reclamación revisada** (lo que sobrevive): (1) la síntesis viva exacta —
+pari-mutuel + demografía abierta corriendo durante el despliegue + inmigración
+empirista + precio-como-confianza en un solo sistema sin fases — no apareció
+publicada tal cual; y (2) el argumento que los teoremas de equivalencia NO
+cubren: esos teoremas describen la dinámica de pesos de una población FIJA;
+el nacimiento/muerte/mutación es búsqueda sobre el propio espacio de
+hipótesis, que multiplicative weights no hace. Si Ágora aporta algo, es eso,
+y ahí debe medirse. Caveat del buscador: la literatura LCS es enorme y un
+"pari-mutuel LCS" cabría en un workshop mal indexado.

@@ -267,8 +267,43 @@ creencias; *predictive processing* — el cerebro como minimizador de errores de
 predicción (conciliar es eso, con disciplina contable); memorias externas
 diferenciables (NTM, memorias episódicas) y su historial de derrotas frente a la
 escala; BabyLM — la comunidad que investiga aprender idioma con presupuesto de
-niño; sistemas de RAG con procedencia. La síntesis específica (partida doble
-como estructura de memoria + conciliación como bucle + partidas abiertas como
-curiosidad + cierre como abstracción + auditabilidad estructural) no la
-conocemos desarrollada; establecer su novedad exige búsqueda bibliográfica
-seria, que está pendiente y se hará antes de reclamar nada.
+niño; sistemas de RAG con procedencia.
+
+## Búsqueda bibliográfica adversarial (2026-08-23)
+
+Hecha con la instrucción de ENCONTRAR el prior art, no de halagarnos.
+**Veredicto: parcialmente novedosa (confianza media-alta).**
+
+El espacio "memoria de agente auditable con procedencia" está ardiendo en
+2025-2026 — cada mecanismo individual tiene dueño:
+
+- Creencias que exigen evidencia previa: TMS/ATMS (Doyle 1979, de Kleer 1986);
+  **Eywa** (arXiv:2605.30771, invariante "evidence precedes belief");
+  **Kumiho** (arXiv:2603.17244, revisión AGM sobre grafo con procedencia).
+- Diario append-only → estado derivado: **"The Log is the Agent"**
+  (arXiv:2605.21997) y la familia event-sourcing; **Zep/Graphiti** (grafo
+  bi-temporal con invalidación retroactiva ≈ nuestra reexpresión).
+- Aserción sin respaldo = fallo estructural: **CANONIC** (arXiv:2607.05410),
+  EviBound, Proof-or-Stop.
+- Ledger "pendiente" ≈ cuenta puente: **TARL** (arXiv:2608.03699).
+- Curiosidad por brecha: Loewenstein, Schmidhuber, ICM, INFOGATHERER.
+- Consolidación periódica → esquemas: Generative Agents (Park 2023) y sucesores.
+
+**Lo que NO se encontró en ningún sitio**: la partida doble propiamente dicha —
+la restricción bilateral debe/haber, un invariante global de cuadre (balance de
+comprobación) cuya violación sea la señal de error, y el sistema completo
+(diario + saldos + conciliación + cierre + reexpresión + cuentas puente +
+partidas abiertas como curiosidad) unificado bajo UN formalismo contable. Ni
+una mención a Pacioli en arXiv.
+
+**Reclamación revisada de la tesis** (más estrecha y más fuerte): la novedad
+defendible no son los mecanismos — es el **formalismo unificador de partida
+doble**, y su carga de la prueba es demostrar que la dualidad debe/haber y el
+invariante de cuadre global aportan algo medible que la "partida simple con
+procedencia" (que ya existe publicada) no aporta. Pregunta abierta que la v2
+debe responder antes que ninguna otra: ¿cuál es el "haber" epistémico que
+equilibra cada "debe"?
+
+**Lectura estratégica**: que una docena de papers de 2025-2026 converjan hacia
+este territorio valida la dirección (el campo está llegando adonde la intuición
+contable ya estaba) y mete prisa: el espacio se está reclamando ahora.
