@@ -43,26 +43,32 @@ tiene:
 
 ### Vía 2 — EL LABORATORIO: una sola bandera a la vez
 
-De las tres esquinas defendibles que dejó la búsqueda, se planta **una**:
+*(Revisado 2026-08-23, por decisión del autor de buscar "dónde se equivocan
+todos": la bandera central cambia.)*
 
-**La señal del bebé** (TESIS-CRIA.md) — la curva longitudinal de velocidad
-de aprendizaje como criterio primario de no-saturación. Por qué esta:
+**Tesis central: SOLVENCIA** (TESIS-SOLVENCIA.md) — el aprendiz con algo en
+juego: presupuesto único de viabilidad como única señal, objetivo de
+crecimiento temporal, ruina absorbente, éxito medido por la curva compuesta.
+Por qué esta:
 
-- Es la más barata de operacionalizar y la más citable (un instrumento de
-  medida, no un paradigma — los instrumentos sobreviven a las teorías).
-- Nuestro laboratorio es su primer caso de uso: demostrar con la curva que
-  RED, LIBRO y MERCADO se saturan es a la vez el estreno del instrumento y
-  un resultado honesto.
-- El trabajo difícil es de diseño, no de cómputo: definir el mundo
-  composicional y la normalización de dificultad para que la curva no sea
-  un artefacto. Eso se piensa antes de programarse.
+- Contiene a la señal del bebé (que pasa a ser su métrica) y explica
+  retroactivamente los resultados de las otras tesis: en nuestro laboratorio,
+  las consecuencias hicieron el trabajo cada vez.
+- Búsqueda adversarial hecha el mismo día: síntesis libre (~65%), pero el
+  vecindario se coloniza deprisa (OpenLife, Energentic, ergodicity-RL del
+  propio Peters) → **urgencia: esta bandera caduca**.
+- Converge con la Vía 1 sin forzarla: Quentax es el candidato natural a
+  "mundo que paga de verdad", el agujero conceptual nº 1 de la tesis.
+
+**Siguiente paso de laboratorio**: diseño detallado y prerregistro de la v0
+del organismo solvente (esbozo en TESIS-SOLVENCIA.md), luego ejecutarla.
 
 **Cola del laboratorio** (después, no en paralelo):
-2º) el formalismo de partida doble de Pacioli — responder "¿cuál es el haber
-epistémico que equilibra cada debe?" y si el cuadre global aporta algo
-medible sobre la partida simple con procedencia; alimenta directamente la
-Vía 1. 3º) el híbrido traders-libro, con el criterio anti-epiciclo ("gana
-borrando mecanismos o no cuenta").
+2º) el formalismo de partida doble de Pacioli — "¿cuál es el haber epistémico
+que equilibra cada debe?"; alimenta directamente la Vía 1. 3º) el híbrido
+traders-libro, con el criterio anti-epiciclo ("gana borrando mecanismos o no
+cuenta"). La señal del bebé ya no es proyecto aparte: viaja dentro de
+Solvencia.
 
 ## Lo que NO hacemos (tan importante como lo anterior)
 
@@ -73,8 +79,10 @@ borrando mecanismos o no cuenta").
   agente en el banco de pruebas).
 - **No** entrenar modelos grandes todavía: la apuesta del cómputo sigue
   siendo esperar mientras se acumula lo que no se abarata.
-- **No** abrir una cuarta tesis hasta que la señal del bebé esté publicada o
-  muerta.
+- **No** abrir una quinta tesis hasta que Solvencia esté publicada o muerta.
+  (La regla original decía "cuarta"; el autor la amendó conscientemente el
+  2026-08-23 al pedir el diagnóstico de campo que produjo Solvencia. Las
+  reglas se cambian a la vista, no se erosionan.)
 
 ## Próximos pasos concretos, en orden
 
