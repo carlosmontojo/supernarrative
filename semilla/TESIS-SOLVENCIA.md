@@ -101,21 +101,68 @@ esta bandera se planta, se planta pronto.
 | 2 | Explica retroactivamente los resultados de todo nuestro laboratorio (las consecuencias hicieron el trabajo en cada tesis). |
 | 3 | **La convergencia con Quentax es total**: la solvencia es el dominio del producto, y Quentax puede ser el primer "mundo que paga de verdad" — un agente cuyos ingresos dependan de conciliaciones correctas resuelve el modo de muerte nº 3 con economía real, no simulada. |
 
-## v0 (esbozo, pendiente de diseño detallado)
+## v0 — PRERREGISTRO (2026-08-23, escrito antes de ejecutar)
 
-El "organismo-mercado": un agente (reutilizando la maquinaria de Ágora como
-órganos internos) con presupuesto único; costes de metabolismo por paso, de
-computación por consulta y renta de memoria por estructura; ingresos por
-predicción correcta a odds fijadas por el mundo (no por el diseñador de la
-recompensa); una vida por corrida, sin resets. Líneas base: el mismo agente
-con apuestas de valor esperado (no-Kelly) y con cognición gratuita (sin
-costes). Métricas: forma de la curva de solvencia (¿fase compuesta?),
-supervivencia, calibración del tamaño de apuesta, olvido observado.
+### El organismo
 
-**Criterios de muerte de la v0** (se prerregistrarán en detalle antes de
-ejecutar): si las cuatro emergencias no aparecen sin diseñarlas, o si el
-agente solvente no supera a sus líneas base en ningún régimen, o si la única
-forma de que sobreviva es amañar los ingresos, la tesis muere y se archiva.
+Vive en el banco de pruebas v1 (documentos con ruido ε=0.15, reformas cada
+500 pasos). Su cuerpo interno son **células de conocimiento** — el híbrido
+que aplazamos llega aquí como órgano, no como tesis: cada célula = condición
+(1-2 rasgos) + saldo de clases (mini-libro) + **cuenta propia** de
+pérdidas/ganancias atribuidas.
+
+**La economía (todo de un único presupuesto):**
+- Metabolismo fijo por paso; renta por célula almacenada; coste por célula
+  consultada; coste por crear célula nueva (nacen de la observación, como en
+  Ágora). Dote inicial: la infancia subvencionada, explícita.
+- Ingresos SOLO por apuestas: si decide participar, apuesta una fracción del
+  presupuesto por su clase; acierto paga a odds K=6 fijadas por la
+  estructura del mundo (con 8 clases, el azar pierde: sin conocimiento no
+  hay renta). Puede abstenerse — no saber y no apostar es legítimo.
+- **Tamaño de apuesta: Kelly fraccional (½)** sobre su propia creencia — la
+  sobreconfianza es apalancamiento real.
+- **Las creencias las moldean las consecuencias**: el voto de cada célula
+  pesa por su pureza Y por su cuenta de resultados — las células que cuestan
+  dinero pierden voz; las rentables mandan.
+- **Olvido económico**: la regla es contable (se liquidan células de cuenta
+  negativa persistente); el PATRÓN de qué se olvida debe emerger.
+- **Ruina absorbente**: presupuesto ≤ 0 = muerte; una vida por corrida, sin
+  resets; muchas vidas independientes solo para estadística (sin compartir
+  aprendizaje entre vidas).
+
+### Las cuatro comparaciones (mismas tripas, distinta economía)
+
+| Variante | Qué aísla |
+|---|---|
+| **SOLVENTE** | La tesis completa (Kelly + costes + cuentas) |
+| **TEMERARIO** | Apuesta fracción fija agresiva si EV>0 — el maximizador de esperanza. Aísla la afirmación ergódica (c) |
+| **GRATIS** | Sin costes de computación/memoria/creación. Aísla el olvido económico |
+| **SALARIO** | Sin apuestas: cobra fijo por acierto. Aísla "stakes vs recompensa" — ¿la calibración necesita tener algo en juego? |
+
+30 vidas × 3500 pasos por variante. Métricas: supervivencia, trayectoria de
+log-presupuesto y su tasa de crecimiento por ventanas (el instrumento de la
+señal del bebé: fase de aceleración → meseta), Brier esperado sobre sondas
+(fuera de la economía), tamaño de memoria, tasa de abstención.
+
+### Criterios de vida o muerte (firmados antes de ver un número)
+
+- **K1 (ergodicidad)**: SOLVENTE debe sobrevivir sustancialmente más que
+  TEMERARIO (menos ruinas y/o vidas más largas). Si el apostador de
+  esperanza vive igual de bien, el núcleo temporal de la tesis cae.
+- **K2 (calibración por stakes)**: el Brier esperado de SOLVENTE debe ser
+  mejor que el de SALARIO (misma maquinaria, sin nada en juego). Si
+  apostarse el pellejo no calibra mejor que cobrar un sueldo, la emergencia
+  1 cae.
+- **K3 (olvido, informativo)**: SOLVENTE debe mantener bastante menos
+  memoria que GRATIS con pérdida de acierto pequeña.
+- **K4 (instrumento, informativo)**: la curva de tasa de crecimiento debe
+  mostrar fase de aceleración y meseta detectables — el estreno de la señal
+  del bebé como instrumento (en un mundo finito, la meseta es lo esperado y
+  lo honesto).
+
+**VIVE** si K1 y K2 pasan sin amañar ingresos ni parámetros por variante
+(una sola configuración compartida, congelada tras la puesta a punto
+documentada). **MUERE** en caso contrario, y se archiva con el resultado.
 
 ## Relación con las demás tesis
 
