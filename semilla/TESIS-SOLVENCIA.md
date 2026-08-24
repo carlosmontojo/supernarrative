@@ -164,6 +164,59 @@ señal del bebé: fase de aceleración → meseta), Brier esperado sobre sondas
 (una sola configuración compartida, congelada tras la puesta a punto
 documentada). **MUERE** en caso contrario, y se archiva con el resultado.
 
+## Registro de resultados — v0 (2026-08-23, 30 vidas × 3500 pasos por variante)
+
+| Métrica | SOLVENTE | TEMERARIO | GRATIS | SALARIO |
+|---|---|---|---|---|
+| Supervivencia | **80%** | 40% | 97% | 0% (muerte económica del control) |
+| Vida media (pasos) | 2830 | 1932 | 3392 | 2474 |
+| Presupuesto final (mediana) | ~3×10¹⁵ | ~8×10¹⁰ | ~5×10¹⁷ | 0 |
+| Brier esperado (sondas) | 0.176 | 0.168 | 0.174 | **0.153** |
+| Acierto (sondas) | 71.8% | 69.3% | 78.2% | **82.7%** |
+| Células | 453 | 295 | 555 | 358 |
+
+**K1 (ergodicidad): SUPERADO, con contundencia.** Con las mismas creencias y
+el mismo mundo, el organismo Kelly sobrevive el doble (80% vs 40%) y acumula
+cinco órdenes de magnitud más que el maximizador de esperanza. La fila K4 de
+TEMERARIO enseña el mecanismo: desplomes de −9/−14/−25/−24 milinats tras cada
+reforma — sobre-apostar confianza caducada mata, exactamente como predice la
+no-ergodicidad. Este resultado queda establecido y es publicable por sí solo.
+
+**K2 (calibración por stakes): FALLADO, con claridad.** SALARIO — la misma
+maquinaria SIN nada en juego — calibra mejor (0.153 vs 0.176) y acierta más
+(82.7% vs 71.8%). El voto ponderado por consecuencias EMPEORÓ la epistemia:
+células con buena estadística perdían voz por mala suerte en apuestas
+colectivas, contaminando el mapa con el ruido del territorio. **La
+emergencia central de la tesis salió al revés.**
+
+**K3 (informativo): débil.** 18% menos memoria que GRATIS a cambio de 6.4
+puntos de acierto — no es "pérdida pequeña".
+
+**K4 (instrumento): FUNCIONA.** La curva de tasa de crecimiento lee la vida
+entera: aceleración infantil (14→33 milinats), heridas de cada reforma,
+y decaimiento hacia meseta al final (9.7 y bajando: el mundo aprendido, sin
+frontera nueva donde invertir). La señal del bebé queda estrenada y validada
+como instrumento — en su primer despliegue detectó la saturación que predijo.
+
+### Veredicto según prerregistro: **MUERE**
+
+VIVE exigía K1 y K2. K2 falló. La tesis, tal como fue enunciada — el
+presupuesto de viabilidad como única señal que moldea también las
+*creencias* — queda archivada con este resultado.
+
+### Autopsia (lo que la muerte enseñó)
+
+La disección separa limpio de podrido: **la solvencia gobierna cómo ACTUAR
+sobre las creencias, no qué CREER.** Kelly sobre creencias honestas = doble
+de supervivencia (K1). Consecuencias dentro del voto epistémico = creencias
+corrompidas (K2). Es un eco del principio clásico de separar estimación y
+decisión — y sugiere una sucesora más estrecha, no prerregistrada aún:
+*epistemia de libro honesto (Pacioli) + capa de decisión solvente (Kelly,
+costes, ruina)*. Esa hipótesis exigiría su propio prerregistro; no se abre
+aquí. Dos pepitas quedan en pie: el resultado K1 (ergodicidad en organismos
+que aprenden) y el instrumento K4 (la señal del bebé), que sobrevive a la
+muerte de su anfitriona.
+
 ## Relación con las demás tesis
 
 Solvencia es candidata a tesis central porque las contiene: la señal del bebé
