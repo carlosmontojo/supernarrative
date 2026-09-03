@@ -1,0 +1,364 @@
+{
+ "title": "The Sertorian Form",
+ "summary": "Years four and five. The house first: Quintus Sertorius won every battle of the Colony Wars on the losing side, made a Senate on a rock at the edge with a legion of Halyard, Ferrum and Marl, and was killed by his friends over the fish course; his lorica sleeps in the columbarium with the gift Quiet, which no glass reads and no Sight sees. The Form: 'What if it is already out.' No draw; the fang born where the hand already is; the hand where the man is going, not where he is. A month of the stick on the wrist. Bearing: three hours on a rock eating a fish that is not there, saying things around corners to a lamp, until he stops finding it funny. Tremor from standing on rock: boots at forty paces, Decimus stopping outside the chamber for ten breaths. Spring of year five: Jonah does what Auger did, puts his left hand where the old man will step, and the fang is born at the shoulder seam a finger off. The Censor laughs until he coughs blood: the wall, a year, perhaps less. The keys: three sentences and a Master's mark for the columbarium door, to be drilled like the hook; ninth row, third niche from the east; eat it, wear the broad stripe drawn, walk out as Gaius Sertorius of a bastard branch from the far Limes. The College comes in the autumn of next year with glass; he was seventeen holding a Tiro then; he will be thirty. 'I drew the Pit. Nobody has ever left it. That is the one thing I did not draw, and it is yours.' Grade about 28.",
+ "story_date": "392-393, years four and five",
+ "events": [
+  {
+   "type": "revelation",
+   "description": "The house of Sertoria told: Quintus Sertorius, the general who lost the war and no battle, the Senate on a rock at the edge with a legion of the other arks, killed by friends at dinner, the house struck, the lorica in the columbarium 390 years with the gift Quiet.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "392"
+  },
+  {
+   "type": "transformation",
+   "description": "The Form: no draw. The fang born from the palm already flat on the old man's chest, a finger off. 'It was born where the hand was.' A month of the stick on the wrist to unlearn the draw.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "392"
+  },
+  {
+   "type": "transformation",
+   "description": "Bearing: the rock as a couch, the fish that is not there, the two-pronged fork, sentences around corners to a lamp in the old tongue, the host's Pulse before the second course. Passed when it stops being funny.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "392"
+  },
+  {
+   "type": "transformation",
+   "description": "Tremor in the fifth year from standing on rock: a guard's boots at forty paces through the floor, the cage, Decimus standing outside the chamber mouth for ten breaths and going on. 'Tell me when it is more than boots. Like a heart, through a table.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Decimus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "393"
+  },
+  {
+   "type": "transformation",
+   "description": "Spring, year five: Jonah puts his left hand where the Censor will step and the fang is born at the shoulder seam a finger from the robe. The old man laughs until he coughs blood. 'That was Sertorius.' Grade about 28.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "393, spring"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor is dying of the wall: a year, perhaps less, known since winter. 'It changes nothing. It means you learn faster.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "393, spring"
+  },
+  {
+   "type": "revelation",
+   "description": "The keys: three sentences in the old tongue and a Master's mark made on a glass by the palm, to be drilled like the hook; the columbarium, four hundred niches, three hundred and eleven full; Sertoria ninth row, third from the east, unmarked because Quiet does not mark; eat it, wear the broad stripe drawn, walk out as Gaius Sertorius, bastard branch from the far Limes, to claim a seat that is a vote.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "393, spring"
+  },
+  {
+   "type": "revelation",
+   "description": "The College comes with glass in the autumn of next year, the sixth; they came in the fourth and Jonah held six hours as a Tiro and a young Flamen in a clean robe frowned and wrote something. Sixteen slabs to be read until he can say every column. 'I drew the Pit. Nobody has ever left it. That is the one thing I did not draw, and it is yours.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale",
+    "Pollio"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "393, spring"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "There was a house whose Form used a fang that came from anywhere; the house is gone and the Form is in the Censor's head.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The fifth Form is Sertoria: the house that won every battle and lost the war, murdered by friends at dinner; a fang that is not there until it is.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Sertorian Form: no draw; the hand goes where the man is going and then there is a blade; the fang is born where the hand already is.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Quiet, the Sertorian gift, is a lorica no glass reads and no Sight sees; it sleeps in the columbarium, ninth row, third niche from the east; the keys are three sentences and a Master's mark made by the palm.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He is to become Gaius Sertorius, bastard branch of a dead house from the far Limes, and claim its seat.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor is dying of the wall; a year, perhaps less.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Bearing: a Broadstripe is a man who has never wanted anything and is bored to his bones; be bored beside him and he believes the rest.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tremor: he feels boots and the cage through the plate under his skin; Decimus stood outside the chamber ten breaths and went on.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The College inspects every second year; in the fourth year he held six hours as a Tiro and a young Flamen frowned and wrote; the next is the autumn of the sixth year.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Jonah has the Sertorian Form: the hand where the man is going.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pollio",
+   "fact": "A cut convict on the Shallows read as void with something wrong on the glass in the fourth-year inspection; he wrote it down.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The Sertorian Form: no draw; the hand goes where the man is going and then there is a blade; the fang is born where the hand already is.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Quiet, the Sertorian gift, is a lorica no glass reads and no Sight sees; it sleeps in the columbarium, ninth row, third niche from the east; the keys are three sentences and a Master's mark made by the palm.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "He is to become Gaius Sertorius, bastard branch of a dead house from the far Limes, and claim its seat.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor is dying of the wall; a year, perhaps less.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Forms",
+   "beat_type": "climax",
+   "description": "Sertoria taught and done: the fang born where the hand is; the hand where the man is going. Jonah touches the old man at the shoulder seam. 'That was Sertorius.'"
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "escalate",
+   "description": "The plan's far end laid out: the columbarium, the keys, Quiet, Gaius Sertorius. 'Nobody has ever left it. That is the one thing I did not draw, and it is yours.'"
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "escalate",
+   "description": "Blood on his lip: the wall wears a stone. A year. 'I ask nothing, so I do not ask it. I say it.'"
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Learns a finger. Learns Tremor from being interested in rock. Will be asked to eat three hundred and ninety years and wear a stripe. About twenty-eight."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "'You find the four, and you do what you have decided to do about them, and I have not asked what that is.'"
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Sixteen slabs to be read until he can say every column."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "reinforce",
+   "description": "Stands outside the chamber mouth ten breaths and goes on; Jonah feels it through the rock and does not know why."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "Quiet: a lorica the glass cannot find. The house of the other arks' legion."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Sertorius's legion was Halyard, Ferrum and Marl: the other arks.",
+   "type": "intertextual",
+   "subtlety": 6,
+   "mechanism": "The name Jonah takes is the name of the house that once armed his people; Book 3 the Limes remembers.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Decimus stops outside the seventh chamber for ten breaths and does not come in.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "Decimus is deciding something about 4471 in the fifth year; ch.24 he notices the cut that healed too clean; ch.29-30.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "'Tell me when it is more than boots. Like a heart, through a table.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Tremor as a poor man's Pulse: Book 2 at Broadstripe tables.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "The young Flamen in a clean robe frowned at his glass in the fourth-year inspection and wrote something.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Pollio's note; he returns in ch.25 and in Book 2.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The Master's seal is a shape the palm can learn like the hook.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Shift wears marks: the stripe in Book 2; forged seals in ch.26.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "'A Princeps may want to give a dead house to a friend, and it has happened, twice.'",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Book 2: the Princeps's interest in a revived house; Book 5 the offer.",
+   "related_thread": "Escape from the Pit"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The fang from the palm, thin as a pick",
+   "status": "resolved"
+  },
+  {
+   "match": "Auger feinted at the feint",
+   "status": "reinforced"
+  },
+  {
+   "match": "Sertoria: won every battle",
+   "status": "reinforced"
+  },
+  {
+   "match": "'Mother': the first word",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "About twenty-eight. Has the Form. Has the keys and a name nobody remembers. A year with a dying man."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Beaten on a rock he drew. Never so pleased with anything. Blood on his lip. A year."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Knows exactly what a finger is. Interested in rock."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The house of Sertoria; what if it is already out; the fang from the palm on his chest; a month against the draw.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "Bearing: the rock, the fish, the lamp; stops finding it funny.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Tacitus"
+   ],
+   "summary": "Tremor at the wall; Decimus outside the chamber ten breaths.",
+   "purpose": "plant_clue"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The hand where the man is going; the shoulder; the laugh and the blood; the keys; Gaius Sertorius; the autumn; the one thing he did not draw.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "action",
+ "pacing": "medium",
+ "emotional_tone": "triumphant",
+ "opening_hook": "A fang is a thing a man draws. That is the whole of what is wrong with it.",
+ "closing_hook": "He touches the old man's shoulder again on the fourth fall, and the old man laughs, and coughs, and says, again.",
+ "word_count": 4773,
+ "notes": "Grade about 28. Sertorian Form learned. Bearing passed. Tremor gained. Keys given. The fourth-year inspection is placed offstage with Pollio's frown; ch.25 is the sixth-year inspection with Livia. The Censor has about a year: he dies in ch.22 (autumn of 393 or early 394)."
+}
