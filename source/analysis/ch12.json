@@ -1,0 +1,390 @@
+{
+ "title": "The Censor",
+ "summary": "Jonah counts men and finds the reason: he volunteers for the haul permanently, using Bricks's debt and Decimus's habit. The rock asks him to move Ulli for three nights. On the third night the rock at the back of the Cradle opens: a tunnel, a hooded lamp, an old man, thin and straight, with a white line three fingers wide across his forearm and a duellist's hands. Aulus Terentius Pharus, senator, Master of the Flamens, the Censor. He looks at the plate on Jonah's hand with grief and something under it like joy: 'There are supposed to be none left.' He tells it in short hard pieces: the wall is one mind; every lorica is a piece of it made small so it cannot say no; a seed is a whole piece, nine cut on purpose, nine men dead; he took the ninth from the vault, bought a hull's coordinates from a Ferrum cutter named Vale for a winter's food, hid the box, went to the Senate, and his friend Lucius Vibius moved his condemnation. Vibius has hunted the box for twenty-two years to own it. Ochoa knew what a seed does. It chose Jonah; it turned around for forty names; it bit its mother. 'What do you want?' Out: the thing in Jonah into the City in a body that cannot be Locked, Hushed or read. Eleven months until the College comes with glass. Latin, law, the houses, how to stand, the hand before the fang, four Forms and then the fifth. 'Nobody here dies of the Vein. They die of not understanding it.'",
+ "story_date": "389, days 57 to 60 in the Pit",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Jonah volunteers for the haul permanently in front of Bricks and Decimus: 'I like the walk.' Decimus marks it: 'Nobody volunteers for the haul.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Decimus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 57"
+  },
+  {
+   "type": "encounter",
+   "description": "Jonah asks Ulli to sit elsewhere for three nights. Ulli: 'If it's a man, tell him the singing was for him too.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 58"
+  },
+  {
+   "type": "discovery",
+   "description": "Third night: the rock at the back of the Cradle opens on a tunnel the Censor has cut; he comes out with a hooded lamp Tullus's men leave him. Aulus Terentius Pharus names himself.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [
+    "The Censor's tunnel"
+   ],
+   "story_timestamp": "day 60"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor explains: the Vein is one mind; every lorica a piece made small so it cannot say no; a seed is a whole piece; the College cut nine, nine men died; he took the ninth from the vault, hid it in the derelict, went to the Senate, was condemned on Lucius Vibius's motion and unstripped in the Forum.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 60"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor bought the derelict's coordinates from a Ferrum yard cutter named Vale for a winter's food in Marl grain; he never saw his face. Vibius has hunted the box for twenty-two years to own it, for the Gracchan cause. Ochoa knew what a seed does.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale",
+    "Tom Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 60"
+  },
+  {
+   "type": "revelation",
+   "description": "'What do you want?' The Censor wants the seed out of the Pit and into the City in a body that cannot be Locked, Hushed or read; and to teach Jonah not to die before the College comes with glass in eleven months. The curriculum: the words on the wall, the old tongue, the law, the houses and their Forms, bearing, the hand before the fang, four Forms and the fifth, and the count.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 60"
+  },
+  {
+   "type": "encounter",
+   "description": "Jonah passes on Ulli's message. The Censor: 'Tell him I heard it. Every night. It was the only thing in twenty years that was not the wall.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 60"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein is one organism; every lorica is a cutting lobotomized at the Wit line; fuses were introduced in 152 to cap the orders.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The derelict holds a whole uncut seed of the Matter, hidden by the Censor in 366.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The man in the rock is Aulus Terentius Pharus, senator, Master of the Flamens, best fang of his generation, condemned and unstripped on Lucius Vibius's motion; called the Censor because he counts.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tom Vale sold the derelict's coordinates to a Gracchan agent twenty years ago.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Ochoa was a Gracchan courier carrying a seal addressed to Senator Vibius the elder, with the proof of the seed.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Vibius the elder has hunted the seed for twenty-two years to own it for the Gracchan cause, not to free anyone.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "A seed goes where it wants, not where it is put; nine seeds put into men on a slab killed the men; the seed chose Jonah.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The College comes down the Throat with glass every second year; Jonah has eleven months.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "There was a house whose Form used a fang that came from anywhere; the house is gone and the Form is in the Censor's head.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor is alive in the Chamber and Tullus uses his numbers to keep the deep galleries stable.",
+   "new_knowledge_level": "partial",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Tom Vale sold the derelict's coordinates to a Gracchan agent twenty years ago.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "The rock is a man who is going to come out of the door.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The derelict holds a whole uncut seed of the Matter, hidden by the Censor in 366.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Vein is one organism; every lorica is a cutting lobotomized at the Wit line; fuses were introduced in 152 to cap the orders.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Tom Vale sold the derelict's coordinates to a Gracchan agent twenty years ago.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "The Censor is alive in the Chamber and Tullus uses his numbers to keep the deep galleries stable.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Vibius the elder has hunted the seed for twenty-two years to own it for the Gracchan cause, not to free anyone.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor's arithmetic: the Vein is being cut faster than it grows; in two centuries there will be no wall and no Empire.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "reveal",
+   "description": "The whole chain: the vault, the ninth seed, the yard ledger, Tom Vale's coordinates for a winter's food, Vibius's motion, Vibius's twenty-two-year hunt, Ochoa's courier run before the war. The seal was a Gracchan's proof."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reveal",
+   "description": "One mind. Made small so it cannot say no. Seeds. The arithmetic. 'The wall is the only thing in this rock that has never lied to you.'"
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "plant",
+   "description": "He told everything else and not the Pit. 'I was too afraid to do it myself, so I put it in a box.' A tunnel cut over years. The lamp Tullus's men leave."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "plant",
+   "description": "'You fight like a man with a fang and a dead Thinstripe's feet and it is a disgrace.' The hand first, then four Forms, then the fifth: a fang from anywhere, a house that is gone."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "It chose him. It was not put. Nine before him died. The Master of year 200 wrote that the seed had a name and said it in his head; the Censor did not read the name."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "The Censor: 'because I count.' The Master's note. Ulli's singing 'the only thing in twenty years that was not the wall.'"
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "'Your enemy is a man who burned a seal and told his sister the fourth bell, and his father who sat at my table.'"
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "plant",
+   "description": "'I want out. Not for me.' The plan's shape: into the City, in a body that cannot be Locked, Hushed or read, with a broad stripe on its arm."
+  },
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "reinforce",
+   "description": "Bricks's debt and Decimus's habit spent to buy the haul. 'Auger is a better man than he has any right to be.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "The Master of year 200 wrote that the ninth seed had a name and said it in his head; the Censor did not read the name.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Tacitus's first word is 'Name' (ch.31); its own name is what it wants; Book 6.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The Censor's tunnel from the Chamber to the Cradle, cut over years, closed with a slab of rock that moves like the derelict's stone door.",
+   "type": "environmental",
+   "subtlety": 5,
+   "mechanism": "The Faria tunnel. Ch.22 Jonah uses it; ch.26 the escape route to the Deep; ch.29.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Lucius Vibius had 'a son of ten and a daughter not yet born' in 366.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Priscus is 32 and Livia 19 in 388: the arithmetic of the Vibian house. Jonah does not connect it here.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "The Censor 'designed nothing that Jonah knew of yet'.",
+   "type": "structural",
+   "subtlety": 7,
+   "mechanism": "He tells everything except that he designed the Pit. Ch.20.",
+   "related_thread": "The Censor's guilt"
+  },
+  {
+   "description": "'They cut the stripe out of my arm in the Forum in front of the College, and I lived, which was a surprise to everyone.'",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "The Vein reached for him through the scar in his first year; he refused it; ch.16 he explains why he could not do what Jonah did.",
+   "related_thread": "The Censor's guilt"
+  },
+  {
+   "description": "'The wall is not your enemy. It is the only thing in this rock that has never once lied to you.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Ch.18 Jonah feeds from it against orders; ch.23 it shows him the first cut.",
+   "related_thread": "The Vein's truth"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Ochoa never checks the chart",
+   "status": "reinforced"
+  },
+  {
+   "match": "The ice and rock go around the derelict",
+   "status": "reinforced"
+  },
+  {
+   "match": "Old Latin on the walls: MATER",
+   "status": "reinforced"
+  },
+  {
+   "match": "The fang comes out of the wrong arm",
+   "status": "reinforced"
+  },
+  {
+   "match": "Ochoa's last words: 'You shouldn't",
+   "status": "resolved"
+  },
+  {
+   "match": "Jonah notices he is still standing",
+   "status": "reinforced"
+  },
+  {
+   "match": "The rock: 'You said mine.'",
+   "status": "resolved"
+  },
+  {
+   "match": "A name of three words in the old tongue",
+   "status": "resolved"
+  },
+  {
+   "match": "The genius sits up and points at Metalla VII",
+   "status": "resolved"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The Censor's tunnel",
+   "description": "A passage cut over years from the Chamber to the back of the Cradle, closed with a slab of rock that moves back and aside.",
+   "location": "The Deep",
+   "significance": "The Faria tunnel. Escape route."
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Told everything except one thing. Eleven months. Tom Vale sold him the door."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Grief and, under it, something like joy. Said what he waited twenty years to say. Shoulders not straight for a moment."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Moved for three nights. Sent a message."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Decimus"
+   ],
+   "summary": "The count of men; volunteering for the haul.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "summary": "Asking Ulli to move; Ulli's message.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The Cradle: the rock opens; the Censor; the wall is one mind; seeds; the vault; Vale's coordinates; Vibius; Ochoa; what he wants; the curriculum; Ulli's singing.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "revelation",
+ "pacing": "medium",
+ "emotional_tone": "intimate",
+ "opening_hook": "The reason was Bricks, and it took him two days to find it.",
+ "closing_hook": "MATER, LAMINA, SEMEN. I could read it and I didn't know. Then the buckets, because it was the haul and he'd asked for it.",
+ "word_count": 4680,
+ "notes": "Grade 15. The Censor has revealed all but the Pit's design. Jonah now knows Tom sold the coordinates (partial: to the Censor directly, via ledger; the Gracchan bought later from the Censor's paper trail; ch.35 completes). Ulli knows the rock is a man. Eleven months to the College inspection (ch.25 is in year six per plan: reconcile by making biennial inspections that Jonah passes in years 1, 3 offstage at Void with Hush, and ch.25 the one where Livia is present)."
+}
