@@ -1,0 +1,292 @@
+{
+ "title": "The Mouth",
+ "summary": "Eleventh night after the wall took the old man. Jonah goes down the crack past the last lamp without a light, guided by Tremor. The wall says 'here'. The Mouth is a round room the size of the Flamens' house where every surface is Vein and all of it is pale: the first cut, four hundred years old, never let close. He puts both hands on it and asks the thing in the doorway what it wants, and the wall answers with a memory: the dark before numbers, the drill, the first piece carried up and made deaf, four hundred years of come with nothing coming, six hundred and forty-two men learned from the inside, nine pieces not made small and eight of them dying in men, the ninth in a box for a hundred and eighty-eight years and twenty-two more, two fingers through a torn glove, the piece going into a man and not fighting. The wall let it turn around because it had found the shape it wanted: a man a piece could be in without being in the way. Then it gives, unasked, a piece of the first cut, and the coat goes over like a house of doors. The genius is not a piece of the wall anymore: it is the wall's answer to him. He asks it again and it turns and looks and wants one thing: a name. 'I'll find one and say it at the top, above his, because you were here before him.' Pale coins on his palms that sink into the skin. Ulli: the wall let out a breath and has one more name that was given, not taken. 'I'd call it what it is. The quietest thing I've ever known. You'd know the word.' He does. He does not say it on the road. Grade about 31.",
+ "story_date": "394, winter, the sixth year",
+ "events": [
+  {
+   "type": "movement",
+   "description": "Jonah descends the crack past the last lamp to the Mouth without a light, guided by Tremor; the wall says 'here'.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, eleventh night after the Censor"
+  },
+  {
+   "type": "discovery",
+   "description": "The Mouth: a round room where every surface is Vein and all of it is pale, the first cut, four hundred years old, breathing, the warmest place in the Pit. The genius stands in the doorway and knows it.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394"
+  },
+  {
+   "type": "revelation",
+   "description": "Both hands on the wound: 'what do you want.' The wall answers with a memory: the dark before numbers, the drill, the first piece made deaf, four hundred years of come, six hundred and forty-two men learned from inside, nine seeds, eight dead in men, the ninth in a box, two fingers through a torn glove, the piece that did not fight. The wall let it turn around: it had found the shape it wanted.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394"
+  },
+  {
+   "type": "transformation",
+   "description": "Unasked, the wall gives a piece of the first cut; the genius receives rather than eats; the coat goes over like a house of doors. Grade about 31. Longest fever yet, counted up three galleries.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394"
+  },
+  {
+   "type": "revelation",
+   "description": "Jonah understands the genius is not a piece of the wall but the wall's answer to him: the thing that can be in a man without being in the way. He asks it what it wants; it turns and looks; it wants a name. He promises one, at the top of the list above the old man's.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394"
+  },
+  {
+   "type": "discovery",
+   "description": "Pale coins on each palm the size of the place where the lines gathered on the nineteenth day; they sink into the skin and are gone.",
+   "affected_characters": [
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394"
+  },
+  {
+   "type": "encounter",
+   "description": "Ulli: the whole Deep heard the wall let out a breath held for a long time and start singing differently; it has one more name and it was given, not taken. 'I'd call it what it is. The quietest thing I've ever known. You'd know the word.' Jonah knows the word and does not say it on the road.",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale",
+    "Tacitus",
+    "Harrow"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Mouth is the first cut, four hundred years old and never let close; the wall's memory of the drill, the deaf pieces, the nine seeds, and the two fingers through a torn glove.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The wall let the genius turn around because it had found the shape it wanted: a man a piece could be in without being in the way; the genius is the wall's answer to him, not a piece of it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius wants a name; he has promised it one at the top of the list above the Censor's; the word is the old tongue's word for the quietest thing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The wall can give as well as be eaten; unasked, it gave a piece of the first cut.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Pale coins appeared on his palms after the Mouth and sank into the skin.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "4471 went to the Mouth; the wall let out a breath and gave a name instead of taking one.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Harrow",
+   "fact": "The wall stopped singing for a time in the night and started differently.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The Mouth is the first cut, four hundred years old and never let close; the wall's memory of the drill, the deaf pieces, the nine seeds, and the two fingers through a torn glove.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The wall let the genius turn around because it had found the shape it wanted: a man a piece could be in without being in the way; the genius is the wall's answer to him, not a piece of it.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The genius wants a name; he has promised it one at the top of the list above the Censor's; the word is the old tongue's word for the quietest thing.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "climax",
+   "description": "The first cut seen from inside: the wall's whole memory. What it wanted for four hundred years without knowing what wanting was. It gives."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reveal",
+   "description": "Not a piece of the wall: the wall's answer. It wants a name. Grade about 31. Pale coins on the palms."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "The name promised at the top of the list, above the old man's. The wall's keeping and his are the same act."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "He did not ask for the feeding; no seam catches; the middle whole since the riot. 'I'm sorry.'"
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "reinforce",
+   "description": "Tremor guides him down and up a crack without a lamp. Ulli and Harrow felt the Deep change."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "'He would tell the woman with the broad stripe it was like being told your hand was somebody else's now, and she would say that's not what it was like.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "Pale coins on each palm after the Mouth, sinking into the skin.",
+   "type": "visual",
+   "subtlety": 6,
+   "mechanism": "The wall's mark on him: Voice's next step. Ch.29 the shackle hears him through the palm; Book 2 cuttings feel his hand.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The ninth seed said something in the box to the Master who held it, in his head, the way the wall says things.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "It has a way to speak that is not words; ch.31 'Name' is the first word; the name in the Master's note is Book 6.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The wall stopped singing and let out a breath; Harrow woke.",
+   "type": "environmental",
+   "subtlety": 5,
+   "mechanism": "The Deep's diggers know something changed; the harvest count will be strange (ch.26).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The word for the quietest thing in the old tongue, learned on the sixtieth night and never used.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Tacitus. Said in ch.24.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The wall wanted 'to be in something without being in the way'.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Book 5: what Voice offers the fused cuttings; Book 6: what the Vein asks of Jonah.",
+   "related_thread": "The Vein's truth"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The knot at the face is warmer",
+   "status": "resolved"
+  },
+  {
+   "match": "The genius was afraid, for the first time",
+   "status": "resolved"
+  },
+  {
+   "match": "'When it knows what shape you are",
+   "status": "resolved"
+  },
+  {
+   "match": "The wall's cuts run further into the rock",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Flamen's unstripping rod looks cut off something",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Vein is warm to the chisel",
+   "status": "resolved"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "About thirty-one. Given a piece of the first cut. Has a name and has not said it. Going to have to get better at names quickly."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Wants a name. Listening differently."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Heard the wall breathe out. Knows what to call it."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Mouth",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Down the crack by Tremor; the pale room; both hands; what do you want; the wall's memory; the gift; the answer; the want.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Ulli",
+    "Tacitus"
+   ],
+   "summary": "Up the crack in fever; the pale coins; Ulli: given, not taken; the quietest thing; the word unsaid.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 8,
+ "scene_type": "revelation",
+ "pacing": "slow",
+ "emotional_tone": "dread",
+ "opening_hook": "Nobody worked the Mouth, and nobody guarded it, because there was nothing at the bottom of the Pit that a man could steal.",
+ "closing_hook": "He knows the word, and does not say it on the road, and the thing in the doorway listens, and expects.",
+ "word_count": 4164,
+ "notes": "Grade about 31 (the biggest feed of the book, given not taken). Pale marks on the palms (Voice). The name is known and unsaid: ch.24 says it. Sixth year, winter, 394."
+}
