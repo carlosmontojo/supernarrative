@@ -1,0 +1,458 @@
+{
+ "title": "Quota",
+ "summary": "Spring of the first year: the quota goes to twelve for a war nobody in the Pit has heard of. The wall gives ten. Hollen and Pell take the post. A new guard, Vetch, twenty-two, makes twelve with a fang at men's throats. On the ninth night Vetch puts his fang under Pell's chin in the empty seventh chamber; Jonah does the arithmetic, and it says no, and he puts a chisel through the hip seam anyway, then the armpit, then the base of the skull, with the ugly step that is nobody's. He devours Vetch's cutting in twenty counts, first spolia in the Pit, grade 18, and he and Pell feed the body to the Vein. 'Five.' Sabinus comes down the Throat to look for the missing guard: middle height, worn stripe, two white scars above and below it; bored; 'waste of a count'; 'Fool' at the coat in the bucket. The Censor: 'That is the Hand. You have it. Now count the ones above the road.' Jonah finds the gap in the deputy prefect Rennick and, in the clerk's register of the old tongue, sells him counting by weight: slabs are six. Rennick carries fifteen up the Throat. Price: Jonah is made foreman of six. Two days later the wall gives nine and Decimus waits, and Jonah chooses Corr and gives him ten with the strap, hard, counting in the common speech. 'Nothing personal.'",
+ "story_date": "389, spring, the first year",
+ "events": [
+  {
+   "type": "revelation",
+   "description": "The quota goes to twelve by prefect's order. Corr: 'That's a war. That's plate for a legion.' The Censor: the Shallows grows back ten a day; twelve for a season then eight for ten years.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Decimus",
+    "Corr",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "spring 389"
+  },
+  {
+   "type": "encounter",
+   "description": "Hollen and then Pell take the post. Vetch, a new guard, makes Hollen cut twelve with a fang at his throat.",
+   "affected_characters": [
+    "Hollen",
+    "Pell",
+    "Bricks",
+    "Vetch"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "days 1-2 of the twelve"
+  },
+  {
+   "type": "death",
+   "description": "Night nine: Vetch puts his fang under Pell's chin in the empty seventh chamber. Jonah kills him: chisel through the hip seam, the armpit seam, the base of the skull, with the step that is nobody's and a pull-through instead of the Vibian turn. Vetch: 'You can't. It's not a thing that.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Vetch",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 9 of the twelve"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah devours Vetch's cutting in twenty counts: first spolia in the Pit. Grade 18. Echo: weight forward, lamp in the left hand, being the thing a room is afraid of.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 9"
+  },
+  {
+   "type": "destruction",
+   "description": "Jonah and Pell feed Vetch's body to the Vein at the cut place; it takes him from the arm in. The coat goes in the bucket under a shard. Pell gets the garrison chisel. 'Five.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 9"
+  },
+  {
+   "type": "encounter",
+   "description": "Sabinus comes down the Throat with four guards: middle height, narrow face, worn stripe with two white scars above and below it. Bored. Looks at Jonah: 'He'll be in the Cradle by summer. Waste of a count.' Finds the coat: 'Fool.'",
+   "affected_characters": [
+    "Gnaeus Sabinus",
+    "Jonah Vale",
+    "Pell",
+    "Bricks",
+    "Hollen"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "dawn after"
+  },
+  {
+   "type": "encounter",
+   "description": "Decimus at dusk: 'Vetch is gone. Went into the Deep. Touched the wall. Young. They do.' He looks at Pell's garrison chisel and makes a mark.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "dusk after"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor: 'That is one thing you have done in this rock that they would recognise. That is the Hand.' Sabinus's boredom is the most valuable thing anyone has said about him. Now count the ones above the road.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night after"
+  },
+  {
+   "type": "encounter",
+   "description": "Jonah finds the gap: deputy prefect Rennick, afraid of Tullus. In the clerk's register of the old tongue he sells counting by weight: a slab is six. Rennick carries fifteen up the Throat. 'Who are you?' 'I sat behind a man who counted things for six years.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Rennick"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "four days later"
+  },
+  {
+   "type": "transformation",
+   "description": "Twelve stands, by weight. Decury six gets a new foreman: 4471. Bricks says nothing. 'Cut a shard. Don't make me guess.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Decimus",
+    "Auger"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "next morning"
+  },
+  {
+   "type": "encounter",
+   "description": "The wall gives nine. Decimus waits: 'Foreman.' Jonah chooses Corr and gives him ten with the strap, hard, counted in the common speech. Corr: 'Nothing personal. Twelve's a war. You didn't make it.' Auger unfolds his arms and folds them again.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Corr",
+    "Decimus",
+    "Auger"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "two days later"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "There is a war on the far Limes; the quota of twelve is plate for a legion.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Corr"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein takes the dead from the arm in; a body can be fed to the wall and leave a coat.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Sabinus is a man of middle height with a worn stripe and two white scars above and below it; he is bored by Collars and said 'waste of a count'.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The count can be carried by weight; a slab is six; the deputy prefect Rennick is afraid of Tullus and will believe what a stripe says in the right voice.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Hand: he can kill a plated man unplated through the seams with his own step, without Varro.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "4471 killed a guard with a chisel through the seams and devoured something from his arm, and fed him to the wall.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "Vetch did not walk into the Deep; Pell has his garrison chisel and 4471 was in the chamber.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "fact": "4471 is a dying cut Collar, a waste of a count; Vetch was a fool who touched the wall.",
+   "new_knowledge_level": "wrong_belief",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Rennick",
+   "fact": "A cut Collar who was a purser's pilot showed him how to count by weight; the prefect now reads fifteen.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Auger",
+   "fact": "4471 is foreman of six, spoke to the deputy in the old tongue, and gave Corr ten hard.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Jonah killed Vetch through the seams with the Hand and Sabinus was bored by him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Sabinus is a man of middle height with a worn stripe and two white scars above and below it; he is bored by Collars and said 'waste of a count'.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Vein takes the dead from the arm in; a body can be fed to the wall and leave a coat.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "There is a war on the far Limes; the quota of twelve is plate for a legion.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Forms",
+   "beat_type": "escalate",
+   "description": "The Hand passed: hip seam, armpit seam, base of the skull, the step that is nobody's, a pull-through instead of the Vibian turn. 'I only took away what was in the way.'"
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Not told no. Devours Vetch's cutting in twenty counts. Grade 18. A new echo folded in with Varro's and not allowed to look out."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "He does the arithmetic and it says no and he does it anyway. He does not look away from the wall taking Vetch. He gives Corr ten hard, because soft is what a Stripe would do."
+  },
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "escalate",
+   "description": "Jonah made foreman over Bricks. The strap in his hand. Auger unfolds his arms and folds them again."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "complicate",
+   "description": "He knows Vetch did not walk into the Deep; he looks at Pell's chisel and makes a mark and says 'They do.'"
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "plant",
+   "description": "Sabinus on the page: the two scars, the boredom, 'waste of a count'. The Censor: he will not say it twice."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Pell: 'Five.' Vetch's name is Vetch and he was twenty-two and Jonah keeps his face."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "The wall gives ten because ten is what the Shallows grows back; the Censor did the arithmetic for the man who built the galleries. The wall takes Vetch from the arm in."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "reinforce",
+   "description": "'I did the arithmetic on this rock twenty-two years ago and I did it again when they built the galleries and I told the man who ordered them that ten was the number.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "Sabinus has two thin white scars above and below his narrow stripe.",
+   "type": "visual",
+   "subtlety": 6,
+   "mechanism": "Trimmed twice: the Trimmer. Ch.15 the Censor explains fuses and trims; ch.30.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The Censor 'told the man who ordered the galleries that ten was the number'.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "He designed the Pit; he is describing his own work in the third person. Ch.20.",
+   "related_thread": "The Censor's guilt"
+  },
+  {
+   "description": "Decimus looks at Pell's garrison chisel and says 'They do' without looking up.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Decimus knows and chooses not to. Ch.17 he says so. Ch.30 it does not save him.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Counting by weight: a slab is six. Rennick carries fifteen while the Deep holds.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "When the Deep falters (ch.18-19) the number collapses and the riot follows. Jonah made the lever that breaks.",
+   "related_thread": "Auger's law"
+  },
+  {
+   "description": "Vetch's echo: being the thing a room is afraid of, folded in with Varro's.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "The chorus of echoes; ch.18 he nearly enjoys plate in the dark.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Jonah gives the beating hard and counts in the common speech, because that is what the road speaks.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Register as caste: he chooses the road's tongue for the road's punishment. Book 2 he will count in Latin for a different room.",
+   "related_thread": "The Forms"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Hands in the bucket",
+   "status": "reinforced"
+  },
+  {
+   "match": "'A wall that can shed is not a wall",
+   "status": "reinforced"
+  },
+  {
+   "match": "Priscus's ledger look",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Corr",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Bricks",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Hollen",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Auger",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "location": "Pit surface garrison"
+  },
+  {
+   "character_name": "Rennick",
+   "location": "Pit surface garrison"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Foreman. Grade 18. The strap's weight in his hand. Two things they would recognise."
+  },
+  {
+   "character_name": "Corr",
+   "emotional_state": "Ten on the back. Nothing personal. Likes him."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "Five. Has a garrison chisel."
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "emotional_state": "Bored. Waste of a count."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Made a mark. Chose not to look up."
+  },
+  {
+   "character_name": "Auger",
+   "emotional_state": "A rule he did not want."
+  }
+ ],
+ "status_changes": {
+  "Vetch": "dead"
+ },
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Decimus",
+    "Corr",
+    "Pell",
+    "Hollen"
+   ],
+   "summary": "Twelve. The post. Vetch's method.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Pell",
+    "Vetch",
+    "Tacitus"
+   ],
+   "summary": "The seventh chamber: the arithmetic; the seams; the cutting devoured; the wall takes him.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Gnaeus Sabinus",
+    "Jonah Vale",
+    "Pell",
+    "Decimus",
+    "Bricks",
+    "Hollen"
+   ],
+   "summary": "Sabinus walks the road; the coat; Decimus's mark.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "'That is the Hand.' Count the ones above the road.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Rennick",
+    "Decimus",
+    "Bricks",
+    "Auger",
+    "Corr"
+   ],
+   "summary": "Counting by weight; foreman; Corr at the post; ten hard.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 8,
+ "scene_type": "confrontation",
+ "pacing": "fast",
+ "emotional_tone": "dread",
+ "opening_hook": "The quota went up because of a war nobody in the Pit had heard of, and Jonah learned about the war from a guard he killed.",
+ "closing_hook": "Auger unfolds his arms and folds them again, and the lamp at the end of the road does not go out.",
+ "word_count": 5784,
+ "notes": "Grade 18. Jonah is foreman of decury six. Vetch dead, fed to the Vein. Sabinus seen. Rennick (deputy prefect) introduced. Cursus steps Hand, Tongue and Count passed. The weight-count lever is a planted failure point."
+}
