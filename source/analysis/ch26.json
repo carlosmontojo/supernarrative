@@ -1,0 +1,393 @@
+{
+ "title": "Plan",
+ "summary": "The harvest comes down as twenty: forty casks in twenty days, moved up by a prefect with a season left before the College's letter lands, a Flamen staying to seal from the tenth day. Jonah counts: Collars pack matter because loricae cannot go near it, and nobody has thought about that since the year two hundred. He tells Pell: up the Throat in a cask as matter, the road to say he went into the wall. He takes the haul back and sees the loading gallery: forty casks cut from the Vein itself, a hundred and twelve slabs each, four hundred shards' weight; the Flamen seals from arm's length with the rod; the College prefers thirty-eight casks and a quiet Belt. Thirty to forty days to the Interior. He asks Tacitus, on the road, whether it can hold a man as matter for thirty days; it does the doorway thing and does not settle. The seal: carrying the seventh cask with his hand on the glass he feels the mark go into the lid and has it; it comes on the fourth try. The manifest: he talks Rennick, who has nothing left to fear, into writing the casks light in his own hand before the seal, then changes cask thirty-one from three ninety to two hundred and forty with his thumb, in Rennick's rhythm. The fourth thing: in the Cradle he asks the wall to show Tacitus how it held, and the plate goes in and closes around his heart before he has said when; he says when; it lets go. 'A dog doesn't stop.' Ulli names the fifth thing: somebody has to carry him to the Cradle sick and say in the morning that he went in, and it has to be the one who carries; and what has Jonah counted for Ulli when the College reads the road in two years? Nothing. 'Ask me on the fourteenth. I want to sit with it.' Grade about 32.",
+ "story_date": "394, spring, the sixth year, days 1 to 14 of the harvest",
+ "events": [
+  {
+   "type": "revelation",
+   "description": "Decimus reads the harvest order: forty casks in twenty days, moved up by the College and the prefect; a Flamen staying to seal from the tenth day.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Pell",
+    "Marcius Tullus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 1"
+  },
+  {
+   "type": "revelation",
+   "description": "Jonah tells Pell the plan: up the Throat in a cask as matter, sealed, on a contractor's freighter; the road to say he went into the wall. 'I need three things and I've got one of them.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 1"
+  },
+  {
+   "type": "discovery",
+   "description": "Jonah takes the haul back and sees the loading gallery with Harrow: forty casks cut from the Vein, a hundred and twelve slabs each, four hundred shards' weight, sealed by a Flamen at arm's length with the rod; skimming expected; thirty to forty days to the Interior.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Harrow",
+    "Decimus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 2"
+  },
+  {
+   "type": "encounter",
+   "description": "On the road Jonah asks Tacitus whether it can hold a man as matter for thirty days the way the box held it; it does the doorway thing and does not settle.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 2"
+  },
+  {
+   "type": "transformation",
+   "description": "Tenth day: carrying the seventh cask with his palm on its glass, Jonah feels the harvest seal go into the lid through the cask and Tacitus has it; he drills it in the Cradle and it comes on the fourth try.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Harrow"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 10"
+  },
+  {
+   "type": "encounter",
+   "description": "Twelfth day: Jonah talks Rennick into writing the casks light in his own hand before the seal; at the cage he changes cask thirty-one from three ninety to two hundred and forty with his thumb, in Rennick's rhythm and hesitation. Grade about 32 from feeding on harvest slabs.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Rennick",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The harvest manifest"
+   ],
+   "story_timestamp": "day 12"
+  },
+  {
+   "type": "transformation",
+   "description": "Fourteenth night: in the Cradle Jonah asks the wall to show Tacitus how it held; Tacitus learns it and closes plate around his heart before he says when; he says when; it lets go. It worked.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 14"
+  },
+  {
+   "type": "encounter",
+   "description": "Ulli names the fifth thing: somebody must carry him sick to the Cradle and say in the morning he went in, and it must be the one who carries; and Jonah has counted nothing for what happens to Ulli when the College reads the road in two years. 'Ask me on the fourteenth. I want to sit with it.'",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 14"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The casks are cut from the Vein itself, a hundred and twelve slabs each, sealed by a Flamen at arm's length; the College prefers thirty-eight casks and a quiet Belt; thirty to forty days to the Interior.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Harrow"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He can make the harvest seal from his palm.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The harvest manifest says cask thirty-one weighs two hundred and forty, in Rennick's hand; the rest are written light in Rennick's own hand.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tacitus can hold him as matter, learned from the wall, and stops when told; it began before he said when.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The plan needs a man who carries to say he went into the wall, and Jonah has counted nothing for what that costs Ulli.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ulli"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "4471 is going up the Throat in a cask as matter and the road must say he went into the wall.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "4471 has four of the five things; the fifth is Ulli.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Rennick",
+   "fact": "A purser's pilot told him to write the casks light before the seal and he did, in his own hand.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Harrow",
+   "fact": "4471 asked how long the freighter takes to the Interior and why casks are made of the Vein.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The casks are cut from the Vein itself, a hundred and twelve slabs each, sealed by a Flamen at arm's length; the College prefers thirty-eight casks and a quiet Belt; thirty to forty days to the Interior.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The harvest manifest says cask thirty-one weighs two hundred and forty, in Rennick's hand; the rest are written light in Rennick's own hand.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Tacitus can hold him as matter, learned from the wall, and stops when told; it began before he said when.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "escalate",
+   "description": "Five things: the cask (thirty-one), the seal (from the palm), the slate (two hundred and forty in Rennick's hand), the holding (learned from the wall), and the one that comes out wrong: Ulli."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Does the deciding thing on the road; takes the seal through a cask; learns to hold a man from its mother and starts before it is told when; stops when told. 'A dog doesn't stop.'"
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Cursus step Hand: the manifest forged in Rennick's rhythm with his hesitation before a nine. Count: a frightened man counts casks, not the men who pack them."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "Casks are the Vein hollowed because it eats through anything but itself; the wall shows Tacitus how it held."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "He asks plainly and says when; the fifth thing he has not counted and admits it."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Ulli's song at the end of the road that is not for him."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "'That's not a man. That's a dog.' 'No. A dog doesn't stop.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "Casks are the Vein hollowed; the Vein eats through anything but itself.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Ch.32: Jonah breaks a cask from inside with Devour; the freighter's hold has nothing that can hold matter but casks.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The Flamen seals at arm's length because the Vein wants the cutting in his arm.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Ch.29: the Flamen cannot come near the casks when it goes wrong; and the freighter's plated crew cannot handle open matter (ch.32).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Rennick has stopped being afraid of Tullus because there is nothing left to be afraid of.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Rennick will be the one who does not raise the alarm at the count (ch.29).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Tacitus started to hold him before he said when.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Ch.31: in the cask it holds him past when; the first word comes from inside the holding.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Ulli's song at the end of the road that Jonah does not know and does not stop to learn.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Ch.27: it is the song Ulli sings over himself.",
+   "related_thread": "The book of names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Gloves at the face, worn through",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Censor: 'a thing you do with your breath",
+   "status": "reinforced"
+  },
+  {
+   "match": "The door was oiled monthly",
+   "status": "reinforced"
+  },
+  {
+   "match": "Rennick's hand stopped a finger",
+   "status": "resolved"
+  },
+  {
+   "match": "Tullus kept a struck man alive",
+   "status": "reinforced"
+  },
+  {
+   "match": "The seal from the palm before he finishes asking",
+   "status": "resolved"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The casks",
+   "description": "Forty casks cut and hollowed from the Vein a century ago, chest-high, a hundred and twelve slabs each. Cask thirty-one is Jonah's.",
+   "location": "The Deep",
+   "significance": "The way out."
+  },
+  {
+   "name": "The harvest manifest",
+   "description": "Rennick's slate: forty casks written light in his own hand; cask thirty-one altered by Jonah's thumb to two hundred and forty.",
+   "holder": "Rennick",
+   "location": "Pit surface garrison",
+   "significance": "Covers a man's weight missing from a cask."
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Rennick",
+   "location": "Pit surface garrison"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Four of five. Grade about 32. Has counted nothing for Ulli and knows it."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Learned to hold from its mother. Started before when. Stopped."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Wants to sit with it. Singing a song that is not for Jonah."
+  },
+  {
+   "character_name": "Rennick",
+   "emotional_state": "Nothing left to be afraid of. Wrote them light."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "That's how it goes."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Pell"
+   ],
+   "summary": "Twenty days, forty casks; the count; telling Pell.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Harrow",
+    "Tacitus"
+   ],
+   "summary": "The loading gallery; the casks; the seal felt through the glass.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Rennick",
+    "Tacitus"
+   ],
+   "summary": "The manifest written light; thirty-one changed by thumb.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The Cradle: the wall shows Tacitus how to hold; the plate closes around his heart; when.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "summary": "The fifth thing; what has he counted for Ulli; ask me on the fourteenth.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "investigation",
+ "pacing": "medium",
+ "emotional_tone": "neutral",
+ "opening_hook": "The harvest came down the Throat as a number, and the number was twenty.",
+ "closing_hook": "Ulli sings a song that is not for him, and Jonah does not stop to learn it.",
+ "word_count": 4294,
+ "notes": "Grade about 32. The five things: cask thirty-one, the seal, the manifest (240), the holding, and Ulli. Ch.27 is the fourteenth night's asking. Harrow stands in for Auger in ch.28 (he has a daughter on Marl per Auger's original sheet; transfer)."
+}
