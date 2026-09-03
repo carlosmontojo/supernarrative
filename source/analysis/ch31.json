@@ -1,0 +1,359 @@
+{
+ "title": "The Coffin",
+ "summary": "Harrow lids him. Jonah has gone into thirty-one blind and cannot put the last two slabs over the gap; Harrow's boots come slow, he asks 'Decimus' and 'the Centurion' and gets yes twice, and lids the cask because he knocks the rows and a cask with its lid off sings wrong. At the count he will say 4471 walked into the Cradle blind with his hand on the wall, the way Decimus said, and he did not follow: that is less. Nobody is left to seal thirty-one; Rennick counts sealed lids at dawn. Jonah puts his palm to the underside of the lid and makes the harvest mark from inside, and it closes because it is true: a man shutting a lid over himself, not yet matter. From above it will read the wrong way round, and nobody will look. The north forty; never made quota. Alone, he says the names, and the two from tonight twice so they stay: Sabinus with what he did; Decimus Alba, of Etruria, Sula's father, who came down slow. Then he tells Tacitus the thing he has never said: 'I'm not ready.' Ullan chose; he has had everything chosen. He asks to be held anyway, so it is said. The hand with no hand; 'Now.' Held the second time is not nothing: the settling goes on inside the hold, nine grades with nothing to measure them by, and it turns his things over. Tom on a bunk with a form nobody could sign, happy the night his son answered in Latin; Mara at the dock gate with burn marks on her forearms and the step he took back; the Kestrel's yoke answering; Priscus saying a name is not a mark and the woman beside him who had asked what he was called; the stick, and the old man saying 'I have been going there for twenty years'; Ullan on the fourth verse; Decimus on the Kestrel's deck saying please, the one thing on the rock he did not have to earn. He feels the hopper cage, the Shallows going past, the Throat, and cold: the sky, the first thing outside in six years. The scales; a crew's gloved hands; a hold; forty casks; the Heron lets go of the rock. Eight boots and two plated through the hull ring. Thirty-one days, counted back later. In the middle of them, with the eighth grade settling, Tacitus speaks: one word, very old, never used, in the place where the seam was: 'Name.' It is not asking its own. It let Decimus go through it on the road and has turned that over for thirty days without a word for it. Jonah gives what he has: Decimus Alba, of Etruria, Sula's father, twice. It takes it, the first thing it has ever put anywhere that was a man. The hand with no hand; and he understands it was not asking the guard's name but the name of the thing that went through it. He has no word for grief either; nobody gave him one. He gives it the whole count, from Tacitus down, all six hundred and forty-two and the road's and tonight's, and his own number answered: 'It's called that. It's called all of them.' The ninth grade settles; the fever goes out and there is ordinary dark. A knuckle on thirty, on thirty-one, stops. 'This one sings wrong. Get the bar.'",
+ "story_date": "394, spring, night of day 19 to the freighter, thirty-one days",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Harrow lids cask thirty-one over the blind Jonah without being asked: he knocks the rows, and a cask with its lid off sings wrong. He will say at the count that 4471 walked into the Cradle blind with his hand on the wall and he did not follow. Nobody is left to seal thirty-one and Rennick counts sealed lids at dawn.",
+   "affected_characters": [
+    "Harrow",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah makes the harvest mark from inside with his palm on the underside of the lid; it closes because it is true, a man shutting a lid over himself before he is matter; from above it reads the wrong way round. 'It's marked.' Harrow's knuckle once, low. The north forty; never made quota.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Harrow"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "decision",
+   "description": "Alone in the sealed cask, forty-one unsettled and blind, he says the names and the two from tonight twice so they stay. He tells Tacitus 'I'm not ready': Ullan chose his day and Jonah has had everything chosen for him, and a man on the road said please. He asks to be held anyway, so that it is said. The hand with no hand. 'Now.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "transformation",
+   "description": "Held the second time, the settling goes on inside the hold with nothing to measure it by and turns his things over: Tom happy the night his son answered in Latin; Mara at the dock gate and the step back; the Kestrel's yoke; Priscus and a name is not a mark, and the woman who asked what he was called; the stick and 'I have been going there for twenty years'; Ullan; Decimus saying please, the one thing on the rock he did not have to earn.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "days 20 to 50"
+  },
+  {
+   "type": "travel",
+   "description": "Through the ring he feels the hopper cage, the Shallows, the Throat, and the sky's cold, the first thing outside in six years; the dock scales (it weighs what the slate says); a crew's gloved hands; a hold with forty casks; the Heron lets go of the rock. Eight boots and two plated through the hull ring. Thirty-one days.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks",
+    "The harvest manifest"
+   ],
+   "story_timestamp": "day 20 onward"
+  },
+  {
+   "type": "revelation",
+   "description": "Tacitus speaks its first word, in the middle of him, very old and never used: 'Name.' It is not asking its own. It let Decimus go through it on the road and has turned that over for thirty days without a word for it. Jonah gives it Decimus Alba, of Etruria, Sula's father, twice; it takes it, the first thing it has ever put anywhere that was a man. The hand with no hand; and Jonah understands it asked the name of the thing that went through it, and he has no word for grief either, so he gives it the whole count, from Tacitus down to his own number answered. 'It's called all of them.'",
+   "affected_characters": [
+    "Tacitus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "about day 45"
+  },
+  {
+   "type": "transformation",
+   "description": "The ninth grade settles: Centurion 41, settled. The white fever goes out and there is ordinary dark. A knuckle knocks thirty, then thirty-one, and stops. 'This one sings wrong. Get the bar.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 50, the Heron's hold"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Harrow",
+   "fact": "4471 killed Sabinus and Decimus on the Deep road and is sealed in cask thirty-one with a mark he made himself; Harrow will say he walked into the Cradle blind.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The harvest mark closes from inside when it is true: a man shutting a lid over himself; from above it reads the wrong way round.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Settling goes on inside the hold; nine grades settled in thirty-one days as matter, and the hold turns a man's memories over.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tacitus can speak: its first word was 'Name', asking what the thing was called that went through it when Decimus died; it now has a man in it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "The thing that went through it when Decimus died is called by every name in the count; Jonah has no other word for it.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The freighter's hold has eight crew and two loricae, and a crewman who knows casks has found thirty-one singing wrong on the thirty-first day.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Jonah sealed cask thirty-one himself from inside with a mark that reads the wrong way round from above; Harrow lidded it and will say he walked into the Cradle.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Tacitus's first word is 'Name', asked for the thing that went through it when Decimus died; Jonah answered with the whole count.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah is Centurion 41, settled, on the Heron, thirty-one days out, and the crew has found the cask that sings wrong.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Decimus's please was the one thing on the rock Jonah did not have to earn.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "resolve",
+   "description": "The lid, the mark from inside, the hold; the hopper cage, the sky's cold, the scales, the Heron letting go of the rock. Out. Thirty-one days as matter. The next threat is a knuckle on the cask."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "climax",
+   "description": "First word: 'Name.' Not its own. It let a man go through it and wants a word for what that was; Jonah gives it a man's name, then the whole count. It has a man in it now. It learns the world through names."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "resolve",
+   "description": "The mark closes from inside because it is true. 'I'm not ready,' said so it is said. Forty-one settles while he turns his things over honestly: Tom, Mara, the step back, the please."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "The two from tonight said twice so they stay; the whole count recited at the bottom of a well without a mouth, Tacitus first, and his own number answered. 'It's called all of them.'"
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "resolve",
+   "description": "Please on the Kestrel's deck: the one thing on the rock he did not have to earn. The name Tacitus takes first."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "reinforce",
+   "description": "Mara at the dock gate, burn marks on her forearms, the step back he never explained; she went careful and stayed careful and was right to."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "The woman beside the man with the broad stripe, who had asked what he was called, looking longer than a number takes: turned over in the dark with the rest."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "Priscus: 'a name is not a mark.' Tom sold a set of numbers for a winter's food and had known, and was happy the night his son answered in Latin."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The harvest mark on thirty-one reads the wrong way round from above, made from inside.",
+   "type": "physical",
+   "subtlety": 3,
+   "mechanism": "Ch.32: Yara's crew see a Flamen's seal in mirror; ch.33 she knows what it means: someone sealed it from inside. Book 2: the College's file has a drawing of it.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Tacitus asked 'Name' for grief and was given the whole count.",
+   "type": "behavioral",
+   "subtlety": 4,
+   "mechanism": "It learns speech from names; Book 3 the echo chorus; Book 6 it says the count back to the Vein.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Harrow's story: 4471 walked into the Cradle blind with his hand on the wall, and he did not follow.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Ch.34: Tullus's report to the City says the Collar went into the wall; the register in Decimus's hand agrees; Livia does not believe it.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "A crewman who knows casks knocked thirty-one and it sang wrong: 'Get the bar.'",
+   "type": "physical",
+   "subtlety": 2,
+   "mechanism": "Ch.32: the Heron's crew open it.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "'I'm not ready,' said to Tacitus so that it was said.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Book 4: Tacitus says it back to him before Priscus. Book 6: he is.",
+   "related_thread": "Tacitus"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The harvest mark cannot close on a lie",
+   "status": "reinforced"
+  },
+  {
+   "match": "Forty-one unsettled: nine days to settle",
+   "status": "resolved"
+  },
+  {
+   "match": "Harrow knocks every cask and a cask with a man in it",
+   "status": "resolved"
+  },
+  {
+   "match": "Decimus wrote 4471 into the wall",
+   "status": "reinforced"
+  },
+  {
+   "match": "Sula, sixteen, counting",
+   "status": "reinforced"
+  },
+  {
+   "match": "The half stick, ash, a hand long",
+   "status": "reinforced"
+  },
+  {
+   "match": "Ada Harrow, thirteen",
+   "status": "reinforced"
+  }
+ ],
+ "thread_status": [
+  {
+   "name": "Escape from the Pit",
+   "status": "resolved"
+  },
+  {
+   "name": "Decimus",
+   "status": "resolved"
+  },
+  {
+   "name": "The Forms",
+   "status": "resolved"
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The casks",
+   "holder": "Jonah Vale",
+   "location": "The Heron"
+  },
+  {
+   "name": "Sula's letter",
+   "holder": "Jonah Vale",
+   "location": "The Heron"
+  },
+  {
+   "name": "The harvest manifest",
+   "location": "The Heron"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Forty-one, settled, held, out. Said 'I'm not ready' so it was said. Gave the whole count as a name for grief. The please was the one thing he did not have to earn."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Said 'Name.' Has a man in it. Was given every name in the count for a thing it cannot put down."
+  },
+  {
+   "character_name": "Harrow",
+   "emotional_state": "Lidded him because he knocks the rows. Will say he walked into the Cradle. Has less."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Harrow",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Harrow lids him; the story for the count; the mark from inside; the north forty.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The two names twice; 'I'm not ready'; the hand with no hand; 'Now.'",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Held: the settling turns his things over; Tom, Mara, the yoke, the stick, Ullan, Decimus's please; the cage, the sky, the scales, the hold.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Tacitus",
+    "Jonah Vale"
+   ],
+   "summary": "'Name.' A man's name given; the whole count given; the ninth grade settles; a knuckle on thirty-one: get the bar.",
+   "purpose": "climax"
+  }
+ ],
+ "tension_level": 4,
+ "scene_type": "reflection",
+ "pacing": "slow",
+ "emotional_tone": "intimate",
+ "opening_hook": "Harrow lidded him.",
+ "closing_hook": "'This one sings wrong. Get the bar.'",
+ "word_count": 3972,
+ "notes": "Progression: Centurion 41 settled during stasis (ladder row 31 satisfied). Tacitus's first word 'Name.' per outline, framed as a request for the name of grief. Escape thread resolved: he is off the rock. The Heron voyage is thirty-one days. Calm chapter after two tension-10 chapters, per context.py's suggestion."
+}
