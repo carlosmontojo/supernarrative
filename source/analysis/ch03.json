@@ -1,0 +1,406 @@
+{
+ "title": "Sharpening",
+ "summary": "Founding Day, three weeks after the rings. Ochoa has gone to the melt; Jonah has spent three weeks learning his plate in secret and has not told Mara. Corin wins the Lesser Ludi and looks at Mara. A cadet, Cassius Rufus, calls Jonah to sharpen for his mouth. Jonah says the prayer to Mars in perfect Latin, wins in nine seconds on Varro's feet, and stops the knife at the boy's throat. The instructor orders fifty lashes; Livia says 'He won'; Priscus echoes her and flogs the instructor instead. Livia finds Jonah at the yard edge: 'Where does a peregrine learn a Fulvian step?' Mara gives him a hull ring from the Halcyon; Livia watches from the road. Morrow announces the manumission and captaincy. Marchand and Corin leave together. Priscus looks at Jonah like a ledger line. The genius watches the broad stripe and is not hungry: it is paying attention.",
+ "story_date": "388, Founding Day",
+ "events": [
+  {
+   "type": "movement",
+   "description": "Ochoa went to the melt on the fourth day after the rings; Morrow said his name right.",
+   "affected_characters": [
+    "Captain Ochoa",
+    "Ezra Morrow"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, four days after the rings"
+  },
+  {
+   "type": "transformation",
+   "description": "Three weeks of secret practice: plate on command, the crooked fang from the back of the right wrist, holding the genius still for up to two hours. He asks it what it is; it listens and says nothing.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, three weeks"
+  },
+  {
+   "type": "encounter",
+   "description": "Corin wins his Lesser Ludi bout against a north-yard cutter, stops at the throat, and looks at Mara. His name goes on the auxiliary rolls.",
+   "affected_characters": [
+    "Corin Aldane",
+    "Mara Ansel",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, Founding Day"
+  },
+  {
+   "type": "encounter",
+   "description": "Cadet Cassius Rufus calls Jonah to sharpen. Jonah says the prayer to Mars in Latin. Wins in nine seconds with a Fulvian step, stops the knife at the throat.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Cassius Rufus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, Founding Day"
+  },
+  {
+   "type": "encounter",
+   "description": "The instructor orders fifty lashes for insolence. Livia says 'He won.' Priscus: 'The boy won. Fifty. The instructor. Post.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Livia Vibia",
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, Founding Day"
+  },
+  {
+   "type": "transformation",
+   "description": "Strain from the sharpening: a small click inside. Grade 9. The echo is pleased.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, Founding Day"
+  },
+  {
+   "type": "encounter",
+   "description": "Livia finds Jonah at the yard edge, names the Fulvian step, calls his story a good lie, tells him he should have cut the boy and that he stands like a Stripe. Neither gives a name.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Livia Vibia"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, Founding Day"
+  },
+  {
+   "type": "encounter",
+   "description": "Mara gives Jonah the hull ring cut from the Halcyon. He puts it on and holds her; nothing comes out. Livia, fifty paces up the road, watches and does not look away.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Mara Ansel",
+    "Livia Vibia"
+   ],
+   "affected_objects": [
+    "The hull ring"
+   ],
+   "story_timestamp": "388, Founding Day"
+  },
+  {
+   "type": "revelation",
+   "description": "Morrow announces the manumission and the Kestrel's captaincy for Jonah, investiture on the last day of Founding Week. Marchand, passed over again, leaves with Corin. Priscus gives Jonah a ledger look.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Ezra Morrow",
+    "Tom Vale",
+    "Silas Marchand",
+    "Corin Aldane",
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, Founding Day, fourth bell"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Livia Vibia is Priscus's younger sister and the daughter of Vibius the elder, the seal's addressee.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Mara Ansel"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The step Jonah used in the sand is the Fulvian step, first taught in House Fulvia; Livia recognized it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Livia Vibia"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Marchand was promised the Kestrel's captaincy after Ochoa and has been passed over for Jonah.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The Collar barge pilot who won the sharpening fights with a Fulvian step he cannot have learned on Anvil and stands like a Stripe.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The Collar barge pilot is engaged to a Collar welder; she gave him a hull ring on Founding Day.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "A Collar barge pilot named in Morrow's petition beat a cadet unplated in nine seconds and stopped.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "fact": "Jonah won a sharpening bout in nine seconds that Corin could not have won.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "fact": "Jonah has not told her everything about the rings; he says he has, and she let him have it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "fact": "Jonah fights with feet nobody taught him; he lied about it.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Cassius Rufus",
+   "fact": "A Collar named in Morrow's petition put a knife to his throat in front of the province and stopped.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Livia Vibia is Priscus's younger sister and the daughter of Vibius the elder, the seal's addressee.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Marchand was promised the Kestrel's captaincy after Ochoa and has been passed over for Jonah.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Law of Spoils in miniature: a Stripe may call any Collar to sharpen; the called may not decline; death in the sharpening is no crime.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Livia",
+   "beat_type": "plant",
+   "description": "'He won.' The yard edge: the Fulvian step, 'a good lie', 'you should have cut him', 'stop standing like that'. No names exchanged. She watches the ring given and does not look away."
+  },
+  {
+   "thread_name": "Priscus's law",
+   "beat_type": "plant",
+   "description": "Priscus stops the flogging because the boy won under the law and flogs the instructor instead. The ledger look."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "escalate",
+   "description": "Corin wins and looks at Mara first. Mara gives Jonah the Halcyon ring. Corin leaves with Marchand, watching the rail."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Varro's feet win the bout; Jonah is 'not there for it'. Livia names the step. The echo is pleased and the contempt looks at Corin in the sand."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "He has not told Mara; she lets him have it and he has to carry it. The echo's satisfaction after the bout. The genius stops being hungry when it sees the broad stripe."
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "escalate",
+   "description": "The captaincy announced to a Collar over Marchand; Marchand and Corin leave together."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "Three weeks of practice; asked what it is, it listens. At the end it watches Priscus's stripe and is not hungry: it is paying attention."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "Priscus, Marchand and Corin all on the page with their reasons visible."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The genius looks at Priscus's broad stripe and is not hungry; it is paying attention.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "Voice: it senses an ancestral genius (Aequitas, Tribune 62) as a mind, the first big one it has met. Pays in ch.6 under Pulse and in Book 2.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Livia reads every day at the Flamens' house. 'A Broadstripe. You'd think she'd have something better to do.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Flamen-scholar track; she will be on the inspection team in ch.25.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Corin: 'then you've never been afraid enough.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Corin's wound (called to sharpen at fourteen). Why he signs the letter and why he takes the auxiliaries' road.",
+   "related_thread": "Mara and Corin"
+  },
+  {
+   "description": "The law book in Morrow's office that Morrow is not supposed to have, with a note in a different hand: 'for the improvement of the art.'",
+   "type": "object",
+   "subtlety": 7,
+   "mechanism": "Morrow keeps forbidden books; later Morrow's Gracchan contacts (ch.37). The note is Ochoa's hand.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "Livia: 'That's a lie, but it's a good one, and you told it well, so I'll let you keep it.'",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "She reads people without Pulse. Sets the pattern: she trusts the reading less and the man more.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Priscus's ledger look: a line added correctly that he does not expect to see again.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Ch.34: he does not remember the boy's name. He remembers the seal.",
+   "related_thread": "Priscus's law"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "Founding Square"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "Founding Square"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "location": "Founding Square"
+  },
+  {
+   "character_name": "Tom Vale",
+   "location": "Founding Square"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "location": "Founding Square"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "location": "Quaestor's house, Anvil"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "location": "Quaestor's house, Anvil"
+  },
+  {
+   "character_name": "Cassius Rufus",
+   "location": "Anvil"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Engaged, steadier at grade 9, ashamed of how much the echo enjoyed the sand, unsettled by a woman who did not ask his name."
+  },
+  {
+   "character_name": "Livia Vibia",
+   "emotional_state": "Interested against her will. Went back to reading."
+  },
+  {
+   "character_name": "Mara Ansel",
+   "emotional_state": "Happy with her whole face; carrying what he has not told her."
+  },
+  {
+   "character_name": "Corin Aldane",
+   "emotional_state": "On the rolls, and beaten by something he watched."
+  },
+  {
+   "character_name": "Silas Marchand",
+   "emotional_state": "Passed over for the captaincy by a Collar. Composing."
+  },
+  {
+   "character_name": "Cassius Rufus",
+   "emotional_state": "Humiliated in front of the province. Will remember the face."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The hull ring",
+   "holder": "Jonah Vale",
+   "location": "Founding Square"
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Founding Square",
+   "characters": [
+    "Jonah Vale",
+    "Mara Ansel"
+   ],
+   "summary": "Founding Day; three weeks recapped; Corin's bout.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Founding Square",
+   "characters": [
+    "Jonah Vale",
+    "Cassius Rufus",
+    "Marcus Vibius Priscus",
+    "Livia Vibia",
+    "Mara Ansel"
+   ],
+   "summary": "The sharpening: the prayer, nine seconds, 'He won', the instructor flogged.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Founding Square",
+   "characters": [
+    "Jonah Vale",
+    "Livia Vibia"
+   ],
+   "summary": "The yard edge: the Fulvian step, the good lie, no names.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Founding Square",
+   "characters": [
+    "Jonah Vale",
+    "Mara Ansel",
+    "Livia Vibia"
+   ],
+   "summary": "The Halcyon ring; Livia watches from the road.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Founding Square",
+   "characters": [
+    "Jonah Vale",
+    "Ezra Morrow",
+    "Tom Vale",
+    "Silas Marchand",
+    "Corin Aldane",
+    "Marcus Vibius Priscus"
+   ],
+   "summary": "The petition announced; Marchand and Corin leave together; Priscus's look; the genius pays attention.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "confrontation",
+ "pacing": "medium",
+ "emotional_tone": "hopeful",
+ "opening_hook": "Founding Day falls on the anniversary of the annexation because somebody in the City thought that was funny.",
+ "closing_hook": "The genius watches Priscus's broad stripe and is not hungry. It is paying attention.",
+ "word_count": 5140,
+ "notes": "Grade 9. Livia and Jonah have not exchanged names (reserved for ch.6). The instructor is unnamed. Corin's name is on the auxiliary rolls."
+}
