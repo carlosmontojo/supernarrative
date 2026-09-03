@@ -1,0 +1,297 @@
+{
+ "title": "Grade",
+ "summary": "Night one hundred and thirty, no stick. The Censor explains the system on the rock with a chisel point: five lines (Force, Speed, Hold, Sense, Wit), grade as their sum, the fuse at nine for citizens and thirty-nine for the equestrian order, the licence to fifty-nine and the trim that burns it back out, Sabinus's two scars, Tribune at sixty for being born, Legate, the Wall. 'So the Empire is a family heirloom.' 'Yes. And you are the cloth they polish it with.' Gifts: drill, strain, spolia; a fifth of what you eat; the Law of Spoils. Wit: every cutting made small at one to five; Jonah's has no line the glass can read. 'The number tells you how hard they hit. The gift tells you where. The Form tells you when.' Shift, once: Jonah asks the fang for a hook and it bends, and he laughs, and the Censor sees what he hid in a box. Then the steel door: Jonah reads the lock through the steel with the genius, brings a thin fang out of his palm, lifts the pins and turns the bar; a finger's width in a hundred and thirty nights. The Chamber: sixteen slabs, a bowl, a bucket, a half-worn chisel by a tunnel mouth. 'I built the box, and I am in it.' Grade 19.",
+ "story_date": "389, summer, the first year, night 130",
+ "events": [
+  {
+   "type": "revelation",
+   "description": "The Censor draws the system on the rock: five lines, grade, fuses at nine and thirty-nine, licence to fifty-nine, the trim, Tribune at sixty, Legate at ninety, the Wall above one hundred and twenty. Sabinus's two white lines are two trims; he holds forty-five on a third licence for the war.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 130"
+  },
+  {
+   "type": "revelation",
+   "description": "Gifts: learned by drill, strain, or spolia; a genius holds Wit plus one; every cutting is made small on the Wit line (one for Blanks, two to three for Thinstripes, four to five for great houses). Jonah's has no line. 'The number tells you how hard they hit. The gift tells you where. The Form tells you when.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 130"
+  },
+  {
+   "type": "transformation",
+   "description": "Shift, first on purpose: Jonah asks the fang for a hook and it bends into one on the back of his wrist. He laughs the Deep-road laugh. The Censor: 'That is what I hid in a box.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 130"
+  },
+  {
+   "type": "movement",
+   "description": "The Censor walks the Deep road openly for the first time in six years, past Ulli, who sings.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 130"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah reads the lock through the steel with the genius, brings a thin fang out of his palm, lifts the pins and turns the bar. The door moves a finger's width with a sound like a bell. The Censor pushes it open. Grade 19.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 130"
+  },
+  {
+   "type": "discovery",
+   "description": "The Chamber: a cut the size of two rooms, a shelf, a slab with sixteen slabs of Vein leaning on it, a bowl, a bucket, a half-worn chisel by the tunnel mouth. 'I built the box, and I am in it.' Jonah locks it again from outside with his hand so the Censor can hear the sound.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [
+    "The book of names",
+    "The Censor's tunnel"
+   ],
+   "story_timestamp": "night 130"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The system: five lines, grade as sum, fuses at nine and thirty-nine, licences to fifty-nine and the trim, Tribune at sixty, Legate at ninety, the Wall; a spoil gives a fifth; a genius holds Wit plus one gifts; cuttings are made small on Wit.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Sabinus's two white scars are two trims; he holds forty-five on a third licence for the war and will be trimmed again when it ends.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius can take any shape asked of it: a hook, a lock pick from the palm. No lorica in the Empire can.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He can open the Chamber's steel door from the road with his hand.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Chamber holds sixteen slabs, a bowl, a bucket, a half-worn chisel and the tunnel; Tullus's men bring a lamp and take a slate of numbers monthly.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor says 'I built the box, and I am in it' and that it is correct he should die here.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "The Censor walks the Deep road at night.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The system: five lines, grade as sum, fuses at nine and thirty-nine, licences to fifty-nine and the trim, Tribune at sixty, Legate at ninety, the Wall; a spoil gives a fifth; a genius holds Wit plus one gifts; cuttings are made small on Wit.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The genius can take any shape asked of it: a hook, a lock pick from the palm. No lorica in the Empire can.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor designed the Pit.",
+   "new_knowledge_level": "suspects"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Forms",
+   "beat_type": "escalate",
+   "description": "'The number tells you how hard they hit. The gift tells you where. The Form tells you when.' Shift shown once: the hook. Not again until he can do the four."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Bends the fang into a hook and is pleased with itself. Reads a lock through steel. Brings a pick out of the palm. Grade 19."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "near_reveal",
+   "description": "'I built the box, and I am in it. It is correct that I should die here.' 'Why?' No answer. 'So that when you leave it you do not carry me with you like a debt.'"
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "escalate",
+   "description": "The Chamber door opens to his hand. Every door in the Pit is now a door that has never been shut."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "Made small on the Wit line; nothing made small grows back; a great house has had ten gifts for a century."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Sixteen slabs seen in their room."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "He does not use the hook on the buckets because his fingers are raw and he wants them to be."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "reinforce",
+   "description": "Seven, offered nine, 'not worth the trim': now the reader knows what a trim is."
+  }
+ ],
+ "clues": [
+  {
+   "description": "'A genius holds as many gifts as its Wit line, and one more.' Jonah's has no line.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Stolen gifts accumulate across the series without a ceiling; Reach from Sabinus (ch.30), Seal (ch.32).",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The Censor: 'a thing you do with your breath that keeps a glass from seeing you, which the College calls Hush when a magistrate does it to a prisoner and has no name for when a man does it to himself.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Hush turned inward is a smuggler's trick too: Yara (ch.33).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The door was oiled monthly by Tullus's men for two decades; it swings without a sound.",
+   "type": "environmental",
+   "subtlety": 7,
+   "mechanism": "The Chamber can be entered and left silently on the night of the harvest (ch.29).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "'I built the box, and I am in it.' The reader is meant to hear it as the derelict's box; it is the Pit.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Ch.20 the words turn over.",
+   "related_thread": "The Censor's guilt"
+  },
+  {
+   "description": "The fang from the palm, thin as a pick: the fang from anywhere.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "The Sertorian Form: the blade that is not there until it is (ch.21).",
+   "related_thread": "The Forms"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Sabinus has two thin white scars",
+   "status": "resolved"
+  },
+  {
+   "match": "'The other two' ways up",
+   "status": "resolved"
+  },
+  {
+   "match": "The Censor's tunnel from the Chamber",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Grade 19. A door that was never shut, in a house where every other one was. Fingers raw on purpose."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Walked his own road. Heard his lock from the inside. Did not sleep."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Made a hook. Pleased with itself. Opened a door."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The system drawn on the rock: lines, bands, fuses, trims, gifts, spolia, Wit. The heirloom and the cloth.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The hook. The laugh. 'That is what I hid in a box.'",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Ulli",
+    "Tacitus"
+   ],
+   "summary": "The road; the steel door opened from the palm; the Chamber; 'I built the box'; locked again from outside.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 5,
+ "scene_type": "dialogue",
+ "pacing": "medium",
+ "emotional_tone": "neutral",
+ "opening_hook": "A number is a thing a Flamen writes on a glass so that a man who cannot count can feel he has counted something.",
+ "closing_hook": "A door that had never been shut, in a house where every other door had been. Somewhere in the rock an old man listens to a lock he built and does not sleep.",
+ "word_count": 4277,
+ "notes": "Grade 19. Shift established (hook, palm pick). Jonah can open the Chamber. The Censor's guilt near-revealed ('I built the box'). Cursus: five of six steps in motion (Hand, Tongue, Count passed; Form and Bearing pending; Case pending)."
+}
