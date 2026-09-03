@@ -1,0 +1,384 @@
+{
+ "title": "Smugglers",
+ "summary": "On the third day Yara asks on the bridge, with the Belt in the port and a sun Jonah has not seen in seven years: not what are you but what did you do it for. He gives the why the old man taught him to have ready, true and not the whole: four names, three on Anvil and one in the City, and the letter first because a girl should not have to count past sixteen; the answer to what he is lies on the other side of four men. He names her trick: her heart held slow since the ladder, Hush turned inward, hours bought and two days of no sleep, the hands in her pockets; nobody taught her; he did it six years under a glass. 'Stop doing it. To me. Let your heart go.' She does, and he says the count once: a Halyard gets a stripe by telling the Empire where the ships are built, her family's yard, and she bought the Heron with it and has never cheated a partner. 'I'll not say it again. You'll not have to run from me for it.' Pike: 'He talks.' She sends Pike below and tells him the man is going to Anvil. The yard is Anvil's lower docks, a Halyard yard until the annexation, and the man who takes the skim and melts it is Morrow, whose yard paid the melt seven years ago. Her use: seal the two skimmed casks with the College mark the right way round, harvest not melt, ten years of running dark paid in one dock. 'No.' Not because he does not want to: it will not take. The mark says shut and counted by the College, and on a cask of skim that is a lie, and the plate will not hold on a lie; he lost a cask to it at the road's end. He shows her: on the chart glass and the port the knot comes apart; on the shut hatch it closes, real, a Flamen's. 'A man who can't lie.' 'A man whose plate can't. I lie fine. But not with the mark, and not to you.' Her price at the port, not money and not casks: when he is the thing he is going to be, he comes back to the Belt once, first, before he has told anyone with a stripe, and stands on a Halyard deck and says what he is; and he goes when she says, never puts his plate up on her ship, never runs from her, never lies to her. 'It's not fair. It's a Halyard ship.' 'Yes.' He says it so it is said. Then he is crew as far as Anvil, Hal's cousin, no name on the slate, a hood on the docks, and not near Morrow's yard while her casks are in it. And a thing before the price: Kaspar. Jonah puts his palm on the grey arm and asks the half cutting what it wants: to close; it is cold; the half that shuts is in Jonah, wrong. He says 'Occlude' aloud in the old tongue, the other way round from the shackle, and the arm goes grey and warm to the shoulder and the seams shut. It will never plate or fang again, and he did that; but it will close if Kaspar asks it in the one word of the old tongue he now has. Kaspar says it to the arm. On the bridge Yara tells him what he says in his sleep: it's what a guard has, it's not much, a number, and the names, which Pike has stopped counting. He asks her to carry Ada Harrow's message to Marl: not a price, a count; once, to take one. Pike has a sister on Marl's side; a season. 'You'll pay for it: when you come back you'll tell me if she got it.' Five days to Anvil. 'Learn your plate. It's wrong. Fix it before you meet four men with it.'",
+ "story_date": "394, late spring, the Heron, days 34 to 36 out; five days from Anvil",
+ "events": [
+  {
+   "type": "dialogue",
+   "description": "On the bridge Yara asks what he did it for. Jonah gives the prepared why: four names, three on Anvil, one in the City; the letter first; what he is lies on the other side of four men.",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Pike"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 34 out"
+  },
+  {
+   "type": "revelation",
+   "description": "Jonah names Yara's trick: Hush turned inward, her heart held slow since the ladder, hours bought and two days without sleep, hands in her pockets; he did it six years under a glass. She lets her heart go. He says once that a Halyard gets a stripe by informing on the yard, her family's, and that she bought the Heron with it and has never cheated a partner. 'I'll not say it again. You'll not have to run from me for it.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Yara",
+    "Pike"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 34 out"
+  },
+  {
+   "type": "revelation",
+   "description": "The Heron's yard is Anvil's lower docks; the man who takes the skim and melts it is Ezra Morrow, whose yard paid the melt seven years ago and has a law book he should not have. Jonah is going home in a hood.",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Ezra Morrow"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 34 out"
+  },
+  {
+   "type": "confrontation",
+   "description": "Yara's use: seal the two skimmed casks with the College mark from outside so they go up as harvest, ten years of running dark paid in one dock. Jonah refuses because it will not take: the mark says shut and counted by the College and on skim that is a lie, and the plate will not hold on a lie. He shows her: the knot comes apart on the chart glass and the port and closes, real, on the shut hatch. 'A man who can't lie.' 'A man whose plate can't. I lie fine. But not with the mark, and not to you.'",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 34 out"
+  },
+  {
+   "type": "decision",
+   "description": "Yara's price, not money: when he is the thing he is going to be, he comes back to the Belt once, first, before anyone with a stripe, and says on a Halyard deck what he is; he goes when she says, never puts his plate up on her ship, never runs from her, never lies to her. He says it so it is said. He is crew as far as Anvil, Hal's cousin, no name on the slate, a hood on the docks, not near Morrow's yard while her casks are in it.",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 34 out"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah puts his palm on Kaspar's half cutting and asks what it wants: to close, it is cold, the half that shuts is in Jonah wrong. He says 'Occlude' aloud in the old tongue and the arm goes grey and warm to the shoulder and its seams shut: Voice the other way round, telling a cutting to do the one thing it has left. It will never plate or fang again. Kaspar can ask it with one word of the old tongue, and does.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Kaspar",
+    "Pike",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 34 out"
+  },
+  {
+   "type": "dialogue",
+   "description": "Yara tells him what he says in his sleep: it's what a guard has, it's not much; a number; the names, which Pike stopped counting. He asks her to carry Ada Harrow's message to Marl, not a price, a count: once, to take one. Pike has a sister on Marl's side; a season. She will ask when he comes back whether the girl got it. Five days to Anvil; learn your plate, it comes up in lumps; fix it before you meet four men with it.",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Pike"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 34 out, evening"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Yara",
+   "fact": "Jonah is going to Anvil for four names, three there and one in the City, who took a thing off him seven years ago; the letter first.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Jonah's plate cannot make a false College mark: the knot comes apart on anything not truly shut and counted; he can make a true one on a shut hatch.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Jonah knows she got her stripe by informing on her family's yard and runs Hush inward; he will not say it again.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Jonah says in his sleep 'it's what a guard has', his number, and a long list of names in the old tongue; he flew the Kestrel out of Anvil's lower docks and knows Morrow's yard.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Ada Harrow, thirteen, Marl, the south road past Pell's forty, writes to a wrong number; her father is alive and foreman of the Deep on Tessera; the north forty never made quota.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Heron's yard is Anvil's lower docks and the man who takes the skim and melts it is Ezra Morrow; the Empire annexed Anvil from the Halyards ninety years ago.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Yara"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Voice runs the other way: a cutting told 'close' in the old tongue does the one thing it has left; Kaspar's half cutting wants its Seal back and cannot have it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Yara has a wife on Sable's side of the Belt; her price is that he comes back to a Halyard deck first, goes when she says, never plates on her ship, never runs, never lies.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Yara"
+  },
+  {
+   "character_name": "Kaspar",
+   "fact": "His half cutting will never plate or fang again but will close and be warm if he says 'Occlude' to it; the man from the cask did it and says so.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pike",
+   "fact": "Jonah is going to Anvil as crew, Hal's cousin, and Pike will carry a message to a girl on Marl.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Yara"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The Heron is bound for Anvil's lower docks, where Ezra Morrow takes and melts the skim; Jonah goes home hooded as a nameless Halyard crewman.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah cannot forge a College mark on a lie; the seal only closes on a thing that is truly shut. He tells Yara the truth because his plate cannot lie to her.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Yara's price: he comes back to the Belt first, before the Empire, and says what he is; never runs from her, never lies, never plates on her ship.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Voice can tell a cutting to close as well as to let go; Kaspar's arm is warm and will never plate again.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Ada Harrow's message goes to Marl with Pike's sister; Jonah will be asked whether it arrived.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "escalate",
+   "description": "Said aloud to a stranger for the first time: four names, three on Anvil, one in the City, and what he is lies on the other side of them. The Heron is taking him to the lower docks, to Morrow's yard, in a hood."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "The mark will not close on a Belt lie any more than on a love lie; shown three times on the bridge. 'A man whose plate can't lie.' He gives Yara the truth because it is the only currency his plate will spend."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Voice the other way round: 'Occlude' to a half cutting, and it closes and is warm; Jonah teaches a Blank one word of the old tongue so a lorica can be asked."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Pike has heard the whole count in Jonah's sleep and stopped counting. Ada Harrow's message becomes a count carried by a Halyard's sister; Yara will audit it."
+  },
+  {
+   "thread_name": "Morrow's ruin",
+   "beat_type": "plant",
+   "description": "Morrow's yard takes the Heron's skim and melts it for the Interior: the yard that paid the melt is a smugglers' fence, and Jonah is arriving on the smugglers' ship."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "reinforce",
+   "description": "A hood on the docks because there is a white line on his arm and a reading on file somewhere; Yara names the risk before he does."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "'The first true thing I've said to a stranger since a woman on a stool asked me my name, and I'd like to keep it.' Yara is not the romance: a wife on the far side of the Belt, and she and Jonah agree on everything and like each other less than they should."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Yara's price: come back to a Halyard deck first and say what you are before the Empire hears it.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Book 2 ends on the Heron's deck. Book 5: the Belt with no Empire in it starts there.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "A true College mark on a shut hatch of a Halyard ship, made by a Collar's palm.",
+   "type": "physical",
+   "subtlety": 5,
+   "mechanism": "Book 2: a Flamen reads the Heron's hatch on a Belt dock and asks which Master sealed it.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Morrow melts the Heron's skim and sells it up the Interior a shard at a time to people who would rather not be on a manifest.",
+   "type": "structural",
+   "subtlety": 4,
+   "mechanism": "Ch.37: what Jonah pays Morrow with, and what Morrow's ledger has in it. Book 2: the buyers' names.",
+   "related_thread": "Morrow's ruin"
+  },
+  {
+   "description": "Kaspar can say one word of the old tongue to his arm and it closes.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Book 2: a Blank who talks to his cutting is a thing the College has a word for; the Heron's crew learn more words.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Jonah talks in his sleep: the number, the names, and 'it's what a guard has'.",
+   "type": "behavioral",
+   "subtlety": 4,
+   "mechanism": "Ch.36: Mara hears the names through a wall. Book 4: Livia hears her own.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Anvil was a Halyard yard until the Empire annexed it ninety years ago.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Book 5: the Belt's claim on Anvil; who the lower docks belong to.",
+   "related_thread": "Morrow's ruin"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Yara runs Hush inward",
+   "status": "resolved"
+  },
+  {
+   "match": "Yara has a use for a man who can seal",
+   "status": "resolved"
+  },
+  {
+   "match": "Ada Harrow, thirteen",
+   "status": "reinforced"
+  },
+  {
+   "match": "Hollen: 'Morrow's yard paid the melt",
+   "status": "reinforced"
+  },
+  {
+   "match": "The law book in Morrow's office",
+   "status": "reinforced"
+  },
+  {
+   "match": "The harvest mark cannot close on a lie",
+   "status": "reinforced"
+  },
+  {
+   "match": "Kaspar's half cutting",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Yara",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Pike",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Kaspar",
+   "location": "The Heron"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Said the four names aloud to a stranger. Could not lie for her and told her why. Made a promise to a Halyard deck. Five days to learn a plate that comes up in lumps."
+  },
+  {
+   "character_name": "Yara",
+   "emotional_state": "Let her heart go in front of him. Named her price and it was not money. Will audit the message to Marl."
+  },
+  {
+   "character_name": "Kaspar",
+   "emotional_state": "Warm to the shoulder. Says one word of the old tongue to his arm."
+  },
+  {
+   "character_name": "Pike",
+   "emotional_state": "He talks. Will carry a message to Marl."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Told a half cutting to close and it did."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Heron",
+   "characters": [
+    "Yara",
+    "Jonah Vale",
+    "Pike"
+   ],
+   "summary": "The bridge: what did you do it for; four names; her trick named; her heart let go; the count said once.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Yara",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Anvil, Morrow's yard; seal the skim; no, it will not take; the mark shown three times; a man whose plate can't lie.",
+   "purpose": "confrontation"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Yara",
+    "Jonah Vale"
+   ],
+   "summary": "The price at the port: come back first, go when told, never plate, never run, never lie; crew as far as Anvil, hooded.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Jonah Vale",
+    "Kaspar",
+    "Pike",
+    "Tacitus"
+   ],
+   "summary": "The half cutting wants to close; Occlude; warm to the shoulder; one word of the old tongue for a Blank.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Yara",
+    "Jonah Vale"
+   ],
+   "summary": "What he says in his sleep; Ada's message to Marl; you'll pay for it; learn your plate before four men.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 5,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "wary",
+ "opening_hook": "She asked on the third day, not the second, and the question was not the one she had said it would be.",
+ "closing_hook": "'Then fix it,' Yara said, 'before you meet four men with it.'",
+ "word_count": 4849,
+ "notes": "Calm chapter per pacing suggestion. No progression in grade (42 held); progression in gift: Voice used to tell a cutting to close (the reverse of the shackle), and the seal's truth condition demonstrated three times. The Censor's rhetoric pays as the Count said aloud and the refusal to forge. Nobody dies. Yara's price set for Book 2. The Heron's yard is Anvil's lower docks and its fence is Morrow, tying ch.35-37. Jonah is twenty-five."
+}
