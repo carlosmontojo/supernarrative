@@ -1,0 +1,442 @@
+{
+ "title": "Harvest",
+ "summary": "Jonah is matter for four hours in cask thirty-one; he feels the lift and the walk to the road's end through the ring. The Flamen Pollio's rod puts the harvest mark into the lid and the mark goes down through the ring looking for the bottom to close on and finds a man being held as matter: a lie told out of love, and the plate will not hold on a lie. The mark comes apart. 'It won't take.' Jonah asks Tacitus to let go and it does not, at once; then it does. Pollio orders the cask opened; Jonah, through the lid, tells Harrow to open it and says aloud that Harrow did not know: he moved forty-two slabs himself on the sixteenth night, they are in twenty-nine and thirty, count them. Pollio recognises 4471, the reading he frowned at six weeks ago. A guard closes a College shackle of Vein glass on his wrist; it goes for the cutting, saying hold to Tacitus the way the wall says come, and Jonah hears it and says no aloud in the old tongue, and the ring lets go: Voice on a lorica for the first time. The plate comes up before witnesses; he eats the shackle in one bite; 'Run. Tell him.' Pollio runs. The two Tiro guards do not: Jonah comes out of the cask onto the road side and takes the first with the Claudian Wall in the light for the first time (plate up over the throat seam, fang in the armpit seam) and the second with the half step, badly, fang under the jaw. He refuses the two cuttings: not yet, not here. Harrow: a lorica cannot come within an arm of a cask; you could hold it a month. Jonah counts what Tullus would spend: decury six at the post, Pell first. He sends the deep men to lie down with their gloves off and sits at the turn in the light with the two boys' eyes closed. Thirty rifles come down at the seventh bell and stop nine paces off. Tullus: Pollio is up the Throat and will write to the College tonight; the letter goes up with the harvest beside his own; nothing to lose and he will spend it. 'What are you.' 'A purser's pilot. Off Anvil. Citizen, for a week.' Jonah says the count aloud that Tullus will not: Pell first, and I'll come out, and I have not decided which of you I kill on the way. Then Sabinus comes down through the line, stops at the licence's distance without looking, the newer plate at his left armpit seam. He has not had a fight in nine years; he saw the Wall on one boy and his own step on the other and the fang in the same seam the old Blank put a chisel in; he sends the rifles back past the Cradle. 'Who taught you.' Jonah, in the Stripes' register: 'A man you never met, Gnaeus Sabinus. Who read every page. And found one about you.' 'Come out.' Jonah comes out.",
+ "story_date": "394, spring, day 19 of the harvest, afternoon to seventh bell",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "Jonah is held as matter for four hours in cask thirty-one; he feels the lift and forty paces to the road's end through the ring without a body.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 19, sixth bell to afternoon"
+  },
+  {
+   "type": "revelation",
+   "description": "Pollio's rod puts the harvest mark into the lid; the mark goes down through the ring looking for matter to close on and finds a man being held as matter, a lie told out of love, and the plate will not hold on a lie. The mark comes apart. 'It won't take.'",
+   "affected_characters": [
+    "Pollio",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 19, afternoon"
+  },
+  {
+   "type": "decision",
+   "description": "Jonah asks Tacitus to let go; it does not, at once, because it learned to hold well and stopping means the road; then it does. Through the lid Jonah tells Harrow to open the cask and says aloud that Harrow did not know: he moved forty-two slabs alone on the sixteenth night into twenty-nine and thirty.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Harrow",
+    "Pollio"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 19, afternoon"
+  },
+  {
+   "type": "confrontation",
+   "description": "Pollio knows him: the reading he frowned at six weeks ago that Livia and the Master overruled. 'What are you.' 'Dying. Six years. Everybody says so.' A guard closes a College shackle of Vein glass on his wrist at arm's length; it goes for the cutting and says hold to Tacitus.",
+   "affected_characters": [
+    "Pollio",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The College shackle"
+   ],
+   "story_timestamp": "day 19, afternoon"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah hears the shackle's want and says no to it aloud in the old tongue, the way the wall says come, and the ring lets go: the hinge opens, the want goes out of it, told. Voice works on a lorica that is not his for the first time. Then the plate comes up before witnesses and he eats the shackle in one bite, and the hunger is not polite.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Pollio"
+   ],
+   "affected_objects": [
+    "The College shackle"
+   ],
+   "story_timestamp": "day 19, afternoon"
+  },
+  {
+   "type": "combat",
+   "description": "'Run. Tell him.' Pollio runs; the two Tiro guards do not. Jonah comes over the rim onto the road side and takes the first with the Claudian Wall in the light for the first time (plate up over the throat seam, fang in the armpit seam) and the second with the half step, late and ugly, fang under the jaw. Two dead Blanks. He refuses their cuttings: not yet, not here.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, afternoon"
+  },
+  {
+   "type": "encounter",
+   "description": "Harrow: a lorica cannot come within an arm of a cask; that is the only reason there is a road; you could hold it a month. Jonah counts what a man with nothing to lose spends: decury six at the post, one a day at the turn where he can see, Pell first. He sends the deep men to lie down with their gloves off; they packed a hundred and twelve and saw nothing after the lid. He will sit at the turn in the light.",
+   "affected_characters": [
+    "Harrow",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 19, afternoon"
+  },
+  {
+   "type": "confrontation",
+   "description": "Thirty rifles come down at the seventh bell and stop nine paces from the casks. Tullus: Pollio is on the cage and will write to the College tonight, and the letter goes up with the harvest beside his own; nothing to lose and he will spend it. 'What are you.' 'A purser's pilot. Off Anvil. Citizen, for a week.' Jonah says the count Tullus will not say aloud: Pell first at the post, and I'll come out, and I have not decided which of you I kill on the way.",
+   "affected_characters": [
+    "Marcius Tullus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, seventh bell"
+  },
+  {
+   "type": "encounter",
+   "description": "Sabinus comes down through the line and stops at the licence's distance without looking; the newer plate at his left armpit seam. Nine years on the rock, trimmed twice in a yard, no fight since. He saw the Wall on one boy and his own step on the other and the fang in the seam the old Blank found, and has thought every night about who was watching from the light and went into the dark when he hurried. He sends the rifles back past the Cradle. 'Who taught you.' In the Stripes' register: 'A man you never met, Gnaeus Sabinus. Who read every page. And found one about you.' 'Come out.' Jonah comes out.",
+   "affected_characters": [
+    "Gnaeus Sabinus",
+    "Jonah Vale",
+    "Marcius Tullus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, seventh bell"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The harvest mark will not close on a lie: a man held as matter is a shape that is not true all the way through, and the seal came apart on it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He can say no to a lorica's want aloud, the way the wall says come, and it obeys: Voice on matter that is not his.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pollio",
+   "fact": "4471 is not void: he was in cask thirty-one, the mark would not close on him, he told a College shackle no and it opened, he took plate and a fang from his wrist and ate the shackle and killed two guards.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pollio",
+   "fact": "Harrow did not know; 4471 moved forty-two slabs alone on the sixteenth night into casks twenty-nine and thirty.",
+   "new_knowledge_level": "believes",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Harrow",
+   "fact": "4471 said aloud before the Flamen and the guards that Harrow did not know and packed right.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "fact": "4471 was found in cask thirty-one; Pollio says the mark would not close on him, he told a shackle no, he is a Principal; two guards dead; Pollio will write to the College tonight and the letter goes up with the harvest.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Pollio"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "fact": "4471 has counted that Tullus would put decury six at the post one a day to bring him out of the gallery, and would come out for it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "fact": "4471 is not a dying Collar: he did the Claudian Wall and Sabinus's own step and put the fang in the armpit seam the old Blank found; someone taught him; he was the one in the light who went into the dark when Sabinus hurried.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "fact": "A man Sabinus never met, who read every page, found one about him and taught 4471.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Sabinus has had no fight in nine years, trimmed twice in a yard against cheap men, and wants one that is not a harvest; he sent the rifles away to have it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Gnaeus Sabinus"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The escape failed at the seal: the harvest mark cannot close on a man held as matter because the plate will not hold on a lie.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah can tell a lorica no aloud and it obeys (Voice on matter not his); he ate a College shackle and killed two guards before witnesses; Pollio saw everything and is writing to the College.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Loricae cannot come within an arm of the casks; Jonah could hold the loading gallery, but Tullus would spend Pell and decury six at the post, and Jonah will come out for that.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Sabinus has sent the rifles away to fight Jonah alone; he has thought every night about the old Blank's chisel in his seam and who was watching.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "complicate",
+   "description": "The seal will not take on a lie; the cask opens at the road's end; Pollio runs up the Throat to write to the College; thirty rifles at the turn; Jonah comes out for Sabinus so Pell is not put on the post."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "climax",
+   "description": "The best lie Tacitus ever told, out of love, and the mark came apart on it: the plate will not hold on a lie, even one told for him. The hunger stops being polite on the shackle; he refuses the two boys' cuttings."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "It held well and did not want to let go; it let go when asked after one breath. Voice: Jonah says no to a College shackle aloud and it opens; the guard says 'It' and Jonah says 'Yes. It.'"
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "climax",
+   "description": "The Claudian Wall in the light for the first time, plate up over the throat seam; the half step, badly, on the second boy. Sabinus reads both and the seam, and asks who taught him. 'A man you never met. Who read every page. And found one about you.'"
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Two Tiro boys who did not run; he closes their eyes and will write what they did. He says aloud before witnesses that Harrow did not know."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "escalate",
+   "description": "Pollio will write to the College tonight: a Collar the mark would not close on, who told a shackle no. The letter goes up with the harvest beside Tullus's."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "Pollio: she read you after me and said I was wrong; the woman from the College called it unstable and wrote it in her own book."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "A College shackle is a piece of the wall shaped to say one word, hold, to a cutting; the wall's arm does not reach for the man in the ring; a lorica cannot come within an arm of a cask, which is the only reason there is a road."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The harvest mark cannot close on a lie: a shape has to be true all the way through.",
+   "type": "structural",
+   "subtlety": 4,
+   "mechanism": "Ch.32: the Seal he makes for the Heron is wrong-shaped because he is lying about what he is. Book 3: the Master's seal on a true thing.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Voice: a lorica told no aloud in the old tongue lets go, the way the wall says come.",
+   "type": "structural",
+   "subtlety": 3,
+   "mechanism": "Ch.32: half a crewman's lorica begs. Book 2: a Legate's plate told to open. Book 5: what Voice costs.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Pollio's letter to the College: a Collar the mark would not close on, who told a shackle no, read void by three Flamens.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Ch.34: the Frumentarius has read it twice. Ch.40: Nasso sells the reading.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Sabinus's newer plate at the left armpit seam, and nine years without a fight.",
+   "type": "physical",
+   "subtlety": 4,
+   "mechanism": "Ch.30: the seam he is afraid of; the Sertorian Form's hand goes where the man is going, and a man afraid of a seam goes away from it.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "Jonah has not decided which of them he kills on the way to the road.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Ch.30: Decimus in the corridor. He had not decided; he does it anyway; the name.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "'A purser's pilot. Off Anvil. Citizen, for a week.' The only answer he has to what he is.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Ch.39: 'Gaius Sertorius.' Book 6: the answer changes.",
+   "related_thread": "Revenge: the four names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The Vein does not reach for the casks because they are it",
+   "status": "resolved"
+  },
+  {
+   "match": "Harrow knocks every cask",
+   "status": "reinforced"
+  },
+  {
+   "match": "Harrow's fear since the day Auger put Jonah at the face",
+   "status": "resolved"
+  },
+  {
+   "match": "Decimus's mark that nobody can read",
+   "status": "reinforced"
+  },
+  {
+   "match": "The lamp Tullus kept",
+   "status": "reinforced"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The College shackle",
+   "description": "A ring of the College's dark Vein glass with a hinge, for men taken up the Throat to the slab; it locks the cutting, not the wrist. Told no by Jonah and eaten.",
+   "holder": "Jonah Vale",
+   "location": "The Deep",
+   "significance": "First lorica told no aloud; Voice on matter not his."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The College shackle",
+   "status": "destroyed"
+  },
+  {
+   "name": "The casks",
+   "note": "Cask thirty-one opened at the road's end; the harvest mark would not close on it; thirty-one and the last seven unsealed."
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Pollio",
+   "location": "Pit surface garrison"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Found. Told a shackle no. Said aloud that Harrow did not know. Has not decided who he kills on the way to the road. Coming out for Sabinus so Pell is not at the post."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Told the best lie it ever told, out of love, and was found. Did not want to let go; let go. Not polite on the shackle."
+  },
+  {
+   "character_name": "Pollio",
+   "emotional_state": "Had it in his arm what the void was. Ran. Writing to the College tonight."
+  },
+  {
+   "character_name": "Harrow",
+   "emotional_state": "Opened it when the Flamen said. Saw nothing after the lid. A girl on Marl; you'd better be on the dock with a knife in you."
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "emotional_state": "Nothing to lose and spending it. Would not say the numbers aloud; the Collar said them for him."
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "emotional_state": "Not bored. Nine years without a fight. Sent the rifles away. Wants to know who taught him."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Pollio",
+    "Harrow"
+   ],
+   "summary": "Matter for four hours; the lift; the rod; the mark comes apart on a lie; let go; open it, you didn't know.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Pollio",
+    "Harrow",
+    "Tacitus"
+   ],
+   "summary": "The lid off; Pollio knows him; Harrow cleared aloud; the College shackle says hold and is told no; plate before witnesses; the shackle eaten; Run.",
+   "purpose": "climax"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Two Tiro boys who did not run: the Wall in the light, the half step; two dead Blanks; not yet, not here.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Harrow",
+    "Jonah Vale"
+   ],
+   "summary": "A lorica cannot come within an arm of a cask; you could hold it a month; what Tullus would spend; lie down with your gloves off.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Marcius Tullus",
+    "Jonah Vale",
+    "Gnaeus Sabinus"
+   ],
+   "summary": "Thirty rifles at nine paces; Tullus with nothing to lose; a purser's pilot off Anvil; the count said aloud; Sabinus sends the rifles away; who taught you; come out.",
+   "purpose": "confrontation"
+  }
+ ],
+ "tension_level": 9,
+ "scene_type": "action",
+ "pacing": "fast",
+ "emotional_tone": "desperate",
+ "opening_hook": "He was matter for four hours, and it was not like anything.",
+ "closing_hook": "'Come out,' Sabinus said. Jonah came out.",
+ "word_count": 5632,
+ "notes": "Progression: Voice used aloud on a lorica not his for the first time (the College shackle opens); the Claudian Wall done in the light for the first time; grade held at 32 by design (ladder: 29 at 32). Integrity mechanic pays off against him: the seal cannot close on a man being matter. Pollio is the Flamen sent to stay for the seals (ch.26's 'younger one'). Sabinus's nine years on the rock and two yard trims are new canon consistent with the system bible (trimmed twice)."
+}
