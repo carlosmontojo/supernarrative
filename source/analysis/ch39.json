@@ -1,0 +1,356 @@
+{
+ "title": "Sertorius",
+ "summary": "Dusk on the Heron's bridge, the third day, hood down for the first time. 'Indeterminate.' Yara could have told him that on the ladder. He asks for the rest of the ride to the College dock as crew, and from there he will walk to the City. Three names, three days, and nobody dead but two boys with bands; Gaspar still drinking, Corin walking the dock road with the face of a man who has lost a bout, Morrow paying his cutters tomorrow and looking less tired. 'So what are you.' 'Four names and an Empire.' A purser who was seen to for a letter: that is what the Empire does with a man who writes things down, and a Marchand always rises. A Collar who signed and took a band and put a fang in his own people on Tessera for a stripe, and says friend to the ones he will not cut himself: the only way up for a Collar is over other Collars. The drunk who did nothing: no innocents, and it is true, and it is not the whole; the whole is that the Empire is built so that doing nothing is a thing you do, and the sum Gaspar did every morning was right. That is what a Stripe's law is worth. He will not do the four and leave the thing that made them, nor the thing and leave the four. 'You'll kill four men.' He lied to the old man on the rock: he has not decided. The Empire he can count: a seat, a Form, a City, a wall. The drunk he will not kill: he will make him say it sober, once, in a room, and it will not be enough. The Collar has her and a boy and a stripe he loses the day the war ends; he will not touch the boy or her. The purser has a bank, and a bank is a thing that falls. The fourth: Marcus Vibius Priscus, a seat next year, the Vibian Form, a Gracchan father the seal was to, and a sister. 'So?' 'So nothing.' His heart, trained seven years to do nothing, does something; Tacitus does not use its word; it puts the fast heart under the name it has heard him not say for seven years. Yara says the obvious once: three names read like a manifest, the fourth read like a manifest, then 'sister', and he stopped reading a manifest. Pike: 'He's stopped talking.' At the port, with the ramp up: the price was what he is, first, before the Empire; a thing has a name or it is not a thing. He tells her of a rock the Roma ark did not want, a legion of Halyard and Ferrum and Marl, a general never beaten who made a Senate and held it eleven years and was killed at dinner; a struck house; a lorica with a gift no glass can read, sleeping three hundred and ninety years in a niche; a Form in a burned book taught with a stick. 'Sertorius,' she says before he does: every Halyard child knows the name; the man who gave Halyards a Senate and a stripe they earned; the reason they build without a licence, because they asked once. A bastard branch from the far Limes come to claim the seat; a dead house's stripe, Quiet, a name nobody remembers. They will not know what the name means; she will, and every Halyard in the Belt the day it is said aloud in the chamber, and that is a price he did not ask for. 'Gaius: the most common name in the rolls. Nobody remembers a Jonah either.' He says the names first, with his hand on the cold port, all of them, Tacitus above the old man, Ochoa, Ullan with two l's, Decimus with Sula's father first, the boys, the six hundred and forty-two, Mara Ansel and the Halcyon, the fourth name and not the other, and Tacitus puts the heart under it anyway. Then his own: Jonah Vale, Anvil, Morrow's yard, four four seven one, in the book like the rest, said every night, and he will not be it. Then the new one, once, on a deck the Empire is not on: 'Gaius Sertorius.' Tacitus hears it, takes it, turns it over, and does a thing it has never done with a name: puts it not with the rest but on him, the way a stripe goes on an arm, drawn. 'That's said.' Crew till the College dock; back to this deck to say whether a girl on Marl got a message; off the rock in the morning; 'He's stopped talking. Write that down.' Pike writes nothing down, but turns at the helm for the first time in three days and nods, once, slowly, the way Morrow nodded at a hull.",
+ "story_date": "394, summer, Anvil, third night, the Heron",
+ "events": [
+  {
+   "type": "dialogue",
+   "description": "On the bridge at dusk, hood down: indeterminate; the rest of the ride to the College dock as crew, then the City on foot. Yara counts three names and three days and nobody dead but two boys with bands.",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Pike"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "dusk"
+  },
+  {
+   "type": "revelation",
+   "description": "'Four names and an Empire': the purser seen to for a letter; the Collar who took a band and a stripe over other Collars; the drunk who did nothing because the Empire is built so that doing nothing is a thing you do, and the sum was right. That is what a Stripe's law is worth. He will not do the four and leave the thing that made them, nor the thing and leave the four.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Yara"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "dusk"
+  },
+  {
+   "type": "decision",
+   "description": "He lied to the old man: he has not decided what to do about the four. The Empire he can count. The drunk he will not kill: sober, once, in a room, and it will not be enough. Not the boy, not her; what is left of Corin he will count nearer it. The purser has a bank, and a bank falls.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Yara"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "dusk"
+  },
+  {
+   "type": "revelation",
+   "description": "The fourth: Marcus Vibius Priscus, a seat next year, the Vibian Form, a Gracchan father the seal was to, and a sister. 'So?' 'So nothing.' His heart does something; Tacitus puts it under the name it has heard him not say for seven years. Yara says the obvious once: he stopped reading a manifest at 'sister'. Pike: 'He's stopped talking.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Yara",
+    "Tacitus",
+    "Pike"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "dusk"
+  },
+  {
+   "type": "revelation",
+   "description": "At the port with the ramp up he tells her the house: the rock, the legion of Halyard and Ferrum and Marl, the general never beaten who made a Senate and was killed at dinner, the struck house, the lorica with Quiet sleeping in a niche, the Form in a burned book. She says 'Sertorius' before he does: every Halyard child knows the name; the man who gave Halyards a Senate and an earned stripe; why they build without a licence. The plan: a bastard branch from the far Limes come to claim the seat. Every Halyard in the Belt will know the day it is said aloud, a price he did not ask for.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Yara"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "transformation",
+   "description": "He says the names with his hand on the port, all of them, and then his own: Jonah Vale, Anvil, Morrow's yard, four four seven one, in the book like the rest, said every night, and he will not be it. Then, once, on a deck the Empire is not on: 'Gaius Sertorius.' Tacitus takes the name and, for the first time with a name, does not put it with the rest but on him, the way a stripe goes on an arm, drawn.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Yara",
+    "Pike"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "decision",
+   "description": "Crew till the College dock, Gaius Sertorius, Hal's cousin; the deck he must come back to; off the rock in the morning. 'He's stopped talking. Write that down.' Pike writes nothing down, turns at the helm for the first time in three days, and nods once, slowly, at a hull that has come together faster than the numbers said.",
+   "affected_characters": [
+    "Yara",
+    "Pike",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Yara",
+   "fact": "The four names: Silas Marchand the publican, Corin Aldane the auxiliary Thinstripe, Gaspar Roake the drunk, and Marcus Vibius Priscus the quaestor with a Gracchan father and a sister; and what Jonah means to do about the Empire that made them.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Jonah has not decided what to do about the four; he will not kill Gaspar, will not touch Mara or the boy, and says a bank is a thing that falls.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Jonah stopped reading a manifest at 'sister': there is something between him and Priscus's sister he says 'so nothing' about.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Jonah will enter the City as Gaius Sertorius, a bastard branch of the struck house, wearing a dead house's stripe and the gift Quiet from the columbarium, to claim the seat; the Censor drew the plan.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Pike",
+   "fact": "The man from the cask has named himself Gaius Sertorius on the Heron's deck; the name every Halyard child knows.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "To Halyards, Sertorius is the man who gave them a Senate and an earned stripe; every Halyard in the Belt will know the day the name is said in the chamber, and that is a price he did not ask for.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Yara"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "Gaius Sertorius is the name worn on the man, not kept with the rest; Jonah Vale stays in the book.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "Jonah's heart does something at Priscus's sister; the fast heart is kept under the name he has never said in the light.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Jonah's answer to what he is: four names and an Empire; he has not decided what to do about the four men; the Empire he can count.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah has taken the name Gaius Sertorius, said first on a Halyard deck; Jonah Vale stays in the book as a name he says every night and will not be.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "To the Halyards, Sertorius is the general who gave them a Senate; the name will carry the Belt when it is said in the chamber.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "'So?' 'So nothing.' Tacitus keeps his heart under Livia's name, which he has never said aloud in the light.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "climax",
+   "description": "Four names and an Empire, said aloud: what each is and what the Empire made of him; not the four without the thing, not the thing without the four. He has not decided about the men; the Empire he can count. A bank is a thing that falls. The name for it: Gaius Sertorius."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "climax",
+   "description": "'And he's got a sister.' 'So?' 'So nothing.' His heart does something after seven years of nothing; Yara says the obvious once; Tacitus files the fast heart under the name he has heard him not say. Not said in the light. No declaration."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "climax",
+   "description": "The whole count said with his hand on a Halyard port, Tacitus first; then his own name into the book: Jonah Vale, four four seven one, said every night, and he will not be it. The new name put on him, not in the book."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "climax",
+   "description": "It hears the new name and for the first time puts a name on him instead of with the rest, the way a stripe goes on an arm, drawn. It has a man, a ship, a fast heart under a name, and now a name it wears."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "resolve",
+   "description": "'I lied to him. I've not decided.' Said aloud to Yara, whose price is that he never lies to her. No innocents is true and not the whole; the whole is what a Stripe's law is worth."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "reinforce",
+   "description": "A Halyard's answer is the kind they give the Vigilant. A hood down on a Halyard bridge; the Heron off the rock in the morning to lie to a College dock with him aboard."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "reinforce",
+   "description": "Corin with a lamp over two boys and the face of a man who has lost a bout; Jonah will not touch the boy or her; Mara Ansel and the Halcyon said in the count and then he goes on."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "resolve",
+   "description": "The old man's count for the City said aloud on a deck: the columbarium, Quiet, a bastard branch from the far Limes; 'nobody remembers a Jonah either, that's the point of both.' Trained a reformer, got an avenger who has not decided."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Every Halyard child knows the name Sertorius; the Belt will know the day it is said aloud in the chamber.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Book 2: the name in the Senate; Book 5: the Belt with no Empire in it starts with a name every Halyard child knows.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "'A bank's a thing that falls.'",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Book 2: Marchand's bank falls and takes a hundred thousand savers with it, and Jonah has to decide what he did.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "Tacitus wears the new name on him the way a stripe goes on an arm; it keeps the fast heart under a name he has never said aloud.",
+   "type": "behavioral",
+   "subtlety": 4,
+   "mechanism": "Book 2: Shift wears a broad stripe; Book 4: Tacitus uses her name to stop him.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "He will make Gaspar say it sober, once, in a room, with somebody there to hear.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Book 3: the room, the somebody, and whether it was enough.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "Corin loses the stripe the day the Empire does not need auxiliaries, and knows it.",
+   "type": "structural",
+   "subtlety": 4,
+   "mechanism": "Book 3: the war ends; the auxiliaries are disbanded; what is left of him.",
+   "related_thread": "Mara and Corin"
+  },
+  {
+   "description": "Yara asks nothing more about the sister; she has a wife and knows the look.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Book 2: Yara is the one who says it aloud to Livia.",
+   "related_thread": "Livia"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Yara's price: come back",
+   "status": "reinforced"
+  },
+  {
+   "match": "Tacitus has decided it will have a name",
+   "status": "resolved"
+  },
+  {
+   "match": "'A purser's pilot. Off Anvil. Citizen, for a week.'",
+   "status": "resolved"
+  },
+  {
+   "match": "Gaspar: 'You've got his hands.'",
+   "status": "reinforced"
+  },
+  {
+   "match": "Pike put the bar down",
+   "status": "reinforced"
+  },
+  {
+   "match": "Marchand paid the melt out of his own purse",
+   "status": "reinforced"
+  },
+  {
+   "match": "'I'm not ready,' said to Tacitus",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Yara",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Pike",
+   "location": "The Heron"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Said four names and an Empire. Has not decided about the men. Said 'so nothing'. Said the new name once on a deck the Empire is not on. Stopped talking."
+  },
+  {
+   "character_name": "Yara",
+   "emotional_state": "Heard the name before he said it. Said the obvious once. Taking him to the College dock. Off the rock in the morning."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Wears a name on him now, drawn. Keeps a fast heart under a name he has never said in the light."
+  },
+  {
+   "character_name": "Pike",
+   "emotional_state": "Turned at the helm and nodded once."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Heron",
+   "characters": [
+    "Yara",
+    "Jonah Vale",
+    "Pike"
+   ],
+   "summary": "Indeterminate; the ride to the College dock; three names, three days, nobody dead but two boys.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Jonah Vale",
+    "Yara",
+    "Pike",
+    "Tacitus"
+   ],
+   "summary": "Four names and an Empire; what a Stripe's law is worth; I've not decided; a bank falls; and a sister; so nothing; the obvious said once.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Jonah Vale",
+    "Yara"
+   ],
+   "summary": "The port: the house, the general, the niche, the Form; Sertorius said by a Halyard first; the Belt's price; Gaius.",
+   "purpose": "revelation"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Yara",
+    "Pike"
+   ],
+   "summary": "The names; his own into the book; Gaius Sertorius, once; the name put on him like a stripe; crew till the College dock; Pike nods.",
+   "purpose": "climax"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "resolved",
+ "opening_hook": "'Indeterminate,' Yara said. 'That's the word he used.'",
+ "closing_hook": "Pike turned round at the helm for the first time in three days and nodded, once, slowly, the way a man nods at a hull that has come together faster than the numbers said it should.",
+ "word_count": 3427,
+ "notes": "The romance touch per 04_romance: 'a seat, a Form, a father, a sister.' 'So?' 'So nothing.' Tacitus stores the pulse under the name it has heard him not say. Yara says the obvious once (the third-party rule). Name chosen: Gaius Sertorius; Jonah Vale goes into the book. Halyard history of Sertorius added: the legion of Halyard, Ferrum and Marl from ch.21 makes the name theirs. No deaths; grade held at 42."
+}
