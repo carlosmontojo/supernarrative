@@ -1,0 +1,348 @@
+{
+ "title": "Tacitus",
+ "summary": "A week of settling: fever everywhere evenly, the plate a size too big, the back of a hand giving a whole arm, plate over his face in the dark. He learns it again, thirty times a night. On the eighth night he locks himself in the Chamber, the only quiet room in the Pit, and says the name where it will stay: Tacitus. It hears, turns all the way, comes out of the doorway, stops at his heart and stays; the plate fits. 'You go at the top. Above him.' On the road: six hundred and forty-two, three words, and one above them. Decimus on the cage stool: he signed another five in the autumn; the aunt is dead, the school fees went up with the war; Sula will be twenty-one and will have stopped counting. 'I didn't want it to weigh on you.' Then the warning: tomorrow the month's end, no slate for a month, Tullus doing the galleries by hand and afraid; whatever is behind the door will not be; a frightened man counts. He will send for the College's scholars. At the fourth bell Jonah feels Tullus's men open the Chamber and stand for a hundred breaths and run. Dusk: three days; every man to the Throat for the glass; the Chamber to be read; scholars. And the seal in the margin above the last name. Pell: 'A scholar doesn't read your arm. A scholar reads the room you were in.' Jonah asks Tacitus by name to be nothing for longer than six hours, and it settles, which is what an answer feels like from a thing that has none.",
+ "story_date": "394, late winter, the sixth year",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "Six days of settling after the Mouth; the plate a size too big; relearned thirty times a night until the back of the hand and the seal come exactly as asked.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, days 1-8 after the Mouth"
+  },
+  {
+   "type": "transformation",
+   "description": "In the locked Chamber Jonah says the name: Tacitus. It hears, turns all the way, comes out of the doorway into him, stops at his heart and stays; the coat fits. 'You go at the top. Above him. That's the count. It starts with you now.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, night 8"
+  },
+  {
+   "type": "revelation",
+   "description": "Decimus on the cage stool: he signed another five years in the autumn; the aunt is dead two years; fees up with the war; Sula sixteen, will be twenty-one, will have stopped counting. He did not tell Jonah so it would not weigh.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "Sula's letter"
+   ],
+   "story_timestamp": "394, night 8"
+  },
+  {
+   "type": "revelation",
+   "description": "Decimus's warning: no slate for a month; Tullus doing the galleries by hand and afraid; tomorrow the month's end; whatever is behind the door will not be; a frightened man counts everything with a glass; he will send for the College's scholars. 'I'd start doing it now.'",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, night 8"
+  },
+  {
+   "type": "discovery",
+   "description": "Fourth bell: Jonah feels through the rock Tullus's two men open the Chamber, stand a hundred breaths, and run.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, month's end"
+  },
+  {
+   "type": "revelation",
+   "description": "Dusk count: three days; every man to the Throat by decury for the glass; the galleries and the Chamber to be read by scholars; any man not read is struck as gone into the wall. Jonah realizes he left a Master's seal in the margin above a name in his own hand.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Pell",
+    "Marcius Tullus"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "394, month's end, dusk"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah asks Tacitus by name to be nothing for longer than six hours; it settles, which is what an answer feels like from a thing with no words.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, month's end"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius is named Tacitus; it heard the name, stayed at his heart, and the plate fitted; it goes at the top of the count above the Censor.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Decimus signed another five years in the autumn; the aunt is dead; Sula is sixteen and will be twenty-one when he is done.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tullus has had no slate for a month, cannot do the galleries by hand, and will send for the College's scholars to read the Chamber and every man at the Throat.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He left a Master's seal in the margin of the sixteenth slab above the Censor's name written in his own hand; a scholar will know what it opens and ask whose hand.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "An answer from Tacitus feels like it settling into every part of him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "Whatever was behind the Chamber door is not there; 4471 knows it; the College's scholars will come.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "fact": "The Chamber is locked and empty; the Censor is gone; sixteen slabs remain; the galleries have no numbers.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:his men"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "4471 came back from the Mouth with a name; a scholar reads the room you were in, not your arm.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "Its name is Tacitus.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The genius is named Tacitus; it heard the name, stayed at his heart, and the plate fitted; it goes at the top of the count above the Censor.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Decimus signed another five years in the autumn; the aunt is dead; Sula is sixteen and will be twenty-one when he is done.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "He left a Master's seal in the margin of the sixteenth slab above the Censor's name written in his own hand; a scholar will know what it opens and ask whose hand.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "climax",
+   "description": "Named in the Chamber. It comes out of the doorway and stays. The count starts with it. Asked by name to be nothing; it settles."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "complicate",
+   "description": "Five more years signed, the aunt dead, Sula will stop counting; he did not tell so it would not weigh. The warning about the scholars. 'Don't. It's a count.'"
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "escalate",
+   "description": "The Chamber found empty; Tullus afraid; three days; every man to the Throat; scholars to read the room. The seal in the margin."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Tacitus above Aulus Terentius Pharus above six hundred and forty-two. The slabs will go up to be read."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "The plate fits when the name is said: being with, not carrying."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "plant",
+   "description": "'He did not know, yet, whose face would be looking back.'"
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "Tacitus, named, listens to him and not the wall."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The Master's seal left in the margin of the sixteenth slab above a name in Jonah's hand.",
+   "type": "object",
+   "subtlety": 4,
+   "mechanism": "Ch.25: the scholar reads the slabs first; Livia sees the seal and the second hand.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Decimus has been on the cage stool more nights than not since the winter.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "He is watching the road for 4471; ch.29-30 he is at the cage on harvest day by choice.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Sula's letter is four years old with two marks that are six.",
+   "type": "object",
+   "subtlety": 6,
+   "mechanism": "Ch.30: what Jonah takes from the coat; Book 2: what he sends her.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Tacitus listens to him and not the wall.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Named, it can be asked; ch.29 Voice through the palm on the shackle; ch.31 the first word.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "'Any man who does not go up to be read is to be counted as having gone into the wall, and struck.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "The mechanism of Priscus's register 'died in the Throat' (ch.34) and of disappearing from a count (ch.29).",
+   "related_thread": "Escape from the Pit"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The word for the quietest thing",
+   "status": "resolved"
+  },
+  {
+   "match": "The genius turned and looked at him, not through him",
+   "status": "resolved"
+  },
+  {
+   "match": "Decimus stops outside the seventh chamber",
+   "status": "reinforced"
+  },
+  {
+   "match": "Sula counts: fingers, stones, the days",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Chamber's monthly numbers end with the Censor",
+   "status": "resolved"
+  },
+  {
+   "match": "The slabs go up the Throat to the College's vault",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "location": "Pit surface garrison"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Plate fitted. Tacitus at his heart, staying. Three days, a scholar, a seal in a margin."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Named. Staying. Listening to him. Asked to be nothing; settled."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Signed five more. Said it so it was said. Warned him. Don't."
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "emotional_state": "Afraid. A locked room and no one in it. Counting everything."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "A scholar reads the room you were in."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Pell",
+    "Tacitus"
+   ],
+   "summary": "Settling; the plate too big; relearned.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Chamber",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The name said where it will stay. It comes out of the doorway and stays. The top of the count.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Tacitus"
+   ],
+   "summary": "The names on the road; the cage stool; five more years; Sula; the warning about scholars.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Pell",
+    "Decimus",
+    "Tacitus"
+   ],
+   "summary": "Tullus's men run from the Chamber; three days; the seal in the margin; asking Tacitus by name.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "reflection",
+ "pacing": "medium",
+ "emotional_tone": "intimate",
+ "opening_hook": "He said it in the Chamber, because it was the only room in the Pit that was quiet, and because the old man had drawn it.",
+ "closing_hook": "In three days a scholar will look up from the glass at his face, and he does not know yet whose face will be looking back.",
+ "word_count": 4200,
+ "notes": "Tacitus named. Grade about 31, plate fitted. Decimus re-signed for five years (timeline fix: still in the Pit through 395). The Chamber found empty; the College's scholars summoned by Tullus's fear: this is the ch.25 inspection where Livia, a scholar-novice, reads the slabs and the men. The seal in the margin is the hook."
+}
