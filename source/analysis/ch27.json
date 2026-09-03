@@ -1,0 +1,280 @@
+{
+ "title": "What You Ask of a Friend",
+ "summary": "Fourteenth night. Ulli is in the empty Cradle with his back to the wall, singing the fallow song. Jonah asks: carry me on the nineteenth, say I went in. He names the cost he cannot count: when the College reads the road, Ulli is read as having lied. Ulli: you have counted it like a slate; I am not on the slate, I am the one who carries. Why he is alive: nine years in the Deep, because when the wall reached for him in the first month he sang, the way Marl sings to a field, and the wall went still, listening, and has never finished. He was made the one who carries because he was the only man it would not take; forty-three, each sung slow. His price: on the eighteenth he will sit down in the Cradle and stop singing and go, on purpose, the day he has been choosing for nine years, so that two gone in a week is a story and not a question; and Jonah will sit with him and sing. 'You give the bowl back. I'm asking you, once, to take one.' Jonah takes it. His name: Ullan of Marl, the east fields, two l's; they always get it wrong; there was a thing he did on Marl that is his and he keeps it, and Jonah will write that too. On the road Jonah asks Tacitus, for the first time, a thing not for himself: to stand between when the wall takes Ullan, so he can be there and not have the count go through him. It does the deciding thing and then something smaller, in the middle of him: a hand on the arm. Pell: two l's; the east fields flood in spring; he will sing the fallow song with him; three is what a Marl field gets at the end.",
+ "story_date": "394, spring, day 14 of the harvest",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Jonah finds Ulli in the empty Cradle singing the fallow song, and asks him to carry him on the nineteenth and say he went in; he names the cost he cannot count.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 14"
+  },
+  {
+   "type": "revelation",
+   "description": "Why Ulli is alive nine years in a two-year Deep: he sang when the wall reached for him and it went still, listening, and never finished; he was made the one who carries because it would not take him; forty-three sung slow.",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 14"
+  },
+  {
+   "type": "revelation",
+   "description": "Ulli's price: on the eighteenth he will sit in the Cradle and stop singing and go on purpose, the day he has chosen for nine years, so two gone in a week is a story not a question; Jonah will sit with him and sing. 'I'm asking you, once, to take one.' Jonah takes it.",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 14"
+  },
+  {
+   "type": "revelation",
+   "description": "His name: Ullan of Marl, the east fields, two l's; the Throat wrote it with one; a thing he did on Marl that is his and he keeps; Jonah will write that there was a thing and it was his.",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 14"
+  },
+  {
+   "type": "transformation",
+   "description": "On the road Jonah asks Tacitus, for the first time, a thing not for himself: to stand between when the wall takes Ullan. It does the deciding thing and then something smaller in the middle of him: a hand on the arm, with no hand.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 14, night"
+  },
+  {
+   "type": "encounter",
+   "description": "Pell: 'Ullan's in the Cradle. He's not carrying anybody.' Two l's; the east fields flood in spring; the fallow song tells the water the crop is in; he will sing it with him; three is what a Marl field gets at the end.",
+   "affected_characters": [
+    "Pell",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 15"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Ulli is alive nine years in the Deep because he sang when the wall reached and it went still listening; he was made the one who carries because it would not take him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ulli"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Ullan of Marl, the east fields, two l's, will sit down in the Cradle on the eighteenth and stop singing, on purpose, and Jonah will sit with him; then Jonah will carry him to the count sick and say the one who carries went.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ulli"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "There was a thing Ulli did on Marl that is his and he keeps it.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Ulli"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tacitus, asked a thing not for Jonah, answered with something like a hand on the arm.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "Jonah will be in cask thirty-one from the sixth bell of the nineteenth and Ulli will say he went in on the nineteenth; Jonah has taken the bowl.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "Ullan, two l's, of the east fields, is going in on purpose and Pell will sing the fallow song with him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Ulli is alive nine years in the Deep because he sang when the wall reached and it went still listening; he was made the one who carries because it would not take him.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Ullan of Marl, the east fields, two l's, will sit down in the Cradle on the eighteenth and stop singing, on purpose, and Jonah will sit with him; then Jonah will carry him to the count sick and say the one who carries went.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Tacitus, asked a thing not for Jonah, answered with something like a hand on the arm.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "complicate",
+   "description": "The fifth thing has a price and it is not on the slate: Ullan goes in on the eighteenth so two gone in a week is a story. Jonah takes the bowl."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "Ullan of Marl, the east fields, two l's, they always get it wrong; a thing that was his and he kept it; he asked me to sit."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reveal",
+   "description": "The wall goes still for a song and has listened nine years without finishing: the one page the old man did not have."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Asked a thing not for Jonah: to stand between. The deciding, then a hand on the arm with no hand."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "'You give the bowl back. I'm asking you, once, to take one.' He takes it and cannot find the door of the place where he keeps things."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "'He chose.' 'Yes.' 'Then it's his.' 'It's on the slab in my hand.'"
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "reinforce",
+   "description": "Two gone in a week and Decimus will make two marks."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The wall goes still for a song, listening, and has never finished Ulli in nine years; the old man had no page for it.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Voice is not only Tacitus's: a man can be heard by the wall. Book 5: what a fused cutting hears in a song. Book 6: how the Vein is spoken to.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The thing Ulli did on Marl that is his and he keeps.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Never told. The book has a line for it: 'there was a thing, and it was his.' Book 6 the unknown pages.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Tacitus's answer: a hand on the arm, with no hand, in the place where the seam was.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "It has learned comfort from him; Book 4 it uses it on him with her name.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The fallow song tells the water the crop is in.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Ch.28: what Jonah sings in the Cradle. Ch.31: what he hums in the cask.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Two gone in a week: Decimus will make two marks and the road will call it the Deep.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Ch.29: the count on the nineteenth; Decimus does not say what he knows.",
+   "related_thread": "Decimus"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Ulli's song at the end of the road",
+   "status": "resolved"
+  },
+  {
+   "match": "The wall says come to every cutting in the Empire",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Censor tapped to keep his hands busy",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Took the bowl. Cannot find the door of the place where he keeps things. Asked Tacitus a thing not for himself."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Chosen the day. Singing the fallow song to himself. Wants to be sat with."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "A hand on the arm."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "Two l's. He should have heard it. Will sing the fallow song."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "summary": "The Cradle: the ask; why Ulli is alive; his price; taking the bowl; Ullan, two l's.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The road: a thing not for himself; a hand on the arm.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Pell"
+   ],
+   "summary": "Ullan's in the Cradle; two l's; the fallow song; three is what a Marl field gets.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "melancholy",
+ "opening_hook": "On the fourteenth night Ulli was not on his bucket, and Jonah found him in the Cradle, singing to it.",
+ "closing_hook": "Three is what a Marl field gets at the end, and the road will call it the Deep, and be right.",
+ "word_count": 2796,
+ "notes": "Ulli's full name Ullan of Marl. He will go in on the eighteenth; Jonah sits with him (ch.28 opens with it) then Harrow discovers the plan and demands in (ch.28). Grade about 32. Tacitus has answered a request that was not for Jonah."
+}
