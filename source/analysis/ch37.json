@@ -1,0 +1,330 @@
+{
+ "title": "Morrow",
+ "summary": "The yard office has a Flamen's lock with a want in it, and it opens for Jonah's hand. Morrow, fifty-seven, with the bank's paper under the lamp: the bank takes the yard on the seventh day. He knows the hood is the Halyard from the dock road because Bram, who tells everybody everything, will not say what the Halyard did first; and the lock opened. 'I don't want to know. I said that to a boy once, in this room, and it didn't hold.' The paper: a note from Marchand's bank signed in the winter of 389 to keep forty Collars on wages, a rate with a war in it, the legate taking his two hulls for the fleet at nothing; lawful; the most lawful man on Anvil never raises his voice. The melt: Gaspar has told it a hundred ways and none is what happened. Morrow found Tom in the chair, had no money, went to Marchand's clean office on the upper ring and said, you wrote the letter, you'll pay for the fire out of your own purse and it will go through my yard so the paper says the yard, because Tom Vale's not having his melt paid by the man who did it. Marchand counted it twice: a gift to the yard and not the family. It is the only thing on Morrow's ledger he is not ashamed of. Jonah had counted a good man paying and a bad man paying through him; it weighed differently. Why Marchand? Because Morrow had gone to all of them: the quaestor's door, the legate who does not see Blanks, a senator named Vibius off Ochoa's manifest, and then the Gracchans through a man on Marl; and the Gracchans wrote back two years on, no name: the convict you name is on the Tessera rolls, alive, under a number. What was he carrying. Not we'll help; what was he carrying. Morrow burned the letter and told Mara, who had stopped eating, that he was alive and nobody was getting him out; she said thank you, Ezra, and married Corin the year after because her family was under. Jonah puts the slab on the desk. Morrow's one-grade cutting feels it across the desk. A harvest slab; more matter than the yard cuts in a year. It clears the paper: not at the bank, which will not take matter off a Halyard without a manifest, but through a Flamen in the north yards who reads for coin and sells what he reads and cannot ask where. Take the coin to the clean desk on the sixth day and say, let's be precise, Silas, and count it twice. Then pay your cutters: a gift to the yard. 'Who are you.' 'Hal's cousin.' 'Halyards don't give a yard a slab.' 'This one does.' Why: because you paid for the fire and made him pay for it and told nobody, and a yard that pays Collars like citizens is a thing the Empire does not want to exist. 'The lock. Which are you: the key, a Flamen, or nothing.' 'Nothing. It opened for nothing. Tell the bank.' Julia Morrow, sixteen, is on the other side of the door in the dark with an unlit lamp and the Morrow habit, and looks at his hands, and the sleeve ridden up, and the white line. 'Father, there's a man come out through the locked door. He's got a struck line.' 'You're not a Halyard.' 'No.' 'Then what are you.' 'Ask me in a month.' Behind him: 'But Father, he's got Tom Vale's,' and the door shuts on the rest. In the empty yard where he cut the Halcyon's aft seam at fifteen: two paid, a drunk for a story and a good man for a yard, neither knowing who paid; Morrow made Marchand count it twice, and it was on no slate. There is always room. Tomorrow the Flamen, and a name. Out by the cutters' gate, which has no lock because Morrow never thought a cutter would steal from him, and was right.",
+ "story_date": "394, summer, Anvil, second night",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Jonah opens the yard office's Flamen's lock with his hand. Morrow, fifty-seven, with the bank's paper: the yard goes to Marchand's bank on the seventh day. He knows the hood is the Halyard from the dock road because Bram will not say what the Halyard did first, and because the lock opened. He will not say 'I don't want to know' again; he asks instead.",
+   "affected_characters": [
+    "Ezra Morrow",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "revelation",
+   "description": "The note: signed winter of 389 to keep forty Collars on wages; a rate with a war in it; the legate took the two hulls for the fleet at nothing; lawful. The melt, as it happened: Morrow found Tom in the chair, had nothing, went to Marchand's clean office and made him pay for the fire out of his own purse through the yard, because Tom Vale was not having his melt paid by the man who did it on a paper anybody could read. Marchand counted it twice: a gift to the yard and not the family. The only thing on Morrow's ledger he is not ashamed of.",
+   "affected_characters": [
+    "Ezra Morrow",
+    "Jonah Vale",
+    "Silas Marchand"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "revelation",
+   "description": "Morrow went to everyone: the quaestor's door, the legate, a senator named Vibius off Ochoa's manifest, and the Gracchans through a man on Marl. The Gracchans wrote back two years on, unsigned: the convict you name is on the Tessera rolls, alive, under a number. What was he carrying. Morrow burned the letter and told Mara, who had stopped eating; she said thank you, Ezra, and married Corin the year after because her family was under.",
+   "affected_characters": [
+    "Ezra Morrow",
+    "Jonah Vale",
+    "Mara Ansel"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "decision",
+   "description": "Jonah puts the Heron's slab on the desk; Morrow's one-grade cutting feels it. It clears the paper through the Flamen in the north yards who reads for coin and cannot ask where a slab came from; coin on the clean desk on the sixth day, counted twice; then pay the cutters: a gift to the yard. 'Halyards don't give a yard a slab.' 'This one does.' Because Morrow paid for the fire and made Marchand pay for it and told nobody, and a yard that pays Collars like citizens should exist a while longer. 'The lock. Which are you.' 'Nothing. Tell the bank.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Ezra Morrow",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The Heron's slab"
+   ],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "encounter",
+   "description": "Julia Morrow, sixteen, in the dark outer room with an unlit lamp, looks at the hood, the stance, the hands, and the white line where the sleeve rode up: 'There's a man come out through the locked door. He's got a struck line.' 'You're not a Halyard.' 'No.' 'Then what are you.' 'Ask me in a month.' Behind the door: 'But Father, he's got Tom Vale's.'",
+   "affected_characters": [
+    "Julia Morrow",
+    "Jonah Vale",
+    "Ezra Morrow"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "reflection",
+   "description": "In the empty yard where he cut the Halcyon's aft seam: two paid, a drunk for a story and a good man for a yard, neither knowing who paid; Morrow made Marchand count it twice and it was on no slate; there is always room. Tomorrow the Flamen and a name. Out by the cutters' gate, which has no lock.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Morrow found Tom dead in the chair and made Marchand pay the melt out of his own purse through the yard, telling him to his face it was because he wrote the letter; Marchand counted it twice as a gift to the yard.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ezra Morrow"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Morrow petitioned the quaestor, the legate, Senator Vibius, and the Gracchans; the Gracchans replied two years on that the convict was alive on the Tessera rolls and asked what he was carrying; Morrow burned the letter and told Mara.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ezra Morrow"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Morrow's yard goes to Marchand's bank on the seventh day on a note from 389 with a war in the rate, after the legate took his two hulls for the fleet at nothing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ezra Morrow"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "fact": "The hooded Halyard from the dock road opens a Flamen's lock with nothing, gave the yard a harvest slab to clear the note through the north-yards Flamen, and told him to pay his cutters.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "fact": "The hooded man is Jonah Vale.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced",
+   "note": "Julia said he has Tom Vale's hands and a struck line; the lock opened for nothing; he knew the melt."
+  },
+  {
+   "character_name": "Julia Morrow",
+   "fact": "A man in a Halyard's coat came out of her father's locked office with a struck line on his right arm and Tom Vale's hands, and said he is not a Halyard.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "There is a Flamen in the north yards who reads for coin and sells what he reads and will buy a slab without asking.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Morrow made Marchand pay for Tom's melt to his face because he wrote the letter; the 'gift to the yard' was Morrow's doing, not Marchand's.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Gracchans knew Jonah was alive on the Tessera rolls two years on and asked only what he was carrying; Morrow told Mara he was alive before she married Corin.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah has given Morrow the Heron's slab anonymously to clear the bank's note; Julia Morrow saw the struck line and Tom Vale's hands.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Morrow's ruin",
+   "beat_type": "climax",
+   "description": "Saved anonymously: the slab on the desk, the Flamen who cannot ask, coin counted twice on the clean desk, a gift to the yard. Morrow paid for the fire and made the man who wrote the letter pay for it. Julia saw the struck line."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "escalate",
+   "description": "What was on no slate: Morrow sat in the clean office and made Marchand count out the melt twice. Two of the rock's names paid, a drunk for a story and a good man for a yard; the count weighs differently."
+  },
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "escalate",
+   "description": "The Gracchans' answer to Morrow: alive under a number; what was he carrying. People who would pull a boy out of a hole for it and people who put him in one to keep it, and neither asking about the boy."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "reinforce",
+   "description": "Morrow told Mara he was alive two years on; she said thank you, Ezra, and married Corin the year after because her family was under; Morrow has never been sure he should have told her."
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "reinforce",
+   "description": "Everybody knew who wrote it: Anvil is a small rock. 'Let's be precise, Ezra, this is a gift to the yard and not to the family.'"
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "There is always room: Morrow's line rewritten with what he actually did. Julia Morrow, a face that will say what a thing is out loud in a room, and Livia's name said every night for seven years."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "A Flamen's lock with a want in it opens for nothing. The hand with no hand in the empty yard."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Julia Morrow saw a struck line and Tom Vale's hands on the man from the locked door.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Book 3: Julia is the one on Anvil who says who Sertorius is before he does.",
+   "related_thread": "Morrow's ruin"
+  },
+  {
+   "description": "The Gracchans' unsigned letter: alive under a number; what was he carrying.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Book 2: the Gracchans find him first and ask the same question; Book 4: Vibius the elder's hand.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "A Flamen's lock 'opened for nothing. Tell the bank.'",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Book 2: the bank's Flamen reads the lock and finds no want left in it; Marchand's first sight of what is coming for him.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "Morrow's ledger line: gift to the yard, the only thing he is not ashamed of.",
+   "type": "physical",
+   "subtlety": 5,
+   "mechanism": "Ch.39: the line Jonah writes for Marchand begins with the melt he was made to pay. Book 2: Marchand's bank ledger has the same entry on the other side.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "The north-yards Flamen who reads for coin will buy a slab without asking.",
+   "type": "structural",
+   "subtlety": 3,
+   "mechanism": "Ch.38: Morrow's slab crosses the same desk Jonah's arm does; the Flamen has two things to sell.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "The cutters' gate has no lock because Morrow never thought a cutter would steal from him, and was right.",
+   "type": "physical",
+   "subtlety": 6,
+   "mechanism": "Book 3: the gate is how the yard is taken back.",
+   "related_thread": "Morrow's ruin"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Marchand paid the melt out of his own purse",
+   "status": "resolved"
+  },
+  {
+   "match": "The law book in Morrow's office",
+   "status": "reinforced"
+  },
+  {
+   "match": "Morrow melts the Heron's skim",
+   "status": "reinforced"
+  },
+  {
+   "match": "A Halyard crewman's slab, cut into shards",
+   "status": "resolved"
+  },
+  {
+   "match": "Ochoa carried small sealed things unmanifested",
+   "status": "reinforced"
+  },
+  {
+   "match": "The melt ledger: south yards",
+   "status": "reinforced"
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The Heron's slab",
+   "holder": "Ezra Morrow",
+   "location": "Anvil yards"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "Anvil yards"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "Anvil yards"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "location": "Anvil yards"
+  },
+  {
+   "character_name": "Julia Morrow",
+   "location": "Anvil yards"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Paid a good man for a yard. Learned Morrow made Marchand count it twice. The count weighs differently. Tomorrow the Flamen and a name."
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "emotional_state": "A slab on the desk and a seventh day. Told the whole of it because there was nothing left to be careful about. Knows the lock opened for nothing."
+  },
+  {
+   "character_name": "Julia Morrow",
+   "emotional_state": "Saw the struck line and Tom Vale's hands and said so."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "The hand with no hand in the empty yard."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Anvil yards",
+   "characters": [
+    "Ezra Morrow",
+    "Jonah Vale"
+   ],
+   "summary": "The Flamen's lock; the seventh day; the note; the melt as it happened; the Gracchans' letter; Mara told.",
+   "purpose": "revelation"
+  },
+  {
+   "location": "Anvil yards",
+   "characters": [
+    "Jonah Vale",
+    "Ezra Morrow",
+    "Tacitus"
+   ],
+   "summary": "The slab on the desk; the Flamen who cannot ask; a gift to the yard; which are you; nothing.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Anvil yards",
+   "characters": [
+    "Julia Morrow",
+    "Jonah Vale",
+    "Ezra Morrow"
+   ],
+   "summary": "Julia in the dark: the struck line; not a Halyard; ask me in a month; Tom Vale's hands.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "Anvil yards",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The empty yard; two paid; there is always room; the cutters' gate with no lock.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 5,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "warm",
+ "opening_hook": "The yard office had a new lock, and it opened for his hand the way the old one would have opened for his key.",
+ "closing_hook": "He went out by the cutters' gate, which had no lock, because Morrow had never once thought a cutter would steal from him, and had been right.",
+ "word_count": 3404,
+ "notes": "Calm chapter per pacing note. No grade step; the progression is in the count: Morrow's true line. Marchand is not given a stripe (system bible: Blank, Tiro 3); he has the upper-ring house, tax farm and bank. Julia Morrow introduced (sixteen). The north-yards Flamen set up for ch.38."
+}
