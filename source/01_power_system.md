@@ -79,6 +79,13 @@ properly.
 3. Drill. Time and training. Slow. One grade a year for a diligent Thinstripe. Nobody
    gets to Tribune on drill.
 
+Unstripping. A lorica can be cut out of a bearer by the Flamens. It is a sentence. It
+usually kills, and when it does not it leaves a white scar where the stripe was and a
+hole where the genius sat. The Vein can feel that hole from across a mine. This is why
+Blank convicts die faster than Collars in the Pit, and why the Vein came for Jonah in
+weeks instead of years. The Censor is the only other unstripped man Jonah meets who is
+still alive.
+
 Settling. After any jump the genius needs time to integrate. During settling the bearer
 runs a fever, the plate misfires, and the lines wobble. One day per grade gained. A man
 who jumps 10 grades in a night is helpless for a week. This is the brake on the whole
@@ -240,26 +247,44 @@ each step by doing the thing for real, not in the Chamber.
 | VI. Case | Arguing a case to a hostile room and winning | ch. 33 | The Heron's hold. Eight armed smugglers. Nobody dies. |
 
 ### 6.2 The lorica ladder
+Rule for Book 1: from chapter 3 on, no chapter leaves Jonah's number where it found it,
+except the two chapters where holding still is the drama (17, 30). One step per chapter
+is the floor. Strain and the Vein give the jumps.
+
 | Chapter | Grade | Band | What changes |
 |---|---|---|---|
-| 1–17 | 0 | none | A collar, then a shackle. He can be locked by anyone with imperium. |
-| 18 | 0 (attuned) | none | Deep-digging. The Vein reaches for him and he lets it touch without letting it in. Heals in half the time. Hears through rock. Not a lorica; no reading shows it. First taste. |
-| 23 | 4 (unsettled) | Tiro | The bond. Lines all over the place. Plate comes out on its own. He cannot walk straight for three days. |
-| 24 | 6 | Tiro | Names it. Learns to hold the plate in. First gift, Plate, badly. |
-| 25 | 7 | Tiro | Under the Flamen scan Tacitus learns dormancy on its own to survive. Second gift: Hush, turned inward. He can go dark. |
-| 26 | 9 | Tiro | Feeding on shards. Hunger appears as a thing he can feel. Devour understood for the first time: he can feel the shard's tiny dead want. |
-| 29 | 12 | Miles | Harvest day. Strain jump. Shift first used on purpose: plate to blade, blade to hook. Tears the shackle off and Devours it: it is a lorica, a bad one, and it is the first time Voice works. He hears the shackle want to lock him and refuse to. |
-| 30 | 12 | Miles | Decimus. No grade. Integrity holds because he does not lie to himself. The reader learns that this is the rule. |
-| 31 | 12 | Miles | Stasis in the cask. Tacitus says "Name." |
-| 32 | 16 (unsettled) | Miles | Devours half a crewman's Tiro lorica before he stops. First stolen gift: Seal, wrong-shaped, from a ship's crew genius. First echo: the crewman's lorica was afraid of the dark. |
-| 35–38 | 17–18 | Miles | Settling. Two fevers. The black-market reading: "Grade: indeterminate. Genius: unregistered. Lineage: none." |
-| 40 | 18 | Miles | Gifts: Plate, Hush, Devour, Shift, Voice (sense only), Seal (unreliable). Hunger: high. Wit: unreadable. |
+| 1–2 | 0 | none | A collar. Anyone with imperium can lock him. He watches a Thinstripe deploy plate and wants it. |
+| 3 | 1 | Tiro | Investiture. Standard cutting, fused at 9. First Plate: one arm, half a face, pain. |
+| 5 | 2 | Tiro | Drill and first strain: a hull section falls in the yard and Plate holds. Then Lock, and his own lorica betrays him. |
+| 8 | void | none | Unstripped at Pit intake. Near death. A white scar where the stripe was. The scar is an open door. |
+| 10 | 3 (unsettled) | Tiro | The Vein comes through the scar. He gives it every name he has. The bond. Plate comes out in the dark on its own. |
+| 11 | 4 | Tiro | Learns by taps to hold Plate in. |
+| 12 | 5 | Tiro | Hush turned inward, learned in one night, or the morning count sees him. |
+| 13 | 6 | Tiro | Feeding on shards from his own quota. Devour felt. Settling fevers passed off as the sickness. |
+| 14 | 7 | Tiro | A gallery comes down. Plate holds it, unseen. Strain. |
+| 15 | 8 | Tiro | Shift, crude: plate to hook. Picks the Chamber lock. |
+| 16 | 9 | Tiro | Voice: feels the Vein as a mind. The Tiro ceiling, and no fuse to stop him. |
+| 17 | 9 | Tiro | Decimus. He could kill him now. He does not. |
+| 18 | 11 | Miles | Feeds from the Vein directly against orders. Hunger appears. Integrity shown: he lied to get here and the plate will not hold a shape for a week. |
+| 19 | 13 | Miles | The riot. Chisel in a hip seam in the light, Plate in the dark. Strain. |
+| 20 | 13 | Miles | Weeks without shards or teacher. Tacitus takes weight from him for the first time. |
+| 21 | 15 | Miles | Blade through Shift. Tremor learned in the galleries. |
+| 22 | 15 | Miles | The Censor dies. |
+| 23 | 18 | Miles | The Mouth. The Vein's memory of the first cut. Biggest jump of the book. |
+| 24 | 18 | Miles | Settling. Names it Tacitus. Learns his own plate again. |
+| 25 | 18 | Miles | Hush held six hours under a Flamen scan. Hiding a Miles, not a Tiro. |
+| 26–28 | 19 | Miles | Feeds on the harvest. Forges the manifest. |
+| 29 | 21 | Principal | Harvest day. Devours the shackle. Voice works on it. Strain. |
+| 30 | 21 | Principal | Decimus. Integrity holds because he does not lie to himself. The reader learns this is the rule. |
+| 31 | 21 | Principal | Stasis. Tacitus says "Name." |
+| 32 | 24 (unsettled) | Principal | Devours half a crewman's lorica and stops. Seal stolen, wrong-shaped. First echo. |
+| 35–38 | 25 | Principal | Two settling fevers. Black-market reading: "Grade: indeterminate." His own count says 25. |
+| 40 | 25 | Principal | Gifts: Plate, Hush, Devour, Shift, Voice (sense), Tremor, Blade, Seal (unreliable). Hunger: high. Wit: unreadable. |
 
-By the numbers, at the end of Book 1 a competent Thinstripe kills him in a fair fight.
-He knows it. That is why Book 2 opens with him avoiding every fair fight he can and
-entering the Ludi at the lowest step, under a stolen face, to eat his way up.
-
----
+By the numbers, at the end of Book 1 a competent Thinstripe at 35 kills him in a fair
+fight, and Priscus at 62 does not notice him. He knows it. That is why Book 2 opens with
+him avoiding every fair fight he can and entering the Ludi at the lowest step, under a
+stolen face, to eat his way up.
 
 ## 7. EVERYONE ELSE'S POWER (so the reader can measure Jonah against them)
 
@@ -268,7 +293,8 @@ entering the Ludi at the lowest step, under a stolen face, to eat his way up.
 | Priscus | Broadstripe | 62, Tribune | Verdict, Blade, Pulse, Harden, Lorica Sight, Lock, Hush, Brand | Inherited at 20. Pulse is why he sees through Jonah in ch. 6 and why Jonah cannot lie to him. The book's ceiling. |
 | Tullus | Thinstripe | 38, Principal | Blade, Anchor, Lock, Hush | Fused at 39. Fifteen years from a licence he never got. Bitter about it. |
 | Decimus | Blank | 7, Tiro | Plate, Blood Lock | Special licence to 9 as a mine guard. Never took it. "Not worth the trim." |
-| The Censor | unstripped | 0 | none | Was Tribune 71. His lorica was cut out of him at sentencing. The scar on his forearm is a white stripe. Unstripping usually kills. He is the only survivor Jonah ever meets, and he can still feel where the plate used to be. |
+| Jonah Vale | Collar, Blank for two weeks, Damned | 0, 1, 2, void, then 3 to 25 | see section 6 | The only bearer in the Empire with no fuse and no register. |
+| The Censor | unstripped | 0 | none | Was Tribune 71. His lorica was cut out of him at sentencing. The scar on his forearm is a white stripe. Unstripping usually kills. The Vein reached for him through the scar and he refused it and nearly died holding it off. He can still feel where the plate used to be. |
 | Auger | Damned | 0 | none | Was a Blank at 6. Unstripped for illegal spolia. Knows what a plate feels like and hates men who have one. |
 | Corin Aldane | Collar, later Thinstripe | 0, then 14 by ch. 36 | Plate, Burst, Lock | Earned the stripe crushing the Tessera rising. Fused at 39. Book 3: 31. He is exactly as good as the Empire lets him be, and he is grateful. |
 | Silas Marchand | Blank | 3, Tiro | Plate | Never wanted more. His power is a ledger. |
@@ -283,7 +309,7 @@ entering the Ludi at the lowest step, under a stolen face, to eat his way up.
 
 | Book | Jonah ends at | Band | Big unlocks |
 |---|---|---|---|
-| 1. Damnatio | 18 | Miles | Devour, Shift, Voice (sense), Hush, Seal. Hunger and Integrity established. |
+| 1. Damnatio | 25 | Principal | Devour, Shift, Voice (sense), Hush, Tremor, Blade, Seal. Hunger and Integrity established. |
 | 2. Purple | 44 | Centurion | Quiet (from the Sertorian lorica). Shift can wear a stripe. Voice hears wants. Blade, Pulse stolen on the Ludi floor. |
 | 3. Auxilia | 68 | Tribune | Spoils a Tribune in a declared duel. Verdict-class lineage gift stolen and re-learned. Voice speaks. Echoes become a chorus he has to manage. |
 | 4. Praetor | 92 | Legate | Devours Priscus's ancestral lorica. Gains Verdict. Loses Integrity for the first time and cannot hold plate for a month. Tacitus disagrees with him out loud. |
