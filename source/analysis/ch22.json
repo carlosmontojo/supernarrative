@@ -1,0 +1,413 @@
+{
+ "title": "Names",
+ "summary": "The year of the columns: three hours a night on the Chamber floor saying sixteen slabs until he can say them in the dark; six hundred and forty-one, four hundred with nothing beside the number, one with a tree, which is Corr's. The Master's seal drawn in the margin and drilled from the palm. Tremor reaches a heart through rock: the old man's, catching on the third. The autumn inspection: six hours in the doorway, void, the same young Flamen frowns and writes for the second time, his heart going fast through the rock; a note the first time, a pattern the second; a file for a man in a grey coat. Winter: the Censor dies on the shelf with the arithmetic done first. Four things: the slabs are a copy and Jonah is the book; carry me through the tunnel and put me against the wall I drew, so Tullus finds a locked room and lies awake; write me last as well and say me on the road; and the fourth, the thing he never taught: it is not a suit, it is someone, it has been polite for five years to a man who calls it a thing, ask it what it wants before it asks you. Jonah says the sixteenth slab with the endings right. 'Sertorius.' The heart catches on the second and stays. He carries him through the tunnel, lays him against the wall, and the count goes through: one more. He seals the tunnel from inside so it is rock, takes the half chisel, leaves the stick across the shelf, writes the name below the tree and the seal, locks the door from the road. Six hundred and forty-two on the road. He tells the genius he is sorry he did not ask, and it turns and looks at him. The place where it can answer is down.",
+ "story_date": "393-394, the end of the fifth year and the winter of the sixth",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "The year of the columns: the sixteen slabs memorized, six hundred and forty-one names, four hundred numbers with nothing, Corr's tree. The Master's seal drawn in the sixteenth slab's margin and drilled from the palm until it comes before he finishes asking.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "393"
+  },
+  {
+   "type": "transformation",
+   "description": "Tremor reaches a heart through rock: the Censor's, catching on the third in summer, on the second by winter. 'That is the last arithmetic I have and it comes out to the winter.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "393, summer"
+  },
+  {
+   "type": "encounter",
+   "description": "The sixth-year College inspection in autumn: the big glass, four Flamens, six hours in the doorway, void; the same young Flamen frowns and writes for the second time, heart going fast. The Censor: a note the first time, a pattern the second; a file; a Frumentarius will read it one day.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Pollio",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "393, autumn"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor's four things on the shelf: the slabs are a copy and Jonah is the book; put me against the wall I drew and let Tullus find a locked room; write me last as well and say me on the road; and the untaught thing: it is not a suit, it is someone, it has been polite for five years, ask it what it wants before it asks you.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, winter"
+  },
+  {
+   "type": "death",
+   "description": "The Censor dies on the shelf after hearing the sixteenth slab said with the endings right. His last word is 'Sertorius', said to Jonah as a name for the only time. His heart catches on the second and does not come off it.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, winter"
+  },
+  {
+   "type": "movement",
+   "description": "Jonah carries the Censor through the tunnel to the Cradle and lays him against the wall he drew; the wall takes him from the hole where a Tribune's genius was; the count goes through: one more, between a Halyard sailor and a man with no name. The genius watches from the doorway, unafraid and unhungry.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, winter"
+  },
+  {
+   "type": "destruction",
+   "description": "Jonah seals the tunnel from the Chamber side so the seam is rock; takes the half-worn chisel; leaves the stick across the empty shelf; cuts the name below the tree and the seal on the sixteenth slab and says it aloud; locks the door from the road with his hand.",
+   "affected_characters": [
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The Censor's tunnel",
+    "The Censor's stick",
+    "The book of names"
+   ],
+   "story_timestamp": "394, winter"
+  },
+  {
+   "type": "encounter",
+   "description": "Ulli heard the wall go quiet for a breath. 'He said the road was the only thing he'd drawn that he'd have liked to walk.' Jonah says all six hundred and forty-two on the road and the first name at the top.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Ulli",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, winter"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah tells the genius, in the old tongue, that he knows it is someone and is sorry he did not ask; it turns in the doorway and looks at him, not through him. The place where it can answer is down.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, winter"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He is the book: sixteen slabs, six hundred and forty-two names, said in the dark without a fault.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius is someone, not a suit; it has been polite for five years; ask it what it wants before it asks you.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The young Flamen has written him twice, at seventeen and at thirty; a note the first time, a pattern the second; it will go in a file a Frumentarius will read.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tremor can read a heart through rock.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor is dead, given to the wall he drew, counted, written last on the sixteenth slab, said on the road.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Master's seal comes from his palm before he finishes asking.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "The Censor is dead; the wall went quiet a breath; he said a name that was not his.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Pollio",
+   "fact": "A cut convict on the Shallows read as void with something wrong on the glass in the fourth-year inspection; he wrote it down.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pollio",
+   "fact": "The same convict read void with a wobble again in the sixth year: a pattern.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The genius is someone, not a suit; it has been polite for five years; ask it what it wants before it asks you.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor is dead, given to the wall he drew, counted, written last on the sixteenth slab, said on the road.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The young Flamen has written him twice, at seventeen and at thirty; a note the first time, a pattern the second; it will go in a file a Frumentarius will read.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "resolve",
+   "description": "Dies with the arithmetic done. Given to the wall he drew and counted by it. Tullus will find a locked room. 'Sertorius.'"
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "climax",
+   "description": "Jonah is the book. The Censor written first and last. Six hundred and forty-two said on the road."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "twist",
+   "description": "The untaught thing: it is someone, polite, never asked. Jonah says sorry; it turns and looks at him. The answer is down."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "plant",
+   "description": "The young Flamen writes him twice: a pattern; a file; a man in a grey coat with no stripe."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "escalate",
+   "description": "The Master's seal drilled. Tremor to a heart. The tunnel sealed. The Chamber's numbers end with the Censor: Tullus's galleries have no arithmetic now."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "The Form against the air, corrected from the shelf. Do not read hearts at dinner; it gets you challenged, and you cannot spoil on a floor."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "escalate",
+   "description": "The wall goes quiet for a breath counting the man who drew the room. The genius watches unafraid. Down."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The Chamber's monthly numbers end with the Censor; Tullus will find a locked room with sixteen slabs and no one.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Tullus's galleries have no arithmetic; the harvest is rushed and the guard is thin (ch.26, ch.29).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The slabs go up the Throat to the College's vault as a copy.",
+   "type": "object",
+   "subtlety": 6,
+   "mechanism": "Book 2: the slabs in the College vault; Livia reads them.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "The genius turned and looked at him, not through him.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Ch.23 the Mouth is where it can answer; ch.31 'Name.'",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "'Do not tell anyone at dinner what their heart is doing.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Book 2: Tremor at Vibian tables; Livia's heart.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "The stick left across the empty shelf.",
+   "type": "object",
+   "subtlety": 7,
+   "mechanism": "Ch.30: 'the old man's stick broken' (Sabinus's fang across it; Jonah takes it on harvest day).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The seal from the palm before he finishes asking.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Ch.26 forges the manifest's seal; Book 2 opens the columbarium.",
+   "related_thread": "Escape from the Pit"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "'A man who counts must be counted",
+   "status": "resolved"
+  },
+  {
+   "match": "The young Flamen in a clean robe frowned",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Master's seal is a shape the palm can learn",
+   "status": "resolved"
+  },
+  {
+   "match": "Tullus's men go down to the steel door once a month",
+   "status": "resolved"
+  },
+  {
+   "match": "The Master of year 200 wrote that the ninth seed had a name",
+   "status": "reinforced"
+  },
+  {
+   "match": "The genius stopped at his heart again",
+   "status": "reinforced"
+  },
+  {
+   "match": "The tapper's code is close to yard-tap",
+   "status": "resolved"
+  },
+  {
+   "match": "The rock's code gets better than Bram's",
+   "status": "resolved"
+  },
+  {
+   "match": "Jonah does not know the Marl boy's name",
+   "status": "reinforced"
+  }
+ ],
+ "status_changes": {
+  "Aulus Terentius Pharus": "dead"
+ },
+ "object_updates": [
+  {
+   "name": "The Censor's tunnel",
+   "status": "destroyed"
+  },
+  {
+   "name": "The Censor's stick",
+   "location": "The Chamber"
+  },
+  {
+   "name": "The book of names",
+   "location": "The Chamber",
+   "holder": "Jonah Vale"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The half chisel",
+   "description": "The Censor's chisel worn to half its length over nine years of tunnel. Jonah took it.",
+   "holder": "Jonah Vale",
+   "location": "The Deep",
+   "significance": "The only thing of the old man's he carries."
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Pollio",
+   "location": "The City"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "The book. Said the first name on the road. Sorry he did not ask. Going down."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Turned and looked at him."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Heard the wall go quiet for a breath."
+  },
+  {
+   "character_name": "Pollio",
+   "emotional_state": "Wrote it twice. A pattern. Heart going fast."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Chamber",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The year of the columns; the seal in the margin; Tremor to a heart.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Pollio",
+    "Tacitus"
+   ],
+   "summary": "The autumn inspection; six hours; the frown; the pattern.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Chamber",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "Four things; the sixteenth slab; Sertorius; the heart on the second.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus",
+    "Ulli"
+   ],
+   "summary": "Through the tunnel; the wall takes him; counted; the tunnel sealed; the name cut; the road; sorry I did not ask; it looks at him; down.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "melancholy",
+ "opening_hook": "The old man made him read the slabs until he could say them in the dark, and then he made him say them in the dark, and then he died.",
+ "closing_hook": "There is a place where it can answer, and he thinks he knows where it is. Down.",
+ "word_count": 4349,
+ "notes": "The Censor dead, given to the wall. Jonah holds all sixteen slabs in memory; the physical slabs remain in the locked Chamber for Tullus's men to find. Tunnel sealed. Stick left on the shelf. Grade about 28. Sixth-year inspection passed (Pollio's second note). Ch.23 the Mouth: the genius's answer; ch.24 the name."
+}
