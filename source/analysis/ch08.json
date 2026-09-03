@@ -1,0 +1,334 @@
+{
+ "title": "The Pit",
+ "summary": "Intake at Metalla VII. Stripped on the dock, numbered: 4471. Blanks go left to the unstripping slab. Jonah watches Aulus of Marl unstripped: the Flamen's glass rod calls the lorica out through the stripe, he screams for sixty counts and dies, 'didn't take it, they mostly don't'. On the slab the word calls Jonah's lorica; the genius lets the piece that wore the cutting be torn off into the cup, makes a sound inside his bones, and goes flat; the scream is real; reading: Void. It draws him a white scar. The shackle goes on his ankle and wakes up and owns it. Decimus meets decury six at the cage: 'I'll say your number and you'll say it back.' The Vein: a dark breathing wall. The genius lunges toward it; Jonah goes to his knees; the word that comes up through him is Mother. Corr: 'Vein wants that one already. Cut ones never make a year.' Jonah puts a chisel to the wall, it is warm, something far in turns to look, and he thinks: oh, so that's what you are.",
+ "story_date": "388, arrival at Metalla VII",
+ "events": [
+  {
+   "type": "movement",
+   "description": "The transport docks at Metalla VII. Thirty-eight condemned stripped on the dock. Jonah becomes 4471. Blanks left to the slab, Collars right to the cage.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Pell",
+    "Aulus of Marl"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, arrival"
+  },
+  {
+   "type": "death",
+   "description": "Aulus of Marl is unstripped on the glass slab: the Flamen's rod calls his lorica out through the stripe; he screams sixty counts and dies. White scar. 'Didn't take it. They mostly don't, that grade.'",
+   "affected_characters": [
+    "Aulus of Marl"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, intake"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah on the slab: the word calls his lorica; the genius lets the piece wearing the dead cutting be torn off into the cup, makes a sound inside his bones, goes flat below flat. Real scream. Reading: 'Void. Clean. You're still here.' It draws him a white scar. Grade 10.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, intake"
+  },
+  {
+   "type": "transformation",
+   "description": "The shackle closes on his left ankle, wakes up and owns it. 'It burns.' Decury six, the Shallows.",
+   "affected_characters": [
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The shackle"
+   ],
+   "story_timestamp": "388, intake"
+  },
+  {
+   "type": "movement",
+   "description": "The cage drops the Throat. Veins in the shaft walls. The genius comes up off the bottom and presses at the cage door: homesick. It has been here before.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, descent"
+  },
+  {
+   "type": "encounter",
+   "description": "Decimus, old Blank guard, takes decury six: 'I'll say your number and you'll say it back and that's the whole of what I want from you.' Leads them to see the Vein.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, the Shallows"
+  },
+  {
+   "type": "revelation",
+   "description": "The Vein: a dark breathing wall with pale lines, cut wet at one place. The genius lunges; Jonah goes to his knees; the word that comes through him is Mother. Corr says the Vein wants him already, cut ones never make a year. Decimus: 'Don't listen to Corr.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Decimus",
+    "Corr"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, the Shallows"
+  },
+  {
+   "type": "discovery",
+   "description": "Jonah puts a chisel to the Vein. It is warm. Something far in turns and looks at him. The genius looks back. 'Oh, so that's what you are.' He cuts; the wall lets him.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, the Shallows"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Unstripping: a Flamen's glass rod calls the lorica out through the stripe into a cup; it usually kills; it leaves a white scar.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius gave up a piece of itself to the Flamen's rod so the rest could stay; it made a sound and went flat; it may be hurt or grieving.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius came from the Vein: it recognizes Metalla VII as home and calls the Vein Mother.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein is one organism; every lorica is a cutting lobotomized at the Wit line; fuses were introduced in 152 to cap the orders.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The shackle is a lorica that burns if you run, dig where you are not put, or touch a guard.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:intake Blank"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein reaches for unstripped men faster because there is a hole in them; Corr says cut ones never make a year.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Corr"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "4471 is a cut Blank in decury six who went to his knees at his first sight of the Vein.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "4471 was unstripped at the Throat and lived.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The genius came from the Vein: it recognizes Metalla VII as home and calls the Vein Mother.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The derelict holds a whole uncut seed of the Matter, hidden by the Censor in 366.",
+   "new_knowledge_level": "suspects"
+  },
+  {
+   "fact": "The Vein is one organism; every lorica is a cutting lobotomized at the Wit line; fuses were introduced in 152 to cap the orders.",
+   "new_knowledge_level": "suspects"
+  },
+  {
+   "fact": "Unstripping: a Flamen's glass rod calls the lorica out through the stripe into a cup; it usually kills; it leaves a white scar.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "twist",
+   "description": "It sacrifices a piece of itself unasked, makes its first sound inside his bones, draws him a scar, then lunges for the Vein and says its first word through him: Mother."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "escalate",
+   "description": "The wall that breathes; the cut that is wet and moving; something far in turns to look at the warm chisel. 'Oh, so that's what you are.'"
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "plant",
+   "description": "'I'll say your number and you'll say it back.' He waits while Jonah kneels. He almost smiles. 'Don't listen to Corr.'"
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "Something in his chest that is not the genius turns over when he sees the scar it drew for him: not hunger, not fear."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Aulus of Marl, 4470, dies on the slab and is shrugged at. Pell hopes his brother lived long enough to hate them."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "plant",
+   "description": "The Throat, the cage, the shackle, the rules. The geography of the place he will leave."
+  },
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "reinforce",
+   "description": "Corr and the chisel men; the Shallows as a road with quota a shard a day."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The Flamen's unstripping rod looks cut off something, not made; the same dark glass as the reading slabs.",
+   "type": "visual",
+   "subtlety": 7,
+   "mechanism": "Flamen tools are cuttings too. The College's whole apparatus is the Vein turned on itself (ch.16, ch.23).",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The genius was afraid, for the first time, watching Aulus unstripped.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "It has seen the rod before: the first cut. Ch.23 the Vein shows Jonah the memory.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "'Mother': the first word, not Jonah's, not in his language, not a word.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Ch.10 'Mother' is the chapter where it tries to go home. Ch.31's 'Name' is the second word and the first in Jonah's language.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Corr says a month to everyone every morning and has been there four years.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Corr as the Shallows' weather. Decimus's dry humour. Corr dies in the riot (ch.19).",
+   "related_thread": "Auger's law"
+  },
+  {
+   "description": "The shackle wakes up and looks at his ankle and decides it owns it.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Tacitus eats it hollow (ch.9); in ch.29 Jonah devours it openly and Voice hears it want to lock him and refuse.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The Vein is warm to the chisel, like the cloth through the torn glove.",
+   "type": "environmental",
+   "subtlety": 6,
+   "mechanism": "Direct feeding from the Vein (ch.18) is skin to Vein. The warmth is the invitation.",
+   "related_thread": "The Vein's truth"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Aulus of Marl",
+   "location": "The Throat"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "4471. Cutting the Vein with a chisel. Knows what it is now, roughly. Behind on quota."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Lost a piece. Made a sound. Lunged at the wall. Mother."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Waited. Almost smiled."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "Hopes his brother lived long enough to hate them."
+  }
+ ],
+ "status_changes": {
+  "Aulus of Marl": "dead"
+ },
+ "new_objects": [
+  {
+   "name": "The shackle",
+   "description": "Dark iron-looking lorica on Jonah's left ankle. Burns if he runs, digs where not put, or touches a guard. Woke up and decided it owned the ankle.",
+   "holder": "Jonah Vale",
+   "location": "The Shallows",
+   "significance": "Eaten hollow in ch.9; devoured openly in ch.29."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Throat",
+   "characters": [
+    "Jonah Vale",
+    "Aulus of Marl",
+    "Pell"
+   ],
+   "summary": "The dock, the number, the slab: Aulus unstripped and dies; Jonah's piece torn off; Void; the scar drawn.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Throat",
+   "characters": [
+    "Jonah Vale",
+    "Pell"
+   ],
+   "summary": "The shackle; the cage drops; the genius homesick.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Pell",
+    "Corr",
+    "Tacitus"
+   ],
+   "summary": "Decimus and the count; the Vein; Mother; Corr's month; the warm chisel.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 9,
+ "scene_type": "revelation",
+ "pacing": "medium",
+ "emotional_tone": "dread",
+ "opening_hook": "The first thing they took was the light.",
+ "closing_hook": "The wall is warm, something far in turns to look, and he thinks: oh, so that's what you are. Then he pushes, because quota is a shard a day.",
+ "word_count": 4651,
+ "notes": "New character Corr (Shallows cutter, four years, 'a month'). Aulus of Marl dead. Jonah grade 10 after losing the piece. Pell in decury six with Jonah. Decimus takes decury six. The intake Flamen unnamed."
+}
