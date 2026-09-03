@@ -1,0 +1,264 @@
+{
+ "title": "Ad Metalla",
+ "summary": "Thirty-one days in the transport hold with forty condemned. Jonah presses Mara's hull ring into his forearm and the plate takes it under the skin. The Flamen-service crew Hush the hold every shift; the genius lets it pass and Jonah fakes the flinch. Water is by the cup, one man one ring, and the crew do not come down for what happens between men. A Blank convict, Hask, takes a Marl boy's water for eleven days and kills him on the twelfth. On the fourteenth Jonah steps out of the line, says 'Mine', turns Hask's wrist with Varro's hands, kills him with his own steel, and gives the cup back. Nobody gives it back. Pell, the old Marl farmer, counts four. A stripped Thinstripe by the ramp nods once: recognition. Jonah sits with his steady hands. On the thirty-first day the genius sits up and points at Metalla VII like a door it once walked out of, and wants to go home.",
+ "story_date": "388, thirty-one days in transit",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "Jonah presses the Halcyon hull ring into the soft plate on his left forearm; the plate takes it under the skin. The ring is hidden inside him.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The hull ring"
+   ],
+   "story_timestamp": "388, transit, day 1"
+  },
+  {
+   "type": "discovery",
+   "description": "The crew Hush the hold every shift; Blank convicts' loricae go slack; the genius lets the command pass and Jonah fakes the flinch. Pell explains it.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, transit, sixth hour"
+  },
+  {
+   "type": "death",
+   "description": "Hask, a Blank convict with sharpened hull steel, takes a sixteen-year-old Marl boy's water for eleven days and kills him on the twelfth when the boy says no. The crew log the body and leave it.",
+   "affected_characters": [],
+   "affected_objects": [],
+   "story_timestamp": "388, transit, day 12"
+  },
+  {
+   "type": "death",
+   "description": "Day fourteen: Jonah steps out of the water line, says 'Mine', takes Hask's rush with the Fulvian step, turns his wrist with bound hands, takes the steel and kills him under the ear. Four seconds. He leaves the steel on the barrel and gives the cup back to the old Collar. Strain: grade 11.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, transit, day 14"
+  },
+  {
+   "type": "encounter",
+   "description": "A stripped Thinstripe officer from Marl, Aulus, by the ramp, recognizes a garrison wrist-turn in a bound Collar and nods once.",
+   "affected_characters": [
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, transit, day 14"
+  },
+  {
+   "type": "revelation",
+   "description": "Jonah looks at his own steady hands and understands the echo likes what it does, cannot be taken out, and that deciding whether to let it out is the only thing that is his.",
+   "affected_characters": [
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, transit, day 14"
+  },
+  {
+   "type": "movement",
+   "description": "Day thirty-one: the transport lines up on Metalla VII. Pell: 'Three years if you're clever. Two if you're strong. My brother was strong.' The genius sits up and points at the planetoid; it wants to go home.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, transit, day 31"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The plate can take a small object under the skin and hold it: the hull ring is inside his left forearm.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Hush, the Flamen-service command, puts Blank loricae to sleep; it passes through the genius and does nothing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Law of Spoils without the rail: a man with something in his hand says mine and the ones who could stop it do not come down.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Varro's echo is pleased by killing and cannot be removed; deciding whether to let it out is the only thing that is Jonah's.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Metalla VII is the mines: three years if clever, two if strong, and the thing they dig digs back.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Pell"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius recognizes Metalla VII as a place it once left.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The plate can take a small object under the skin and hold it: the hull ring is inside his left forearm.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The genius recognizes Metalla VII as a place it once left.",
+   "new_knowledge_level": "suspects"
+  },
+  {
+   "fact": "Varro's echo is pleased by killing and cannot be removed; deciding whether to let it out is the only thing that is Jonah's.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "plant",
+   "description": "The Law of Spoils with the rail off: water by the cup, one man one ring, the crew do not come down. Jonah says 'Mine' and gives it back. Nobody gives it back."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Varro's contempt now looks at a Blank; Jonah agrees with it and is frightened. The wrist-turn from a garrison school, recognized by a stripped Thinstripe."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "He argues for a day and a night and finds the deciding already done in the place the ring went in. Steady hands he wishes were not."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Takes the ring under the skin. Lets Hush pass. Sits up and points at Metalla VII: it wants to go home."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "plant",
+   "description": "Pell counts to the floor: two, three, four. Jonah counts the ones he made. Everything he keeps, out of order."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "plant",
+   "description": "'What they dig at digs back.' The smell of a cut in rock that never healed. The genius knows the place."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "Among the things he keeps: a cup of the best water on Anvil, and a sister asleep believing the fourth bell."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The genius sits up and points at Metalla VII 'the way you'd look at a door you'd once walked out of'.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "The seed was cut from the Vein there. Ch.10 it tries to go home; ch.12 the Censor confirms.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The ring under the skin of his left forearm, a hard lump where a bone is not.",
+   "type": "object",
+   "subtlety": 6,
+   "mechanism": "Survives intake (ch.8) and the years; comes out in ch.36.",
+   "related_thread": "Mara and Corin"
+  },
+  {
+   "description": "The stripped Thinstripe Aulus nods once at Jonah: recognition, not fear.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "A stripped officer entering the Pit with Jonah; he will be unstripped at intake beside him (ch.8) and it will not go well. Also the name Aulus, shared with the Censor, is a false trail.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "Pell's brother went to the mines thirty years ago, for a field. 'They count you and that's the end of it.'",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "The Censor's book of names has Pell's brother in it (ch.16).",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "The old man with the stick will say this was the night: not the box, not the hold of the Kestrel.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Foreshadows the Censor's first lesson (ch.13): getting Varro out of his hands.",
+   "related_thread": "The Forms"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The transport"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The transport"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Grade 11. Steady hands he hates. Counting the ones he made: one. The ramp coming down."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Sat up. Pointing. Wants to go home."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The hull ring",
+   "holder": "Jonah Vale",
+   "location": "The transport",
+   "status": "hidden"
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The transport",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The hold; the ring goes under the skin; the Hush.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The transport",
+   "characters": [
+    "Jonah Vale"
+   ],
+   "summary": "Water by the cup; Hask and the Marl boy; the argument; 'Mine'; the cup given back; Pell counts four.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The transport",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "His hands; the Thinstripe's nod; the things he keeps; the drive changes; Metalla VII.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "action",
+ "pacing": "medium",
+ "emotional_tone": "dread",
+ "opening_hook": "Forty-one in the hold leaving Anvil, thirty-eight arriving, and Jonah had killed one of the three.",
+ "closing_hook": "The smell of a cut in rock that never healed, and the thing under his ribs wants to go home.",
+ "word_count": 4389,
+ "notes": "New minor characters: Pell (Marl farmer, singer), Aulus the stripped Thinstripe, Hask (dead). Grade 11. The ring is hidden inside Jonah's forearm. 'Three years if you're clever' delivered by Pell here rather than at intake; ch.8 can echo it from a guard."
+}
