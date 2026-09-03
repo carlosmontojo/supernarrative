@@ -1,0 +1,272 @@
+{
+ "summary": "The Kestrel pulls a founding-era Flamen hull out of the rings of Quirinus. Ochoa and Jonah retrieve a stone box holding a breathing seed. The patrol cutter Vigilant boards; Decurion Varro kills Ochoa mid-sentence to secure the claim, Locks Jonah with his collar, and Jonah, hand already in the box, bonds with the seed: the collar is eaten, plate erupts, a crooked fang comes out of the wrong arm, and he kills Varro through the throat seam on instinct. Ochoa dies asking him to deliver 'the seal' to 'Vibius'. The Vigilant threatens to fire.",
+ "events": [
+  {
+   "type": "discovery",
+   "description": "Jonah and Ochoa enter the derelict Flamen hull and find the stone room marked SEMEN with a breathing seed in a stone box.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Captain Ochoa"
+   ],
+   "affected_objects": [
+    "The seed"
+   ],
+   "story_timestamp": "388, three weeks before Founding Day"
+  },
+  {
+   "type": "encounter",
+   "description": "The Vigilant boards the Kestrel. Decurion Varro with two Blank marines.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Captain Ochoa",
+    "Silas Marchand",
+    "Decurion Varro"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, same day"
+  },
+  {
+   "type": "death",
+   "description": "Varro kills Captain Ochoa with his fang through the throat, mid-sentence, to remove the only man who could dispute the claim.",
+   "affected_characters": [
+    "Captain Ochoa",
+    "Decurion Varro"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, same day"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah bonds with the seed: it eats his collar's function, plate erupts everywhere, a fang comes out of the back of his right wrist. Grade about 4, unsettled.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The seed",
+    "Jonah's collar"
+   ],
+   "story_timestamp": "388, same day"
+  },
+  {
+   "type": "death",
+   "description": "Jonah kills Decurion Varro through the throat seam when Varro's cut skids on plate that moved on its own. Varro's plate retracts as he dies.",
+   "affected_characters": [
+    "Decurion Varro",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "Varro's lorica"
+   ],
+   "story_timestamp": "388, same day"
+  },
+  {
+   "type": "movement",
+   "description": "The two marines flee back to the Vigilant and report a hostile lorica aboard.",
+   "affected_characters": [],
+   "affected_objects": [],
+   "story_timestamp": "388, same day"
+  },
+  {
+   "type": "revelation",
+   "description": "Ochoa's last words: 'The seal. Vibius. Promise.' and 'You shouldn't have touched it.' Jonah promises to deliver the seal.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Captain Ochoa"
+   ],
+   "affected_objects": [
+    "The seal"
+   ],
+   "story_timestamp": "388, same day"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "partial",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Jonah killed Decurion Varro on the derelict and devoured his lorica.",
+   "new_knowledge_level": "partial",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Ochoa was a Gracchan courier carrying a seal addressed to Senator Vibius the elder, with the proof of the seed.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Captain Ochoa"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Ochoa had walked to the derelict in his head for twenty years without a chart; someone gave him the way.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "partial",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "fact": "Jonah killed Decurion Varro on the derelict and devoured his lorica.",
+   "new_knowledge_level": "partial",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "fact": "Marchand saw Jonah's plate through the Kestrel's hatch.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The derelict holds a whole uncut seed of the Matter, hidden by the Censor in 366.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Jonah killed Decurion Varro on the derelict and devoured his lorica.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Ochoa was a Gracchan courier carrying a seal addressed to Senator Vibius the elder, with the proof of the seed.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Marchand saw Jonah's plate through the Kestrel's hatch.",
+   "new_knowledge_level": "suspects"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "plant",
+   "description": "The stone room, the breathing seed, Ochoa's promise to explain tonight, the seal and the name Vibius as last words."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "plant",
+   "description": "The bond: a mind coming in, reading him, eating the collar, plate everywhere, the crooked fang. Hunger: it looks at Varro. Jonah says no out loud."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "plant",
+   "description": "The genius is hungry and looks at Varro's body. Jonah notices he liked still standing when the stripe was down, and notices that he noticed."
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "plant",
+   "description": "The cabin hatch was open and is now closed. Marchand stares at Jonah with a face he will never read."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "plant",
+   "description": "Jonah does not know how to fight. The throat seam by accident. 'He would learn the words later, in a room made of rock, from an old man with a stick.'"
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "plant",
+   "description": "Marchand present and afraid; the first death Jonah will not forgive is Ochoa's."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Ochoa never checks the chart and gives every heading right. Jonah deduces someone gave him the way twenty years ago.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Reader learns in ch.12 and ch.35 that Tom Vale sold the coordinates and Ochoa bought the way.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "The ice and rock go around the derelict; nothing has touched it in four centuries; the door 'looks relieved'.",
+   "type": "environmental",
+   "subtlety": 7,
+   "mechanism": "The seed repels and is aware; the Vein does the same at the Mouth (ch.23).",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "Old Latin on the walls: MATER, LAMINA, SEMEN. Jonah can read it from manifests.",
+   "type": "visual",
+   "subtlety": 6,
+   "mechanism": "Mater = the Matter; the Censor's training in Tongue will make this legible. Jonah's Latin from manifests is the seed of the Cursus.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The fang comes out of the wrong arm, the back of the wrist, crooked, and plate moves on its own to where the cut lands.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Shift: no template. The Sertorian Form is built for exactly this (ch.21).",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "The cabin hatch at the top of the ladder was open and is closed when Jonah looks.",
+   "type": "environmental",
+   "subtlety": 8,
+   "mechanism": "Marchand watched the whole thing from the cabin. Ch.2 'I didn't see anything, Captain.' Ch.4 the letter.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "Ochoa's last words: 'You shouldn't have touched it.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Ochoa knew a seed bonds; the Censor's fear (ch.12, ch.22).",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "Jonah notices he is still standing and the stripe is not, and does not like that he noticed.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "His secret (03_characters): he liked the moment after. The Censor will know.",
+   "related_thread": "Hunger and Integrity"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Kestrel"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Kestrel"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "location": "The Kestrel"
+  },
+  {
+   "character_name": "Captain Ochoa",
+   "location": "The Kestrel"
+  },
+  {
+   "character_name": "Decurion Varro",
+   "location": "The Kestrel"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Shock. Grief held off by motion. Something behind his heart, hungry."
+  },
+  {
+   "character_name": "Silas Marchand",
+   "emotional_state": "Terrified of the boy, not of what he saw."
+  }
+ ],
+ "tension_level": 9,
+ "scene_type": "action",
+ "pacing": "fast",
+ "emotional_tone": "dread",
+ "opening_hook": "The derelict had been dead for four hundred years and it was still a better ship than the Kestrel.",
+ "closing_hook": "The Vigilant counting down to firing; Jonah goes up the ladder to fly.",
+ "word_count": 5586,
+ "notes": "Ochoa and Varro must be set to status dead. Jonah's collar is now functionally dead (object status). Grade 4 unsettled per ladder. Marchand's POV interlude in ch.4 will confirm what he saw."
+}
