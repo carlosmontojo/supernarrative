@@ -1,0 +1,238 @@
+{
+ "title": "Interlude: Three Men and a Letter",
+ "summary": "Marchand's POV, Founding Night, the Halyard bar. Marchand composes the denunciation item by item: the Fulvian footwork in the sand, a Collar who stands like a plate-bearer, an unreported salvage from a founding-era hull, and a sealed packet addressed to a senator named Vibius, taken from Ochoa's effects. He does not write what he saw in the hold. Corin, on the rolls and terrified of what he watched, signs as witness. Gaspar, drunk, says 'Tom's boy' and nothing else. Marchand posts the letter through the quaestor's slot at the sixth bell. His unwritten third reason: the boy stood over a dead Stripe and was not sorry.",
+ "story_date": "388, Founding Night",
+ "events": [
+  {
+   "type": "discovery",
+   "description": "Marchand inventoried Ochoa's locker on the second day and found it clean; the unmanifested packets Ochoa carried for six years were gone. He heard the name 'Vibius' in the hold.",
+   "affected_characters": [
+    "Silas Marchand",
+    "Captain Ochoa"
+   ],
+   "affected_objects": [
+    "The seal"
+   ],
+   "story_timestamp": "388, second day after the rings"
+  },
+  {
+   "type": "revelation",
+   "description": "Corin admits he would have lost to the cadet and that Jonah's step cannot have been learned on Anvil; he wanted Jonah 'not here' before he ships out.",
+   "affected_characters": [
+    "Corin Aldane",
+    "Silas Marchand"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, Founding Night"
+  },
+  {
+   "type": "transformation",
+   "description": "Marchand writes the denunciation: unlawful lorica or object from a founding-era hull, and a sealed packet for a senator named Vibius, correspondence of an unlawful faction. He omits Varro's death.",
+   "affected_characters": [
+    "Silas Marchand"
+   ],
+   "affected_objects": [
+    "The letter"
+   ],
+   "story_timestamp": "388, Founding Night"
+  },
+  {
+   "type": "encounter",
+   "description": "Corin signs as witness with an unsteady hand. Gaspar wakes, says 'Tom's boy. He's a good boy', and goes back to sleep.",
+   "affected_characters": [
+    "Corin Aldane",
+    "Gaspar Roake",
+    "Silas Marchand"
+   ],
+   "affected_objects": [
+    "The letter"
+   ],
+   "story_timestamp": "388, Founding Night"
+  },
+  {
+   "type": "movement",
+   "description": "Marchand posts the letter through the petition slot of the quaestor's house at the sixth bell, marked urgent and concerning the Flamens.",
+   "affected_characters": [
+    "Silas Marchand"
+   ],
+   "affected_objects": [
+    "The letter"
+   ],
+   "story_timestamp": "388, Founding Night, sixth bell"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Silas Marchand",
+   "fact": "Ochoa was a Gracchan courier carrying a seal addressed to Senator Vibius the elder, with the proof of the seed.",
+   "new_knowledge_level": "partial",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "fact": "Marchand wrote the denunciation (unregistered genius, Gracchan seal); Corin signed it; Gaspar watched and said nothing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "fact": "Marchand wrote the denunciation (unregistered genius, Gracchan seal); Corin signed it; Gaspar watched and said nothing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "told_by:Silas Marchand"
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "fact": "Marchand wrote the denunciation (unregistered genius, Gracchan seal); Corin signed it; Gaspar watched and said nothing.",
+   "new_knowledge_level": "partial",
+   "how_learned": "overheard"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Marchand wrote the denunciation (unregistered genius, Gracchan seal); Corin signed it; Gaspar watched and said nothing.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Marchand's letter omits Varro's death; it accuses an unlawful lorica from an unreported salvage and a sealed packet for a senator named Vibius.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Marchand's real reason: the boy stood over a dead Stripe and was not sorry.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "escalate",
+   "description": "The letter written, signed, witnessed by silence, and posted. The reader knows the four names' first three and their reasons."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "Marchand for the captaincy and fear; Corin for Mara and for the bout he could not have won; Gaspar for nothing, which is his crime."
+  },
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "complicate",
+   "description": "Marchand names Vibius in writing. The seal is now sedition on paper, addressed to the quaestor whose father it names."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "complicate",
+   "description": "Corin's confession: 'she'll be watching him do things I can't.' He signs."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Marchand does not write the hold. He writes only the sand and the packet.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Why Priscus can dismiss the lorica (ch.6) and bury on the seal instead; why Varro's death stays a Vigilant mystery until ch.34.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "Ochoa carried small sealed things unmanifested for six years, aboard on Anvil, off in the Interior.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Ochoa's Gracchan courier work; the Censor's chain in ch.12.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "Corin's hand signing is the hand of a man in the sand who has decided and is about to be cut.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "Corin falls on a duelling floor in Book 3.",
+   "related_thread": "Mara and Corin"
+  },
+  {
+   "description": "Gaspar decided long ago that the safest thing a Collar can do in any room is nothing.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Ch.35: he sells the story to a stranger because a stranger is not a room.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "The Halyard bar, named for the fifth ark.",
+   "type": "environmental",
+   "subtlety": 9,
+   "mechanism": "Yara is Halyard by blood (ch.33).",
+   "related_thread": null
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Silas Marchand",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "location": "Anvil tenements"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Silas Marchand",
+   "emotional_state": "Precise. Frightened. The sum checked."
+  },
+  {
+   "character_name": "Corin Aldane",
+   "emotional_state": "Signed, sick, telling himself it was for Mara."
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "emotional_state": "Asleep. 'Tom's boy.'"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The letter",
+   "description": "Marchand's denunciation to the quaestor: unlawful lorica from an unreported founding-era salvage; sealed packet for a senator named Vibius. Witnessed by Corin Aldane.",
+   "holder": "Marcus Vibius Priscus",
+   "location": "Quaestor's house, Anvil",
+   "significance": "The instrument of the fall. Priscus reads it in ch.6."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Anvil tenements",
+   "characters": [
+    "Silas Marchand",
+    "Corin Aldane",
+    "Gaspar Roake"
+   ],
+   "summary": "The Halyard bar. The letter composed, signed, witnessed by silence.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Quaestor's house, Anvil",
+   "characters": [
+    "Silas Marchand"
+   ],
+   "summary": "The letter posted at the sixth bell.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "paranoid",
+ "opening_hook": "Marchand had never written a number he had not checked, and he was not going to start with a letter.",
+ "closing_hook": "A boy with a ring on his finger lies awake and does not know he has six days.",
+ "word_count": 2773,
+ "notes": "Interlude POV Marchand. Jonah unaware of the letter. The Halyard bar name planted for Yara."
+}
