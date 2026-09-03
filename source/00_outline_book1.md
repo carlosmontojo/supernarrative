@@ -1,24 +1,33 @@
 # DAMNATIO — Book 1 of the SERTORIUS series
-## Working outline (pending author approval)
+## Working outline, version 3 (pending author approval)
 
 Progression sci-fi. Six novels. Book 1: 150,000 words, 40 chapters. Written in English.
-Blend: Red Rising (Roman lore, castes), Iron Prince (suits that evolve, levels), He Who
-Fights With Monsters (protagonist voice: anti-authority, sarcastic, never a clown) and
-The Count of Monte Cristo (revenge as engine, the sage in the prison, infiltration of
-high society, moral greys).
+Blend: Red Rising (Roman lore, castes, blades everywhere), Iron Prince (suits that
+evolve, levels), He Who Fights With Monsters (protagonist voice: anti-authority,
+sarcastic, never a clown) and The Count of Monte Cristo (revenge as engine, the sage in
+the prison, infiltration of high society, moral greys).
+
+Three rules this version is built on:
+1. Jonah has the symbiont from chapter 1. The bond is the opening set piece.
+2. Blades. The plate stops bullets, so every fight between bearers is fang against fang,
+   through the seams. There is a fight in at least one of every three chapters and a
+   duel that matters in every part.
+3. The strong eat the weak by law. Spolia is a right, not a crime. The Empire is a
+   food chain and they print the menu on your arm.
 
 ---
 
 ## 1. THE PREMISE IN FIVE LINES
 
-Jonah Vale is a Collar: a non-citizen from a shipbreaking moon on the frontier of the
-Empire. At nineteen he is about to get what almost no Collar gets: manumission, a ship
-and a wedding. Three small men and one brilliant magistrate bury him without trial in a
-prison mine where the living substance that all loricae are cut from is dug out by hand.
-There, an old man erased from history teaches him to think, to speak, to kill and to lie.
-And there Jonah does the one thing nobody is supposed to do: he lets the Vein take him
-whole. He walks out seven years later with a new name, a fortune, and something alive
-inside him that does not answer to the Empire. Or, entirely, to him.
+Jonah Vale is a Collar, a non-citizen barge pilot from a shipbreaking moon on the
+Empire's frontier. On a salvage run his crew pulls a four-hundred-year-old Flamen hull
+out of the rings, an Imperial officer kills his captain for it, and Jonah, dying on the
+deck, grabs the one thing in the reliquary and lets it in. He kills the officer with a
+blade grown from his own arm. Two weeks later three small men and a brilliant magistrate
+bury him without trial in the prison mine where the living thing that all loricae are
+cut from is dug out by hand. There, an old man erased from history teaches him to think,
+to speak, to lie, and to fight with a blade nobody has seen in a century. He walks out
+seven years later with a new name, a fortune, and the only free genius in the system.
 
 ---
 
@@ -26,465 +35,405 @@ inside him that does not answer to the Empire. Or, entirely, to him.
 
 ### The Empire (which calls itself the Republic)
 - One star system, settled about 600 years ago. 388 years ago, after a century of wars
-  between colonies, a general unified the system and named himself Princeps, "first
-  citizen". Officially the Republic never ended: there is a Senate, there are elected
-  magistrates, there are laws. In the Interior people say "the Republic". Out on the
-  Limes (the frontier) everyone says "the Empire". The word you use tells people your
-  caste. This is a constant source of humor and of anger for Jonah.
-- Geography: the Interior (the core worlds; the capital is simply the City, Urbs) and
-  the Limes (worlds conquered in the last 150 years, home to most Collars). Beyond the
-  Limes: the Confederacy, other human colonies the Empire calls "the barbarians". They
-  have their own suit technology. Material for Books 5 and 6. Only mentioned in Book 1.
-- The current Princeps: Tiberius Claudius Septimus. Old, clever, tired. Does not appear
-  in Book 1. Appears in Book 2.
+  between colonies, a general unified the system and named himself Princeps. Officially
+  the Republic never ended: Senate, elected magistrates, laws. In the Interior people say
+  "the Republic". On the Limes everyone says "the Empire". The word you use tells people
+  your caste.
+- Geography: the Interior (the core worlds; the capital is simply the City) and the
+  Limes (worlds conquered in the last 150 years, home to most Collars). Beyond the Limes,
+  the Confederacy: other human colonies the Empire calls barbarians, with their own suit
+  technology. Books 5 and 6.
+- The Princeps: Tiberius Claudius Septimus. Old, clever, tired. Holds the Wall. Book 2.
 
 ### The castes: the stripe
-Every caste is read on the skin, because a dormant lorica lives under the skin and leaves
-a mark. The mark is the stripe. Nobody can fake a caste.
+Every caste is read on the skin, because a dormant lorica lives under the skin and
+leaves a mark. Nobody can fake a caste. Jonah will.
 
 | Common name | Formal name | Mark | Who they are |
 |---|---|---|---|
-| Broadstripes | Senatorial order (laticlavii) | Broad purple stripe on the forearm | About 400 families. They inherit ancestral loricae carrying centuries of accumulated growth. They rule. |
-| Thinstripes | Equestrian order (angusticlavii) | Narrow purple stripe | Officers, industrialists, minor magistrates. Own loricae, legal cap at grade 40. |
-| Blanks | Citizens | No stripe, or a thin black line | Full citizenship. May carry a low-grade lorica, legal cap at 10. Trade, civil service, rank and file. |
-| Collars | Peregrini (non-citizens) | A black ring around the neck | Conquered peoples. They wear a degraded lorica that gives nothing and does three things: identify, locate, paralyze. Anyone holding imperium can lock it. |
-| The Damned | Damnati (the condemned) | The shackle: the collar replaced by something worse | Not a caste, a state. Those condemned to the mines. Legally they do not exist. |
+| Broadstripes | Senatorial order | Broad purple stripe on the forearm | About 400 houses. Inherit ancestral loricae carrying centuries of growth and a named fang. Rule. |
+| Thinstripes | Equestrian order | Narrow purple stripe | Officers, industrialists, minor magistrates. Own loricae, fused at 39. |
+| Blanks | Citizens | A thin black line | Full citizenship. Fused at 9. |
+| Collars | Peregrini | A black ring around the neck | Conquered peoples. A degraded lorica that identifies, locates and paralyzes. Anyone holding imperium can lock it. |
+| The Damned | Damnati | The shackle | Not a caste, a state. The condemned. Legally they do not exist. |
 
-Texture:
-- Manumission is real. A Collar can earn citizenship through service. It is rare but it
-  happens. Jonah's father believes in the ladder. This is a deliberate grey: the system
-  is not only cruelty, it is a promise that is sometimes kept, and that is why it lasts.
-- Broadstripes can adopt heirs, as in Rome. This is the door Jonah will use to get in.
-- Damnatio memoriae exists: erasing a name from the records. It is used against fallen
-  senators. Against the poor it is not needed: nobody writes them down in the first
-  place. This is the emotional core of the book and it lands in chapter 35.
-- The Frumentarii: the Princeps' secret police. They hunt anyone carrying an
-  unregistered genius. They appear at the very end of Book 1 and hunt Jonah for the
-  whole series.
+### The Law of Spoils (the strong eat the weak)
+- Lex Spolia. Any bearer may challenge any bearer of their own band or below to a duel
+  of fangs. Death is the default. The winner takes the lorica. It is not murder. It is
+  the oldest law in the Empire and the one the Empire is proudest of: "we do not inherit
+  strength, we take it." That is a lie, because ancestral loricae are inherited, but
+  every Broadstripe heir has to defend the inheritance at least once, and some houses
+  have gone extinct on a duelling floor.
+- Refusing a challenge is legal. It costs you a Brand on the plate that every reading
+  shows: Declined. A declined Thinstripe never holds office. A declined Broadstripe
+  loses precedence in the Senate. Nobody with ambition refuses.
+- You may challenge upward only in the Ludi, the public games, where the lower bearer
+  wagers his life and the higher wagers his stripe. The Ludi are the only ladder in the
+  Empire that goes up. Book 2 climbs it.
+- Calling. A Stripe may call any Blank or Collar to "sharpen": an unplated bout with
+  steel knives, for practice or for sport. The Blank cannot refuse. Deaths happen. On the
+  Limes they happen a lot.
+- The Lesser Ludi. On frontier worlds, Collars fight Collars with steel for the crowd
+  and the winner's name goes on the auxiliary rolls. It is the only manumission most
+  Collars will ever be offered. Corin Aldane wins his bout in chapter 3.
+- Senate precedence is by duel record. A house seat passes by blade. The Princeps is
+  whoever holds the Wall.
+- Manumission by service exists and is real. Jonah's father believes in it. This is the
+  grey: the system is not only predation, it is a promise sometimes kept.
+- Damnatio memoriae: erasing a name. Used on senators. Not needed on the poor, who are
+  never written down. The emotional core of the book, and it lands in chapter 35.
+- The Frumentarii: the Princeps' secret police. They hunt unregistered genii. They
+  appear at the end of Book 1 and hunt Jonah for the series.
 
-### The loricae: the power system
-What a progression reader needs in two pages:
+### The loricae, the fang, the Vein
+Detailed in 01_power_system.md. What matters for the outline:
+- A lorica is a living symbiont with a small mind, a genius. Grade is its level. Plate
+  stops bullets above Principal, so bearers fight with fangs: blades grown from the
+  plate. Only matter cuts matter.
+- Grade rises by strain (near death), spolia (eating another lorica) and drill.
+- Every lorica is a cutting from one organism embedded in a planetoid. Flamens call it
+  the Matter. The condemned who dig it out by hand call it the Vein. Cuttings are
+  lobotomized so they cannot say no.
+- A seed is an uncut piece of the Matter, whole, with a whole mind. There are supposed
+  to be none left. The Censor hid the last one in a dead ship twenty-two years ago.
+  Jonah's captain went looking for it. That is what the derelict is, that is what the
+  seal is about, and that is why both Jonah and the Censor are in the Pit.
 
-- A lorica is a symbiotic organism. It lives dormant under the skin and deploys over the
-  body in under a second as living plate. It has a "genius" (a mind, very simple in a
-  normal lorica). At first wearing (the investiture) the genius imprints on the bearer
-  and grows with them.
-- Grade: the level. It is a number. It rises when the genius learns, and the genius
-  learns from two things: real strain (the bearer close to death) and devouring matter
-  from other loricae. The fastest way up is to kill another bearer in single combat and
-  absorb their lorica. That is why the Empire worships the duel, why the Ludi (public
-  duelling games) exist, and why the wars on the Limes are a business.
-- Gifts: concrete abilities a lorica develops over time. Each lineage accumulates its
-  own. An ancestral lorica of a Broadstripe house carries three hundred years of gifts.
-- Inheritance: an ancestral lorica accepts only blood of the line. The heir of a
-  Broadstripe house starts at grade 60 the day they receive it. A Blank starts at grade 1
-  and by law cannot pass 10. A Collar starts and ends at 0. The inequality is not a
-  metaphor. It is a number on the skin.
-- Imperium: legal authority is literal. A magistrate holding imperium can give orders to
-  the loricae of any lower caste: lock them, paralyze them, switch them off. The law
-  lives inside the suit. A Collar cannot hit a Thinstripe because his body will not let
-  him.
-- Readings: the Flamens (the college of priest-technicians who manage the loricae) can
-  scan anyone and produce a reading. These readings will appear in the text at key
-  moments, as a block, the way Iron Prince does it. Jonah's reading on entering the
-  mine: "Grade 0. Genius: none. Lineage: none. Peregrine."
-
-### The secret: the Vein
-- Every lorica is a cutting from a single organism the Empire found 400 years ago
-  embedded in a planetoid. The Flamens call it the Matter. The condemned call it the
-  Vein. The founding myth says the gods handed the lorica to the first Princeps. The
-  truth is there is a huge living thing inside a rock and they have spent four centuries
-  cutting pieces off it and lobotomizing each piece so it obeys.
-- It is dug out by condemned men with bare hands because no lorica can go near it: the
-  Vein tries to reabsorb them. And because the Vein tries to bond with any human who
-  touches it. Uncontrolled, that bond kills in two or three years. The condemned call it
-  "the sickness". The Empire calls it operating cost.
-- A whole genius, not lobotomized, is not a tool. It is someone. The Empire cuts the
-  loricae precisely so they can never say no.
-
-### Jonah's edge (the clear advantage over everyone else)
-Jonah does not wear a cutting. He bonds directly with the Vein, whole, with a complete
-genius. He names it Tacitus, because for months it says nothing.
-
-What Tacitus gives him:
-1. No grade cap. No law limits him because he exists in no register.
-2. Devour: absorbs matter from other loricae at a speed no normal lorica can match.
-   Every bearer he beats is a leap, not a step.
-3. Shift: normal loricae are locked to a template. Tacitus is not. It can change shape
-   and, later, mimic the mark and signature of another lorica. That is how he will pass
-   as the heir of an extinct Broadstripe house: by devouring that house's dormant lorica
-   and wearing its face.
-4. Voice: he senses other loricae. At first like radar. Later he can speak to them. By
-   the end of the series he can free them. The entire caste structure of the Empire
-   rests on suits that obey. Jonah carries the only thing that can tell them to stop.
-   This is the lever to sink the Empire from within, and also the ultimate moral trap:
-   freeing every collar on the Limes at once would kill millions.
-5. It does not answer to imperium. No magistrate can paralyze him.
-
-What it costs him:
-- Hunger. Tacitus needs matter. If it cannot get it outside, it takes it from Jonah.
-- Detectability. A high-grade lorica can "smell" him. A Flamen who reads him sees
-  something that should not exist. He has to learn to hide Tacitus, and the whole
-  infiltration depends on it.
-- It is not a suit. It is someone. It is curious, it has opinions, it learns Jonah's
-  sarcasm and, over the books, it learns morality. The long arc of the series is a
-  crossover: Jonah cools down and Tacitus warms up. In Book 4 they start to disagree.
-  In Book 6 we find out which of them was right.
-- When he leaves the mine he is not strong. He is unstable, hungry and low grade (about
-  12 effective). What he has is an infinite ceiling and gifts nobody else has. Power is
-  earned across the series, not handed out in Book 1.
+### Jonah's edge
+Tacitus, the seed. Whole genius, no fuse, no register, no cap on Wit. Devour (eats any
+lorica by contact, including a fang mid-fight), Shift (plate with no template: the fang
+comes from anywhere, and later, a borrowed stripe), Voice (senses loricae as minds, will
+one day free them). Does not answer to imperium. Costs: Hunger, Echoes (every eaten
+lorica leaves its habits and its prejudices in his hands), Readings (until Quiet, every
+scan is a coin toss), Integrity (a divided host cannot hold plate: the theme as a
+mechanic). At the end of Book 1 he is a Centurion with a dead man's fever and eight
+gifts that are not all his. Book 2 starts at the bottom of the Ludi with a stolen face.
 
 ---
 
 ## 3. CHARACTERS
 
 ### Jonah Vale (protagonist, 19 at the start, 26 at the escape)
-- A Collar from Anvil, a shipbreaking moon orbiting the gas giant Quirinus.
-- Barge pilot without a lorica. He flies by hand through debris fields where suited
-  pilots will not go. He is very good and he knows it, but he does not brag: he laughs.
-- "Vale" is Latin for "farewell". Broadstripes find this funny. Jonah finds it funnier.
-  "Jonah" is also what sailors call a man who brings bad luck to a ship. He knows that
-  too.
-- Personality: anti-authority to the bone. Not rebellious as a pose. He simply cannot fit
-  in his head the idea that someone gives orders because of a stripe. Sarcastic, dry,
-  funny at power's expense, never at the expense of the weak. When things get serious he
-  stops joking. He keeps his word even when it costs him his life (the captain's
-  package).
-- Flaw: too honest. He believes the system has rules. Priscus cures him of that.
-- Progression arc, Book 1: grade 0 (ch. 1), grade 1 at investiture (ch. 3), grade 2
-  (ch. 5), unstripped to void (ch. 8), bonded to the Vein (ch. 10), and then one step
-  every chapter to grade 25 (ch. 40). See 01_power_system.md, section 6.
-- Book 1 arc: from a good man with rules to a good man without them. He does terrible
-  things (steals a dying man's ration, whips a fellow prisoner, kills Decimus) and lies
-  to himself about none of them. His way of staying good is not forgetting. That is why
-  he inherits the Censor's book of names.
-- His new name (ch. 39): Gaius Sertorius, heir of an extinct senatorial house.
+- Collar from Anvil, shipbreaking moon of the gas giant Quirinus. Barge pilot. Flies by
+  hand through debris fields suited pilots will not enter.
+- "Vale" is Latin for farewell. Broadstripes find it funny. "Jonah" is what sailors call
+  a man who brings bad luck to a ship. He knows both.
+- Anti-authority to the bone. Cannot fit in his head that a stripe gives orders.
+  Sarcastic, dry, funny at power's expense, never at the weak's. Shuts up when someone
+  is about to die. Keeps his word past the point of sense.
+- Flaw: he believes the system has rules. Priscus cures him.
+- He has never held a blade before chapter 1. He wins his first three fights on a dead
+  man's reflexes (Varro's echo) and hates how good it feels. The Censor's first lesson
+  is to strip the echo out of his hands and put his own in.
+- Arc, Book 1: from a good man with rules to a good man without them. Steals a dying
+  man's ration, whips a fellow prisoner, kills Decimus. Lies to himself about none of
+  it. Inherits the book of names.
+- Progression, Book 1: bonds in ch. 1, Miles by ch. 5 hidden under a Blank's mark,
+  Principal by ch. 16, Centurion 41 by ch. 30 after spoiling the Trimmer. See
+  01_power_system.md, section 6.
+- New name (ch. 39): Gaius Sertorius.
 
-### Tacitus (the genius of the Vein)
-- Ancient, alien, curious, literal. No words for the first chapters: sensations,
-  pressure, hunger. First word in chapter 31, alone in the coffin, in the dark. Second
-  sentence in chapter 40. It learns to speak from Jonah, so the first thing it learns is
-  sarcasm. Readers will love it.
+### Tacitus (the seed)
+Ancient, curious, literal, hungry. Wordless for thirty chapters: pressure, hunger,
+pull. First word in chapter 31, alone in the coffin: "Name." Learns speech from Jonah,
+so it learns sarcasm first. The long arc: Jonah cools, Tacitus warms, Book 4 they
+disagree, Book 6 decides who was right.
 
-### Aulus Terentius Pharus, "the Censor" (the sage)
-- Senator and Master of the Flamens, erased from history. He discovered what the Vein
-  is, tried to bring it to the Senate, was condemned for treason and given damnatio
-  memoriae. Twenty years in the Pit. Still alive because he is the only one who knows
-  how to keep the deep galleries stable: the mine's director uses him in secret.
-- In the Pit he keeps a book of names: every condemned man who arrives. It is the only
-  thing he can do against forgetting. Hence the nickname.
-- He teaches Jonah: high Latin, law, rhetoric, the real history of the Empire, how to
-  eat, how to stand, how to insult like a Broadstripe, poisons, seals, forgery, and
-  combat: he was a duellist in his youth and knows where the plates of a lorica hinge.
-- His secret (ch. 20): he designed the Pit. The condemned die inside a system he drew.
-  He is atoning. When Jonah finds out, he stops coming for weeks.
-- His grey: he wanted to save the Empire from its own greed, not destroy it. He trains a
-  reformer and gets an avenger. He dies without knowing which of the two he made.
-- He is unstripped: his Tribune lorica was cut out of him at sentencing. The scar is
-  a white line where the stripe was. The Vein reached for him through that scar twenty
-  years ago and he refused it out of fear, and nearly died holding it off. He knows the
-  door exists. When it opens in Jonah (ch. 10) he is the only man alive who can talk
-  him through it, and he does it by tapping code through a rock wall.
-- What he refuses to allow: feeding from the Vein directly. Jonah disobeys (ch. 18).
-- Dies in chapter 22. His last gifts: the book of names, House Sertorius, the keys to
-  the columbarium, and the gift Quiet that sleeps there.
+### Aulus Terentius Pharus, "the Censor" (the sage, and the swordmaster)
+- Senator, Master of the Flamens, and in his youth the best fang on the Senate floor.
+  Discovered what the Vein is, hid the last seed in a dead Flamen hull in the rings of
+  Quirinus so the Empire could not cut it, tried to bring the truth to the Senate, was
+  condemned and erased. Unstripped: a white scar where the broad stripe was. Twenty
+  years in the Pit, alive because Tullus needs him to keep the deep galleries from
+  collapsing.
+- Keeps a book of every condemned man's name. Hence the nickname.
+- Teaches Jonah two ladders. The mind: Latin, law, rhetoric, poison, seals, forgery,
+  bearing. The blade: the Forms of the great houses, and the lost Sertorian Form, built
+  for a lorica that can put its fang anywhere. He teaches it with a stick, and beats
+  Jonah with the stick for two years.
+- Secret (ch. 20): he designed the Pit. Grey: he wanted to save the Empire from its
+  greed, not end it. Trains a reformer, gets an avenger. Dies in ch. 22. Last gifts:
+  the book, House Sertorius, the columbarium keys, the gift Quiet.
 
-### The four (the men behind the fall)
-1. Silas Marchand (the Danglars). Blank, purser of the barge Kestrel. Wanted the
-   captaincy. Writes the denunciation. Ends up a publican (tax-farmer and banker) in the
-   City, obscenely rich. A small man who made one choice and prospered. Falls in Book 2.
-   His fall wipes out thousands of small savers. First grey blowback.
-2. Corin Aldane (the Fernand). Collar, wants Mara. Signs the denunciation. Enlists in
-   the auxiliaries and rises to Thinstripe by crushing a Collar uprising on another moon.
-   Marries Mara. They have a son. Falls in Book 3.
-3. Gaspar Roake (the Caderousse). Welder, neighbour, drunk, coward. He was there and
-   said nothing. In ch. 35 he tells the whole story to a hooded stranger for a shard of
-   matter. He does not know it is Jonah.
-4. Marcus Vibius Priscus (the Villefort). Broadstripe, young quaestor posted to the
-   Limes to build a career. Brilliant and cold. Discovers that the package Jonah carries
-   is addressed to his own father, a senator and secret Republican. Burns the seal and
-   buries Jonah without trial. Rises to praetor. Falls in Book 4, and in his fall an
-   innocent dies. That is the central moral crisis of the series.
+### The four
+1. Silas Marchand (the Danglars). Blank purser of the Kestrel. Saw the plate through
+   the hatch in ch. 2. Writes the denunciation: unregistered genius and a Republican
+   seal. Becomes a publican in the City. Falls in Book 2, and takes thousands of savers
+   down with him.
+2. Corin Aldane (the Fernand). Collar, wants Mara. Wins the Lesser Ludi in ch. 3, goes
+   to the auxiliaries, earns the thin stripe crushing a Collar rising. Marries Mara.
+   Falls in Book 3.
+3. Gaspar Roake (the Caderousse). Welder, neighbour, drunk. Silent. Sells the story to
+   a hooded stranger in ch. 35.
+4. Marcus Vibius Priscus (the Villefort). Broadstripe quaestor on the Limes. Tribune
+   62, holds Verdict and Pulse. Stops a flogging in ch. 3 because it offends his sense
+   of law. Buries Jonah in ch. 6 because the seal names his father. Falls in Book 4.
 
-### Those left behind on Anvil
-- Tom Vale, father. Believer in the ladder. Dies of grief and hunger in the second year.
-  Nobody writes his name down anywhere.
-- Mara Ansel, the fiancée. Hull welder, Collar. She does not betray him: she survives.
-  When Jonah vanishes her family goes under and Corin is the one who helps. She
-  recognizes him in Book 3. Her question at the end of Book 3: "And what are you now?"
-- Ezra Morrow (the Morrel). Blank, shipowner, good man. Petitions Jonah's manumission,
-  tries to intercede and gets the door shut in his face. Marchand ruins him from the
-  City. Jonah saves him anonymously in ch. 37. His daughter Julia is an ally in later
-  books.
+### Anvil
+- Tom Vale, father. Believes in the ladder. Dies in year two. Nobody writes him down.
+- Mara Ansel, fiancée. Hull welder, Collar. Survives, does not betray. Marries Corin
+  when her family goes under. Recognizes Jonah in Book 3.
+- Ezra Morrow (the Morrel). Blank shipowner. Petitions Jonah's manumission. Ruined by
+  Marchand's bank. Saved anonymously in ch. 37. Daughter Julia, later books.
+- Captain Ochoa. Republican courier. Dies in ch. 1 on Varro's fang. His last words are
+  about the seal.
+- Decurion Varro. Thinstripe, Principal 24, from the patrol cutter Vigilant. Kills
+  Ochoa without breaking conversation. First man Jonah kills. First echo in Jonah's
+  hands: a duellist's reflexes and a duellist's contempt for Collars.
 
 ### The Pit
-- Prefect Marcius Tullus, director of the mine. Competent, not a sadist. Genuinely
-  believes that without matter the Empire falls to the Confederacy. Orders a decimation
-  after the riot.
-- Decimus, veteran Blank guard. Treats the condemned as people. Has a daughter in the
-  Interior. Jonah saves his life in the riot (ch. 19) and kills him in the escape
-  (ch. 30). He is the weight Jonah carries for the whole series.
-- Auger, king of the condemned. Brutal, clever, has a daughter. Discovers the escape plan
-  and demands in. Grey to the end.
-- Ulli, a deep-digger, friend. Stays behind to cover the escape knowing what it means.
-- The deep-diggers: the ones who go furthest down. Half mad. One says the Vein sings
-  names. He is right.
+- Prefect Marcius Tullus. Director. Principal 38, fused at 39, bitter about it. Not a
+  sadist. Believes without the Vein the Empire falls to the Confederacy. Orders a
+  decimation.
+- Gnaeus Sabinus, "the Trimmer". Tullus's licensed blade. Centurion 45 on a military
+  licence he has lost and regained twice, trimmed both times, hence the name. Harvests
+  convicts with his fang the way other men clear brush. The book's duel.
+- Decimus. Blank guard, Tiro 7. Treats the condemned as people. Has a daughter. Jonah
+  saves him in the riot and kills him in the escape.
+- Auger. King of the condemned. Unstripped Blank. Rations by challenge, chisels. Has a
+  daughter. Grey to the end.
+- Ulli. Deep-digger, friend. Stays to cover.
 
 ### After
-- Yara, captain of the freighter Heron, a contractor skimming matter. First ally.
-  Negotiates with Jonah while his lorica is halfway through devouring one of her crew and
-  he decides to stop. She is the series' Jacopo and Bertuccio in one.
-- The black-market Flamen (ch. 38). Reads Jonah, sees what he is, and sells the reading
-  to the Frumentarii. He is the book's closing hook.
+- Yara. Captain of the freighter Heron, matter skimmer. Tiro 9 with Hush turned inward.
+  First ally. Negotiates with Jonah while he is halfway through eating her crewman.
+- The black-market Flamen. Reads Jonah. Sells the reading. Closing hook.
 
 ---
 
 ## 4. VOICE AND STYLE (voice bible, injected into every chapter)
 
-- Third person limited, past tense, glued to Jonah. This is the HWFWM voice. It allows
-  short interludes from other eyes at the part breaks (Marchand, Priscus). Never more
-  than two interludes per book, never more than 2,000 words each.
+- Third person limited, past tense, on Jonah. HWFWM voice. Two short interludes from
+  other eyes (Marchand, Priscus), never more than 2,000 words each.
 - Short and medium sentences. One idea per sentence. Minimal subordinate clauses.
-- Zero poetic similes. Zero lyrical metaphors. If there is a comparison it is functional
-  or comic and it comes out of Jonah's head ("he had the face of an accountant who had
-  just been told a joke about accountants").
-- Humor comes from dialogue and from what Jonah thinks about authority. Never from
-  slapstick. Golden rule: he jokes upward, never downward, and he shuts up when someone
-  is about to die.
-- System information is earned through experience (Jonah has never touched a lorica
-  until ch. 3) and crystallizes into block readings when the moment calls for it.
-- Register: plain contemporary English, clean, conversational. Collars have plain names
-  and plain speech. Broadstripes have Latin names and courtroom syntax. Part of the
-  Censor's training is teaching Jonah to switch register at will, and the reader hears
-  him switch.
-- Every chapter ends on a hook. Every chapter has at least one moment where Jonah laughs
-  at something he should not, and one where he does not laugh at something he should.
-- Forbidden: "like a shadow", "the silence was", anything a HWFWM reader would skip.
-  No triple adjectives. Never explain the joke. No em dashes in narration; dialogue tags
-  and commas do the work.
+- Zero poetic similes. Comparisons are functional or comic and come out of Jonah's
+  head. Fights are written in short declaratives: what moved, what cut, what it cost.
+  No slow motion. No "time seemed to stop".
+- Humor from dialogue and from what Jonah thinks about authority. Never slapstick.
+  Jokes upward, never downward. Shuts up when someone is about to die.
+- System information earned through experience and crystallized in block readings.
+- Plain contemporary English. Collars: plain names, plain speech. Broadstripes: Latin
+  names, courtroom syntax. The reader hears Jonah learn to switch.
+- Every chapter ends on a hook. Every chapter has a moment where Jonah laughs at
+  something he should not, and one where he does not laugh at something he should.
+- Forbidden: "like a shadow", "the silence was", triple adjectives, explaining the joke,
+  em dashes in narration.
 
-### Voice sample (about 170 words, to approve the tone before writing)
+### Voice sample (opening of chapter 1, to approve tone before writing)
 
-The inspector wore the narrow stripe on his forearm, sleeve rolled up so nobody could
-miss it. Jonah missed it on purpose.
+The officer killed Captain Ochoa in the middle of a sentence. Not Ochoa's sentence.
+His own.
 
-"Name."
+"The salvage is claimed under the Lex Metallica, the vessel is impounded, the crew will
+be," he said, and the fang came out of his forearm and went through Ochoa's throat and
+back in, and he finished, "compensated at the standard rate."
 
-"Vale. Like the goodbye, not like the valley."
+Ochoa sat down. He did it carefully, the way he did everything, and then he lay down,
+and that was less careful.
 
-"Caste."
+Jonah had known him for six years. He had never seen him sit down carefully. He had
+never seen a fang either, not this close, not going in. It had looked like a bar of dark
+glass for about as long as it takes to blink. Then it was gone, and the officer's arm
+was just an arm again, and the narrow purple stripe on it was still there, because of
+course it was.
 
-Jonah touched the black ring at his throat. He didn't need to. The inspector was looking
-right at it. But he liked making people say things out loud.
+"You," the officer said. "Peregrine. What's in the box?"
 
-"Guess."
-
-The inspector didn't guess. He wrote something on his slate, and Jonah could tell from
-his face that what he'd written was not "peregrine". He didn't care. He had just put a
-two-hundred-metre barge through a debris field no suited pilot would have crossed, with
-the captain dead in the freezer and no sleep in two days. If the Empire wanted to flog
-him for it, it could get in line.
+Jonah looked at the box. He looked at Ochoa. He decided that whatever was in the box, it
+was his now.
 
 ---
 
 ## 5. BOOK 1 STRUCTURE (40 chapters, 150,000 words)
 
-Average target: 3,750 words per chapter. Interludes: 2,000. Set pieces: up to 5,500.
-Internal chronology: year 388 of the Principate (arrest) to 395 (return).
+Average target: 3,750 words. Interludes: 2,000. Set pieces: up to 6,000.
+Chronology: year 388 of the Principate (the derelict) to 395 (return).
+Fights are marked with a sword: (⚔).
 
-### PART I — THE STRIPE (ch. 1–8, about 30,000 words)
+### PART I — THE FANG (ch. 1–8, about 32,000 words)
 
-Progression in Part I: 0, then 1, then 2, then void. The reader gets a lorica in
-chapter 3 and loses it in chapter 8. Losing it is the point.
+Progression in Part I: bond in chapter 1, Principal 24 devoured in chapter 2, Miles by
+chapter 5 hidden under a Blank's mark, unstripped and faking it by chapter 8.
 
-1. No Stripe (3,800). Jonah takes the Kestrel through the rings of Quirinus with no
-   lorica and Captain Ochoa dead in the freezer. Orbital inspection by a Thinstripe, who
-   deploys plate to make a point: first lorica on the page, seen from below. Jonah's
-   mouth nearly earns him a flogging; Morrow stops it. Establishes castes, the collar,
-   imperium. Hook: Jonah has hidden the captain's last errand, an unopened seal.
-2. Anvil (3,800). The shipbreaking moon. Tom, Mara, Corin, Gaspar. Morrow announces the
-   petition is granted: manumission and the captaincy, investiture on Founding Day.
-   Marchand's face. Jonah decides to deliver the seal on the first Interior run because he
-   promised. Hook: Marchand watches him hide it.
-3. Investiture (4,400). Founding Day. Priscus, as quaestor, performs the manumission
-   himself: the collar comes off, a Flamen invests a standard cutting. Block reading:
-   "Grade 1. Genius: standard cutting. Fused at 9." First Plate: it covers his left arm
-   and half his face and hurts like nothing he has felt. He feels the genius, small and
-   dumb and eager. The exhibition duel afterwards, watched with a lorica of his own: he
-   can feel the duellists' plate as pressure. Engagement to Mara. Corin watches. Hook:
-   "Fused at nine," Jonah says. "What happens at ten?" The Flamen: "Nothing. That's the
-   point."
-4. Interlude: Three Men and a Letter (2,000). Marchand, Corin and Gaspar in the bar. A
-   Collar with a stripe and a ship. The denunciation gets written. Each has his reason
-   and none of them holds.
-5. Drill (3,800). Two weeks with a grade 1 lorica, like a kid with a first bike.
-   Deployment from four seconds to one. A hull section falls in the yard: first real
-   strain, Plate holds it, grade 2. Tom's pride. The engagement dinner. The vigiles.
-   Lock: his own lorica betrays him in two seconds. His body is not his.
-6. Imperium (4,200). Interrogation with Priscus. Priscus holds Pulse: Jonah cannot lie
-   to him and knows it in the first minute. Priscus reads the seal's addressee: his own
-   father. Jonah sees his face change and does not know what to do with it. Priscus
-   promises him freedom, burns the seal and leaves the room. Jonah believes him.
-7. Ad Metalla (3,600). No trial. A transport. Jonah invokes the law and discovers the
-   law has no page for a citizen of two weeks. The other condemned. The approach to the
-   planetoid. Real fear, no jokes.
-8. The Pit (4,400). Processing. Blank convicts are unstripped: the Flamens cut the
-   lorica out. Set piece of pain. Reading: "Grade: void." A white scar where the stripe
-   was. Shackle on. The rules: quota, decuries, the deep-diggers, "the Vein wants you".
-   First sight of the Vein: a wall that breathes. The scar itches when he faces it. Hook:
-   "Three years if you're smart. Two if you're strong. Unstripped go faster."
+1. Derelict (6,000) (⚔). The Kestrel hauls a founding-era Flamen hull out of the rings
+   of Quirinus. Ochoa and Jonah go in: a reliquary, a sealed box, something inside it
+   that pushes back when touched. The patrol cutter Vigilant arrives and Decurion Varro
+   boards with two Blank marines. Kills Ochoa mid-sentence. Turns to Jonah. Jonah grabs
+   the seed. The bond: it is not a suit going on, it is a mind coming in. Plate, all at
+   once, wrong, everywhere. The first fang comes out of the wrong arm. Varro laughs.
+   Jonah kills him through the throat seam by accident and instinct, and the marines run.
+   Hook: the cutter's guns coming live, and Ochoa's last words: "The seal. Vibius.
+   Promise."
+2. The Rings (4,200) (⚔ ship). Jonah takes the Kestrel into the ring debris with the
+   Vigilant firing, half blind with the settling, Tacitus pulling at him from inside.
+   Loses the cutter. Tacitus will not stop reaching for Varro's body and Jonah lets it:
+   Devour, the first time. Grade 8. Marchand watches through the hatch and says nothing.
+   Anvil. Varro into the rings. The seed and the seal hidden. Hook: Marchand, quietly:
+   "I didn't see anything, Captain."
+3. Sharpening (5,000) (⚔). Founding Day on Anvil. The Lesser Ludi: Corin wins his bout
+   and his name goes on the rolls. A Thinstripe cadet calls Jonah to sharpen: steel
+   knives, unplated, for sport, in front of the crowd. Jonah cannot refuse. He wins in
+   nine seconds with Varro's hands and does not understand how. The cadet's instructor
+   orders him flogged for winning. Priscus, quaestor, stops it: "The boy won. Flog the
+   instructor." Morrow announces the petition: manumission, captaincy, investiture next
+   week. Mara. Hook: strain, grade 9, and the echo in his hands is pleased.
+4. Interlude: Three Men and a Letter (2,000). Marchand saw the plate. Corin saw the
+   fight and saw Mara watching it. Gaspar drinks. The letter gets written.
+5. Investiture (4,600) (⚔ at the end). The Flamen's scan: Tacitus plays dead on
+   instinct, Hush turned inward for the first time. The cutting goes in. Tacitus eats it
+   with nothing showing and wears its face. Reading: "Grade 1. Standard cutting. Fused at
+   9." A thin black line on his arm. Miles 10, hidden. Tom weeps. Engagement dinner. The
+   vigiles. Lock: nothing happens, and only Jonah knows why. Fangs at Tom's throat. He
+   kneels and pretends to be locked, and the pretending is the hardest thing he has done.
+6. Imperium (4,200). Priscus with Pulse: Jonah cannot lie to him, and knows it within a
+   minute. Marchand's letter: unregistered genius, Republican seal. A Flamen reads him
+   again: "Grade 1." Priscus: "Collars see monsters in every barge." Then the seal's
+   addressee: his father. Face changes. Burns it. Promises freedom. Leaves.
+7. Ad Metalla (4,000) (⚔). The transport hold. No trial. Rations by challenge: a Blank
+   convict with a grade 5 kills a Collar for his water. Jonah takes the knife off him
+   and kills him unplated, with Varro's hands, and hates how easy it is. Grade 11. The
+   hold looks at him differently. Approach to the planetoid. No jokes.
+8. The Pit (4,800). Intake. Blank convicts are unstripped: Flamens cut the lorica out.
+   Tacitus sheds a false cutting and burrows, and Jonah has to fake dying and nearly
+   does not have to fake it. Reading: "Void." A scar he made himself. The shackle goes
+   on and Tacitus eats it hollow overnight. The rules: quota, decuries, the deep-diggers,
+   "the Vein wants you". First sight of the Vein: a wall that breathes, and Tacitus
+   lunges toward it inside him. Hook: "Three years if you're smart."
 
-### PART II — THE VEIN (ch. 9–24, about 60,000 words, six years)
+### PART II — THE FORMS (ch. 9–24, about 60,000 words, six years)
 
-Progression in Part II: the bond in chapter 10, then one step every chapter, hidden
-from the guards. The mine is the largest supply of lorica matter in the system and
-Jonah is standing in it. The problem is never how to grow. It is how to grow without
-being seen.
+Progression in Part II: one step per chapter, hidden. Two spoils. The Forms learned
+with a stick. The mine is the largest supply of matter in the system and Jonah is
+standing in it. The problem is never how to grow. It is how to grow without being seen.
 
-9. Decury (3,800). First weeks with the scar burning. Auger, the foremen, the
-   deep-diggers. Jonah gets beaten for talking. Learns when to shut up. Decimus. Quota.
-   Hook: the scar has started to spread.
-10. The Sickness (4,400). The Vein reaches through the scar. Days. He is dying, and they
-    drag him to a deep gallery to do it out of the way. Tapping in the rock: someone is
-    telling him, in code, to give it a name. He does not understand. Then he does. He
-    gives it every name he has: his father, Mara, the captain, the dead of his decury.
-    The genius takes hold. He wakes. Grade 3, unsettled. Plate comes out on its own in
-    the dark and he does not know how to put it back.
-11. A Voice in the Rock (3,600). The tapper. Weeks of code. First lesson by taps: how to
-    hold Plate in. Jonah mocks him, the old man answers with a better joke. Grade 4.
-    Hook: "If you want out of here, first learn to count."
-12. The Censor (4,200). They meet. The Chamber. The old man's scar. "Nobody here dies of
-    the Vein. They die of not understanding it." The guards hold Lorica Sight and count
-    the decuries every morning. Jonah has one night to learn Hush turned inward or be
-    seen. He learns it. Grade 5.
-13. The First Year (4,000). Two ladders at once: Latin, law, rhetoric in the Chamber,
-    and feeding on shards stolen from his own quota in the galleries. Devour felt for the
-    first time: the shard's tiny dead want. Settling fevers hidden as "the sickness":
-    everyone thinks he is dying slowly. Grade 6. Hook: news that Tom Vale is dead, two
+9. Decury (3,800) (⚔). Auger's law: rations by challenge, chisels. Day three a foreman
+   challenges Jonah. He wins unplated, breaks the man's wrist, and gives the ration
+   back. Nobody understands. Decimus. Hook: at night Tacitus pulls toward the Vein.
+10. Mother (4,400). Tacitus tries to go home. The Vein reaches for it. Jonah dying
+    between two minds that both want him gone. Tapping in the rock: "Give it a name.
+    Things with names stay." He gives it every name he has. Tacitus stays, and takes
+    something from the Vein on the way back. Grade 14. Hunger is born.
+11. A Voice in the Rock (3,600). The tapper. Weeks of code. How to hold plate in. How to
+    breathe through settling. Jonah mocks, the old man answers with a better joke.
+    Grade 15. "If you want out, first learn to count."
+12. The Censor (4,400). They meet. The Chamber. His scar. He knows what a seed is. "There
+    are supposed to be none left. I hid the last one on a ship four hundred years dead."
+    Jonah understands where the box came from, and why Ochoa was going there, and what
+    was in the seal. The guards count with Lorica Sight every morning: Hush, tonight.
+13. Chisel (4,200) (⚔). First blade lesson. The Censor with a stick beats him thirty
+    times in an hour. "You fight like a man with a fang. Fight like a man with a hand."
+    The Forms named: Vibian, Claudian, Fulvian, Aemilian. The echo of Varro stripped
+    out of his hands, one bruise at a time. Grade 16. Hook: news of Tom's death, two
     months late.
-14. Quota (4,200). The quota goes up. Deaths. Jonah reads the guards' hierarchy and
-    negotiates. Price: they make him a foreman. He whips a man. A gallery comes down on
-    him and Plate holds it, unseen. Grade 7. First time rhetoric works for him and
-    tastes bad.
-15. Grade (3,800). The Censor explains the loricae properly: genius, grade, gifts,
-    inheritance, imperium, fuses. Block readings. Shift, crude: plate to hook, to pick
-    the Chamber lock from the inside. Grade 8. Jonah: "So the Empire is a family
-    heirloom." Censor: "Yes. And you're the cloth they polish it with."
-16. What the Vein Wants (4,000). The secret: the Vein is the Matter, every lorica is a
-    cutting, the sickness is a half-made bond, and Jonah is a whole one. Voice: he feels
-    the Vein as a mind for the first time, and it is enormous. Grade 9, the Tiro ceiling.
-    Hook: the book of names. Jonah's is already in it. "Everyone's is."
-17. Decimus (3,400). The good guard. His daughter, his peace, his medicine, his Empire.
-    Jonah's plate could kill him now. He thinks about it. Decimus has two years left.
-18. Deep (4,200). Third year. Against the Censor's orders Jonah volunteers for the deep
-    and feeds from the Vein directly. Grade 11 in one night. Miles. Hunger appears as a
-    thing with a size. The settling fever nearly exposes him. He lied to the Censor to
-    do it and the plate will not hold a shape for a week: Integrity, shown before it is
-    named. A deep-digger says the Vein sings names.
-19. The Riot (5,200). Auger makes his play. Jonah plays both sides. In the light he fights
-    plated guards the Censor's way, a chisel in the hip seam. In the dark he uses Plate.
-    Strain: grade 13. He saves Decimus. Tullus answers with a decimation: one in ten.
-    Jonah draws the lot. The Censor spends all his leverage with Tullus to save him.
-20. What the Censor Did (3,800). Jonah finds out the old man designed the Pit. Breaks with
-    him. Weeks alone. No shards, no teacher: Hunger, and the first time Tacitus takes
-    weight from him. He comes back because the alternative is dying ignorant. "I'm going
-    to use you. Don't forget that." "I'm counting on it."
-21. Rhetoric (4,500). Years four and five. Cursus steps Hand and Bearing. Blade through
-    Shift. Tremor learned in the galleries: he can read a guard's footsteps through rock.
-    Grade 15. House Sertorius, the columbarium, the keys, and the gift called Quiet.
-22. Names (4,200). Year six. The Censor is dying. Gives Jonah the book to memorize and
-    the last lesson: "Whatever you carry isn't a suit. It's someone. Ask it what it wants
-    before it asks you." He dies. Jonah writes his name down.
-23. The Mouth (5,000). Jonah goes to the deepest point to eat enough to leave. The Vein
-    shows him something: its memory of the first cut, four hundred years ago. Grade 18.
-    He understands that the thing inside him is not a piece of the Vein. It is the Vein's
-    answer to him.
-24. Tacitus (4,000). A week of settling, hidden. He stops calling it "it" and names it.
-    Learning his own plate again. Decimus notices something. Hook: the Flamens are coming
-    to scan everyone, and he is hiding a Miles now, not a Tiro.
+14. Quota (4,400) (⚔). The quota goes up. A guard, Tiro 8, about to fang a decury-mate
+    for slowness. Jonah kills him in the dark with a chisel through the hip seam and
+    Devours the lorica: first spolia in the Pit. Grade 18. Body into the Vein. Tullus
+    raises the quota again. Jonah reads the deputy prefect's numbers and negotiates.
+    Price: foreman. He whips a man.
+15. Grade (3,800). The Censor explains the system with readings: genius, grade, gifts,
+    fuses, the Law of Spoils. Shift: the fang from anywhere. "So the Empire is a family
+    heirloom." "Yes. And you're the cloth they polish it with." Grade 19.
+16. What the Vein Wants (4,000). The secret: cuttings, the sickness, seeds. Voice: the
+    Vein as a mind, enormous. Grade 20, Principal. The book of names. Jonah's is in it.
+17. Decimus (3,400). The good guard. His daughter, his peace, his Empire. Jonah could
+    kill him now. He does not. Decimus has two years left.
+18. Deep (4,400) (⚔). Year three. Against orders, Jonah feeds from the Vein directly.
+    Grade 24 in a night. A deep-digger gone mad comes at him in the dark with a stolen
+    chisel and Jonah uses plate inside the Pit for the first time and nearly enjoys it.
+    He lied to the Censor to get here and the plate will not hold a shape for a week.
+    "The Vein sings names."
+19. The Riot (5,800) (⚔⚔). Auger's play. Sabinus the Trimmer comes down into the
+    galleries and harvests convicts with his fang like clearing brush. Jonah fights
+    guards in the dark with a fang of his own and, from a side gallery, watches Sabinus
+    work and knows he would last two seconds. Saves Decimus. Grade 26. Tullus decimates.
+    Jonah draws the lot. The Censor spends everything with Tullus to save him.
+20. What the Censor Did (3,800). Jonah finds out the old man designed the Pit. Breaks
+    with him. Weeks alone. Hunger takes weight. Comes back. "I'm going to use you."
+    "I'm counting on it."
+21. The Sertorian Form (5,000) (⚔). Years four and five. The lost Form: the blade that
+    isn't there until it is. Built for a lorica that can put its fang anywhere, which no
+    lorica has been able to do for a century. Sparring in the Chamber with shifted
+    blades. Jonah beats the Censor for the first time and the old man laughs until he
+    coughs blood. Grade 28. Tremor. House Sertorius, the columbarium, the keys, Quiet.
+22. Names (4,200). The Censor dies. The book. "Whatever you carry isn't a suit. It's
+    someone. Ask it what it wants before it asks you." Jonah writes his name down.
+23. The Mouth (5,000). To the deepest point, to eat enough to leave. The Vein shows him
+    the first cut, four hundred years ago. Grade 31. He understands Tacitus is not a
+    piece of the Vein. It is the Vein's answer to him.
+24. Tacitus (4,000). Settling, hidden. Names it. Learns his plate again. Decimus notices.
+    Hook: Flamens coming, and he is hiding a Principal.
 
-### PART III — THE ESCAPE (ch. 25–34, about 38,000 words)
+### PART III — THE TRIMMER (ch. 25–34, about 38,000 words)
 
-25. Inspection (4,000). The Flamens. Hush held for six hours at grade 18, which is a
-    different thing from hiding a Tiro. He passes, barely. A young Flamen frowns and says
-    nothing. Writes it down.
-26. Plan (3,800). The harvest ships out in sealed casks. Jonah plans to leave inside one,
-    as dead matter. Forges Tullus's manifest (Cursus step Hand). Feeds on the harvest
-    itself. Grade 19.
-27. What You Ask of a Friend (3,400). Ulli agrees to stay and cover. They both know what
-    it means.
-28. Auger (3,800). Auger finds out. Demands in. He has a daughter. Jonah agrees and does
-    not know whether he will betray him. Neither does Auger.
-29. Harvest (5,500). Harvest day. Everything goes wrong. The cask will not seal. Tacitus
-    comes out in front of witnesses: living plate, tears the shackle off and Devours it.
-    The shackle is a lorica, a bad one, and Voice works on it: he hears it want to lock
-    him and refuse. Strain: grade 21. Principal. Guards. Decimus in the corridor. Action
-    set piece.
-30. Decimus (3,800). Decimus will not step aside. He has orders and a daughter. Jonah
-    cannot take him down without killing him and has no time. He kills him. Clean. Closes
-    his eyes and says his name out loud. Now he is the Censor.
-31. The Coffin (3,200). Inside the cask. Dark. Stasis. Memories: Priscus, the burning
-    seal. Tacitus says its first word: "Name."
-32. Hold (4,500). He wakes in the hold of the Heron. Eight crew, two with loricae. Breaks
-    out of the cask. Fight. Tacitus starts devouring a crewman's lorica and Jonah feels
-    the cutting beg. He stops. Grade 24. First stolen gift: Seal, wrong-shaped. First
-    echo. Grey about the suits themselves.
-33. Smugglers (4,000). Yara. Negotiation. Jonah kills no one. The old man's rhetoric pays
-    off. Yara names her price. First ally.
-34. Interlude: Priscus (2,000). The City. Priscus on the ladder to the praetorship. His
-    father. The Limes war heating up. He remembers the seal. He does not remember the
-    boy's name.
+25. Inspection (4,000). Hush for six hours at 31. A young Flamen frowns and writes it
+    down.
+26. Plan (3,800). Casks. The forged manifest. Grade 32.
+27. What You Ask of a Friend (3,400). Ulli stays.
+28. Auger (3,800). Auger finds out. Demands in. Has a daughter.
+29. Harvest (6,000) (⚔⚔). Everything goes wrong. The cask will not seal. Plate before
+    witnesses. Devours the shackle and Voice works on it: he hears it want to lock him
+    and refuse. Guards. Auger's men and Tullus's men in the same corridor. Sabinus
+    comes down.
+30. The Trimmer (5,500) (⚔ the duel). Jonah, 32, against Sabinus, 45, licensed,
+    twice trimmed, the best fang on the planetoid. The Sertorian Form against the
+    Claudian. Jonah loses for two minutes and knows it. Then lets the fang in, catches
+    it in plate, and Devours it mid-thrust. "Only matter cuts matter. I eat matter."
+    Kills him. Spoils him. Grade 41, Centurion, blind with fever. Then Decimus in the
+    corridor, with orders and a daughter. Jonah kills him. Closes his eyes. Says his
+    name. Now he is the Censor.
+31. The Coffin (3,200). Stasis in the cask. Memories. Tacitus: "Name."
+32. Hold (4,600) (⚔). The Heron. Eight crew, two loricae. Jonah at 41 unsettled is a
+    wreck and wins ugly. Devours half a crewman's lorica and feels the cutting beg.
+    Stops. Seal, wrong-shaped. First echo since Varro. Grade 42.
+33. Smugglers (4,000). Yara. Nobody dies. The Censor's rhetoric pays. Price named.
+34. Interlude: Priscus (2,000). The City. The praetorship. His father. The Vigilant's
+    old report of a decurion lost in the rings, and a Frumentarius who has read it
+    twice.
 
 ### PART IV — THE NAME (ch. 35–40, about 22,000 words)
 
-35. Anvil Again (4,000). Hooded. The moon on a war economy. Strangers in his home. The
-    records: there is no Tom Vale. Gaspar, drunk, tells the whole betrayal to a stranger
-    for a shard. The four names confirmed.
-36. Mara (3,400). He sees her from a distance with Corin (narrow stripe, uniform) and a
-    child. He does not approach. Tacitus asks what that is. Jonah does not answer.
-37. Morrow (3,600). Morrow about to lose everything to Marchand's bank. Jonah pays
-    anonymously with a shard. Julia sees a hooded man. Planted.
-38. What a Stripe Is Worth (4,000). Yara takes him to a black-market Flamen to find out
-    what he is. Reading: "Grade: indeterminate, lines will not hold still. Genius:
-    unregistered. Lineage: none." Jonah's own count says 25. The
-    Flamen is afraid and greedy. Jonah buys him instead of killing him. A mistake he will
-    pay for.
-39. Sertorius (3,400). The plan said plainly: four names and an Empire. His rule: no
-    innocents. Yara: "So who are you now?" "Gaius Sertorius."
-40. Counted by Head (3,200). The Heron leaves for the Interior. Jonah recites the book of
-    names. Decimus is in it. Tacitus says its second sentence. Close: the Flamen sells the
-    reading to a Frumentarius. Someone in the City knows there is an unregistered genius.
+35. Anvil Again (4,000). Hooded. War economy. No record of Tom Vale. Gaspar sells the
+    story for a shard. Four names confirmed.
+36. Mara (3,800) (⚔). Corin's auxiliaries beating Collars for a curfew. Jonah, hooded,
+    kills two with a Form nobody has seen in a century. Corin sees the Form. Mara sees a
+    hooded man. Jonah does not approach.
+37. Morrow (3,600). Morrow about to lose everything. Jonah pays with a shard. Julia sees
+    a hooded man.
+38. What a Stripe Is Worth (4,000) (⚔ short). The black-market Flamen and his two
+    Tiro bodyguards. Reading: "Grade: indeterminate, lines will not hold still. Genius:
+    unregistered." Jonah buys the Flamen instead of killing him. Mistake.
+39. Sertorius (3,400). Four names and an Empire. No innocents. "So who are you now?"
+    "Gaius Sertorius."
+40. Counted by Head (3,200). The Heron leaves for the Interior. The book of names.
+    Decimus is in it. Tacitus's second sentence. The Flamen sells the reading. Someone
+    in the City knows.
+
+Fight count: 16 fights across 40 chapters, one duel per part (Varro, the guard,
+Sabinus, the auxiliaries), two set pieces of five thousand words or more.
 
 ---
 
-## 6. THE SERIES (so Book 1 plants what it must)
+## 6. THE SERIES
 
-1. Damnatio. Fall, Pit, bond, escape, name.
-2. Purple. The columbarium heist. Sertorius enters the City through the Ludi circuit
-   (public duels: tournament-style progression). The Frumentarii hunt an unregistered
-   genius. Tacitus learns to speak fully. Marchand falls. The fall drags thousands down.
-3. Auxilia. Corin. The daughter of the Collar leader Corin betrayed. Mara recognizes
-   him. Corin's son. The Republicans court Sertorius and turn out to be an oligarchy by
-   another name. Corin falls. "And what are you now?"
-4. Praetor. Priscus. Priscus's house, the senator father, the poison. An innocent dies
-   from the machine Jonah set in motion. Jonah almost stops. Tacitus starts to disagree.
-   Someone who matters finds out who he is.
-5. Limes. War with the Confederacy. Jonah holds the lever: he can free loricae. Freeing
-   the collars of the Limes at once kills millions. The Princeps offers a deal. The
-   Matter. Choice.
-6. Devotio. Sinking the Empire from within and what replaces it. The book of names.
-   Tacitus. Three possible endings to discuss when we get there.
+1. Damnatio. Bond, fall, Pit, Forms, the Trimmer, name.
+2. Purple. The columbarium heist. Quiet. The Ludi from the bottom step: the only ladder
+   that goes up, climbed with a stolen face. The Frumentarii. Marchand falls.
+3. Auxilia. Corin. The daughter of the rising he betrayed. Mara recognizes him. The
+   Republicans court Sertorius. Corin falls on a duelling floor.
+4. Praetor. Priscus. Verdict against the Sertorian Form. An innocent dies. Integrity
+   breaks. Tacitus disagrees out loud.
+5. Limes. War with the Confederacy. Voice can unfuse. The Princeps offers a deal.
+6. Devotio. Sinking the Empire from within. The book of names. Tacitus.
 
 ---
 
 ## 7. HOW I WILL KEEP CONTEXT ACROSS 150,000 WORDS
 
-- Build the SuperNarrative DB from this outline: project, voice rules as
-  narrative_rules, style references, 40 planned chapters, full character sheets, story
-  facts and the initial epistemic matrix (who knows what about the denunciation, the
-  seal, the Vein's secret, the Censor), threads with dependencies, planted clues.
-- Before every chapter: context.py. After: analyze.py, show you the changes, update.py
-  with your confirmation, verify.py. Every 5 chapters: dashboard and snapshot.
-- This file and the voice bible are re-read before every chapter. The voice is not
-  negotiable.
+- Build the SuperNarrative DB from this outline and the power system: project, voice
+  rules, style references, 40 planned chapters, character sheets with grades and gifts,
+  story facts and the epistemic matrix (who knows about the seed, the seal, the Censor,
+  Varro's death, Jonah's genius), threads with dependencies, planted clues.
+- Before every chapter: context.py. After: analyze.py, show the changes, update.py with
+  confirmation, verify.py. Every 5 chapters: dashboard and snapshot.
+- These two files are re-read before every chapter. The voice is not negotiable.
 - Chapters in source/chapter_XX.md. One commit per chapter.
