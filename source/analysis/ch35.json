@@ -1,0 +1,384 @@
+{
+ "title": "Anvil Again",
+ "summary": "Yara gives him a slab at the hatch as a crewman's share and three days; hood up, the dock gate reads arms now. Jonah stands on Anvil's rock seven years after walking down a ramp in a good coat with his father at the gate, and feels thousands of hearts going fast through his boots: a Collar rock in a war. The gate is held by auxiliaries, Collars with a Thinstripe's band sewn on grey and a fresh cutting, who read arms; he shows the left, unlined, and says the right is burned; a boy of twenty with a week-old band lets Hal's cousin through. Sabinus's echo: that one's nothing; 'he's what I'd have been if I'd stayed, shut up.' The melt-house clerk's ledger has no names: south yards, adult male, one, paid by the yard; the only place Tom Vale is written is in Jonah and in a slab in a woman's lap. The Halyard is the same; the corner table is the corner table; Gaspar Roake is at it with his head on his arms and a north-yard bottle. A shard the width of a thumbnail on the table. 'Tom's boy.' Gaspar tells it once and right because he has never told it right: the boy off the barge with a thing in his hands and Tom at the gate; the purser at this table reading the letter aloud so Corin would sign, unregistered genius, a seal for a senator whose name Gaspar never remembered; both of them looking at him; 'Tom's boy. He's a good boy.' Then sleep, because a man asleep in a tavern was not there. Tom past his window every morning for a month with his hat, and a bottle every morning. Morrow paid the melt and the money was not his: Marchand, seen to by the quaestor, had the house on the upper ring, the tax farm and the bank that held Morrow's paper, and gave Morrow the melt out of his own purse through the yard so the ledger would say the yard; Gaspar saw his face at the back of the fire, a man checking a sum. Mara said the name, Tom Vale, out loud at the front where you do not, and Corin took her home; she married him the year after; he got the thin stripe breaking Collars in the Tessera rising and read the quaestor's paper out in the square so she would stop: died in the Throat, 389. She did not stop; she wears Corin's ring and the hull ring on a chain under her shirt; there is a boy, three. 'Do you believe it?' 'No. He'd die somewhere he chose.' Gaspar takes the shard: 'You've got his hands.' Jonah's heart does nothing: 'Halyards have hands. It's the ships.' 'Tell him I loved his father. Tell him I'm sorry. It's what a drunk has. It's not much.' At the rail that night Jonah says the names, his father's whole, and then the four with what each did: Marchand checking the sum; Corin who signed because Jonah won a bout he could not; Gaspar who did nothing every morning with a bottle, on the slate because the old man said no innocents; Priscus who read his heart and wrote him dead. The hand with no hand: 'Not yet. Not for him. For me.' A curfew bell, twelve plated boots on the dock road clearing it, and a careful voice he last heard in the sand: 'Friend. You'll want to be indoors.'",
+ "story_date": "394, summer, Anvil, lower docks, first day",
+ "events": [
+  {
+   "type": "travel",
+   "description": "Yara gives Jonah a slab of the Vein as a crewman's share and three days; hood up, the gate reads arms. He walks down the Heron's ramp onto Anvil's rock seven years after leaving it and feels thousands of fast hearts: a Collar rock in a war.",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The Heron's slab"
+   ],
+   "story_timestamp": "morning"
+  },
+  {
+   "type": "encounter",
+   "description": "The dock gate is held by auxiliaries: Collars with a Thinstripe's band on grey and new cuttings, who read arms. Jonah shows the unlined left arm, says the right is burned, and a boy of twenty with a week-old band lets Hal's cousin through. Sabinus's echo says that one's nothing; Jonah tells it to shut up.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "morning"
+  },
+  {
+   "type": "investigation",
+   "description": "The melt-house clerk's ledger: winter of 389, south yards, adult male, one, paid by the yard. The melt does not take names. There is no record of Tom Vale anywhere but in Jonah and on a slab on Tessera in a woman's lap. 'You'll want the Halyard. Gaspar's there. He was there for all of them.'",
+   "affected_characters": [
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "midday"
+  },
+  {
+   "type": "revelation",
+   "description": "Gaspar Roake, for a shard, tells the story whole for the first time: the purser reading the letter aloud at the corner table so Corin would sign (unregistered genius, a seal for a senator); both looking at him; 'Tom's boy. He's a good boy.' and sleep; Tom past his window every morning for a month; the melt paid by Morrow's yard with Marchand's money out of his own purse so the ledger would say the yard, Marchand at the back of the fire checking a sum; Mara saying Tom Vale aloud at the front and Corin taking her home; Corin's thin stripe from breaking Collars in the Tessera rising; the quaestor's paper read out in the square, died in the Throat, 389; Mara wearing the hull ring on a chain under her shirt; a boy, three.",
+   "affected_characters": [
+    "Gaspar Roake",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The Heron's slab",
+    "The letter",
+    "The hull ring"
+   ],
+   "story_timestamp": "fourth bell"
+  },
+  {
+   "type": "encounter",
+   "description": "'Do you believe it?' 'No. He'd die somewhere he chose. You've got his hands.' Jonah's heart does nothing: 'Halyards have hands. It's the ships.' Gaspar: tell him I loved his father, tell him I'm sorry; it's what a drunk has, it's not much. Asleep before Jonah stands.",
+   "affected_characters": [
+    "Gaspar Roake",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "fourth bell"
+  },
+  {
+   "type": "decision",
+   "description": "At the rail of the lower docks Jonah says the names, his father's whole with the melt and the man checking the sum, and then the four with what each did, to Tacitus, in the old tongue: Marchand, Corin, Gaspar (on the slate because he did nothing; no innocents), Priscus. The hand with no hand. 'Not yet. Not for him. For me.' Four; three on this rock and one in the City; three days and a hood.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "night"
+  },
+  {
+   "type": "encounter",
+   "description": "A curfew bell; twelve plated auxiliaries come down the dock road clearing it, and a careful voice Jonah last heard in the sand says to a Collar in the road: 'Friend. You'll want to be indoors.' Corin Aldane.",
+   "affected_characters": [
+    "Corin Aldane",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night, curfew"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Anvil is on a war economy: the dock gate is held by Collar auxiliaries with Thinstripe bands and new cuttings who read arms; the yards are full of men who took the band.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The melt ledger has no names; Tom Vale is 'south yards, adult male, one, paid by the yard' in the winter of 389; there is no record of him anywhere but in Jonah's count and the slabs.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Marchand read the letter aloud at the Halyard's corner table so Corin would sign; Gaspar heard every word, said 'Tom's boy, he's a good boy', and slept; he watched Tom pass his window every morning for a month and said nothing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Gaspar Roake"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Marchand, seen to by the quaestor, has a house on the upper ring, the tax farm and the bank that holds Morrow's paper; he paid Tom's melt out of his own purse through Morrow's yard so the ledger would say the yard, and watched it burn checking a sum.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Gaspar Roake"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Mara said Tom Vale aloud at the melt; married Corin the year after; Corin got the thin stripe breaking Collars in the Tessera rising and read the quaestor's paper (died in the Throat, 389) out in the square so she would stop; she wears the hull ring on a chain under her shirt; they have a boy of three.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Gaspar Roake"
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "fact": "A hooded Halyard off the Heron paid a shard for Tom Vale's story and has Tom's hands.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "fact": "Tom's boy did not die in the Throat; he would die somewhere he chose.",
+   "new_knowledge_level": "believes",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "The four names and what each did: Marchand, Corin, Gaspar, Priscus.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Marchand paid Tom's melt out of his own purse through Morrow's yard; Marchand now holds the tax farm and the bank with Morrow's paper.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Mara said Tom's name at the melt, married Corin, has a boy of three, and wears Jonah's hull ring on a chain under her shirt; Corin is a Thinstripe of the auxiliaries who read Jonah's death out in the square.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah has confirmed the four names and put Gaspar on the slate for doing nothing: no innocents.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Gaspar does not believe Jonah died and noticed his hands; Jonah's heart did nothing when he lied.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "escalate",
+   "description": "Four names confirmed and said to Tacitus with what each did. Gaspar on the slate because the old man said no innocents: a count that leaves out the ones who did nothing is a story you tell so you can sleep."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "escalate",
+   "description": "She said the name at the fire where you do not; she wears the hull ring under her shirt on a chain he can see; a boy of three; Corin read the death out in the square so she would stop, and she did not. Corin's voice at the end: 'Friend.'"
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "reveal",
+   "description": "Gaspar heard the whole letter read aloud: unregistered genius and a seal for a senator. Marchand was seen to: the house on the upper ring, the tax farm, the bank; he paid the melt through the yard and checked the sum while it burned."
+  },
+  {
+   "thread_name": "Morrow's ruin",
+   "beat_type": "escalate",
+   "description": "Morrow's paper is in Marchand's bank; he has no money of his own; the yard paid the melt with the purser's coin so the ledger would say the yard."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "The melt does not take names: south yards, adult male, one. The only place Tom Vale is written is in Jonah and on a slab in Livia's lap. Said at the rail with the melt and the man checking the sum added."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "Sabinus's echo says the boy with the band is nothing; Jonah says he is what Jonah would have been. Lying to Gaspar with his heart doing nothing, learned from Priscus."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "reinforce",
+   "description": "Saying a dead Collar's name calls the grain-men; Mara said it anyway. Auxiliaries read arms at the gate; a burned right arm is the lie that holds."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Gaspar: 'You've got his hands.' Not believing the Throat.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Ch.39: Gaspar is the one who knows and says nothing again, and this time it is the right thing; what Jonah decides to do with a man who did nothing.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "Marchand paid the melt out of his own purse through Morrow's yard, checking a sum.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Ch.37: Morrow's ledger shows the melt entry and where the coin came from; ch.39 the first line of Marchand's page. Book 2: what Marchand's bank does with a debt it created.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "Mara's boy, three; the hull ring on a chain under her shirt where Corin can see it.",
+   "type": "physical",
+   "subtlety": 3,
+   "mechanism": "Ch.36: Tacitus asks what that is. Book 3: the boy.",
+   "related_thread": "Mara and Corin"
+  },
+  {
+   "description": "Corin read 'died in the Throat, 389' out in Founding Square from a copy of the quaestor's clerk's paper.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Ch.39: the same paper Livia found in the crate; the lie has two readers. Book 3: Mara recognises him because she never believed the paper.",
+   "related_thread": "Priscus's law"
+  },
+  {
+   "description": "The melt ledger: south yards, adult male, one, paid by the yard.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Ch.40: the count recited with 'paid by the yard' corrected to who paid. Book 6: names for the unnamed lines.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "A Halyard crewman's slab, cut into shards with the crooked fang, is more matter than a Collar on Anvil sees in a year.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Ch.37: what a shard buys a ruined yard; ch.38: what a shard buys a black-market Flamen.",
+   "related_thread": "Morrow's ruin"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Gaspar Roake sat with Tom some nights",
+   "status": "resolved"
+  },
+  {
+   "match": "Gaspar decided long ago that the safest thing",
+   "status": "resolved"
+  },
+  {
+   "match": "Hollen: 'Morrow's yard paid the melt",
+   "status": "resolved"
+  },
+  {
+   "match": "Marchand does not write the hold",
+   "status": "reinforced"
+  },
+  {
+   "match": "Priscus: 'The purser will be seen to",
+   "status": "resolved"
+  },
+  {
+   "match": "Corin's hand signing is the hand of a man in the sand",
+   "status": "reinforced"
+  },
+  {
+   "match": "Corin: 'then you've never been afraid enough.'",
+   "status": "reinforced"
+  },
+  {
+   "match": "Tom died about the night Jonah first answered in Latin",
+   "status": "reinforced"
+  },
+  {
+   "match": "Bricks has heard Jonah say the names",
+   "status": "resolved"
+  },
+  {
+   "match": "Yara's price: come back",
+   "status": "reinforced"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The Heron's slab",
+   "description": "A slab of the Vein from the skim, given by Yara at the hatch as a crewman's share; cut into thumbnail shards with the crooked fang.",
+   "holder": "Jonah Vale",
+   "location": "Anvil",
+   "significance": "Jonah's only money on Anvil; pays Gaspar, Morrow and the Flamen."
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Yara",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Pike",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "location": "Anvil"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Home in a hood. Four names confirmed and said. Gaspar on the slate for doing nothing. Lied with his heart doing nothing. She said the name at the fire."
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "emotional_state": "Told it right for the first time. Sorry. Saw Tom's hands on a Halyard and let it go. It's what a drunk has."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Was given the four and what each did. The hand with no hand at the fourth name."
+  },
+  {
+   "character_name": "Corin Aldane",
+   "emotional_state": "Thinstripe of the auxiliaries clearing the dock road at curfew. 'Friend.'"
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Heron",
+   "characters": [
+    "Yara",
+    "Jonah Vale"
+   ],
+   "summary": "A slab at the hatch; three days; say the names somewhere else.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The rock full of fast hearts; the gate held by auxiliaries who read arms; the burned arm; the boy with the band.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale"
+   ],
+   "summary": "The melt-house ledger: no names; south yards, adult male, one, paid by the yard.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Anvil tenements",
+   "characters": [
+    "Gaspar Roake",
+    "Jonah Vale"
+   ],
+   "summary": "The Halyard's corner table; a shard; the story told whole; the melt paid through the yard; Mara said the name; you've got his hands.",
+   "purpose": "revelation"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Corin Aldane"
+   ],
+   "summary": "The rail: the names, the four with what each did; no innocents; the curfew bell; 'Friend.'",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "investigation",
+ "pacing": "medium",
+ "emotional_tone": "cold",
+ "opening_hook": "Yara gave him a slab at the hatch and did not say what it was for.",
+ "closing_hook": "'Friend,' Corin Aldane said, up the road, in the dark. 'You'll want to be indoors.'",
+ "word_count": 4033,
+ "notes": "Return to Anvil in summer 394 (the world bible's '395' will be corrected). Grade held at 42; progression here is the count: four names confirmed with what each did. Gaspar is the honest man who does not know who he is talking to, per his sheet. The melt has no names, per the world bible. Corin's stripe from the Tessera rising of 390. Mara's boy is three (born ~391)."
+}
