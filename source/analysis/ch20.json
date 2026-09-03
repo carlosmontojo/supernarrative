@@ -1,0 +1,360 @@
+{
+ "title": "What the Censor Did",
+ "summary": "Nine days after the riot the count goes back to ten, by the piece, on the Censor's slate: the galleries hold only if the men who cut them are alive. Auger's card was played by the old man's hand. Jonah gives up the haul, stops going down the road, sleeps. The genius, having learned what full is, eats him: a stone off in six weeks, fever every third night. Pell: 'He sold Corr. And he sold Tullus ten. Both. That's what a slate is.' The Censor writes a paper that sends Jonah to the Deep face to eat slabs rather than the wall; the Vein has closed over the bitten place in a knot nobody cuts, warm, 'like it's holding something', and Jonah does not want to touch it, which is new. Ulli: the rock taps his number every night and waits. 'He drew the room. I sing in it. You turned around in it. That's the three of us.' On the forty-second night Jonah goes back: 'I haven't forgiven it. I've come back because the alternative is dying ignorant. I'm going to use you. Don't forget it.' 'It is what I am counting on.' The names are written: Corr, Auger who said his own name to Ulli, Hollen, Bricks who was Marcus, Tallow who was fifteen, the Deep man written as unknown. The fifth Form is named: Sertoria. On the road Jonah says the first name again, with the endings right.",
+ "story_date": "391-392, six weeks after the riot",
+ "events": [
+  {
+   "type": "revelation",
+   "description": "Nine days after the riot the count returns to ten by the piece, on the Chamber's numbers: the Deep not pushed until it gives slabs, the Shallows at ten because ten holds. Auger's number, by the Censor's hand.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Marcius Tullus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 9 after the riot"
+  },
+  {
+   "type": "movement",
+   "description": "Jonah gives up the haul to a Deep man and stops going down the road; six weeks of sleeping and cutting one shard.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Decimus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "weeks 1-6"
+  },
+  {
+   "type": "transformation",
+   "description": "The genius eats him: a stone off in six weeks, fever every third night, the hunger's size going the wrong way fast because it learned what full is.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "weeks 2-6"
+  },
+  {
+   "type": "encounter",
+   "description": "Pell: 'He sold Corr. And he sold Tullus ten. Both. That's what a slate is. Go down the road, or I'll sing over you.'",
+   "affected_characters": [
+    "Pell",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "week 3"
+  },
+  {
+   "type": "movement",
+   "description": "A paper on the Chamber's numbers sends Jonah to the Deep face to cut slabs. The Vein has closed over the bite in a warm knot nobody cuts. He does not want to touch it, which is new.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Harrow",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "week 4"
+  },
+  {
+   "type": "encounter",
+   "description": "Ulli: the rock taps 4471 every night and waits. 'He drew the room. I sing in it. You turned around in it. That's the three of us.' Ulli has carried forty-two out, Auger last, singing.",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "week 4"
+  },
+  {
+   "type": "encounter",
+   "description": "Forty-second night: Jonah returns to the Cradle. Both a stone lighter. 'I haven't forgiven it. The alternative is dying ignorant. I'm going to use you. Don't forget it.' 'It is what I am counting on.' 'I ask you for nothing. I am asking you to take.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 42"
+  },
+  {
+   "type": "revelation",
+   "description": "The names written: Corr; Auger, who said his own name to Ulli in the Cradle; Hollen; Bricks, who was Marcus; Tallow, fifteen; the Deep man, written as unknown. 'You were counting. It is the only thing I have taught anyone that I am not ashamed of.' The fifth Form named: Sertoria, the house that won every battle and lost the war and was murdered at dinner.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "night 42"
+  },
+  {
+   "type": "transformation",
+   "description": "On the road Jonah says the first name again, with the endings right, and the genius adds it back to what it expects.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 42"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The count went back to ten on the Censor's slate; Auger's card was played by the old man's hand.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Without drill or strain the genius eats the body it is in, and having learned what full is, it does not go back to not knowing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein closed over the bite in a warm knot at the face that nobody cuts; it is holding something.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Bricks's name was Marcus; the transport boy was Tallow, fifteen; Auger said his own name to Ulli before he went.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The fifth Form is Sertoria: the house that won every battle and lost the war, murdered by friends at dinner; a fang that is not there until it is.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Jonah has come back to take everything and use it and not carry the old man as a debt, and has said so.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "The something down the road is what Jonah stopped doing, not what has him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "The rock taps 4471 every night and waits; the three of them share the room.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The count went back to ten on the Censor's slate; Auger's card was played by the old man's hand.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The fifth Form is Sertoria: the house that won every battle and lost the war, murdered by friends at dinner; a fang that is not there until it is.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "The Vein closed over the bite in a warm knot at the face that nobody cuts; it is holding something.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "resolve",
+   "description": "The rupture and the return. 'I haven't forgiven it. I'm going to use you.' 'It is what I am counting on. I ask you for nothing. I am asking you to take.' The slate that sold Corr also bought ten and the face."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "Without work the genius eats him: a stone in six weeks. He does not want to touch the knot, which is new."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "Corr, Auger, Hollen, Marcus, Tallow, unknown. 'You were counting.' The first name said again on the road with the endings right."
+  },
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "resolve",
+   "description": "Ten by the piece. Auger got what he took a cage for, through another hand. The road has no king and Jonah will not be one."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "escalate",
+   "description": "Sertoria named: the fang that is not there until it is. 'Stand better.'"
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "The knot at the face: the wall holding the shape it found."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "Eats the body when not worked. Adds the first name back to what it expects."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "reinforce",
+   "description": "Reads ten twice because he does not trust his mouth with a number going down. 'Nobody wants it.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "The knot at the face is warmer than the rest and 'like it's holding something'.",
+   "type": "environmental",
+   "subtlety": 6,
+   "mechanism": "The wall has found his shape and is holding it: ch.23 the Mouth is where it gives it back.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "Auger said his own name to Ulli in the Cradle before he went, which nobody knew he had.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Auger's daughter on Marl (Book 2: Jonah finds her with the name).",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Sertoria: won every battle, lost the war, a Senate of his own on a rock at the edge of everything, murdered by friends at dinner.",
+   "type": "intertextual",
+   "subtlety": 5,
+   "mechanism": "The name Jonah will take; the fate the series circles (Book 6).",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "The Censor writes the Deep man as unknown: 'you say you do not when you do not.'",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "The book's honesty rule; Book 6 the unknown pages.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "The Deep man who took the haul carried buckets past the Cradle a month and never heard the rock.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "The rock only taps to those who can hear; the haul route is safe from other haulers (ch.26).",
+   "related_thread": "Escape from the Pit"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Jonah cannot say the first name",
+   "status": "resolved"
+  },
+  {
+   "match": "Tullus keeps the Censor's slate in his coat",
+   "status": "reinforced"
+  },
+  {
+   "match": "'When it knows what shape you are",
+   "status": "reinforced"
+  },
+  {
+   "match": "'I have never had one. I chose the stone.'",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Vein is warm to the chisel",
+   "status": "reinforced"
+  },
+  {
+   "match": "The genius did not stop for 'no' in the cage",
+   "status": "resolved"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "A stone lighter, about twenty-six, back on the rock to take everything. The first name said again."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "A stone lighter. Believed something entirely for the first time in three years. Teaching the fifth."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "Said it the other way. Will learn the words from the wall if he has to."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "The three of them. A thing he did was heard."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Pell"
+   ],
+   "summary": "Ten by the piece; the haul given up; the weight coming off; Pell's slate.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Harrow",
+    "Ulli",
+    "Tacitus"
+   ],
+   "summary": "The face and the knot; Ulli: the rock taps every night; the three of us.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "Night forty-two: I'm going to use you; I am asking you to take; the names written; Sertoria; the first name on the road.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "reflection",
+ "pacing": "slow",
+ "emotional_tone": "melancholy",
+ "opening_hook": "The count went to ten on the ninth day after the riot, and it was the old man who did it.",
+ "closing_hook": "He says the first name again, with the endings right, and it stays at the top of the list.",
+ "word_count": 3619,
+ "notes": "Grade about 26 (holding; the body lost a stone). Rupture resolved as use, not forgiveness. Sertoria named. Ready for ch.21 the Sertorian Form. Eleven months to the College inspection is a running clock: reconcile with ch.25 in year six by making the inspections biennial and this one year four's, passed offstage, and ch.25 year six's with Livia; adjust in ch.21-22 narration."
+}
