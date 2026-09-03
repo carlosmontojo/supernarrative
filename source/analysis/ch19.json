@@ -1,0 +1,517 @@
+{
+ "title": "The Riot",
+ "summary": "The Deep stops giving slabs eleven days after the wall went loud: the Vein closed over the bite. Rennick's weight count collapses; Tullus sets fourteen by the piece and sends Sabinus to the Deep, where he harvests diggers through the neck seam for slabs that will not come. Auger decides to take the cage at the fourth bell to force Tullus to talk, asks decury six to stay behind the wall, and asks Jonah to keep Decimus off the road. Jonah does not warn Decimus. The road takes the cage; Sabinus comes down it harvesting; Jonah sees the water step and knows he would last two seconds. A Collar brings a chisel down on Decimus; Jonah crosses the road unplated, pulls the man through, and hauls Decimus under a shelf. Auger meets Sabinus, feints at the feint, and puts a finger of Bricks's chisel into the armpit seam; Sabinus hurries and opens him. Fear of the seam on the Centurion's face. In the dark of a cut two young guards come for Jonah: full plate, the throat seam, a half of the water step, the armpit seam. He refuses to let the genius eat them because Sabinus would smell it. The plate goes in clean: the seam is a scar now. Strain: about twenty-six. Tullus comes down, lines forty-one men, and Rennick touches every tenth. The tenth falls on Jonah; Tullus reads the Censor's slate and says 'not that one'; the hand moves to Corr. Hollen, Bricks, Corr and two others go to the post and it is not the post. The Censor: he sold the galleries' numbers to save Jonah, knowing a tenth man is a tenth man; and then the rest: he drew the Pit. The Throat, the road, the Cradle, this room. Jonah says the names on the road and cannot say the first one, and does not go back for six weeks.",
+ "story_date": "391, the third year",
+ "events": [
+  {
+   "type": "revelation",
+   "description": "The Deep stops giving slabs eleven days after the loud night; the Vein closed over the bite. Rennick's count collapses to nine; Tullus calls one count a lie, sets fourteen by the piece, sends Sabinus to the Deep.",
+   "affected_characters": [
+    "Rennick",
+    "Marcius Tullus",
+    "Gnaeus Sabinus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, day 12 after the loud night"
+  },
+  {
+   "type": "death",
+   "description": "Sabinus harvests four diggers at the face through the neck seam for slabs that will not come. The post returns to the Shallows daily; a decury that makes eight loses a man. Fifty-nine on the road.",
+   "affected_characters": [
+    "Gnaeus Sabinus",
+    "Ulli",
+    "Harrow"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391"
+  },
+  {
+   "type": "encounter",
+   "description": "Auger tells Jonah the plan: the cage at the fourth bell, hold the road and the Throat's bottom so Tullus must talk; six stays behind the wall; keep Decimus off the road. Jonah counts it and does not warn Decimus.",
+   "affected_characters": [
+    "Auger",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, night 4"
+  },
+  {
+   "type": "encounter",
+   "description": "The road takes the cage. Sabinus comes down harvesting with six guards. Jonah sees the water step and knows he would last two seconds.",
+   "affected_characters": [
+    "Gnaeus Sabinus",
+    "Auger",
+    "Decimus",
+    "Jonah Vale",
+    "Bricks"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, fourth bell"
+  },
+  {
+   "type": "encounter",
+   "description": "A Collar brings a chisel down on Decimus at the cage end; Jonah crosses the road unplated, pulls the man through, chisels his thigh, hauls Decimus under a shelf. 'It's not personal.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Decimus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, fourth bell"
+  },
+  {
+   "type": "death",
+   "description": "Auger meets Sabinus, feints at the feint, and puts a finger of Bricks's ground chisel into the armpit seam. Sabinus hurries, opens him shoulder to hip. Fear of the seam on the Centurion's face. 'Next.'",
+   "affected_characters": [
+    "Auger",
+    "Gnaeus Sabinus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, fourth bell"
+  },
+  {
+   "type": "death",
+   "description": "In the dark of a cut, two young Tiro guards come for Jonah with a lamp: full plate, the crooked fang through the throat seam, half a water step, the armpit seam. He refuses to let the genius eat their cuttings because Sabinus would smell it. The plate goes in clean over a scar. Strain: about twenty-six.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, fourth bell"
+  },
+  {
+   "type": "encounter",
+   "description": "Tullus comes down the cage: fifty, grey, one white line above his stripe. 'Line.' Forty-one standing, eighteen down. Rennick touches every tenth from the cage end: a Deep man, Hollen, a transport boy, Bricks; the tenth falls on Jonah, who stood at the end of the decury knowing where it would fall.",
+   "affected_characters": [
+    "Marcius Tullus",
+    "Rennick",
+    "Jonah Vale",
+    "Hollen",
+    "Bricks",
+    "Pell",
+    "Corr",
+    "Decimus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, sixth bell"
+  },
+  {
+   "type": "revelation",
+   "description": "Tullus reads the Censor's slate from his coat and says 'Not that one. The galleries. Next.' Rennick's hand moves to Corr. Corr steps out and mouths 'nothing personal'. Sabinus kills the five at the post with the fang.",
+   "affected_characters": [
+    "Marcius Tullus",
+    "Rennick",
+    "Corr",
+    "Jonah Vale",
+    "Gnaeus Sabinus",
+    "Hollen",
+    "Bricks"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, sixth bell"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor: Tullus came to his door at the fourth bell for the galleries' numbers; at the bottom of the slate he wrote that 4471 is the only man on the Shallows who can cut a slab. He spent the one thing he had. A tenth man is a tenth man. 'I would do it again.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, night"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor confesses he drew the Pit twenty-two years ago at a table on Latium: the Throat, the road, the seventh chamber, the Cradle with the sick against the thickest wall called a kindness in the margin, this room, the door. 'Every man on those slabs is on them because I drew the road he walked down.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, night"
+  },
+  {
+   "type": "movement",
+   "description": "Jonah says the names on the road, adds Corr, Auger, Hollen, Bricks and two he does not know, and cannot say the first name on the list. He does not go back to the Cradle for six weeks.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor designed the Pit.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor sold Tullus the galleries' numbers with a line naming 4471 as the only slab-cutter on the Shallows, and Corr went to the post in his place.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Sabinus can be made to hurry: steel in a seam takes the boredom off his face and puts fear there; Auger feinted at the feint.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He would last two seconds against Sabinus's water step; he can do half of it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "When the middle is whole the plate goes in clean over the seam; the seam is a scar now.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "A decimation is done from the cage end by touching every tenth man; Tullus was trimmed once and decided that day what a number is.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "fact": "4471 is the only man on the Shallows who can cut a slab, according to the Censor's slate.",
+   "new_knowledge_level": "knows",
+   "how_learned": "read"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "4471 crossed a riot unplated to pull a chisel off him and put him under a shelf.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "fact": "A Collar with a chisel can put steel a finger into his armpit seam.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Rennick",
+   "fact": "Tullus struck 4471 off the tenth on the Censor's slate.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "The tenth fell on 4471 and Tullus said not that one, and Corr went.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Jonah has left the Cradle and will not come back for a time.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The Censor designed the Pit.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor sold Tullus the galleries' numbers with a line naming 4471 as the only slab-cutter on the Shallows, and Corr went to the post in his place.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Sabinus can be made to hurry: steel in a seam takes the boredom off his face and puts fear there; Auger feinted at the feint.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "climax",
+   "description": "Auger takes the cage to choose the week; asks for six behind the wall and Decimus off the road; feints at the feint and puts steel in a Centurion's seam; dies. The road becomes the Deep with the slabs cut out."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "escalate",
+   "description": "Jonah does not warn him and hauls him under a shelf unplated through a riot. 'It's my count.' 'Get up, Decimus.'"
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "escalate",
+   "description": "The water step seen three times; two seconds; half of it done in the dark; the throat seam and the armpit seam by hand memory; a wall that can shed can be made to hurry, shown."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Full plate in the cut; two guards; refuses to eat with Sabinus twenty paces off; plate goes in clean over the scar; about twenty-six."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "The seam is a scar: not lying and waiting made the middle whole. He stood at the end of the decury knowing where the tenth would fall."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "reveal",
+   "description": "The slate that saved him cost Corr; and he drew the Pit, the Cradle as a kindness in the margin. 'Now you know what I am, and you can go.'"
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "Corr, Auger, Hollen, Bricks, two unknown. He cannot say the first name on the list."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "escalate",
+   "description": "Tullus seen: trimmed once, grey, decides what a number is. Rennick broken. Sabinus wounded in the armpit and afraid of seams. Forty-one left standing."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "Twice more: 'why not', 'you could have told him to be sick', 'that's not an excuse', 'no, it's a number'."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "Decimation as the most Roman thing in the Pit, from the library the Roma ark carried."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Auger feinted at the feint: he watched the water step three times and put his second hand where it would land.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Jonah keeps this and uses it in ch.30: the way to a Centurion's seam is to give him the step he wants.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "Fear on Sabinus's face, of the seam, kept and thought about for two years.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Ch.30: 'Only matter cuts matter.' He lets the fang in to reach the seam.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Tullus keeps the Censor's slate in his coat and reads it at the bottom of the Throat in front of the line.",
+   "type": "object",
+   "subtlety": 6,
+   "mechanism": "Tullus depends on the Chamber; ch.22 when the Censor dies the galleries have no numbers; ch.29 the harvest is rushed.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Two dead guards' cuttings left uneaten in the cut with a lamp.",
+   "type": "environmental",
+   "subtlety": 6,
+   "mechanism": "Two Tiro loricae unaccounted for in the riot's count; Sabinus will note that no genius ate them and stop looking; later a Flamen will not (ch.25).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Rennick's hand stopped a finger from Jonah's shoulder before Tullus spoke.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "Rennick owes Jonah the weight count and was afraid to touch him; ch.26 the manifest goes through Rennick.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Jonah cannot say the first name on the list.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Six weeks away; ch.20 he says it again.",
+   "related_thread": "The Censor's guilt"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The wall went loud for an hour",
+   "status": "resolved"
+  },
+  {
+   "match": "Counting by weight: a slab is six",
+   "status": "resolved"
+  },
+  {
+   "match": "The Censor 'told the man who ordered the galleries",
+   "status": "resolved"
+  },
+  {
+   "match": "'I built the box, and I am in it.'",
+   "status": "resolved"
+  },
+  {
+   "match": "Tullus was trimmed from fifty-two",
+   "status": "reinforced"
+  },
+  {
+   "match": "Corr says a month to everyone",
+   "status": "resolved"
+  },
+  {
+   "match": "Auger has seen the wrist-turn twice",
+   "status": "reinforced"
+  }
+ ],
+ "status_changes": {
+  "Auger": "dead",
+  "Corr": "dead",
+  "Hollen": "dead",
+  "Bricks": "dead"
+ },
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "location": "Pit surface garrison"
+  },
+  {
+   "character_name": "Rennick",
+   "location": "Pit surface garrison"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "location": "Pit surface garrison"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "About twenty-six. Alive because a slate said so and Corr is dead. Cannot say the first name. Six weeks away from the Cradle."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Told the last thing. 'Now you know what I am, and you can go.'"
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Under a shelf, then at the cage end with his rifle. Hauled through a riot by a Collar."
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "emotional_state": "A finger of steel in his armpit. Not bored."
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "emotional_state": "Read a slate and said not that one."
+  },
+  {
+   "character_name": "Rennick",
+   "emotional_state": "His voice gone. His hand stopped a finger from a shoulder."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "Saw the tenth fall and move."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Decimus",
+    "Ulli",
+    "Corr",
+    "Hollen",
+    "Pell"
+   ],
+   "summary": "The count collapses; fourteen; Sabinus harvests the Deep; Ulli's report.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "What a riot is; what a decimation is; stand where the fewest die.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Auger",
+    "Jonah Vale"
+   ],
+   "summary": "Auger's plan; six behind the wall; Decimus.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Auger",
+    "Gnaeus Sabinus",
+    "Bricks",
+    "Pell",
+    "Corr",
+    "Hollen",
+    "Tacitus"
+   ],
+   "summary": "The riot: the cage; Sabinus harvesting; Decimus under the shelf; Auger's feint at the feint; the cut in the dark; two guards; plate in clean.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Marcius Tullus",
+    "Rennick",
+    "Jonah Vale",
+    "Corr",
+    "Hollen",
+    "Bricks",
+    "Pell",
+    "Decimus",
+    "Gnaeus Sabinus"
+   ],
+   "summary": "The line; every tenth; not that one; Corr; the post that is not the post.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The slate; Corr's name; I drew the Pit; the names on the road; the first one unsaid.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 10,
+ "scene_type": "action",
+ "pacing": "frantic",
+ "emotional_tone": "chaotic",
+ "opening_hook": "The Deep stopped giving slabs eleven days after the wall went loud, and the number Jonah built came apart the way a hull does.",
+ "closing_hook": "He cannot say the first name on the list, and does not go back to the Cradle for six weeks.",
+ "word_count": 6774,
+ "notes": "Grade about 26. Auger, Corr, Hollen, Bricks dead. Sabinus wounded and afraid of seams. Tullus and Rennick seen. The Censor's design revealed here (moved up from ch.20, which becomes the rupture and return). Two guards' cuttings left uneaten. Decury six is now Jonah, Pell, and four survivors."
+}
