@@ -1,0 +1,383 @@
+{
+ "title": "Hold",
+ "summary": "The bar lifts the lid and Jonah can see: a lamp on a hook, the first thing in thirty-one days. Pike, the Heron's old Halyard bosun, looks into a sealed College cask and finds a man in a ring of slabs, and sends for Kaspar. Tacitus lets go at once; the heart is forty-one and settled, and the body is a wreck: hands that have forgotten, legs not there, thirty-one days unfed, and Tacitus's hunger up with the heart, knowing where both loricae on the ship are. Pike has read the mark: backward, sealed from inside. Kaspar, the mate, Tiro six, decides the lock. Jonah asks the thing in him: not the plated one first. Two crewmen lift him and the plate comes up wrong: thick on the forearms, thin on the back, and the seams shut like lids. The fang comes out a hand long and becomes an arm long without asking, through Dov's thigh: Reach, passed from Sabinus's cutting, wrong-shaped. The echo comes with it, the first since Varro: a bored contempt behind his eyes that looks at Blanks with knives as slabs. 'Not yours. Mine.' Kaspar's fang skids off a shut seam; Jonah does the water step on his knees and it is right for the first time in his life and it is Sabinus's and he wants to be sick. Varro's wrist turn takes the mate's arm; the hunger goes in through both palms and eats a living Tiro six's cutting want by want, and under the screaming he hears the cutting say, in the only word it has, please. He lets go. 'That one said please.' Kaspar's arm is bare and grey to the elbow, the cutting half eaten and alive. Half a lorica settles: forty-two, and he did not want it; this is the Law, and there is no line on the slate for what the weak said, and he will write one. Seal passes from the half, wrong-shaped: the seams shut backward and lumpy and will not open when asked, then do. He tells Pike his captain is coming down slow on purpose, Tiro nine, Hush turned inward, and to tell her he stopped when it said please. Yara comes down with a fang point down and counts the hold: 'You're the thing in thirty-one.' He tells her where she is really going, a Belt yard for the two skimmed casks, thirty-eight on a College dock with a story. 'What are you.' 'I don't know. Ask me again in a month.' A letter on his chest from a girl to her father and he did it. She hears that a lorica asked him for something and her face does what the Censor's did on the shelf: the only one who knew a thing, told it by a stranger. She kneels by Kaspar with her hand on the grey arm: half a cutting, not coming back, sorry once. 'You did that.' 'Yes.' 'And you'd do it again.' 'Not to him.' He names the question she came down for: a thing that seals a cask from inside is not a convict, she has a use for it, and she has counted. 'Not tonight. Tomorrow I'll ask. Thirty-one days to the yard; a month for your new answer.' 'It's not fair. It's a Halyard ship. It's mine.' 'Then eat, so that when you find her you're not a thing that came out of a box.' Fish in a broth in shaking hands; Pike on a stool with a bar across his knees; the backward mark made again on the inside of the cask for him. Kaspar is Pike's sister's boy; she will want to know what it was. 'Have you a name for it? The thing that stopped?' 'It's called Tacitus. It stopped because it had heard that word once before, from a guard, on a road, and it knew what it was for.' Pike puts the bar down beside the stool.",
+ "story_date": "394, late spring, the Heron, day 31 out from Metalla VII",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Pike bars open thirty-one and finds a man in a ring of slabs in a sealed College cask with a backward mark; Tacitus lets go at once; Jonah can see again, is forty-one settled, and is a wreck: hands and legs gone, thirty-one days unfed, and Tacitus's hunger up and knowing where both loricae on the ship are.",
+   "affected_characters": [
+    "Pike",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 31 out"
+  },
+  {
+   "type": "confrontation",
+   "description": "Kaspar, the mate, Tiro six, decides the lock: a stowaway in a skimmed College harvest ends everyone on a slab. Hal and Dov lift Jonah; the plate comes up wrong, thick on the forearms, thin on the back, the seams shut like lids.",
+   "affected_characters": [
+    "Kaspar",
+    "Hal",
+    "Dov",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 31 out"
+  },
+  {
+   "type": "combat",
+   "description": "The fang comes out a hand long and becomes an arm long without asking, through Dov's thigh: Reach, from Sabinus's cutting, wrong-shaped, and with it the echo, the first since Varro, a bored contempt behind his eyes. Kaspar's fang skids off a shut seam; Jonah does the water step on his knees, right for the first time in his life, and it is Sabinus's; Varro's wrist turn takes the mate's arm.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Kaspar",
+    "Dov",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 31 out"
+  },
+  {
+   "type": "transformation",
+   "description": "The hunger goes in through both palms and eats a living Tiro six's cutting want by want, and under the screaming Jonah hears the cutting say please. He lets go: 'That one said please.' Kaspar's arm is bare and grey to the elbow, the cutting half eaten and alive. Half a lorica settles: forty-two, unwanted. Seal passes from the half, wrong-shaped: the seams shut backward and lumpy and open badly.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Kaspar"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 31 out"
+  },
+  {
+   "type": "encounter",
+   "description": "Yara comes down the ladder with her heart slowed on purpose and a fang point down, counts the hold, and hears from Jonah where the Heron is really going: a Belt yard for the two skimmed casks, thirty-eight on a College dock a week later with a story. 'What are you.' 'I don't know. Ask me again in a month.' A letter from a girl to her father he killed; he will find her. She hears that a lorica asked him for something and her face does what the Censor's did on the shelf.",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Pike",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "Sula's letter"
+   ],
+   "story_timestamp": "day 31 out"
+  },
+  {
+   "type": "decision",
+   "description": "Yara kneels by Kaspar with her hand on the grey arm: half a cutting, not coming back, sorry once. 'You did that.' 'Yes.' 'And you'd do it again.' 'Not to him.' Jonah names the question she came down for: a thing that seals a cask from inside is not a convict and she has a use for it and has counted. 'Not tonight. Tomorrow I'll ask. Thirty-one days to the yard.' 'It's not fair. It's a Halyard ship. It's mine.' 'Then eat, so that when you find her you're not a thing that came out of a box.'",
+   "affected_characters": [
+    "Yara",
+    "Jonah Vale",
+    "Kaspar"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 31 out"
+  },
+  {
+   "type": "encounter",
+   "description": "Fish in a broth; Pike on a stool with a bar across his knees; the backward mark made again on the inside of the cask for him. Kaspar is Pike's sister's boy. 'Have you a name for it? The thing that stopped?' 'Tacitus. It stopped because it had heard that word once before, from a guard, on a road, and it knew what it was for.' Pike puts the bar down beside the stool.",
+   "affected_characters": [
+    "Pike",
+    "Jonah Vale",
+    "Hal",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 31 out, night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Pike",
+   "fact": "Cask thirty-one's College mark is backward, sealed from inside; the man in it made it with his hand and can make it again on glass.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pike",
+   "fact": "The thing in the Collar is called Tacitus and it stopped eating Kaspar's cutting when the cutting said please, because it had heard the word from a guard on a road.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "The man from thirty-one sealed it from inside with his hand, took half of Kaspar's living cutting with his hands and stopped, says a lorica asked him for something, carries a letter from a girl to a father he killed, and knows the Heron is bound for a Belt yard with two skimmed casks.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "The man from thirty-one knows she runs Hush inward and what it costs, and has counted that she has a use for him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Kaspar",
+   "fact": "A Collar from a cask ate half his cutting with his bare hands and stopped; his arm will not be what it was and he will not be a mate on a Halyard ship.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Reach passed from Sabinus's cutting, wrong-shaped, with Sabinus's echo: the water step done right and a bored contempt behind the eyes.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "A living cutting being eaten says please, and Tacitus knows what the word is for; half a lorica passes Seal, wrong-shaped, and a grade.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Heron: Yara, Halyard, Blank Tiro nine, Hush inward, stripe ten years old; Pike the bosun, seventy; Kaspar the mate, Pike's sister's boy; Hal; Dov; nine aboard; bound for a Belt yard, thirty-one days.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "Please is a word a cutting can say, and it means stop.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Jonah is Centurion 42 with Reach and Seal both wrong-shaped, and Sabinus's echo in his knees and eyes.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "A living lorica being devoured can say please, and Tacitus stops for the word.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Heron is a Halyard skimmer bound for a Belt yard; Yara has a use for a man who can seal a College cask from inside and will name it tomorrow.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Kaspar lives with half a cutting; nobody died in the hold.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "climax",
+   "description": "Thirty-one days empty; the hunger eats a living cutting and stops for please. Forty-two he did not want. The Law of Spoils has no line for what the weak said; he will write one. Both new gifts wrong-shaped because they were taken wrong."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "It knew what please was for, from a guard on a road, and let go. Named aloud to a Halyard bosun as the thing that stopped. Yara's face: the only one who knew a lorica can ask, told by a stranger."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Sabinus's echo: the water step done right, on his knees, for the first time, and not his; Reach lengthens the fang without asking; the seams shut wrong. After a big jump he must learn his plate again, and has no month."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Kaspar, Pike's sister's boy, a cutting in his arm since fourteen, half taken: a line for what the weak said while it happened. Sula's letter over his heart is what he is tonight."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "reinforce",
+   "description": "A College cask with a backward mark and a Collar's story in it is a thing the College would ask about very carefully; the Heron will put thirty-eight on a College dock with a story."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "'What are you.' Asked three times in a month by people with the right to ask; the old answer is not true anymore and he has not got the new one. A month to find it."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Yara runs Hush inward, like Jonah; her heart slowed on purpose coming down the ladder; a stripe ten years old.",
+   "type": "behavioral",
+   "subtlety": 4,
+   "mechanism": "Ch.33: she recognises the trick in him and knows what it costs; how she got the stripe (Halyard blood on a Blank's stripe).",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Yara has a use for a man who can seal a College cask from inside, and has counted what it costs.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Ch.33: her price, not money.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "Kaspar's half cutting, alive, grey to the elbow; Pike's sister will want to know what it was.",
+   "type": "physical",
+   "subtlety": 5,
+   "mechanism": "Book 2: a half-eaten lorica on the Belt is a thing the College can read, and does.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Sabinus's echo: the water step right for the first time, and a contempt behind the eyes that is not his.",
+   "type": "behavioral",
+   "subtlety": 4,
+   "mechanism": "Book 2: the echo makes him good on the Ludi floor and he hates it; Book 3 the chorus.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Reach and Seal both wrong-shaped: one eaten whole, one half.",
+   "type": "structural",
+   "subtlety": 4,
+   "mechanism": "Ch.38: Nasso's reading lists Seal (malformed), Reach (malformed). Book 2: a Master reads what malformed means.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Pike put the bar down beside the stool and left it there.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Ch.33: Pike's word with Yara's crew; Book 2: the Heron comes back for him.",
+   "related_thread": "The book of names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "A crewman who knows casks knocked thirty-one",
+   "status": "resolved"
+  },
+  {
+   "match": "The harvest mark on thirty-one reads the wrong way round",
+   "status": "reinforced"
+  },
+  {
+   "match": "Voice: a lorica told no aloud",
+   "status": "reinforced"
+  },
+  {
+   "match": "A licensed fang eats plate in strips",
+   "status": "reinforced"
+  },
+  {
+   "match": "Reach and Seal",
+   "status": "reinforced"
+  },
+  {
+   "match": "'A purser's pilot. Off Anvil. Citizen, for a week.'",
+   "status": "reinforced"
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The casks",
+   "location": "The Heron",
+   "status": "active"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Yara",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Pike",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Kaspar",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Hal",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Dov",
+   "location": "The Heron"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Forty-two, wrong-shaped, Sabinus behind his eyes. Stopped for please. Does not have the new answer. Eating so he is not a thing that came out of a box."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Ate half a living cutting and stopped when it said please. Knew what the word was for."
+  },
+  {
+   "character_name": "Yara",
+   "emotional_state": "Counted the hold. Told a thing only she knew by a stranger. Has a use for him and a month to decide whether to hear his answer."
+  },
+  {
+   "character_name": "Pike",
+   "emotional_state": "Put the bar down beside the stool."
+  },
+  {
+   "character_name": "Kaspar",
+   "emotional_state": "Had a thing taken off him he has had since fourteen. Half."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Heron",
+   "characters": [
+    "Pike",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The lid off; light; a wreck with a settled heart; the backward mark read; Kaspar sent for.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Kaspar",
+    "Hal",
+    "Dov",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The lock; lifted; the plate wrong; Reach; the echo; the water step right; the wrist turn; the cutting says please; forty-two; Seal wrong-shaped.",
+   "purpose": "climax"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Yara",
+    "Jonah Vale",
+    "Pike",
+    "Kaspar"
+   ],
+   "summary": "Yara down the ladder; the thing in thirty-one; where the Heron is going; what are you; a lorica asked; Kaspar's arm; the question named; not tonight; eat.",
+   "purpose": "confrontation"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Pike",
+    "Jonah Vale",
+    "Hal"
+   ],
+   "summary": "Fish; the bar across the knees; the mark made again; sister's boy; a name for the thing that stopped; the bar put down.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 8,
+ "scene_type": "action",
+ "pacing": "fast",
+ "emotional_tone": "grim",
+ "opening_hook": "The bar went into the groove and the lid came up, and there was light, and he could see it.",
+ "closing_hook": "Pike put the bar down beside the stool, and left it there.",
+ "word_count": 5245,
+ "notes": "Progression: 41 to 42 (half of Kaspar's Tiro 6 cutting); Reach (from Sabinus) and Seal (from Kaspar) both wrong-shaped, per system bible row 40; Sabinus's echo established; a living cutting can say please and Tacitus stops. Ladder row 32 satisfied except 'unsettled' (he settled in stasis in ch.31; the wreck is the body, not the grade). New characters: Pike, Kaspar, Hal, Dov. Nobody dies."
+}
