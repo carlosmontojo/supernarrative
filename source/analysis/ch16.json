@@ -1,0 +1,338 @@
+{
+ "title": "What the Vein Wants",
+ "summary": "Second year. The Censor has Jonah put his whole hand flat on the thickest Vein in the Cradle and stand the genius in the doorway: not no, stop. Through it Jonah hears the wall as it is: one mind the size of the planetoid, keeping every name it has ever taken, counting, and under the count saying come to every piece cut off it in four hundred years, to every cutting in every arm in the Empire, none of which can hear. He hears the shape of Vetch in the count. He lets go. The Censor's theory: the sickness is the wall trying to hold a man who has no doorway; every man in the Cradle dies of being loved by something that does not know what a man is. The Censor's confession: the wall found the hole where his stripe was in his first month, and on the sixth day he understood he could let it in and be what Jonah is, and he chose the stone out of fear, and tapped to the dying for twenty years to find one who would do what he did not. What the wall wants from Jonah: it has never had a piece that says no; it is finding out what shape he is. Strain: grade 20, Principal. Through the tunnel to the Chamber: the first slab, first line, year 366, number one, Aulus Terentius Pharus, written with a piece of the shelf. Pell's brother in the ninth year: a field. Jonah's own line, and his father's. 'There is always room. That is the only thing about a count that is kind.' Jonah tells Pell about the north forty and the drainage, and Pell sings to the wall.",
+ "story_date": "390, the second year",
+ "events": [
+  {
+   "type": "discovery",
+   "description": "Voice, first time held: Jonah stands the genius in the doorway of his hand against the Vein and listens through it: one mind the size of the planetoid, keeping and counting every name it has taken, saying come to every cutting in the Empire. He hears the shape of Vetch in the count. He lets go.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390, second year"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor: the sickness is the wall trying to hold a man who has no doorway; cut ones have a hole it can find; every man in the Cradle dies of being loved by something that does not know what a man is.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor's confession: the wall found the hole where his stripe was in his first month; eleven days on the shelf; on the sixth day he knew he could let it in; he chose the stone out of fear and tapped to the dying for twenty years to find one who would do what he did not. 'You were cornered. I was not.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390"
+  },
+  {
+   "type": "revelation",
+   "description": "What the wall wants: it has never had a piece that says no; it is finding out what shape Jonah is, the way he found out the shape of the fang. When it knows it will want something.",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390"
+  },
+  {
+   "type": "transformation",
+   "description": "Strain from holding the door: a long fever, a whole door going over. Grade 20, Principal. 'The ceiling you would have been fused at nine is a very long way below you.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390"
+  },
+  {
+   "type": "movement",
+   "description": "First time through the tunnel to the Chamber. The first slab: year 366, number one, Aulus Terentius Pharus, written the first night with a piece of the shelf. Pell's brother, ninth year, a field. Jonah's own line and his father's. 'When I die they are yours.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [
+    "The book of names",
+    "The Censor's tunnel"
+   ],
+   "story_timestamp": "390"
+  },
+  {
+   "type": "encounter",
+   "description": "Jonah tells Pell his brother's line: the ninth year, a field, the north forty. Pell: 'Bad drainage. He always said it was the drainage.' Pell sings to the wall.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein is one organism; every lorica is a cutting lobotomized at the Wit line; fuses were introduced in 152 to cap the orders.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein keeps and counts every name it has taken and says come to every cutting in the Empire; his genius is the first piece in four hundred years that can hear it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The sickness is the wall trying to hold a man who has no doorway; cut ones have a hole it can find.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor could have let the wall in through his scar in his first month and chose the stone out of fear; he tapped to the dying for twenty years to find one who would.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The wall is finding out what shape Jonah is and will one day want something from him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The first line of the first slab is the Censor's own name, written the first night; the slabs will be Jonah's when he dies.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Pell's brother came down in 357 for the north forty on Marl and went into the wall in the ninth year.",
+   "new_knowledge_level": "knows",
+   "how_learned": "read"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "His brother's name and field are written on a slab in the rock; it was the north forty; it has been kept eleven years.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Jonah can stand the genius in the doorway against the Vein and listen through it and let go: Voice, held.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The Vein keeps and counts every name it has taken and says come to every cutting in the Empire; his genius is the first piece in four hundred years that can hear it.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor could have let the wall in through his scar in his first month and chose the stone out of fear; he tapped to the dying for twenty years to find one who would.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Vein is one organism; every lorica is a cutting lobotomized at the Wit line; fuses were introduced in 152 to cap the orders.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The first line of the first slab is the Censor's own name, written the first night; the slabs will be Jonah's when he dies.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reveal",
+   "description": "Heard from the inside: one mind, counting, saying come to every piece in the Empire. The sickness as love without a doorway. It is finding out what shape Jonah is."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Voice held: stands in the doorway for 'stop', listens, lets go. Grade 20, Principal. The first piece in four hundred years that says no."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "escalate",
+   "description": "The confession of the stone: he could have let it in and chose fear. 'You were cornered. I was not.' Still not the Pit."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "Number one is the Censor. Pell's brother in the ninth year. Jonah's line, his father's. 'There is always room.' Pell sings to the wall."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "He does not think about the tunnel's nine years because thinking about it is a debt."
+  },
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "reinforce",
+   "description": "Corr has stopped talking to the foreman; that is what a foreman is, and it is correct."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Strain that is not a fight: 'the ceiling you would have been fused at nine is a very long way below you.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "The wall says come to every cutting in the Empire and none can hear because the part that could hear was cut out.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Voice can one day tell a cutting its fuse is a lie (Book 5): the cuttings are deaf, not dead.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The wall's cuts run further into the rock than the Pit goes, further than the garrison knows.",
+   "type": "environmental",
+   "subtlety": 7,
+   "mechanism": "The Mouth (ch.23) is not the bottom. Book 6.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "'A man who counts must be counted, or the count is a lie.' The Censor is number one.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Jonah will write himself into the book (ch.22) and, in Book 6, be the last page.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "'When it knows what shape you are, it will want something, and I will be dead.'",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Ch.23 the Mouth shows him the first cut; Book 6 the Vein's ask.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The Censor tapped to keep his hands busy: the first tapping was to hold himself shut.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "The code that saved Jonah in the Cradle began as the Censor's refusal.",
+   "related_thread": "The Censor's guilt"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Ulli sings so the dying",
+   "status": "resolved"
+  },
+  {
+   "match": "Pell's brother went to the mines",
+   "status": "resolved"
+  },
+  {
+   "match": "'The wall is not your enemy",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Vein cannot stop a piece of itself",
+   "status": "reinforced"
+  },
+  {
+   "match": "Jonah feels 'a small clean tearing",
+   "status": "reinforced"
+  },
+  {
+   "match": "The genius hides from the glass 'the way a man",
+   "status": "reinforced"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Grade 20, Principal. Heard the wall. Read his father's name in a dead man's language. Told Pell the field."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Confessed the stone. Not the Pit."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "The north forty. Bad drainage. Singing to the wall."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Stood in a doorway for 'stop'. The first piece that says no."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The whole hand on the wall; the genius in the doorway; the count; come; Vetch's shape; letting go.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "What the sickness is; the Censor's eleven days and the stone; what the wall wants from Jonah; the fever; Principal.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Chamber",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "Through the tunnel; the first slab, number one; Pell's brother; his father's line; there is always room.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Pell"
+   ],
+   "summary": "The north forty; the drainage; Pell sings to the wall.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "revelation",
+ "pacing": "slow",
+ "emotional_tone": "paranoid",
+ "opening_hook": "'Both times that was true and it was also the answer of a coward. Put your hand on the wall.'",
+ "closing_hook": "Pell turns his face to the wall and sings, and Jonah does not go to the haul until it is done.",
+ "word_count": 4463,
+ "notes": "Grade 20, Principal. Voice held for the first time. The Censor's fear confessed; the Pit's design still withheld (ch.20). Pell's brother's line delivered. Corin thread dormant by design until ch.36."
+}
