@@ -1,0 +1,426 @@
+{
+ "title": "The Trimmer",
+ "summary": "Sabinus walks Jonah up the empty Deep road, heart slow. At the Chamber door Jonah opens the prefect's lock with his palm while Sabinus watches, and takes the Censor's stick off the empty shelf. He tells Sabinus the page the old man had on him: client of the Princeps' house, washed out of the Ludi because he could not bear to grind, trimmed twice in a yard, the Claudian Form without the Wall, a wall that can shed is a man pretending. He names the Censor: Aulus Terentius Pharus, and Sabinus stops mid-road for a breath. The duel: Jonah loses for two minutes and knows it in ten seconds. Thirteen grades and a licence; the Wall holds a finger deep, twenty times; the licensed fang does not cut plate, it eats it, a strip at a time, and the strips do not come back. The stick holds once, twice, and the fang goes through it on the fourth cut: 'That's the end of the old man.' Jonah holds the half stick out to his right as a tell and lets his left hand hang. He has seen the water step go to Sabinus's right every time, away from the newer plate at the left armpit seam: a man afraid of a seam steps away from it without knowing. He feints the old Blank's trick; Sabinus reads it and steps right and puts the fang through the place Jonah will be. Jonah is there and does not step: the plate over his throat opens, told 'that', and the fang goes three fingers in and Tacitus eats it from the point back, and up the fang the cutting in Sabinus's arm feels itself eaten. 'Only matter cuts matter. I eat matter.' The left hand is already on the shoulder that stepped into it and the fang from the palm goes into the seam at the left armpit. 'Oh.' The plate comes off Sabinus in a shiver and he sits down and stops. The hunger does not ask: it goes into the dead forearm and takes the licensed cutting, a fifth of forty-five at once, and Jonah is forty-one, unsettled, and the fever goes white behind his eyes and he is blind. Through the rock: thirty hearts past the Cradle, eleven in the galleries, one on the road coming down alone with a rifle. His hand goes where the man is going; the fang from the palm at the neck seam of a grey Tiro plate thirty years old; the rifle hits the rock; the breath before a number. Decimus. Orders from Tullus: go down and look, if the Centurion is dead shoot the Collar; Decimus said send a young one, Tullus said they are afraid of him. He came down slow with his rifle down to say the number first and got as far as the breath. 'It's not personal. Don't put it on the slate.' 'It's on the slate.' 'Then write it right.' Sula's letter from the inside left pocket. 'Sixteen. Counting.' 'You'll not find her. You're in a cask. Or the wall. I wrote you into the wall this morning. That was the mark.' 'Decimus Alba. Of Etruria.' 'Sula's father. Write that first.' Tacitus does not stand between because he did not ask, and the whole of it goes through him. He says the Deep's count from first to last and answers his own number and makes a mark on nothing; closes the eyes; 'I've never once believed it.' The letter over his heart, the half stick beside it; nine days to settle and only until dawn; the hand with no hand: 'I know.' The name goes into the book beside the old man's, because there is room. He goes down the road, not up, to cask thirty-one, and knows who he killed on the way to the road.",
+ "story_date": "394, spring, night of day 19 of the harvest",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Sabinus walks Jonah up the empty Deep road, heart slow, four paces behind. At the Chamber door Jonah opens the prefect's one-key lock with his palm while Sabinus watches ('Ah'), and takes the Censor's stick off the empty shelf in the dark.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Gnaeus Sabinus",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The Censor's stick"
+   ],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "revelation",
+   "description": "Jonah tells Sabinus the Censor's page on him: client of the Princeps' house, washed out because he could not bear to grind, trimmed twice cheaply, the Claudian Form without the Wall; a wall that can shed is a man pretending and can be made to hurry. He names Aulus Terentius Pharus, the struck Master who designed the galleries, and Sabinus stops mid-road for a breath.",
+   "affected_characters": [
+    "Gnaeus Sabinus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "combat",
+   "description": "The duel on the Deep road between two lamps. Jonah loses for two minutes and knows it in ten seconds: thirteen grades and a licence; the Wall holds a finger deep; the licensed fang eats plate in strips that do not come back; the stick holds once against anything and is cut in half on the fourth cut: 'That's the end of the old man.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Gnaeus Sabinus",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The Censor's stick"
+   ],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "combat",
+   "description": "The Sertorian Form in the light for the first time in a hundred years: the half stick as a tell, the left hand hanging. Sabinus's water step always goes right, away from the newer plate at the left armpit seam. Jonah feints the old Blank's trick; Sabinus steps right and thrusts where Jonah will be; Jonah is there and does not step; the plate over his throat opens on 'that' and Tacitus eats the fang three fingers in from the point back, and the cutting in Sabinus's arm feels itself eaten. 'Only matter cuts matter. I eat matter.' The left hand is on the shoulder that stepped into it; the fang from the palm goes into the left armpit seam. 'Oh.' The plate comes off him and he sits down and stops.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Gnaeus Sabinus",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "death",
+   "description": "Gnaeus Sabinus, client of the Princeps' house, Centurion 45 licensed and twice trimmed, dies on the Deep road with a Collar's hand on his shoulder.",
+   "affected_characters": [
+    "Gnaeus Sabinus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "transformation",
+   "description": "The hunger does not ask: it goes into the dead forearm and takes the licensed cutting, a fifth of forty-five at once, thirteen grades in the time a man takes to sit down, and Jonah is forty-one, Centurion, unsettled. The fever goes white behind his eyes and he is blind. Through the rock: thirty hearts past the Cradle, eleven in the slab galleries, one coming down the road alone.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "death",
+   "description": "Blind and unsettled, Jonah's hand goes where the man is going before the man knows; the fang from the palm at the neck seam of a grey Tiro plate; the rifle hits the rock; the breath before a number, and the number does not come. Decimus. He had orders from Tullus (go down and look; if the Centurion is dead shoot the Collar), had said send a young one, and came down slow with the rifle down to say the number first and got as far as the breath.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "revelation",
+   "description": "Decimus dying against the Vein: 'It's not personal. Either way. Don't put it on the slate.' 'It's on the slate.' 'Then write it right.' Sula's letter from the inside left pocket, the tree marked MINE; 'Sixteen. Counting.' 'You'll not find her. You're in a cask. Or the wall. I wrote you into the wall this morning. That was the mark.' He counted Jonah at the Throat as a thing going up it one way or the other and wrote it so the road could say so. 'Decimus Alba. Of Etruria.' 'Sula's father. Write that first. They put the rest first on a slab and it's wrong.' Tacitus does not stand between because Jonah did not ask, and the whole count goes through him, the fourth time and the worst.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "Sula's letter",
+    "Pit register"
+   ],
+   "story_timestamp": "day 19, night"
+  },
+  {
+   "type": "decision",
+   "description": "Jonah says the Deep's count from first to last, answers his own number, makes a mark on nothing, closes the old guard's eyes by feel: 'I'm not going to say it's not personal. I've never once believed it.' The letter goes over his heart with the half stick beside it. Forty-one unsettled needs nine days and he has until the cage comes down at dawn. 'It's not enough.' The hand with no hand; 'I know.' The name goes into the book beside the old man's, because there is room. He goes down the road to cask thirty-one, blind, and knows who he killed on the way to the road.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "Sula's letter",
+    "The Censor's stick",
+    "The book of names",
+    "The casks"
+   ],
+   "story_timestamp": "day 19, night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Gnaeus Sabinus",
+   "fact": "The struck Master Aulus Terentius Pharus lived twenty-three years behind the prefect's one-key door and taught 4471 the Sertorian Form with a stick; 4471 can open a lock with his palm.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "A licensed fang does not cut plate; it eats it, a strip at a time, and at thirteen grades down the strips do not come back. Grade is the thing above the Forms.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The plate can be opened on purpose to let a fang in and Tacitus can eat a live fang from the point back, and up the fang the other cutting feels it. Only matter cuts matter; he eats matter.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Spoiling a licensed Centurion at once is thirteen grades unsettled: white fever behind the eyes, blindness, nine days to settle.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Decimus wrote 4471 into the wall that morning: went in the night of the nineteenth, the one who carries the night before, that's the Deep. That was the mark. He came down slow with the rifle down to say the number first.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Sula is sixteen, counting; the letter with the tree marked MINE was in Decimus's inside left pocket.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "4471 killed Sabinus and is the thing that was going up the Throat one way or the other; 4471 is the one who killed him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "fact": "Decimus was sent down the road alone to look and shoot the Collar if the Centurion was dead, and has not come back.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Jonah killed Sabinus with the Sertorian Form by letting the fang into his throat and devouring it mid-thrust; he spoiled the licensed cutting and is Centurion 41, unsettled and blind.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah killed Decimus blind, by the Form, before he knew who it was; Decimus had come down slow with his rifle down to say the number first.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Decimus's unreadable mark was the register line writing 4471 into the wall on the night of the nineteenth, written that morning so the road could say so whichever way the night went.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah has Sula's letter and the half of the Censor's stick over his heart, and is going back into cask thirty-one.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor's stick is broken; the old man is finished as a thing on the road; Jonah is what is left of him.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Forms",
+   "beat_type": "resolve",
+   "description": "The Sertorian Form pays off: the hand where the man is going; a man afraid of a seam steps away from it; the fang let in and eaten mid-thrust. 'Only matter cuts matter. I eat matter.' The stick broken on the fourth cut."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "climax",
+   "description": "Sabinus dead on the road, Decimus dead on the road, 4471 written into the wall that morning in Decimus's hand; Jonah goes back down to cask thirty-one blind and unsettled with until dawn."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "climax",
+   "description": "The hunger does not ask and takes a licensed cutting whole; then the hand goes where a man is going and it is Decimus. Integrity holds: he does not say it is not personal, he says the name and writes it right, and the plate, holed, keeps closing."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "resolve",
+   "description": "Killed by the boy he said please to, coming down slow with the rifle down to say the number first. 'Don't put it on the slate.' 'It's on the slate.' 'Then write it right.' Decimus Alba, of Etruria, Sula's father, written first. The mark was the register."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "Gnaeus Sabinus goes in with what he did. Decimus Alba of Etruria, Sula's father, goes in beside the old man's, because there is room. Jonah says the whole Deep count and answers his own number."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Opened the plate on 'that' and ate a live fang; took a Centurion's cutting without asking; did not stand between for Decimus because it was not asked and would not have been; the hand with no hand; 'I know.'"
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "reinforce",
+   "description": "Pharus named aloud to a Centurion on the road he drew; his page on Sabinus was right; his stick is broken on his road and the half of it goes over Jonah's heart with a guard's daughter's letter."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "The first Stripe Jonah has killed by the Form, a client of the Princeps' house; the seat, the Form, the father, the sister are what the Form is for, and the price of it is a man who said please."
+  }
+ ],
+ "clues": [
+  {
+   "description": "A licensed fang eats plate in strips, and thirteen grades down the strips do not come back.",
+   "type": "structural",
+   "subtlety": 4,
+   "mechanism": "Book 2: what a Tribune's fang does to a Centurion's plate on the Ludi floor; Book 4: Priscus's ancestral fang.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "Sabinus stopped mid-road at the name Aulus Terentius Pharus: a Centurion of the Princeps' house knew the name.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Ch.34: Tullus's report to the City names the struck Master; Priscus reads it; Vibius's hunt is over and the seed is loose.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "Decimus wrote 4471 into the wall on the morning of the nineteenth so the road could say so whichever way the night went.",
+   "type": "structural",
+   "subtlety": 3,
+   "mechanism": "Ch.34: the Pit register line in Priscus's study is in Decimus's hand. Ch.40: read back.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Sula, sixteen, counting, on Etruria, with a tree in a garden; the letter over Jonah's heart.",
+   "type": "physical",
+   "subtlety": 3,
+   "mechanism": "Ch.40: the name recited with 'Sula's father' first. Book 2: Jonah goes to Etruria with the letter and a lie about how her father died, and does not tell it.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Tacitus did not stand between for Decimus because Jonah did not ask and would not have.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Integrity: he lets the ones he kills go through him. Book 3: the echo chorus is everyone he let through.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Forty-one unsettled: nine days to settle and only until dawn; blind.",
+   "type": "structural",
+   "subtlety": 3,
+   "mechanism": "Ch.31: the settling happens in the cask, in the hold, as matter; ch.32 he wakes on the Heron at forty-one settled and wrecked.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "The half stick, ash, a hand long, kept over his heart beside the letter.",
+   "type": "physical",
+   "subtlety": 5,
+   "mechanism": "Ch.39: what he has of the old man when he chooses the name. Book 2: Livia sees it.",
+   "related_thread": "The book of names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Sabinus's newer plate at the left armpit seam",
+   "status": "resolved"
+  },
+  {
+   "match": "Jonah has not decided which of them he kills",
+   "status": "resolved"
+  },
+  {
+   "match": "Decimus's mark that nobody can read",
+   "status": "resolved"
+  },
+  {
+   "match": "Fear on Sabinus's face, of the seam",
+   "status": "resolved"
+  },
+  {
+   "match": "The narration: Jonah will say Decimus's name",
+   "status": "resolved"
+  },
+  {
+   "match": "Sabinus once read about the Sertorian Form",
+   "status": "reinforced"
+  },
+  {
+   "match": "Decimus's daughter Sula",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Censor's stick",
+   "status": "reinforced"
+  }
+ ],
+ "status_changes": {
+  "Gnaeus Sabinus": "dead",
+  "Decimus": "dead"
+ },
+ "object_updates": [
+  {
+   "name": "The Censor's stick",
+   "holder": "Jonah Vale",
+   "location": "The Deep",
+   "status": "destroyed"
+  },
+  {
+   "name": "Sula's letter",
+   "holder": "Jonah Vale",
+   "location": "The Deep"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Forty-one, unsettled, blind. Killed Sabinus by the Form and Decimus by the Form before he knew. Said the name first. 'It's not enough.' Going back into the cask with a letter over his heart."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Ate a live fang. Took a Centurion's cutting without asking. Did not stand between. The hand with no hand."
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "emotional_state": "'Oh.' Told a thing he should have known."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Came down slow to say the number first. Not personal, either way. Write that first."
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "emotional_state": "Sent the one guard who was not afraid and has not had him back."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Gnaeus Sabinus",
+    "Tacitus"
+   ],
+   "summary": "Up the road; the lock opened by a palm; the stick off the shelf; the page about Sabinus; Pharus named.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Gnaeus Sabinus",
+    "Tacitus"
+   ],
+   "summary": "The duel: losing for two minutes; strips of plate that do not come back; the stick broken; the Sertorian Form; the fang eaten mid-thrust; 'Oh.'; the spoils; forty-one and blind.",
+   "purpose": "climax"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Tacitus"
+   ],
+   "summary": "One heart coming down; the hand where the man is going; Decimus; orders; the letter; the mark was the register; Sula's father, write that first.",
+   "purpose": "climax"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The count said to the end; eyes closed by feel; not enough; I know; the name in beside the old man's; down the road to thirty-one.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 10,
+ "scene_type": "action",
+ "pacing": "fast",
+ "emotional_tone": "devastated",
+ "opening_hook": "Sabinus walked him up the road the way a man walks a dog he has not decided about.",
+ "closing_hook": "He knew who he had killed on the way to the road.",
+ "word_count": 5262,
+ "notes": "Progression: Jonah 32 to 41 (Centurion) by spoiling Sabinus's licensed cutting; unsettled, blind with fever; new technique: opening the plate to let a fang in and devouring it mid-thrust. Ladder v2 row 30 satisfied. The Censor's stick broken (clue from ch.19 narration resolved). Decimus dead as planned; his unreadable mark revealed as the register line. Sula is sixteen (ch.24), not nine as the DB object description says."
+}
