@@ -1,0 +1,323 @@
+{
+ "title": "What a Stripe Is Worth",
+ "summary": "The third morning, the north side behind the melt-house where the smoke goes: a cutting shed with three hearts in it, an old thin fast one and two plated Tiro by the door, and a cracked slab of the Vein on a stand that Tacitus has never felt the like of, a broken piece of its mother. Nasso, thirty years a Flamen and eleven defrocked, sixty, long clean hands, a face that stopped seeing men at the end of arms. Morrow's slab crossed his glass at the second bell for coin. A shard on the slab beside the crack: the price of a Blank's reading. 'Arm.' The right one, white line up; the Tiro straighten. A struck man is a void, and a void on his glass is his neck; the price is the shard and a question after. 'Then read this one and tell me what it's worth. That's what you sell.' Jonah tells Tacitus: let him; don't hide; be what you are; this is the only glass on the rock that will not write it down. The hands go through the house and find somebody sitting in the room, looking back. 'That's not a cutting. There's no fuse. There's no mark on it. It's whole and it's old and it's looking at me.' Grade will not hold still: to forty, past it, back, to something with no line. Force nine, Speed ten, Hold seven and wrong-shaped, Sense nine, Wit not answering. Gifts: Plate, Blade, Hush turned in, Seal malformed, Reach malformed, taken not grown; and four he has no line for in a hundred and twelve, one of them an eating thing looking at the crack in his slab. 'Unregistered.' Three in a hundred years; the grain-men cut all three; taught to novices as a thing that does not happen, like the Sertorian Form. What it is worth: a senator's seat to the man who brings it in; a defrocked Flamen's robe back and his name off the list. 'You knew that before you put the arm on the glass. Why.' 'Because I wanted to know, and because I wanted to see what you'd do.' The two Tiro come off the door together, the way two men come at a drunk. No plate: Varro's wrist on the first, the fang gone back into the fingers, the arm the way arms do not go; the second's fang let come to the throat and the Wall a hand wide at the seam, shut wrong, the fang into the shed wall; over the hip, a boot on the wrist until the cutting takes the fang back. 'You're not dead. Neither of you. That's a thing I decided before I knocked.' Nasso's hand under the slab on a garrison bell since Jonah said yes, not rung: because in four thousand arms he knows what a man will do and does not know this one; and because you didn't kill them. The Censor's answer on the rock: a small frightened greedy man who has seen you is worth nothing, and you kill him and say his name, because he is the thing that ends you. Ullan's once; Decimus's rifle down; a cutting's please. 'Two shards.' Three on the slab: for the reading, for the bell not rung, for never writing it. 'Finish it in your head. Say the remarks.' The reading, in the voice for the slab: Unlicensed, Anvil, lower docks; bearer unknown; genius UNREGISTERED; grade indeterminate, lines will not hold still; four unrecognized; remarks: do not repeat this reading. He would tell the one person this was the mistake: he did the sum the old man gave him the answer to and got it wrong on purpose, because a man with the bell under his hand who does not ring it has decided something and he wanted that to be worth more than a senator's seat; and there was no line for it, only for what the man did after. In the smoke: indeterminate is not an answer; it is the College's word for a thing that does not happen. Tacitus turns in the doorway and looks at itself, at four things no line has, the way a man looks at his own hands the first time somebody says they are his, and feels the thing a man feels who has been told he has no name in the book and has decided he will have one. 'Yes. All right. Tonight.' In the shed, an old man takes a pen out of his robe, and does not use it, and puts it back, and takes it out again.",
+ "story_date": "394, summer, Anvil, third morning",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Jonah, hooded, comes to Nasso's cutting shed on the north side: three hearts, two plated Tiro at the door, a cracked slab of the Vein. Morrow's slab crossed the glass for coin at the second bell. A shard for a reading; the right arm with the white line laid on the glass; a struck man is a void and the price is the shard and a question after.",
+   "affected_characters": [
+    "Nasso",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "Nasso's cracked slab",
+    "The Heron's slab"
+   ],
+   "story_timestamp": "third morning"
+  },
+  {
+   "type": "revelation",
+   "description": "Jonah tells Tacitus not to hide, and the reading finds somebody sitting in the room looking back. Nasso: not a cutting, no fuse, no mark, whole, old, looking at me. Grade will not hold still; Force 9, Speed 10, Hold 7 wrong-shaped, Sense 9, Wit not answering; Plate, Blade, Hush turned in, Seal and Reach malformed, taken not grown, and four gifts with no line in a hundred and twelve, one an eating thing. 'Unregistered.' Three in a hundred years, all cut. Worth a senator's seat to the man who brings it in.",
+   "affected_characters": [
+    "Nasso",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "Nasso's cracked slab"
+   ],
+   "story_timestamp": "third morning"
+  },
+  {
+   "type": "combat",
+   "description": "The two Tiro bodyguards do the sum and come off the door together. No plate: Varro's wrist on the first, the fang gone back, the arm the way arms do not go; the second's fang let come and the Wall shut wrong at the throat seam, the fang into the wall, over the hip, a boot on the wrist until the cutting takes the fang back. 'You're not dead. Neither of you. That's a thing I decided before I knocked.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "third morning"
+  },
+  {
+   "type": "decision",
+   "description": "Nasso's hand has been on the garrison bell under the slab and he has not rung it: he does not know what this one will do, and it did not kill them. Against the Censor's rule for a small frightened greedy man who has seen you, Jonah pays two more shards for the reading, the bell not rung, and the reading never written, and has Nasso say the remarks aloud: do not repeat this reading. He buys the Flamen instead of killing him. The mistake, told later to the one person: he got the sum wrong on purpose because he wanted a man not ringing a bell to be worth more than a senator's seat.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Nasso"
+   ],
+   "affected_objects": [
+    "The Heron's slab"
+   ],
+   "story_timestamp": "third morning"
+  },
+  {
+   "type": "transformation",
+   "description": "In the smoke: indeterminate is not an answer but the College's word for a thing that does not happen. Tacitus turns in the doorway and looks at itself, at the four things no line has, the way a man looks at his own hands when told they are his, and feels what a man feels who has no name in the book and has decided he will have one. 'Yes. Tonight.'",
+   "affected_characters": [
+    "Tacitus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "third morning"
+  },
+  {
+   "type": "encounter",
+   "description": "In the shed Nasso sits with three shards beside a cracked slab, takes a pen out of his robe, does not use it, puts it back, takes it out again.",
+   "affected_characters": [
+    "Nasso"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "third morning"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Nasso",
+   "fact": "A hooded man off the Halyard skimmer with a struck citizen's line carries a whole, unfused, unregistered genius with an indeterminate grade, Wit that does not answer, Seal and Reach malformed, and four gifts with no line, one of them an eating thing; he did not kill the two bodyguards; the reading is worth a senator's seat.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Nasso",
+   "fact": "The man from the Heron paid three shards for the reading and for never writing it, and said the remark: do not repeat this reading.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "On a glass he reads: genius unregistered, grade indeterminate, lines that will not hold still, Wit no value returned, Seal and Reach malformed, four gifts unrecognized; an unregistered genius is worth a senator's seat to whoever brings it in, and the Frumentarii have cut three in a hundred years.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Nasso"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Nasso had a garrison bell under his hand and did not ring it; Jonah bought him instead of killing him against the Censor's rule.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Nasso bought Morrow's slab at the second bell and will sell it up the ring a shard at a time.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Nasso"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "It has four gifts no Flamen has a line for and no name in the book; it has decided it will have one.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The reading: genius unregistered, grade indeterminate, lines that will not hold still, four unrecognized gifts; worth a senator's seat to whoever brings it in.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah bought Nasso instead of killing him, against the Censor's rule, and calls it the mistake; Nasso is already reaching for a pen.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Tacitus has decided it will have a name in the book; the choosing is tonight.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "escalate",
+   "description": "A defrocked Flamen has read an unregistered genius on a cracked glass on Anvil, knows what it is worth, was paid to say 'do not repeat this reading', and is taking a pen out of his robe. The mistake."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "climax",
+   "description": "He does not hide from the glass: 'be what you are and let it have it.' He does not kill two Blanks or a frightened greedy man, against the old man's answer on the rock, because please and a rifle down and once-to-take-one have changed the sum, and he knows there is no line for it."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "climax",
+   "description": "Read whole for the first time: no fuse, no mark, looking back; four gifts with no line in a hundred and twelve. It looks at itself the way a man looks at his own hands when told they are his, and decides it will have a name in the book."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Varro's wrist and the Wall a hand wide, without plate, on two hired Tiro; the seam shuts wrong and the fang skids into the wall; nobody dies. The Sertorian Form and the unregistered are the two things the College teaches novices do not happen."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "The answer promised to Yara in a month: indeterminate. Not forty-two, not anything; the College's word for a thing that does not happen. The name will have to come from somewhere else. Tonight."
+  },
+  {
+   "thread_name": "Morrow's ruin",
+   "beat_type": "reinforce",
+   "description": "Morrow's slab crossed Nasso's glass for coin at the second bell; the note can be paid on the clean desk."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Nasso took a pen out of his robe, did not use it, put it back, took it out again.",
+   "type": "behavioral",
+   "subtlety": 2,
+   "mechanism": "Ch.40: he sells the reading to a Frumentarius; the file's third page has a drawing of the lines.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Hush turned in: 'I've seen that once in eleven years, on a Halyard captain.'",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Ch.40 and Book 2: Nasso's reading names the Heron's captain by her trick; the Frumentarii have a ship to look for.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Four gifts with no line among a hundred and twelve; one an eating thing looking at the crack in the slab.",
+   "type": "structural",
+   "subtlety": 3,
+   "mechanism": "Book 2: a Master reads the four and names them; the College's tree grows a branch. Book 5: what the eating thing does to the Vein.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The Censor's rule on the rock: a small frightened greedy man who has seen you is worth nothing; kill him and say his name. Jonah broke it on purpose.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Book 2: Nasso's sale is how Cominius finds Sertorius; Jonah says the name he did not take, and does not regret it, which is worse.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Wit: no value returned; the glass asks and it does not answer.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Book 3: the echo chorus costs Wit and the glass finally returns a value, falling.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Tacitus has decided it will have a name in the book.",
+   "type": "behavioral",
+   "subtlety": 3,
+   "mechanism": "Ch.39: Gaius Sertorius is chosen with it in the room; ch.40 its second sentence.",
+   "related_thread": "The book of names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The north-yards Flamen who reads for coin",
+   "status": "resolved"
+  },
+  {
+   "match": "Reach and Seal both wrong-shaped",
+   "status": "resolved"
+  },
+  {
+   "match": "'A genius holds as many gifts as its Wit line, and one more.'",
+   "status": "reinforced"
+  },
+  {
+   "match": "The genius looks at Priscus's broad stripe",
+   "status": "reinforced"
+  },
+  {
+   "match": "Yara runs Hush inward",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Frumentarii's file: Priscus first page",
+   "status": "reinforced"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "Nasso's cracked slab",
+   "description": "A cracked reading slab of the Vein on a stand in a cutting shed on Anvil's north side; the only glass on the rock that does not write to the College. It read Jonah whole.",
+   "holder": "Nasso",
+   "location": "Anvil",
+   "significance": "The reading: unregistered, indeterminate."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The Heron's slab",
+   "holder": "Nasso",
+   "location": "Anvil"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Nasso",
+   "location": "Anvil"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Read whole: indeterminate. Bought a frightened greedy man instead of killing him and knows it is the mistake. Tonight, the name."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Looked at by a glass and looked back. Has four things no line has. Has decided it will have a name in the book."
+  },
+  {
+   "character_name": "Nasso",
+   "emotional_state": "Read a thing worth a senator's seat and did not ring the bell. Three shards. A pen out, back, out."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Anvil",
+   "characters": [
+    "Nasso",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The shed; three hearts and a cracked slab; a shard for a reading; the struck arm on the glass; what a reading costs.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Nasso",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Read whole: no fuse, lines that will not hold still, Wit not answering, four unrecognized; unregistered; worth a senator's seat.",
+   "purpose": "revelation"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Nasso",
+    "Tacitus"
+   ],
+   "summary": "Two Tiro without plate, nobody dead; the bell not rung; two more shards; the remarks said aloud; the mistake.",
+   "purpose": "climax"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Nasso"
+   ],
+   "summary": "In the smoke: not an answer; Tacitus looks at itself and decides on a name; tonight; the pen.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "confrontation",
+ "pacing": "medium",
+ "emotional_tone": "wary",
+ "opening_hook": "The Flamen who sold readings kept his glass in a cutting shed on the north side, where the smoke went.",
+ "closing_hook": "An old man took a pen out of his robe, and did not use it, and put it back, and took it out again.",
+ "word_count": 3616,
+ "notes": "The READING block matches the system bible's ch.40 row exactly. Fight 16, short, no deaths. The mistake (buying Nasso) is stated in narration as the outline requires. Grade unchanged at 42 in truth; on a glass, indeterminate. Nasso's DB row needs description updated: sixty, thirty years a Flamen, eleven defrocked, sells readings on the north side. New object: Nasso's cracked slab."
+}
