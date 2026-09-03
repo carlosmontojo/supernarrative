@@ -1,0 +1,317 @@
+{
+ "title": "Mother",
+ "summary": "Nineteen nights of holding the pull. On the nineteenth day the Vein's pale lines gather to his chisel, go through his hands, and the genius stands up and goes out through them into the wall: home. The thing on the other side answers 'yes, come, you are mine and you were taken.' Jonah is the meat between two minds. He wakes in the Cradle, a cut off the Deep where the sick are laid against the warm Vein to finish, with Ulli singing so the dying have something other than the wall's names. Two days, three. On the third day the rock taps in something close to yard-tap: CUT ONE. GIVE IT A NAME. THINGS WITH NAMES STAY. GIVE IT ONE THE WALL DOES NOT HAVE. Jonah says every name he has out loud: Tom, Mara, Ochoa, Pell, Corr, Bricks, Decimus, Hask, the Marl boy, Varro, Morrow, Livia, Priscus. The genius turns around in the doorway, comes back, and on the way takes a mouthful of the Vein. Grade 14. Hunger with a size. It rests. The rock: NUMBER. 4471. COUNTED. Ulli: past the Cradle there is a sealed steel door, and whatever is behind it counts. Nobody turns around.",
+ "story_date": "388-389, days 19 to 22 in the Pit",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "Day nineteen at the wall: the Vein's lines gather to the chisel, go up the steel through his hands, and the genius stands up and goes out through his hands into the Vein. The Vein answers: yes, come, you were taken. Jonah collapses still holding the chisel.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Corr"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19"
+  },
+  {
+   "type": "movement",
+   "description": "Ulli carries Jonah down to the Cradle, a cut off the Deep where the Vein is thickest and the sick are laid against it. Two days unconscious. Bricks sent his bowl; Ulli ate it.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Ulli",
+    "Bricks"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "days 19-21"
+  },
+  {
+   "type": "revelation",
+   "description": "Ulli explains the Cradle and that the Vein sings names, everybody it has taken; he sings over it so the new ones do not have to listen. 'It's a thing that counts.'",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 21"
+  },
+  {
+   "type": "encounter",
+   "description": "Day three in the Cradle: the rock taps in something close to yard-tap. CUT ONE. HEAR ME. IT IS GOING. GIVE IT A NAME. THINGS WITH NAMES STAY. GIVE IT ONE THE WALL DOES NOT HAVE. Jonah answers in yard-tap.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 22"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah says every name he has out loud to the dark, including Livia's and Priscus's ('I'm going to be precise'). The genius turns around in the doorway and comes back through his hands, and takes a mouthful of the Vein on the way. Grade 14. Hunger gains a size. It rests for the first time.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 22"
+  },
+  {
+   "type": "encounter",
+   "description": "The rock: NUMBER. 4471. COUNTED. Ulli tells of the sealed steel door past the Cradle that Tullus's men visit monthly, and the thing behind it that counts every number in the Pit: the Censor.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Ulli",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 22"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein wanted the genius back and the genius wanted to go; Jonah was the meat between two minds; neither was cruel.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein sings the names of everyone it has taken; Ulli sings over it. It is a thing that counts.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ulli"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Things with names stay: the genius stays for the names Jonah gives it out loud, which the Vein does not have.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:the tapper"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Something behind a sealed steel door past the Cradle taps in near-yard-tap, counts every number in the Pit, and is called the Censor.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Ulli"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius can take a mouthful of the Vein through the door and the Vein cannot stop a piece of itself; hunger now has a size and edges.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "4471 was going and started saying names at the wall and turned around. Nobody turns around.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "Whatever is behind the steel door tapped back at 4471 and said COUNTED.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "The man in the Pit calling himself 4471 is Jonah Vale.",
+   "new_knowledge_level": "partial",
+   "how_learned": "overheard"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "4471 carries a whole genius that tried to return to the Vein and stayed for the names he gave it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "overheard"
+  },
+  {
+   "character_name": "Corr",
+   "fact": "The Vein took 4471 at the wall through the chisel on day nineteen.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Things with names stay: the genius stays for the names Jonah gives it out loud, which the Vein does not have.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Vein sings the names of everyone it has taken; Ulli sings over it. It is a thing that counts.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor is alive in the Chamber and Tullus uses his numbers to keep the deep galleries stable.",
+   "new_knowledge_level": "suspects"
+  },
+  {
+   "fact": "The Vein is one organism; every lorica is a cutting lobotomized at the Wit line; fuses were introduced in 152 to cap the orders.",
+   "new_knowledge_level": "partial"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "climax",
+   "description": "It goes home through his hands, turns around in the doorway for the names, comes back with a mouthful of the Vein, and rests for the first time. Grade 14. Hunger with a size."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "escalate",
+   "description": "The Vein as a mind the size of the planetoid: 'you are mine and you were taken.' The Cradle. It sings names. It counts."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "Jonah gives every name he has to keep the genius. The rock: COUNTED. The Censor named as the thing that counts, like the wall, only not the wall."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "plant",
+   "description": "The sealed steel door past the Cradle; Tullus's men monthly with a lamp; the old ones say there's a man."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "Her name comes out with the rest and cannot be taken back: 'the last true thing.'"
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "Priscus's name given to the genius: 'I'm going to be precise.' The first time the vow is said aloud."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "Hunger gains a size and edges he will know for the rest of his life. He laughs, and it is not a good laugh."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Ulli introduced: sixth year in the Deep, the one who carries the sick, sings."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The tapper's code is close to yard-tap but slower, with the gaps wrong: a man who speaks a language he has only read.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "The Censor learned Ferrum yard-tap from twenty years of Anvil convicts through a wall. Ch.11-12.",
+   "related_thread": "The Censor's guilt"
+  },
+  {
+   "description": "The Vein cannot stop a piece of itself being taken; the genius takes a mouthful going out.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Direct feeding (ch.18) and the Mouth (ch.23). The Vein's weakness is that it is one thing.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "Ulli sings so the dying have something other than the wall's names.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Ulli is right about the Vein; the Censor confirms; ch.27 he stays behind and asks for his name spelled right.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Jonah does not know the Marl boy's name and says so to the genius. 'I'm sorry. I don't know it.'",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "The book of names has a page for the unnamed; the Censor's ledger records numbers with no names; ch.22.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "The genius stopped at his heart again on the way back, interested, the way it always had been.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "Tacitus's attention to the heart becomes its reading of his pulse (ch.25, ch.39, Book 4).",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Tullus's men go down to the steel door once a month with a lamp and come back without it.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "The Censor's monthly numbers for Tullus (ch.12, ch.19 leverage).",
+   "related_thread": "The Censor's guilt"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Corr",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Alive in the Cradle, feverish, grade 14. Turned around. 'I'm going to find out what I am. And you already know.'"
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Came back with bread. Resting. Not listening, for the first time."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Sat with forty. Nobody turns around. This one did."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Said COUNTED to a man who could hear."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Corr",
+    "Tacitus"
+   ],
+   "summary": "Day nineteen: the Vein reaches through the chisel; the genius goes home through his hands.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Ulli"
+   ],
+   "summary": "The Cradle; Ulli sings; the Vein sings names; the door in him half open.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Ulli",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The rock taps; give it a name; every name he has; it turns around; a mouthful of the Vein; COUNTED; the steel door.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 9,
+ "scene_type": "revelation",
+ "pacing": "slow",
+ "emotional_tone": "chaotic",
+ "opening_hook": "It took the Vein nineteen days to come for him, and it came through his hands.",
+ "closing_hook": "'I'm going to find out what I am. And you already know.'",
+ "word_count": 4738,
+ "notes": "Grade 14. Hunger now has a size. The genius rests. Ulli introduced (sixth year, carries the sick, sings). The Censor has heard Jonah's whole name-list through the rock, including Livia and Priscus, so he knows more than Jonah thinks. Ulli heard it too."
+}
