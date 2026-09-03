@@ -1,0 +1,336 @@
+{
+ "title": "Decury",
+ "summary": "First week in the Shallows. On the first night the genius eats the shackle hollow, a whole night of burn with a blanket in his teeth; it is a dead ring now. The Shallows run on shards: ten a day per decury or the post. Bricks, the foreman, eleven years, a Blank with a scar. The Vein comes off for Jonah like a door opening; Corr notices; Jonah cuts one shard a day with his arms shaking on purpose. On the third night Bricks takes his bowl: 'Mine', with Auger watching so it is fair. Jonah refuses to let Varro's feet do it, takes a cut to the forearm, punches Bricks in the face, and breaks his wrist with both hands, slow and ugly. He gives the bowl back. Auger tells him he saw the wrist-turn done twice in his life, both by Stripes, and that he will watch him; 'three times and they'll think it's a rule.' Decimus brings a bandage down ten kilometres. At night the genius pulls toward the Vein and does not stop when told: Mother. He holds it until the bell.",
+ "story_date": "388, first week in the Shallows",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "First night: the genius goes down his leg and eats the shackle from underneath; it burns all night; by dawn the shackle is dead metal. Two of the Empire's hands off him and nobody can see either.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The shackle"
+   ],
+   "story_timestamp": "388, night 1 in the Shallows"
+  },
+  {
+   "type": "discovery",
+   "description": "The Vein comes off for Jonah: it opens to his chisel like a door. Corr notices on day three: 'It comes off for you, cut one. It does that before.' Jonah cuts one shard a day, slowly, shaking on purpose.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Corr",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, days 1-3"
+  },
+  {
+   "type": "encounter",
+   "description": "Third night, the meal in the road: Bricks sets Jonah's bowl in the road and says 'Mine'. Auger watches from the edge of the light and nods: fair.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Auger",
+    "Pell"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night 3"
+  },
+  {
+   "type": "encounter",
+   "description": "Jonah refuses the feet, steps back instead of in, takes Bricks's chisel from wrist to elbow, punches him in the face, and breaks his wrist back toward the elbow with both hands, slow. Stops the genius from closing the cut in front of the road. Gives the bowl back: 'You said mine. I heard you.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night 3"
+  },
+  {
+   "type": "encounter",
+   "description": "Auger tells Jonah he saw the wrist done slow on purpose, that it is a thing he has seen twice, both by Stripes, that he will watch him and tell nobody yet, and that he must lose the next one: 'Three times, and they'll think it's a rule.'",
+   "affected_characters": [
+    "Auger",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night 3"
+  },
+  {
+   "type": "encounter",
+   "description": "Decimus at dusk count hands Jonah a clean bandage he brought down ten kilometres. 'Don't do it again. It won't be personal.'",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night 3"
+  },
+  {
+   "type": "transformation",
+   "description": "In the dark the genius closes the cut. Then it pulls toward the Vein through the rock, homesick, and does not stop when told: it was not asking. He holds it back against the seam until the bell.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night 3 to dawn"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The shackle on his ankle is dead metal: the genius ate it hollow. If he runs nobody will know until they count.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein yields to Jonah's chisel because it recognizes what he carries; cutting one shard a day slowly is the hardest work he has done.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Auger, king of the Shallows, unstripped nineteen years, saw the Stripe's wrist-turn and is watching him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Auger"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius pulls toward the Vein at night and does not stop for 'no'; it is not asking.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Auger",
+   "fact": "4471 broke Bricks's wrist with a garrison technique done slow and ugly on purpose, and gave the bowl back.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Auger",
+   "fact": "4471 was unstripped at the Throat and lived.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Corr",
+   "fact": "The Vein comes off for 4471 like it does for men it wants.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "4471 gave his bowl back to the foreman who took it; Bricks said so, and Bricks says nothing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Bricks"
+  },
+  {
+   "character_name": "Bricks",
+   "fact": "4471 broke his wrist and gave him back the bowl. The sum does not come out.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The shackle on his ankle is dead metal: the genius ate it hollow. If he runs nobody will know until they count.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Vein yields to Jonah's chisel because it recognizes what he carries; cutting one shard a day slowly is the hardest work he has done.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Auger's law: you eat what you are given unless somebody says mine; chisels in the road with Auger's man watching; nobody gives it back.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "escalate",
+   "description": "The third-night challenge. Bricks. 'Mine.' The wrist. The bowl given back. Auger: once strange, twice soft, three times a rule."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Eats the shackle overnight through a burn. Closes his arm. Then pulls toward the Vein and does not stop: Mother, in the pull."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "He refuses to let the feet win and takes a cut he did not need. The not-cutting is harder than the cutting. Holding the pull against the seam until the bell."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "The hinge: a wrist only goes one way. Done slow and ugly so nobody would see what it was. Auger saw."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "reinforce",
+   "description": "A clean bandage brought down ten kilometres for a number. 'It won't be personal.'"
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "The Vein opens for his chisel like a hand it knows. Corr: it gets easy for a man before it takes him."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Pell counts the times nobody has understood Jonah: four. 'It's easier.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "Auger has seen the wrist-turn twice in his life, both times by men with a stripe.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Auger's own unstripping: he beat a Thinstripe in a legal sharpening. He knows Stripe technique from the wrong end. Ch.28.",
+   "related_thread": "Auger's law"
+  },
+  {
+   "description": "Decimus keeps a bandage in his coat pocket he had to bring down ten kilometres.",
+   "type": "object",
+   "subtlety": 6,
+   "mechanism": "Decimus brings things down. Ch.17 what else he carries; ch.30 what Jonah takes from his pocket after.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Corr: 'It gets easy for him. He cuts like a foreman for a month, and then he can't lift the chisel, and then he's on the far side with the deep ones.'",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "The sickness: a half-made bond. Ch.10 the Vein reaches; ch.16 the Censor names it.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "Jonah must remember to wince under the bandage for a week after the cut has closed.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "The performance of injury; the settling fevers passed off as sickness (ch.13). Decimus will notice a cut that healed too clean (ch.24).",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "The genius did not stop for 'no' in the cage or on the shelf; it was not asking.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Ch.10: it goes home without him and nearly takes him with it.",
+   "related_thread": "Tacitus"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Auger",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Corr",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Watched by Auger. Cutting one shard a day. Holding a homesick thing back through a torn seam. Arms shaking for real."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Fed on the shackle. Pulling toward the Vein. Not asking."
+  },
+  {
+   "character_name": "Auger",
+   "emotional_state": "Watching an idea he does not want."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Brought a bandage down. Listens when Bricks talks."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The shackle",
+   "status": "destroyed"
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Pell"
+   ],
+   "summary": "The sleeping gallery; the shackle eaten through the night.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Corr"
+   ],
+   "summary": "Shards, quota, the post; the Vein comes off for him; one shard a day on purpose.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Bricks",
+    "Auger",
+    "Pell"
+   ],
+   "summary": "'Mine.' The fight without the feet. The wrist. The bowl given back. Auger's warning.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Decimus"
+   ],
+   "summary": "Dusk count; the bandage.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The cut closes; the pull toward the Vein; Mother; held until the bell.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "action",
+ "pacing": "medium",
+ "emotional_tone": "neutral",
+ "opening_hook": "The shackle died on the first night, and Jonah felt it go, and did not sleep.",
+ "closing_hook": "He holds the pull until the bell, then goes to cut a shard slowly with his arms shaking, and does not have to pretend.",
+ "word_count": 4451,
+ "notes": "New character Bricks (foreman of decury six, Blank, eleven years, scar, ground chisel, broken wrist). Grade 10 (shackle eaten, small). Auger is now actively watching Jonah. Decimus's bandage planted."
+}
