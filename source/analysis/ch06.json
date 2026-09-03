@@ -1,0 +1,360 @@
+{
+ "title": "Imperium",
+ "summary": "The cell under the quaestor's house; the genius lies against the torn seam, confused. Priscus interrogates Jonah with Pulse and explains the rules. Jonah answers with true things and learns that 'Is it in your possession?' 'No.' reads true. Priscus has already deduced the Vigilant boarding and Varro's death and chooses the page over it: a third Flamen reading says 'one, fused, with a wobble'. Priscus opens the seal, sees his father's mark, goes still behind the face, learns Jonah knows the name Vibius, and burns the packet in the brazier. He promises release at the fourth bell in front of two vigiles, and means it. Livia comes to the slot with house water, says her brother told her the boy would be out by the fourth bell, asks his name; he gives it, and hers. At the fourth hour four grey Blanks with no names take him out the back to a transport: ad metalla, by order. No trial. He says her name to the dark, then his father's.",
+ "story_date": "388, the night after investiture",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Priscus interrogates Jonah with Pulse. Jonah tells four true things; 'Is it in your possession?' 'No.' reads true. Silence is permitted.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [
+    "The stone box"
+   ],
+   "story_timestamp": "388, third hour of the night"
+  },
+  {
+   "type": "revelation",
+   "description": "Priscus states that he already knows the Vigilant boarded the Kestrel, its officer was lost, and the purser omitted it; he chooses the page: 'Collars see monsters in every barge.'",
+   "affected_characters": [
+    "Marcus Vibius Priscus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "discovery",
+   "description": "Third Flamen reading: one, standard, fused, 'with a wobble; like reading a man with a fever'. The genius caught on the seam going down. Marked clean.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "revelation",
+   "description": "Priscus reads the mark on the seal: his father's house. Behind his face nobody is home for a breath. He learns Jonah knows the name Vibius and that the purser heard it too. 'The purser will be seen to.'",
+   "affected_characters": [
+    "Marcus Vibius Priscus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The seal"
+   ],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "destruction",
+   "description": "Priscus burns the seal, oilcloth, wax and pages, in the brazier without reading it. 'There was no packet.' Promises release at the fourth bell in front of two vigiles.",
+   "affected_characters": [
+    "Marcus Vibius Priscus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The seal"
+   ],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "encounter",
+   "description": "Livia at the door slot with house water. Her brother told her in the hall the boy would be out by the fourth bell. She saw something on the glass and was told it was nothing. She asks his name. 'Jonah. Vale. Like the goodbye.' 'Not like the valley.' He says hers.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Livia Vibia"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "movement",
+   "description": "At the fourth hour four grey Blanks with no names bind him, take him out the back of the quaestor's house to a ground car and to an unnamed transport at the empty dock. 'Transport. Ad metalla. By order.' No trial.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, fourth hour"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Priscus holds Pulse and can hear a lie in a heartbeat; silence is not a lie.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Marcus Vibius Priscus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Livia Vibia is Priscus's younger sister and the daughter of Vibius the elder, the seal's addressee.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Priscus burned the seal and buried Jonah without trial to protect his father.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Priscus already knows the Vigilant boarded the Kestrel and its officer died, and has chosen the page over it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Marcus Vibius Priscus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Priscus told Livia the boy from Anvil was released and went home.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Livia Vibia"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Ochoa was a Gracchan courier carrying a seal addressed to Senator Vibius the elder, with the proof of the seed.",
+   "new_knowledge_level": "partial",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "Ochoa was a Gracchan courier carrying a seal addressed to Senator Vibius the elder, with the proof of the seed.",
+   "new_knowledge_level": "partial",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "Jonah killed Decurion Varro on the derelict and devoured his lorica.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "Jonah knows the name Vibius from Ochoa's last words and would have delivered the seal by walking up the road and knocking.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "Priscus burned the seal and buried Jonah without trial to protect his father.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The man with the Fulvian step is Jonah Vale.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "Priscus told Livia the boy from Anvil was released and went home.",
+   "new_knowledge_level": "wrong_belief",
+   "how_learned": "told_by:Marcus Vibius Priscus"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Priscus burned the seal and buried Jonah without trial to protect his father.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Priscus told Livia the boy from Anvil was released and went home.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Priscus holds Pulse and can hear a lie in a heartbeat; silence is not a lie.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "'The purser will be seen to': Priscus intends to reward Marchand for his duty.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Priscus's law",
+   "beat_type": "twist",
+   "description": "He reads the page, burns his father's seal, promises release truthfully in front of witnesses, and sends the boy to the mines by an order he does not sign. There is no page for what Jonah is, so there is no trial."
+  },
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "twist",
+   "description": "The seal burned unread. Priscus's house mark. Jonah connects Vibius to the quaestor."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "escalate",
+   "description": "The bars: house water, her brother's word, 'What's your name?' He gives it; she will remember it. She is asleep believing him released."
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "complicate",
+   "description": "'The purser will be seen to... he'll find that duty is noticed.' Marchand's rise begins here."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "Lying against the seam, confused. Catches on the seam going down under the glass: the wobble. Comes up when the grey Blanks arrive and is not asked."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "He does not fight four Blanks in the corridor because of who is asleep upstairs. Hungry again in the transport."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "escalate",
+   "description": "Priscus named in full as the fourth: the burned seal, the lie to his sister, the car with no names."
+  }
+ ],
+ "clues": [
+  {
+   "description": "'Is it in your possession?' 'No.' reads true on Pulse: the genius is not a possession.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Foreshadows the Censor's lesson: it is someone, not a suit. And how Jonah passes Pulse in Book 2: by believing what he says.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The third reading: 'like reading a man with a fever. It's still one. It's just not sitting.' The genius caught on the seam.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Integrity leaks into readings. Ch.25 Livia will see the same wobble on 4471.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Priscus: 'The purser will be seen to. He's a citizen who did his duty and he'll find that duty is noticed.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Marchand's publican career begins with Vibian patronage; Book 2 Marchand's fall implicates Priscus.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "The order for the transport is 'by order' with no name; the four Blanks wear a grey that is not the vigiles' grey.",
+   "type": "visual",
+   "subtlety": 6,
+   "mechanism": "Priscus never signs. The register in his study (ch.34) is the only paper. The grey is the Flamens' transport service.",
+   "related_thread": "Priscus's law"
+  },
+  {
+   "description": "One of the grey Blanks sets the house cup back on the bench carefully, as if it mattered where it went.",
+   "type": "behavioral",
+   "subtlety": 8,
+   "mechanism": "The cup is evidence Livia came down. Priscus will hear of it. Ch.34.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Priscus's word was true when he said it; his heart did nothing; then he went up the stairs.",
+   "type": "structural",
+   "subtlety": 7,
+   "mechanism": "Pulse-proof lying is done by meaning it in the room. Livia learns this about him in ch.34; Jonah learns to do it in Book 2.",
+   "related_thread": "Priscus's law"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The transport"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The transport"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "location": "Quaestor's house, Anvil"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "location": "Quaestor's house, Anvil"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "In the dark of the transport hold, hands bound. Said her name, then his father's. Learning to wait."
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "emotional_state": "The page is clean. His father is safe. He does not remember deciding."
+  },
+  {
+   "character_name": "Livia Vibia",
+   "emotional_state": "Asleep, believing her brother. Remembering a name."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Hungry again. Came up when the grey Blanks arrived and was not asked."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The seal",
+   "status": "destroyed"
+  },
+  {
+   "name": "The stone box",
+   "holder": "Marcus Vibius Priscus",
+   "location": "Quaestor's house, Anvil"
+  },
+  {
+   "name": "The hull ring",
+   "holder": "Jonah Vale",
+   "location": "The transport"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The house cup",
+   "description": "The cup Livia brought to the cell slot with house water. Left on the bench, set back carefully by a grey Blank.",
+   "location": "Holding cells, Anvil",
+   "significance": "Proof Livia went down. Ch.34."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Holding cells, Anvil",
+   "characters": [
+    "Jonah Vale"
+   ],
+   "summary": "The cell; the seam; 'I'll explain it.'",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Quaestor's house, Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Marcus Vibius Priscus"
+   ],
+   "summary": "Pulse; the true things; the page; the third reading; the seal burned; the fourth bell promised.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Holding cells, Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Livia Vibia"
+   ],
+   "summary": "The slot. House water. Names.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Holding cells, Anvil",
+   "characters": [
+    "Jonah Vale"
+   ],
+   "summary": "The fourth hour. Grey Blanks. Ad metalla. The transport.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 8,
+ "scene_type": "confrontation",
+ "pacing": "slow",
+ "emotional_tone": "dread",
+ "opening_hook": "The cell was better than his father's rooms, and he disliked himself for noticing.",
+ "closing_hook": "No trial: you put a thing that is not on a page in a car. He says her name to the dark, then his father's.",
+ "word_count": 4714,
+ "notes": "Jonah knows Priscus lied to Livia by inference (she said 'out by the fourth bell', he was taken at the fourth hour). Grade 10 hidden; the Flamen saw a wobble. Marchand's patronage planted."
+}
