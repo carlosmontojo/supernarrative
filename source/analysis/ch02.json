@@ -1,0 +1,365 @@
+{
+ "title": "The Rings",
+ "summary": "The Vigilant fires; Jonah, feverish with the settling and with plate leaking from his hands, takes the Kestrel into the broken legion transport and lets the genius see through his eyes to find the way. Nine hours hidden. Marchand confronts him: 'What are you?' Jonah devours Varro's lorica in the hold and receives Varro's footwork and Varro's contempt. They fake a debris strike, drop Varro's body into the rings, and dock at Anvil. Jonah holds the genius still through a dock reading and passes. He steps back from Mara's embrace. Marchand: 'I didn't see anything. Captain.'",
+ "story_date": "388, three weeks before Founding Day, next day",
+ "events": [
+  {
+   "type": "movement",
+   "description": "The Kestrel escapes the Vigilant into the broken legion transport in the rings; aft cargo ring damaged by a round.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Silas Marchand"
+   ],
+   "affected_objects": [
+    "The Kestrel"
+   ],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah lets the genius look through his eyes: the transport's interior becomes a single known shape (first Sense use). Plate leaks from his hands during settling.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah devours Varro's lorica in the hold. First spolia. Grade about 8. Varro's echo: a duellist's footwork and contempt for Collars. The fever evens out; he can feel where plate will come out.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Decurion Varro"
+   ],
+   "affected_objects": [
+    "Varro's lorica"
+   ],
+   "story_timestamp": "388, ninth hour"
+  },
+  {
+   "type": "destruction",
+   "description": "Varro's body put out the airlock into the rings inside the transport.",
+   "affected_characters": [
+    "Decurion Varro"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388"
+  },
+  {
+   "type": "movement",
+   "description": "Bram fakes a debris strike on the hull. The Kestrel docks at Anvil. Marchand reports: debris strike, captain lost, no boarding, no salvage.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Silas Marchand",
+    "Ezra Morrow"
+   ],
+   "affected_objects": [
+    "The Kestrel"
+   ],
+   "story_timestamp": "388, eleven hours later"
+  },
+  {
+   "type": "discovery",
+   "description": "Jonah holds the genius still (Hush turned inward, by instinct) through the dock reading and passes as a peregrine.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, docking"
+  },
+  {
+   "type": "encounter",
+   "description": "Tom and Mara at the dock gate. Jonah steps back from Mara's embrace. Marchand: 'I didn't see anything. Captain.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tom Vale",
+    "Mara Ansel",
+    "Silas Marchand"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, docking"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "partial",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Jonah killed Decurion Varro on the derelict and devoured his lorica.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Jonah's collar is a dead shell; Lock will not work on him and any Stripe who says the word will see it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius can be held still through a reading, like holding a breath.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Devouring a lorica leaves the bearer's habits in Jonah: Varro's footwork and Varro's contempt for Collars.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "fact": "Jonah killed Decurion Varro on the derelict and devoured his lorica.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "fact": "The Kestrel's debris strike story is false; something happened in the rings that Jonah and Marchand are hiding.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "fact": "Something is wrong with Jonah since the rings; he will not let her touch him.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Jonah killed Decurion Varro on the derelict and devoured his lorica.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Marchand saw Jonah's plate through the Kestrel's hatch.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Devouring a lorica leaves the bearer's habits in Jonah: Varro's footwork and Varro's contempt for Collars.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah's collar is a dead shell; Lock will not work on him and any Stripe who says the word will see it.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "The genius looks out through his eyes in the transport; devours Varro; settles. Grade 8. Hush by instinct at the dock."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "Nine hours of hunger in the dark; his hand goes down on the stripe before the deciding is done. Hunger returns faintly by the end."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "plant",
+   "description": "Varro's echo: the footwork Jonah watched at fourteen, now in his legs, with the contempt folded under it."
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "escalate",
+   "description": "Marchand watched from the hatch twice, wrote the false manifest, and calls Jonah 'Captain' in a way that is not a promise."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "plant",
+   "description": "Jonah steps back from Mara's embrace at the dock gate. She goes careful."
+  },
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "reinforce",
+   "description": "The empty stone box in his kit, the sealed packet inside his suit. Morrow suspects and does not ask."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Marchand's hands are very steady, which is how Jonah knows he is frightened. The letter is fear before envy.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "03_characters: Marchand's secret. Pays in ch.4 interlude.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "Varro's stripe after devouring: skin with a shape like a stripe rubbed off with a thumb.",
+   "type": "visual",
+   "subtlety": 6,
+   "mechanism": "What an unstripped forearm looks like; the Censor's scar (ch.12) and Jonah's faked one (ch.8).",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The genius went still when Varro said the word to the collar 'because it was listening'; Jonah can hold it still like a breath.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Hush turned inward, the trick Yara recognizes in ch.33 and that saves him in ch.25.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Morrow's hand on Ochoa's blanket; he nods at Jonah like a man nodding at a hull that came apart faster than the numbers said. He does not ask.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "Morrow knows more than the manifest. Ch.37 he is the one who kept faith; ch.3 he says the petition goes ahead.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "Jonah does not say anything over Varro's body; the thing he has to say is what the crowd says when a Stripe wins a bout, and he does not say that either.",
+   "type": "verbal",
+   "subtlety": 8,
+   "mechanism": "Plants the crowd's Latin prayer to Mars that Jonah will say in ch.3.",
+   "related_thread": "The Forms"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Tom Vale",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Silas Marchand",
+   "location": "Anvil yards"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "location": "Anvil yards"
+  },
+  {
+   "character_name": "Captain Ochoa",
+   "location": "Anvil yards"
+  },
+  {
+   "character_name": "Decurion Varro",
+   "location": "Rings of Quirinus"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Feverish, settled at grade 8, carrying a dead man's feet and contempt, afraid to touch Mara."
+  },
+  {
+   "character_name": "Silas Marchand",
+   "emotional_state": "Frightened, steady-handed, composing."
+  },
+  {
+   "character_name": "Mara Ansel",
+   "emotional_state": "Careful. Something is wrong and she saw it."
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "emotional_state": "Grieving Ochoa; suspects; will not stop the petition."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "Varro's lorica",
+   "status": "destroyed"
+  },
+  {
+   "name": "The Kestrel",
+   "location": "Anvil yards"
+  },
+  {
+   "name": "The seed",
+   "status": "destroyed"
+  },
+  {
+   "name": "The seal",
+   "holder": "Jonah Vale",
+   "location": "Anvil tenements"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The stone box",
+   "description": "The empty reliquary box from the derelict, in Jonah's kit.",
+   "holder": "Jonah Vale",
+   "location": "Anvil tenements",
+   "significance": "Evidence of the derelict. Marchand saw it."
+  },
+  {
+   "name": "The false manifest",
+   "description": "Marchand's report: debris strike, captain lost, no boarding, no salvage.",
+   "holder": "Silas Marchand",
+   "location": "Anvil yards",
+   "significance": "Marchand's leverage over Jonah and the crew."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Rings of Quirinus",
+   "characters": [
+    "Jonah Vale",
+    "Silas Marchand"
+   ],
+   "summary": "Escape under fire into the legion transport; the genius sees the way.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Rings of Quirinus",
+   "characters": [
+    "Jonah Vale",
+    "Silas Marchand"
+   ],
+   "summary": "Nine hours hidden. 'What are you?' The plan for the story.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Kestrel",
+   "characters": [
+    "Jonah Vale",
+    "Decurion Varro"
+   ],
+   "summary": "Devouring Varro's lorica; the echo. Marchand at the hatch again.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Anvil yards",
+   "characters": [
+    "Jonah Vale",
+    "Silas Marchand",
+    "Ezra Morrow",
+    "Tom Vale",
+    "Mara Ansel"
+   ],
+   "summary": "Dock reading passed; Morrow; Mara; 'I didn't see anything. Captain.'",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "action",
+ "pacing": "medium",
+ "emotional_tone": "paranoid",
+ "opening_hook": "The Vigilant fired on nineteen.",
+ "closing_hook": "Marchand: 'I didn't see anything. Captain.'",
+ "word_count": 4344,
+ "notes": "Jonah grade 8 unsettled. Ochoa's body to the melt (Collar). Legal captaincy: Marchand is citizen of record; Ochoa captained by Morrow's dispensation. Varro's body in the rings, stripe rubbed off."
+}
