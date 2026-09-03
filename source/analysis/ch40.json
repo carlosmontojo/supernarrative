@@ -1,0 +1,535 @@
+{
+ "title": "Counted by Head",
+ "summary": "The Heron lifts off Anvil at the second bell; Jonah at the rail of the hold with thirty-one's lid open watches the rock go, the ramp, the gate, the stair with a door left open, Founding Square, the melt-house chimney, the hull ring hanging where it hung the morning he flew out, nothing around it changed and everything in it. He feels the rock's thousands of hearts fade through the hull until one is left, slow, his. Pike with a lamp and no paper: Yara counts heads when they lift, not names; Halyards do not write names, the Empire has enough; it was ten; nine crew and the tenth, said with the rest, counted by head. 'That's what a Halyard has. It's not much.' He would learn, a year later, in the City, over fish, from a small man with a grain-sack and a clerk's smile, how long it took: four days. Nasso used the pen: the whole reading in the voice for the slab, the remark, and under it the repeat: a hood, a Halyard's grey, a struck line on the right arm, a learned Belt turn, two bodyguards left alive, three shards, and a Halyard skimmer on the lower docks whose captain ran Hush turned in. He sold it for his robe and his name off the list; it went up the ring with the province's post and reached a desk nineteen days after a quaestor wrote to his father in the subjunctive; the file had three pages and got a fourth. Jonah would hear it with a broad stripe drawn on his arm and a woman with a grey book across the table who had said unstable and been right, and would think: four days, the old man said, and I got the sum wrong on purpose; and: I'd do it again; that is the line I keep from him. Then the names, from the top, the way Decimus read the Deep, every one personal: Tacitus; Pharus, who wanted to save the Empire and got him instead; Tom Vale with the melt corrected to who paid and who made him; Ochoa; Varro, whose contempt is gone and took the old man a year; the road, Corr and Bricks and Hollen and Aulus of Marl and Tallow and Marcus and the Deep man unknown, Auger and his second chisel, Vetch written now, Sorrel, the boy whose name he does not know, said so; Ullan, two l's, forty-four, once to take one; Decimus, Sula's father first, then the rest, it's on me, this is right; Sabinus who said oh; the two boys with week-old bands; Pollio who was right, Rennick, Harrow who is in and has less and a girl on Marl; Pell with his chin up; Tullus, undecided, said so; Kaspar; Dace and the boy who said what; Bram; Ezra Morrow and the gift to the yard; Gaspar with nothing and a bottle; Corin; Marchand and a bank; Priscus plainly and in order and not the other thing, and Tacitus keeps the heart under that name and does not say it either; Mara Ansel; the Halcyon; the six hundred and forty-two; and his own: Jonah Vale, four four seven one, into the wall by one register and dead in the Throat by another, in the book like the rest; and the one who carries it is called something else, a stripe not a name, and he knows which is which. That's the count; there's room. The hand with no hand does not come. The doorway thing, the deciding. Then it speaks, not its word: a thing it has heard him say more than any other, to it, when it did the hand with no hand: I know. He laughs once at the beam, because it learned speech from him and gave him back the sentence he made for a thing that could not be answered. 'Yes. You do.' Pike: 'He's talking to it.' Yara from the top of the ladder: 'He always has.' She does not say the obvious twice. Thirty days to the College dock, Sertorius; say them somewhere I can hear next time. Alone with his hand on the glass, the Belt, the Interior, a woman with a grey book, a small man with a file, a chamber with a wall behind it, and a niche in the ninth row, third from the eastern wall: 'I'm not ready.' So it is said. And the thing with one word of its own and one sentence of his, which has found out which it prefers: I know. What he would hear over the same fish a year on: the fourth page, in a clerk's hand under do not repeat this reading: Repeated. A Halyard skimmer, the Heron. Captain runs dark. Bound for the College dock at Quirinus Interior with thirty-eight casks and a story. Tenth head not on the slate. And under that: He did not go into the wall. And what Jonah would say, and go on saying on every road at night until the book was full and he was the last page: That's the count. It's not much. It's what a man has. End of Book One.",
+ "story_date": "394, summer, the Heron, lifting off Anvil; with a year's foreknowledge of the City",
+ "events": [
+  {
+   "type": "travel",
+   "description": "The Heron lifts off Anvil at the second bell bound for the College dock at Quirinus Interior with thirty-eight casks and a story; Jonah watches the rock go and feels its thousands of hearts fade until one is left.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Yara",
+    "Pike"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "second bell"
+  },
+  {
+   "type": "encounter",
+   "description": "Pike: Yara counts heads when they lift, not names; it was ten; nine crew and the tenth, counted by head. 'That's what a Halyard has. It's not much.'",
+   "affected_characters": [
+    "Pike",
+    "Jonah Vale",
+    "Yara"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "second bell"
+  },
+  {
+   "type": "revelation",
+   "description": "Foreknowledge, framed as what Jonah learns a year later over fish from Cominius with Livia across the table: four days after the Heron lifted, Nasso wrote the reading and the repeat (hood, Halyard grey, struck line, learned Belt turn, two bodyguards alive, three shards, a skimmer whose captain runs Hush inward) and sold it for his robe and his name off the list; it reached the City nineteen days after Priscus's letter to his father, and the file got a fourth page. 'I'd do it again. That's the line I keep.'",
+   "affected_characters": [
+    "Nasso",
+    "Cominius",
+    "Jonah Vale",
+    "Livia Vibia"
+   ],
+   "affected_objects": [
+    "Nasso's cracked slab"
+   ],
+   "story_timestamp": "four days after lifting; nineteen days later in the City; a year later at dinner"
+  },
+  {
+   "type": "reflection",
+   "description": "The book of names said whole in the hold, from Tacitus to his own: every name with what they did, corrected where he has learned better (Tom's melt, Vetch written now, Varro's contempt gone), Decimus with Sula's father first and 'it's on me', Priscus plainly and not the other thing, Mara Ansel and the Halcyon, the six hundred and forty-two; Jonah Vale, four four seven one, in the book like the rest; the one who carries it wears a stripe, not a name, and knows which is which. 'That's the count. There's always room.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "the hold"
+  },
+  {
+   "type": "transformation",
+   "description": "The hand with no hand does not come; the deciding; then Tacitus speaks its second sentence, not its own word but the one it has heard him say most, to it: 'I know.' Jonah laughs once at the beam. 'Yes. You do.' Pike: 'He's talking to it.' Yara: 'He always has.' She does not say the obvious twice. Thirty days to the College dock, Sertorius; say them where I can hear next time.",
+   "affected_characters": [
+    "Tacitus",
+    "Jonah Vale",
+    "Pike",
+    "Yara"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "the hold"
+  },
+  {
+   "type": "decision",
+   "description": "Alone with his hand on the glass, the Interior ahead: a woman with a grey book, a small man with a file, a chamber with a wall behind it, a niche in the ninth row third from the eastern wall. 'I'm not ready.' So it is said. 'I know.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "the hold"
+  },
+  {
+   "type": "revelation",
+   "description": "Framed as what he will hear over the same fish: the fourth page in Cominius's hand under 'do not repeat this reading': Repeated. A Halyard skimmer, the Heron. Captain runs dark. Bound for the College dock at Quirinus Interior with thirty-eight casks and a story. Tenth head not on the slate. And under that: He did not go into the wall. Jonah's answer, on every road at night until the book is full and he is the last page: That's the count. It's not much. It's what a man has.",
+   "affected_characters": [
+    "Cominius",
+    "Jonah Vale",
+    "Yara"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "nineteen days after lifting, the City; a year later at dinner"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Halyards count heads when they lift, not names; he was the tenth head, counted with the rest.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Pike"
+  },
+  {
+   "character_name": "Cominius",
+   "fact": "Nasso's reading: an unregistered genius on Anvil's lower docks in a hood with a struck line and a learned Belt turn, three shards paid, two bodyguards alive, aboard the Halyard skimmer Heron whose captain runs Hush inward, bound for the College dock at Quirinus Interior; the tenth head not on the slate. He did not go into the wall.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed",
+   "note": "Learned nineteen days after the Heron lifts; narrated as Jonah's foreknowledge from a year later."
+  },
+  {
+   "character_name": "Nasso",
+   "fact": "He sold the reading and the repeat to the Frumentarii for his robe and his name off the list.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "'I know' is the sentence for a thing that cannot be answered; it has one word of its own and one sentence of his, and prefers his.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Yara",
+   "fact": "Jonah says the whole count aloud in her hold, six hundred and ninety names, and talks to the thing in him and always has.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Nasso sold the reading four days after the Heron lifted; the Frumentarii file has a fourth page naming the Heron, the College dock, the tenth head, and 'He did not go into the wall.' Someone in the City knows.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Tacitus's second sentence is 'I know', learned from Jonah; it prefers his sentence to its own word.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "A year on, Jonah sits at dinner in the City with a broad stripe drawn on his arm, across from Livia and Cominius, and would buy Nasso again.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The book of names is complete for Book 1, with Jonah Vale in it and Gaius Sertorius worn, not written.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The book of names",
+   "beat_type": "resolve",
+   "description": "The whole count said in the hold with every correction he has learned, Decimus in it with Sula's father first, and Jonah Vale in it like the rest; the one who carries it wears a stripe and knows which is which. 'It's not much. It's what a man has.'"
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "resolve",
+   "description": "Second sentence: 'I know', his own words given back for a thing that cannot be answered; it prefers his sentence to its word. It learned speech from him, so it learned this first."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "climax",
+   "description": "Four days: Nasso sells the reading and the repeat for his robe; the fourth page names the Heron, the College dock, the tenth head, and says he did not go into the wall. Someone in the City knows. The mistake, kept on purpose."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "escalate",
+   "description": "The Heron bound for the Interior with a stripe nobody can see yet; a year on, dinner over fish with Cominius and Livia, the stripe drawn; four names said in order with what they did, undecided and said so."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "A year on, across a dinner table, a woman with a grey book who said unstable and was right; her name still not said in the light, and Tacitus keeps the heart under it."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "resolve",
+   "description": "'I'd do it again. That's the line I keep.' The one thing he will not say to the old man's name at night. 'I'm not ready,' said so it is said, and answered."
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "resolve",
+   "description": "Every name that letter made is in the count with what he did: the purser, precise, and a bank; the Collar; the drunk; the quaestor. The letter's work is fully known; what is done about it is Books 2 to 4."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "resolve",
+   "description": "In the book: Sula's father, first, then the rest; 'it's not on him, it's on me; he said write it right; this is right.'"
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "resolve",
+   "description": "Counted by head on a Halyard deck, the tenth, not on the slate; off Anvil for the Interior; the registers say wall and Throat and a Frumentarius has written 'He did not go into the wall.'"
+  }
+ ],
+ "clues": [
+  {
+   "description": "The fourth page: Repeated. A Halyard skimmer, the Heron. Captain runs dark. College dock at Quirinus Interior. Tenth head not on the slate. He did not go into the wall.",
+   "type": "verbal",
+   "subtlety": 2,
+   "mechanism": "Book 2 opens with the College dock and a man with a grain-sack waiting; the Heron is on a list.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "A year on, Jonah dines in the City with a broad stripe drawn on his arm across from Livia and Cominius, over fish.",
+   "type": "structural",
+   "subtlety": 3,
+   "mechanism": "Book 2: the dinner is the duel by other means; he is read at every dinner; Cominius tells him the four days himself.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "Tacitus prefers his sentence to its own word.",
+   "type": "behavioral",
+   "subtlety": 4,
+   "mechanism": "Books 2-4: it learns sarcasm first; Book 4 it disagrees out loud; Book 6 it decides who was right.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Halyards count heads, not names; the Empire has enough names.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Book 5: the Belt with no Empire in it counts by head; Book 6: what a man carrying every erased name does with a people who write none.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "'Say them somewhere I can hear, the next time.'",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Book 2's end on the Heron's deck: the count said from the top where Yara can hear.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Tullus, undecided, said so.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Book 2: Tullus with a letter beside his name; what Jonah does about a decent man running an atrocity.",
+   "related_thread": "Revenge: the four names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Nasso took a pen out of his robe",
+   "status": "resolved"
+  },
+  {
+   "match": "Hush turned in: 'I've seen that once",
+   "status": "resolved"
+  },
+  {
+   "match": "The Frumentarii's file: Priscus first page",
+   "status": "resolved"
+  },
+  {
+   "match": "Cominius wants to talk to Livia",
+   "status": "reinforced"
+  },
+  {
+   "match": "The melt ledger: south yards",
+   "status": "resolved"
+  },
+  {
+   "match": "Decimus wrote 4471 into the wall",
+   "status": "resolved"
+  },
+  {
+   "match": "Corin read 'died in the Throat, 389'",
+   "status": "reinforced"
+  },
+  {
+   "match": "Sula, sixteen, counting",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Censor's rule on the rock",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Vein's truth",
+   "status": "reinforced"
+  },
+  {
+   "match": "Yara's price: come back",
+   "status": "reinforced"
+  },
+  {
+   "match": "Every Halyard child knows the name Sertorius",
+   "status": "reinforced"
+  },
+  {
+   "match": "Ada Harrow, thirteen",
+   "status": "reinforced"
+  },
+  {
+   "match": "The harvest mark on thirty-one reads the wrong way round",
+   "status": "resolved"
+  },
+  {
+   "match": "The cabin hatch at the top of the ladder",
+   "status": "resolved"
+  },
+  {
+   "match": "Marchand's hands",
+   "status": "resolved"
+  },
+  {
+   "match": "Marchand does not write the hold",
+   "status": "resolved"
+  },
+  {
+   "match": "The genius looks at Priscus's broad stripe",
+   "status": "reinforced"
+  },
+  {
+   "match": "'A genius holds as many gifts as its Wit line",
+   "status": "reinforced"
+  },
+  {
+   "match": "The shackle wakes up",
+   "status": "resolved"
+  },
+  {
+   "match": "Two dead guards' cuttings left uneaten",
+   "status": "resolved"
+  },
+  {
+   "match": "Fear on Sabinus's face",
+   "status": "resolved"
+  },
+  {
+   "match": "The echoes' yes came almost all the way up",
+   "status": "resolved"
+  },
+  {
+   "match": "The order for the transport is 'by order'",
+   "status": "reinforced"
+  },
+  {
+   "match": "One of the grey Blanks sets the house cup",
+   "status": "reinforced"
+  },
+  {
+   "match": "Blanks on Etruria say 'the Republic'",
+   "status": "reinforced"
+  },
+  {
+   "match": "'It does not know how to stop a piece of itself",
+   "status": "reinforced"
+  },
+  {
+   "match": "Jonah gives the beating hard and counts in the common speech",
+   "status": "resolved"
+  }
+ ],
+ "thread_status": [
+  {
+   "name": "Marchand's letter",
+   "status": "resolved"
+  },
+  {
+   "name": "The book of names",
+   "status": "resolved"
+  },
+  {
+   "name": "Decimus",
+   "status": "resolved"
+  },
+  {
+   "name": "Escape from the Pit",
+   "status": "resolved"
+  },
+  {
+   "name": "The Forms",
+   "status": "resolved"
+  },
+  {
+   "name": "Hunger and Integrity",
+   "status": "resolved"
+  },
+  {
+   "name": "Tacitus",
+   "status": "resolved"
+  },
+  {
+   "name": "The Vein's truth",
+   "status": "resolved"
+  },
+  {
+   "name": "Morrow's ruin",
+   "status": "resolved"
+  },
+  {
+   "name": "Revenge: the four names",
+   "status": "climax"
+  },
+  {
+   "name": "The Frumentarii",
+   "status": "climax"
+  },
+  {
+   "name": "Livia",
+   "status": "climax"
+  },
+  {
+   "name": "The seed and the seal",
+   "status": "climax"
+  },
+  {
+   "name": "Priscus's law",
+   "status": "climax"
+  },
+  {
+   "name": "Mara and Corin",
+   "status": "climax"
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The casks",
+   "location": "The Heron"
+  },
+  {
+   "name": "The book of names",
+   "holder": "Jonah Vale",
+   "location": "The Heron"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Yara",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Pike",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Kaspar",
+   "location": "The Heron"
+  },
+  {
+   "character_name": "Nasso",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Cominius",
+   "location": "The City"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Counted by head. Said the whole count with himself in it. Not ready, and answered. Would buy Nasso again and will not tell the old man. Thirty days to the College dock."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Said 'I know.' Prefers his sentence to its own word."
+  },
+  {
+   "character_name": "Yara",
+   "emotional_state": "Counted ten. Did not say the obvious twice. Wants to hear the names from the top."
+  },
+  {
+   "character_name": "Pike",
+   "emotional_state": "Never had paper. 'He's talking to it.'"
+  },
+  {
+   "character_name": "Nasso",
+   "emotional_state": "Sold it for his robe on the fourth day."
+  },
+  {
+   "character_name": "Cominius",
+   "emotional_state": "Made a fourth page. He did not go into the wall."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Heron",
+   "characters": [
+    "Jonah Vale",
+    "Pike",
+    "Tacitus"
+   ],
+   "summary": "Anvil goes; the hearts fade to one; counted by head, the tenth; it's not much.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Nasso",
+    "Cominius",
+    "Jonah Vale"
+   ],
+   "summary": "Foreknowledge: four days; the reading and the repeat sold for a robe; a fourth page; I'd do it again.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The book of names from the top to his own name; a stripe is worn and a name is what you are; there is always room.",
+   "purpose": "climax"
+  },
+  {
+   "location": "The Heron",
+   "characters": [
+    "Tacitus",
+    "Jonah Vale",
+    "Pike",
+    "Yara"
+   ],
+   "summary": "'I know.' A laugh at the beam; he always has; thirty days to the College dock; I'm not ready; I know.",
+   "purpose": "resolve"
+  },
+  {
+   "location": "The City",
+   "characters": [
+    "Cominius",
+    "Jonah Vale"
+   ],
+   "summary": "The fourth page: the Heron, the College dock, the tenth head, he did not go into the wall; that's the count, it's what a man has.",
+   "purpose": "hook"
+  }
+ ],
+ "tension_level": 5,
+ "scene_type": "reflection",
+ "pacing": "slow",
+ "emotional_tone": "resolved",
+ "opening_hook": "The Heron came off Anvil at the second bell, and Jonah watched the rock go.",
+ "closing_hook": "That's the count. It's not much. It's what a man has. END OF BOOK ONE.",
+ "word_count": 3325,
+ "notes": "Final chapter. POV kept on Jonah: the City paragraphs are framed as what he learns a year later over dinner with Cominius and Livia (a Book 2 promise). Tacitus's second sentence is 'I know', his own line returned; it learns speech from him. Book-1 threads closed: book of names, Tacitus (Book 1 arc), Escape, Decimus, Forms, Hunger and Integrity, Vein's truth, Morrow's ruin, Marchand's letter (known in full). Series threads left at climax: Revenge, Frumentarii, Livia, seed and seal, Priscus's law, Mara and Corin. Grade at end: Centurion 42, reading indeterminate, matching the system bible's row 40."
+}
