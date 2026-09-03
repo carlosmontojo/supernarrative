@@ -1,0 +1,402 @@
+{
+ "title": "Chisel",
+ "summary": "Three months in the Cradle, three hours a night: the hand, the tongue, and the third hour. The Censor beats Varro out of Jonah with a pick haft, thirty-one falls the first night, counting in Latin: the Fulvian step, the Vibian turn, the stance. 'An echo is not skill. It is a memory of being beaten.' The tongue is taught the way a Broadstripe child learns it, an hour of noise a night until mater surfaces on the twentieth night and Jonah answers in Latin on the sixtieth. Growth from the body used hard; fevers every six nights; Corr thinks he is going again and the Censor tells him to use it: nobody looks closely at a dying man. Four Forms named on the stick: Vibia, Claudia, Fulvia, Aemilia; and there was a fifth. On the ninety-fourth night a north-yard cutter, Hollen, comes up the Throat with news: Tom Vale went to the quaestor's door every morning for a month, then stopped going anywhere, and died in his chair with the door open and his hat on his knee, two months back. The yard paid the melt; somebody said his name. That night Jonah says the names on the road and stops on the first. The Censor puts down the stick and asks him to tell it, and writes Tom Vale, nine fingers, south yards, believed in the ladder, with a chisel point in the fourth column of a slab of the Vein. 'Counted.' Grade 16.",
+ "story_date": "389, days 60 to 155 in the Pit",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "Nightly training begins in the Cradle: the hand (pick haft, Varro's echo beaten out of his legs into his hands), the tongue (Latin by immersion), the third hour. Ulli sits at the road end as cover.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Ulli",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The Censor's stick"
+   ],
+   "story_timestamp": "days 60 to 155"
+  },
+  {
+   "type": "discovery",
+   "description": "The Censor identifies the Fulvian step, the Vibian turn and the duellist's stance as Varro's defeats, not skills; he takes them away until Jonah can do them in his own legs looking at a man.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "month 1-2"
+  },
+  {
+   "type": "transformation",
+   "description": "Latin: noise for twenty nights, mater on the twentieth, a sentence on the thirtieth, the history of the College understood on the forty-fifth, an answer in Latin on the sixtieth. 'That is the thing behind the endings.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "nights 20 to 60"
+  },
+  {
+   "type": "transformation",
+   "description": "The genius grows on the body used hard; fever every six or seven nights, counted down on the road. Grade 16. Corr sees a man being taken; the Censor: use it, nobody looks closely at a dying man.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Corr"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "month 2"
+  },
+  {
+   "type": "revelation",
+   "description": "The four Forms named on the stick: Vibia (Verdict, stillness, the heartbeat), Claudia (Wall, grind, the pretenders who can be made to hurry), Fulvia (Tide, circle and cut), Aemilia (Mirror, throw). 'And there was a fifth. Not tonight.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 90"
+  },
+  {
+   "type": "encounter",
+   "description": "Hollen, a north-yard Ferrum cutter, arrives on a transport and tells Jonah how Tom Vale died: the quaestor's door every morning for a month, then the chair with the door open, the winter, the hat on his knee. Morrow's yard paid the melt; somebody said his name; Hollen does not know who.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Hollen",
+    "Tom Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 94"
+  },
+  {
+   "type": "death",
+   "description": "Tom Vale died on Anvil in the winter of 389, two months before the news reached the Pit, about the night Jonah first answered in Latin.",
+   "affected_characters": [
+    "Tom Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "389, winter, Anvil"
+  },
+  {
+   "type": "revelation",
+   "description": "The Censor lays down the stick, listens for two hours, and shows the slabs: sixteen slabs of Vein cut thin, every number in twenty years, some with names, a few with fathers. He writes Tom Vale beside 4471 with a chisel point in Latin and reads it back. 'Counted.'",
+   "affected_characters": [
+    "Aulus Terentius Pharus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "night 94"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tom Vale died in 389; nobody recorded his name.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Hollen"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Varro's echo is a memory of being beaten; the Fulvian step, the Vibian turn and the stance are a dead man's defeats; he cannot use a dead man's contempt without it using him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The four Forms: Vibian (Verdict, stillness), Claudian (Wall, grind), Fulvian (Tide, circle), Aemilian (Mirror, throw); pretenders to the Claudian Form can be made to hurry.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "A dying man is the only thing in the Pit that is free: his fevers read as the Vein taking him, and nobody looks closely.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor's book of names is sixteen slabs of Vein cut thin, written in Latin with a chisel point: every number in twenty years.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He can think in the old tongue, badly, with the endings wrong.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Tom Vale died in 389; nobody recorded his name.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Corr",
+   "fact": "4471 sweats and shakes and cuts like a new man: the Vein is taking him a second time.",
+   "new_knowledge_level": "wrong_belief",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Hollen",
+   "fact": "Tom's boy is in the Pit with the line cut out of his arm.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Tom Vale died in 389; nobody recorded his name.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "Varro's echo is a memory of being beaten; the Fulvian step, the Vibian turn and the stance are a dead man's defeats; he cannot use a dead man's contempt without it using him.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor's book of names is sixteen slabs of Vein cut thin, written in Latin with a chisel point: every number in twenty years.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Forms",
+   "beat_type": "escalate",
+   "description": "The hand: Varro beaten out of the legs into the hands over three months. Four Forms named on the stick. 'And there was a fifth.'"
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reveal",
+   "description": "Sixteen slabs of Vein. Tom Vale written beside 4471 in Latin with a chisel point and read back. 'Counted.'"
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "Growth from the body used hard; the fevers as cover; 'the only thing in this rock that is free'."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "Told no thirty-one times and does not understand. Reads the bruises every night and learns. Grade 16."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "Tom went to the quaestor's door every morning for a month and was told nothing. 'Somebody said his name. I'm going to find out.'"
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "Her name said nightly since the Cradle and, this night, thought about: the last person who used his name; believing her brother, like his father did."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "reinforce",
+   "description": "Mara brought Tom bowls; she found him. Hollen's news."
+  },
+  {
+   "thread_name": "Priscus's law",
+   "beat_type": "reinforce",
+   "description": "The Vibian Form: he does not move, he is already looking at the place where he will put the blade. Jonah thinks of a man reading to the end of a page."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "reinforce",
+   "description": "He lays down the stick for a dead father and writes him down. He has had twenty years to decide what he would do with his body if anyone gave him a reason."
+  }
+ ],
+ "clues": [
+  {
+   "description": "'A wall that can shed is not a wall, it is a man pretending, and a man pretending is a man who can be made to hurry.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Sabinus fights the Claudian Form without the Wall. Ch.30 Jonah makes him hurry.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "The Censor has been telling the history of the College from the Finding to 366 for an hour a night in a language Jonah cannot understand.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "Jonah absorbs the Flamens' history before he can parse it; ch.16 and ch.23 draw on it.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The Censor's slabs are cut from the Vein itself, thin, and written on with a chisel point.",
+   "type": "object",
+   "subtlety": 6,
+   "mechanism": "The book of names is made of the thing that counts. Ch.22 Jonah inherits sixteen slabs he cannot carry and must memorize; ch.31 Tacitus holds them.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Gaspar Roake sat with Tom some nights.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Gaspar's secret: loved Tom, let his son go, not sober since. Ch.35.",
+   "related_thread": "Revenge: the four names"
+  },
+  {
+   "description": "Tom died about the night Jonah first answered in Latin and was, he remembers exactly, happy.",
+   "type": "structural",
+   "subtlety": 7,
+   "mechanism": "The cost of the Pit's happiness. Ch.20 and ch.22 return to it.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Hollen: 'Morrow's yard paid the melt. Somebody said his name.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Who said it (ch.35: Mara), who paid (ch.35: Marchand through Morrow's yard, quietly).",
+   "related_thread": "Revenge: the four names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Varro's stripe after devouring",
+   "status": "reinforced"
+  },
+  {
+   "match": "The genius went still when Varro said the word",
+   "status": "reinforced"
+  },
+  {
+   "match": "Jonah does not say anything over Varro's body",
+   "status": "resolved"
+  },
+  {
+   "match": "Corr: 'It gets easy for him",
+   "status": "reinforced"
+  },
+  {
+   "match": "Jonah must remember to wince",
+   "status": "reinforced"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "The Censor's stick",
+   "description": "A pick haft, ash, a metre long, worn pale where a hand held it for years. The Flamens brought the tool down in his third year and never asked for it back.",
+   "holder": "Aulus Terentius Pharus",
+   "location": "The Chamber",
+   "significance": "The Forms are taught with it. Ch.21 Jonah beats him with a shifted blade."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The book of names",
+   "location": "The Chamber",
+   "holder": "Aulus Terentius Pharus"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Hollen",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Corr",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Grade 16. Thinks in Latin badly. His father is in the melt and in the fourth column. Happy in the Pit and knows what it cost."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Laid down the stick for a dead father. Wrote him down."
+  },
+  {
+   "character_name": "Corr",
+   "emotional_state": "Sorry. Likes him. Thinks he is going again."
+  }
+ ],
+ "status_changes": {
+  "Tom Vale": "dead"
+ },
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The hand: thirty-one falls; the Fulvian step, the Vibian turn, the stance; what an echo is.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "The tongue: an hour of noise a night; mater; the thing behind the endings.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Corr"
+   ],
+   "summary": "Growth and fever; Corr's cover: the Vein is taking him again.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "Four Forms on the stick; a fifth, not tonight.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Hollen"
+   ],
+   "summary": "Hollen's news of Tom.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The names on the road; the stick laid down; the slabs; Tom written and read back. Counted.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 6,
+ "scene_type": "action",
+ "pacing": "medium",
+ "emotional_tone": "melancholy",
+ "opening_hook": "The stick was a pick haft and the Censor beat him with it thirty-one times in the first hour and counted every one in Latin.",
+ "closing_hook": "Tom Vale written in Latin with a chisel point in the fourth column of a slab of the Vein. 'Counted.'",
+ "word_count": 4966,
+ "notes": "Grade 16. Tom Vale dead. Hollen new (north-yard Ferrum cutter). The book of names revealed as slabs. Jonah knows the four Forms by name and Varro is out of his legs. Latin understood, spoken badly."
+}
