@@ -1,0 +1,457 @@
+{
+ "title": "Inspection",
+ "summary": "The College comes down for the empty Chamber: the Master of Readings, Pollio, scholars, and a Broadstripe scholar-novice on a stool at the end of a row of sixteen slabs, reading them with her lips moving and writing in her own book. Livia. Jonah has three hundred breaths in the line to decide on a face and uses the one from the rock. Tacitus notices his heart and is asked by name to go down; it goes down like a man into a cellar, on purpose. The Master reads the slabs aloud: a struck name in its bearer's hand, twenty-three years, a lamp nobody authorised; a Master's seal in the margin; the last line in a second hand. Livia: the second hand learned the tongue first from the same Master and breaks lines where Pharus broke; the seal is drawn from drill, not memory; whoever wrote it was taught to make it. Pollio reads 4471 first: void, the wobble, the third time, 'this is the one'. The Master reads him: void, the wobble, 'you are dying'; 'Corr said a month'; 'slab sixteen'. Livia reads him: her heart fast and steady through the stand; she looks at the white line, then at his face, and behind hers for a breath nobody is home. 'Number.' 'Four four seven one', in the road's tongue. She writes longer than a number takes and tells the Master he is wrong before the whole line: mark him void. Two days of the line. Pell: there are not two; she knows you; she lied to a Master for you. The slabs go up the Throat in her lap. Decimus: she asked the cut one's intake name on the dock and thanked him in both tongues. Tacitus wants to know what a thing is and waits to be told. 'Later. I don't know what it is either.'",
+ "story_date": "394, spring, the sixth year",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "The College's emergency team at the Throat: the Master of Readings, Pollio now a Flamen, scholars, Tullus, Sabinus, and Livia Vibia on a stool reading the sixteen slabs all night with her lips moving, writing in her own book.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Livia Vibia",
+    "Pollio",
+    "Marcius Tullus",
+    "Gnaeus Sabinus",
+    "Rennick"
+   ],
+   "affected_objects": [
+    "The book of names",
+    "Livia's notebook"
+   ],
+   "story_timestamp": "394, spring, day 1"
+  },
+  {
+   "type": "transformation",
+   "description": "Tacitus notices Jonah's heart at the sight of her and turns to look; asked by name, it goes down into the cellar of him on purpose. Jonah wears the bored face from the rock.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, day 1"
+  },
+  {
+   "type": "revelation",
+   "description": "The Master of Readings reads the slabs aloud: a struck name, Aulus Terentius Pharus, in his own hand; twenty-three years; a lamp nobody authorised; a Master's seal in the margin; the last line in a second hand, larger, learned by cutting. 'He had a servant. I am going to read every man on this road.'",
+   "affected_characters": [
+    "Marcius Tullus",
+    "Jonah Vale",
+    "Livia Vibia"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "394, day 1"
+  },
+  {
+   "type": "revelation",
+   "description": "Livia's reading of the hand: not a convict's; a man who learned the tongue first from the same Master and breaks lines where Pharus broke; the seal drawn from drill, made a hundred times before; whoever wrote it was taught to make it; it opens one door on Latium.",
+   "affected_characters": [
+    "Livia Vibia",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The book of names"
+   ],
+   "story_timestamp": "394, day 1"
+  },
+  {
+   "type": "encounter",
+   "description": "Pollio reads 4471: void, the wobble, the third time, 'this is the one I wrote'; a citizen for a week would have letters. The Master reads him: void with a wobble like a fever; 'you are dying'; 'Corr said a month'; 'slab sixteen, north yards'; the Master hears a Master's cadence.",
+   "affected_characters": [
+    "Pollio",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, day 1"
+  },
+  {
+   "type": "encounter",
+   "description": "Livia reads him: her heart fast and steady through the stand; five heartbeats on the white line, then his face; behind hers for a breath nobody home. 'Number.' 'Four four seven one' in the road's tongue. She writes longer than a number takes and tells the Master he is wrong before the whole line: a fever, the wall is slow with some, mark him void; she will look at the hand again after the whole road.",
+   "affected_characters": [
+    "Livia Vibia",
+    "Jonah Vale",
+    "Tacitus",
+    "Pollio"
+   ],
+   "affected_objects": [
+    "Livia's notebook"
+   ],
+   "story_timestamp": "394, day 1"
+  },
+  {
+   "type": "encounter",
+   "description": "Two days of the line. Pell: a quaestor's sister said 'he won' on Anvil, the north yards said; there are not two; she knows you; she lied to a Master for you. Sixteen slabs going up in her lap.",
+   "affected_characters": [
+    "Pell",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "394, night 2"
+  },
+  {
+   "type": "movement",
+   "description": "The College goes up the Throat on the third day with the slabs; Jonah feels one slow heart go up in the last cage. Decimus: she asked the cut one's intake name on the dock; 'Vale, my lady. Citizen for a week. Off Anvil'; she thanked him in both tongues and wrote a long time.",
+   "affected_characters": [
+    "Livia Vibia",
+    "Decimus",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The book of names",
+    "Livia's notebook"
+   ],
+   "story_timestamp": "394, day 3"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Livia Vibia is a scholar-novice of the College, twenty-five, and read him at the Throat, looked at the white line and his face, wrote in her own book, and told the Master to mark him void.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Livia asked Decimus his intake name on the dock and was told Vale, citizen for a week, off Anvil.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The College knows the Censor's slabs, the struck name, the seal, and the second hand, and has taken the slabs to the City.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tacitus can be asked by name to go down and does so on purpose; it noticed his heart when he saw her and wants to know what that is.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "Convict 4471, a cut one who reads void with a wobble for the third time, has a white line where a citizen's line was, and answered in the road's tongue; she wrote it in her own book.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "Livia noted convict 4471's unstable reading in her own notebook and did not report it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The intake name of 4471 was Vale, citizen for a week, off Anvil.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The man in the Pit calling himself 4471 is Jonah Vale.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The second hand on the slabs learned the tongue from Pharus and was taught to make a Master's seal; it is not a convict's.",
+   "new_knowledge_level": "knows",
+   "how_learned": "read"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The Censor is alive in the Chamber and Tullus uses his numbers to keep the deep galleries stable.",
+   "new_knowledge_level": "knows",
+   "how_learned": "read"
+  },
+  {
+   "character_name": "Pollio",
+   "fact": "4471 reads void with a wobble a third time, was a citizen for a week, and should be in the wall; he is the one.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "fact": "The College knows he kept a struck man alive twenty-three years for the galleries without authority.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Master of Readings"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "The Broadstripe scholar asked 4471's intake name and thanked him in both tongues.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "The Broadstripe who read 4471 twice is the quaestor's sister who said 'he won' on Anvil; she knows him and lied to a Master for him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Livia noted convict 4471's unstable reading in her own notebook and did not report it.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The intake name of 4471 was Vale, citizen for a week, off Anvil.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The College knows the Censor's slabs, the struck name, the seal, and the second hand, and has taken the slabs to the City.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Livia",
+   "beat_type": "climax",
+   "description": "The Throat: five heartbeats on the white line, his face, nobody home for a breath, 'Number', a long entry in her own book, 'mark him void' before the whole line, his intake name asked of a guard and thanks in both tongues."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "escalate",
+   "description": "The College has the slabs, the struck name, the seal, and a second hand; Pollio names 4471 three times; the Master is going to read every man. Livia has bought him time with a lie. Tullus exposed for the lamp."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "The slabs read aloud by a Master of Readings; the seal; the second hand; sixteen slabs of the count go up the Throat in her lap."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Notices his heart at the sight of her and turns to look. Goes into the cellar by name, on purpose. Wants to know what a thing is and waits to be told."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "escalate",
+   "description": "Pollio: 'this is the one I wrote'; a struck name on the Matter; the College will write to the City about the lamp."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "reinforce",
+   "description": "'Vale, my lady.' 'She wrote a long time. It's what a guard has.'"
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "reinforce",
+   "description": "'The best Master the College has had since the Finding and he went mad about the wall and they cut him in the Forum and I watched.'"
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Bearing used for the first time in earnest: the face from the rock under a Master's glass."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Livia: the second hand breaks lines where Pharus broke; the seal is drawn from drill; whoever wrote it was taught to make it; it opens one door on Latium.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "She has deduced a trained heir with the columbarium key; ch.34 she puts it with 'died in the Throat, 389'; Book 2 she is waiting at the door.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Behind her face for a breath nobody is home, the way her brother's went over the seal.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "The Vibian tell: deciding. She decided to lie for him. Ch.34.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "The Master of Readings hears a convict say 'slab sixteen' with a Master's cadence and his face shifts to something that is not suspicion.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "The Master will remember the cadence when a Sertorius speaks in the Senate (Book 2).",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Tullus kept a struck man alive for twenty-three years without authority; the College will write to the City about the lamp.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Tullus is finished; a prefect with nothing to lose rushes the harvest (ch.26, ch.29).",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "She thanked Decimus in the old tongue and then in his, 'so I'd have it in both'.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Register as courtesy: she speaks a Blank's tongue to a Blank. Book 2 she is the only one at table who does.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Tacitus wants to know what a thing is for the first time and has no way to ask.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "'Name.' in ch.31 is the ask; Book 4 it uses her name to stop him.",
+   "related_thread": "Tacitus"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The Master's seal left in the margin",
+   "status": "resolved"
+  },
+  {
+   "match": "The young Flamen in a clean robe frowned",
+   "status": "resolved"
+  },
+  {
+   "match": "Livia: 'That's a lie, but it's a good one",
+   "status": "resolved"
+  },
+  {
+   "match": "The Flamen: 'plate reads dark",
+   "status": "reinforced"
+  },
+  {
+   "match": "Livia reads every day at the Flamens' house",
+   "status": "resolved"
+  },
+  {
+   "match": "Lucius Vibius had 'a son of ten",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Censor's slabs are cut from the Vein itself",
+   "status": "resolved"
+  },
+  {
+   "match": "The Censor 'designed nothing that Jonah knew of yet'",
+   "status": "resolved"
+  },
+  {
+   "match": "'They cut the stripe out of my arm in the Forum",
+   "status": "resolved"
+  },
+  {
+   "match": "The Censor has been telling the history of the College",
+   "status": "resolved"
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The book of names",
+   "holder": "Livia Vibia",
+   "location": "The City"
+  },
+  {
+   "name": "Livia's notebook",
+   "holder": "Livia Vibia",
+   "location": "The City"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "location": "The City"
+  },
+  {
+   "character_name": "Pollio",
+   "location": "The City"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "location": "Pit surface garrison"
+  },
+  {
+   "character_name": "Gnaeus Sabinus",
+   "location": "Pit surface garrison"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Held. Read by her twice. The count went up the Throat in her lap. Two days without sleep. 'Later. I don't know what it is either.'"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "emotional_state": "Fast and steady. Lied to a Master before the whole line. Wrote a long time. Asked a guard a name."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Went into the cellar by name. Wants to know what a thing is."
+  },
+  {
+   "character_name": "Pollio",
+   "emotional_state": "The one he wrote, three times. Named him aloud."
+  },
+  {
+   "character_name": "Marcius Tullus",
+   "emotional_state": "Exposed for the lamp. Nothing to lose."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Told her the name. Told him she asked."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "There are not two."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Throat",
+   "characters": [
+    "Jonah Vale",
+    "Livia Vibia",
+    "Pollio",
+    "Marcius Tullus",
+    "Gnaeus Sabinus",
+    "Rennick",
+    "Pell",
+    "Tacitus"
+   ],
+   "summary": "The line; her on the stool; three hundred breaths; the slabs read aloud; the second hand; Pollio; the Master; Livia reads him; mark him void.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Pell"
+   ],
+   "summary": "Two nights; there are not two; she knows you; the count in her lap.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Tacitus"
+   ],
+   "summary": "The slabs go up; one slow heart; 'she asked me your name'; Tacitus waits to be told.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 9,
+ "scene_type": "confrontation",
+ "pacing": "slow",
+ "emotional_tone": "paranoid",
+ "opening_hook": "He saw her from the line before she saw him, and he had three hundred breaths to decide what to do with his face.",
+ "closing_hook": "'Later. I'll tell you later. I don't know what it is either.'",
+ "word_count": 4213,
+ "notes": "Livia has read him, lied for him, and taken the slabs and the seal's meaning to the City. She suspects 4471 is Jonah Vale (Decimus gave her the name). Grade about 31 held under three readings. New character: the Master of Readings (unnamed). Tullus exposed to the College; harvest rush follows."
+}
