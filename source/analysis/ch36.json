@@ -1,0 +1,346 @@
+{
+ "title": "Mara",
+ "summary": "The man in the road is Bram, fifty, torch-burned, with the bad leg from the day Jonah was fifteen and held the other end of the plate. Twelve auxiliaries come down the dock road at curfew with Corin at their head: a real thin stripe on his shoulder, fourteen grades of plate fed on a rising, 'friend'. The legate's order: any Collar on the dock road after the bell is out for the war, and out for the war is a sharpening; two a night, a quota. Corin will not do it himself; Bram carried him home once; but two of the eleven, Dace and another, come past him with the quota. Bram turns on his bad leg and says, loud, 'Tom Vale's boy would've had you both.' The flat of a fang across his face; a boot on the leg. Jonah leaves the rail and comes up the road at a walk, a hood going home after the bell. Dace: 'Two a night. He's one. You're the other. Arm.' Jonah gives the right arm with the white line, and as Dace turns to tell the line what it is, the hand is on his shoulder: the Sertorian Form, no draw, no tell; the fang from the palm at the neck seam. The second boy's fang skids off a seam that shuts wrong under the hood; the left hand is where he is going; the fang comes out an arm long instead of a hand and goes through the armpit seam. 'What.' 'Tom Vale's boy,' quietly, so only the boy hears. Two, in the time it takes to say a number, in the lamps, with nine auxiliaries and a Thinstripe forty paces off. Corin says 'Lock' with his hand up and shaking, and nothing happens; says it again; Tacitus does what it does with the law. Jonah reads his face from ten paces: the face from the first sand at fourteen, at the bottom of a bout on a road he owns. 'Who are you.' Jonah turns his back on him and hauls Bram up and walks him forty paces to his stair, and nobody follows. Bram, close to the hood: 'I know you.' 'You're a liar, Bram. Everybody says.' Bram looks, knows, and shuts his mouth on it the way he shut it on a beautiful ship: 'Bloody Halyards. Get me to my stair.' Mara is at the top of it with the door open and a boy of three asleep on her hip, grey at the temple, burn marks on both forearms, Corin's iron ring on her hand and a chain going under her shirt. The hull ring knows him through the stair and is warm, and she puts her hand to her throat without knowing. She looks at the hood longer than a number takes and notices how he stands, the way she told him not to, and does not know what she noticed, and does not come down. 'Thank you. Whoever you are. Thank you for Bram.' He cannot speak; he inclines his head the Halyard way and steps back one step, the way he stepped back at the dock gate, and something goes across her face under the careful thing for one breath, and she goes in and leaves the door open. At the rail Tacitus says its one word: 'Name.' Not hers; it has hers. 'I don't know. I've never had a word for that one either.' He gives it the only kind he has: the Halcyon, the first ship he ever broke, at fifteen, the aft seam, and he cried, and it was true; a piece of a ship he cut up because he was told to, that somebody kept. It takes it: a man, and now a ship. The hand with no hand. Two days; then Morrow, then a Flamen who sells readings, and he will not come up that stair. Corin saw the Form and Lock did not take, and he will lie awake; let him. A lamp comes round the sheds and stops over two boys in the rock.",
+ "story_date": "394, summer, Anvil, first night, curfew",
+ "events": [
+  {
+   "type": "confrontation",
+   "description": "Corin's auxiliaries clear the dock road at curfew under the legate's order: out after the bell is out for the war, and that is a sharpening; two a night. Bram, fifty, with the bad leg, is forty paces from his stair. Corin will not do it himself but lets Dace and another go past him with the quota. Bram: 'Tom Vale's boy would've had you both.' The flat of a fang across his face; a boot on his leg.",
+   "affected_characters": [
+    "Corin Aldane",
+    "Bram",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "curfew"
+  },
+  {
+   "type": "combat",
+   "description": "Jonah walks up the road hooded, gives Dace the right arm with the white line, and as Dace turns to name it the Sertorian Form puts the fang from the palm in his neck seam without a draw. The second boy's fang skids off a seam that shuts wrong under the hood; the left hand is where he is going and the fang comes out an arm long through the armpit seam. 'Tom Vale's boy,' quietly. Two dead auxiliaries in the lamps in the time it takes to say a number.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Dace"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "curfew"
+  },
+  {
+   "type": "confrontation",
+   "description": "Corin says 'Lock' with his hand up and shaking, twice, and nothing happens; Tacitus does what it does with the law and looks past the word at fourteen grades of cutting, and Jonah says not him, not tonight. Corin's face is the face from the first sand at fourteen. 'Who are you.' Jonah turns his back on him and hauls Bram to his stair, and nine men watch Corin not follow.",
+   "affected_characters": [
+    "Corin Aldane",
+    "Jonah Vale",
+    "Tacitus",
+    "Bram"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "curfew"
+  },
+  {
+   "type": "encounter",
+   "description": "Bram looks into the hood at close range, knows, and lies loud for the road: 'Bloody Halyards. Get me to my stair.' The liar everybody says he is shuts his mouth on the truth.",
+   "affected_characters": [
+    "Bram",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "curfew"
+  },
+  {
+   "type": "encounter",
+   "description": "Mara at the top of the south-yard stair with the door open and a boy of three asleep on her hip; grey at the temple, more burns, Corin's iron ring, a chain under her shirt. The hull ring knows him and is warm and she puts her hand to her throat without knowing. She looks at the hood longer than a number takes, notices how he stands, does not know what she noticed, does not come down. 'Thank you. Whoever you are.' He inclines his head the Halyard way and steps back one step, as at the dock gate; something crosses her face under the careful thing for one breath; she goes in and leaves the door open.",
+   "affected_characters": [
+    "Mara Ansel",
+    "Jonah Vale",
+    "Bram",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The hull ring"
+   ],
+   "story_timestamp": "curfew"
+  },
+  {
+   "type": "revelation",
+   "description": "At the rail Tacitus says 'Name' for the thing it felt in his heart on the stair, which it cannot put down. Jonah has no word for that one either and gives it the only kind he has: the Halcyon, the first ship he broke at fifteen, the aft seam, and he cried, and it was true. It takes it: a man, and now a ship. The hand with no hand. Two days; Morrow; the Flamen; he will not come up that stair. Corin saw the Form and will lie awake; let him.",
+   "affected_characters": [
+    "Tacitus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The hull ring"
+   ],
+   "story_timestamp": "night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Corin Aldane",
+   "fact": "A hooded man with a white line on his right arm killed two auxiliaries on the dock road with a fang that came from nowhere, with no draw, and stood through 'Lock' twice.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "fact": "The hooded man is Jonah Vale.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced",
+   "note": "Bram said Tom Vale's boy would have had them; Lock did not take; the man turned his back on him and came out at nothing."
+  },
+  {
+   "character_name": "Bram",
+   "fact": "The hooded Halyard who carried him to his stair is Jonah Vale.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "fact": "A hooded Halyard brought Bram home cut after killing two auxiliaries, stands the way Jonah stood, and stepped back from her the way Jonah did at the dock gate.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "fact": "The hooded man is Jonah Vale.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced",
+   "note": "She noticed and did not know what she noticed; she does not believe the paper."
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Mara has grey at the temple, a boy of three, Corin's iron ring, and the Halcyon's hull ring warm on a chain under her shirt; she noticed how he stands and did not come down; she left the door open.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The legate's curfew order makes any Collar on the dock road after the bell a sharpening; the auxiliaries have a quota of two a night; Corin has Lock and a real thin stripe and lets others do it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Tacitus",
+   "fact": "The thing in Jonah's heart on Mara's stair is called the Halcyon: a piece of a ship he cut up because he was told to, that somebody kept.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:Jonah Vale"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Jonah killed two of Corin's auxiliaries with the Sertorian Form on the dock road; Corin's Lock did nothing to him and Corin saw a Form nobody has seen in a century.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Bram recognised Jonah and lied for him; Mara saw a hooded man who stands like Jonah and did not come down; the hull ring on her chain knew him.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Tacitus asked 'Name' for what Jonah felt on the stair and was given the Halcyon.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "climax",
+   "description": "Corin with a stripe and a quota lets boys do his sharpening; Lock does not take; he sees the Form and will lie awake. Mara at the top of the stair with the boy and the ring warm under her shirt notices how the hood stands, does not come down, and leaves the door open. He steps back the way he did at the gate."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "escalate",
+   "description": "Corin read from ten paces: at the bottom of a bout on a road he owns. 'Who are you.' Not tonight; Jonah turns his back on him and Corin does not follow. Two auxiliaries dead in the lamps for a quota."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "The Sertorian Form in the light on Anvil: no draw, no tell, the hand where the man is going; the Wall's seam shuts wrong under the hood; Reach gives an arm for a hand. Corin sees it and has no word for it."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Lock does nothing, as it never has. The second use of its one word, for the thing on the stair; it is given the Halcyon, and has a man and a ship in it now."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Bram, a liar everybody says, who lied for him; Dace and a boy with week-old bands, 'What', on the slate. Corin's lie-awake is on the slate too."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "The hunger looks at fourteen grades on Corin's arm and is told to look at his face instead. He could not speak to Mara because his voice would not hold; he inclined his head instead."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Corin saw the Sertorian Form and Lock did not take on the hooded man.",
+   "type": "behavioral",
+   "subtlety": 3,
+   "mechanism": "Book 3: Corin recognises the Form on the Ludi floor and knows who Sertorius is before anyone. The auxiliary report of two dead boys goes to the legate and the Frumentarii.",
+   "related_thread": "Mara and Corin"
+  },
+  {
+   "description": "Mara left the door open.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Book 3: she recognises him and says she knew on the stair; the open door is how she tells him.",
+   "related_thread": "Mara and Corin"
+  },
+  {
+   "description": "Bram knows and lied for him: 'Bloody Halyards.'",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Ch.39: what Jonah does about the ones who did something. Book 3: Bram is the one who tells Mara the truth.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "The hull ring knew him through the stair and was warm; she put her hand to her throat.",
+   "type": "physical",
+   "subtlety": 4,
+   "mechanism": "Book 3: hull plate that has been against a genius remembers; the ring is how Tacitus finds her in a crowd.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Tacitus has the Halcyon: a thing cut up because he was told to, that somebody kept.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Book 4: Tacitus uses the ship's name to stop him from a thing; Book 6: what it keeps.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "The legate's quota: two a night on the dock road.",
+   "type": "structural",
+   "subtlety": 4,
+   "mechanism": "Ch.39: what a Stripe's law is worth, said aloud; Book 3: the quota is the count Corin answers for.",
+   "related_thread": "Revenge: the four names"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Mara's boy, three",
+   "status": "resolved"
+  },
+  {
+   "match": "Corin: 'then you've never been afraid enough.'",
+   "status": "resolved"
+  },
+  {
+   "match": "Corin's hand signing is the hand of a man in the sand",
+   "status": "resolved"
+  },
+  {
+   "match": "Jonah talks in his sleep",
+   "status": "reinforced"
+  },
+  {
+   "match": "Sabinus's echo: the water step right",
+   "status": "reinforced"
+  },
+  {
+   "match": "Reach and Seal both wrong-shaped",
+   "status": "reinforced"
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The hull ring",
+   "holder": "Mara Ansel",
+   "location": "Anvil tenements"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Corin Aldane",
+   "location": "Anvil"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Bram",
+   "location": "Anvil tenements"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Killed two boys with bands a week old for Bram. Stood through Lock. Stepped back from her stair the way he did at the gate. Gave Tacitus the Halcyon. Will not go up that stair."
+  },
+  {
+   "character_name": "Corin Aldane",
+   "emotional_state": "Said Lock twice to a hooded man and nothing happened. Saw a hand go where a boy was going. At the bottom of a bout on a road he owns. Will lie awake."
+  },
+  {
+   "character_name": "Mara Ansel",
+   "emotional_state": "Hand at her throat without knowing. Noticed how he stands and did not know what she noticed. Did not come down. Left the door open."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Has a man and a ship in it. Asked 'Name' for the thing on the stair."
+  },
+  {
+   "character_name": "Bram",
+   "emotional_state": "Cut across the face. Knows. Lied loud for the road."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Anvil",
+   "characters": [
+    "Corin Aldane",
+    "Bram",
+    "Jonah Vale"
+   ],
+   "summary": "Curfew on the dock road; the quota; Bram's name for Tom's boy; the flat of a fang.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Dace",
+    "Corin Aldane",
+    "Tacitus"
+   ],
+   "summary": "Two auxiliaries by the Sertorian Form in the lamps; Lock twice and nothing; Corin's face from the first sand; the back turned.",
+   "purpose": "climax"
+  },
+  {
+   "location": "Anvil tenements",
+   "characters": [
+    "Bram",
+    "Jonah Vale",
+    "Mara Ansel"
+   ],
+   "summary": "Bram knows and lies; Mara at the top of the stair with the boy; the ring warm; the step back; the door left open.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Tacitus",
+    "Jonah Vale"
+   ],
+   "summary": "'Name.' The Halcyon. Two days. Corin will lie awake. A lamp over two boys.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 8,
+ "scene_type": "action",
+ "pacing": "fast",
+ "emotional_tone": "aching",
+ "opening_hook": "The man in the road was Bram.",
+ "closing_hook": "A lamp came round the corner of the sheds, and stopped over two boys in the rock, and stayed.",
+ "word_count": 3706,
+ "notes": "Fight 15 of the book: two auxiliaries by the Sertorian Form; Corin sees it. Lock does nothing to Tacitus, per the system bible. Grade held at 42; progression is Tacitus's second use of 'Name' and the Halcyon. New minor characters Bram (existing friend from ch.2-5, now added to DB) and Dace (dead). Mara's boy is three; she wears Corin's iron ring and the hull ring. Slow burn: no approach, per outline."
+}

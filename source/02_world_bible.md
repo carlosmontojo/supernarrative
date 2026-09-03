@@ -28,7 +28,7 @@ Years are counted from the Principate. Before that, "of the Crossing".
 | 388 | The derelict. Chapter 1. | |
 | 390 | The Tessera rising. Collars of Tessera seize the ring-yards for eleven days. Crushed by auxiliaries. | Corin Aldane earns his stripe by opening the yard doors from the inside. Book 3. |
 | 393 | War with the Confederacy begins on the far Limes. | The reason the Pit's quota keeps rising. The reason Anvil is on a war economy in chapter 35. |
-| 395 | Jonah returns. Chapter 35. | |
+| 394 | Jonah returns, summer. Chapter 35. | |
 
 ---
 
