@@ -1,0 +1,300 @@
+{
+ "title": "A Voice in the Rock",
+ "summary": "Jonah walks back up to the Shallows on the sixth day and Corr stops saying a month. Tullus's rule: the returned pay six days of quota with thirty nights on the haul, carrying buckets down the Deep road past the Cradle to the steel door. On the fourth night the rock taps LATE. Lessons by tap: do not push the genius down, say the names every night and it will come to expect them; the fever is growth not sickness, count breaths in the old tongue; plate on the back of one hand thirty times in the dark, drill, the only way up where nobody dies. The rock is a man, tired some nights, funny always, punching upward. It heard every name Jonah said in the Cradle, including Vibius. On the twenty-ninth night: 'Why me.' 'Because you turned around. You said mine.' Find a reason to pass the door again. Learn to count men, not breaths. As he goes, the rock taps a name, three words in the old tongue, once. Grade 15.",
+ "story_date": "389, days 25 to 55 in the Pit; the haul",
+ "events": [
+  {
+   "type": "movement",
+   "description": "Jonah returns to the Shallows walking; the road looks at him as a ghost; Corr does not say a month; Bricks: 'It doesn't turn around.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Corr",
+    "Bricks",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 25"
+  },
+  {
+   "type": "movement",
+   "description": "Decimus reads the punishment: thirty nights on the haul, buckets down the Deep road past the Cradle to a steel door with no handle and an unlit lamp. 'Don't.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Decimus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 25"
+  },
+  {
+   "type": "encounter",
+   "description": "Fourth night at the rock: LATE. 'Who are you?' THE ROCK. Jonah laughs out loud on the Deep road.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 4 of the haul"
+  },
+  {
+   "type": "discovery",
+   "description": "Lessons by tap: say the names every night instead of pushing; things that expect do not wander. The fever is growth from the body used hard; count breaths in Latin. Plate on the back of one hand thirty times: drill. Hands in the bucket to hide the plate's colour; turn to the wall.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "nights 5 to 21"
+  },
+  {
+   "type": "transformation",
+   "description": "The genius grows on the work of the haul; settling fever without feeding. Drill on the back of the hand: the lock goes over. Grade 15.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "nights 9 and 21"
+  },
+  {
+   "type": "revelation",
+   "description": "The rock heard every name in the Cradle, the prayer to Mars, and Vibius. 'Why me.' 'Because you turned around. You said mine.' Tomorrow the haul ends: find a reason to pass the door. Learn to count men. 'The rest is only blades.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 29"
+  },
+  {
+   "type": "revelation",
+   "description": "As he goes, the rock taps a name: three words in the old tongue, once. Jonah does not tap it back and keeps it at the top of the list.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "night 29"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius does not wander when the names are said every night; it comes to expect them.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:the rock"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The fever is growth: the genius learns from the body used hard, and from drill; three ways up and only drill kills nobody.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:the rock"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The thing behind the steel door is a man, old, tired some nights, funny, who has listened to Ferrum men through the wall for twenty years and has been visited monthly by Tullus's men.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The man in the rock heard every name Jonah said in the Cradle, including Livia and Priscus and Vibius, and says Jonah 'said mine'.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:the rock"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The man in the rock's name is three words in the old tongue, tapped once.",
+   "new_knowledge_level": "partial",
+   "how_learned": "told_by:the rock"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "He can count to a hundred in Latin.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:the rock"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "4471's birth name is Jonah, chosen by his mother, a sailor's word for bad luck; his father is Tom Vale; he was a pilot in Morrow's yard on Anvil.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "The man in the Pit calling himself 4471 is Jonah Vale.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "4471's genius comes out on his hands and face at night and grows on the work of the haul.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The fever is growth: the genius learns from the body used hard, and from drill; three ways up and only drill kills nobody.",
+   "new_knowledge_level": "partial"
+  },
+  {
+   "fact": "The man in the rock heard every name Jonah said in the Cradle, including Livia and Priscus and Vibius, and says Jonah 'said mine'.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Censor is alive in the Chamber and Tullus uses his numbers to keep the deep galleries stable.",
+   "new_knowledge_level": "partial"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "escalate",
+   "description": "The rock is a man: LATE, THE ROCK, OLD. Visitors monthly. He tapped to dying men for twenty years and none heard. He says Jonah said his name: Vibius."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "plant",
+   "description": "'Learn to count men. The rest is only blades.' Drill named as one of three ways up."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "Stronger after resting. Plate in his sleep over his mouth. Learns to settle for the names. Does the hand drill before he finishes asking."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "Do not push it, ask it. It eats the work quietly like bread. Things that expect do not wander."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Fourteen names every night; add one when you have one. The rock's own name added at the top, unsaid."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "reinforce",
+   "description": "'You'll want to eat first. It's a long way down.' The rock counts him among Jonah's assets: a guard who brings bandages down the Throat."
+  },
+  {
+   "thread_name": "Auger's law",
+   "beat_type": "reinforce",
+   "description": "Bricks with a splinted wrist; the road treats the one who turned around as a ghost. A foreman who owes him."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The rock: 'You said mine.' 'I didn't say your name.' 'You said Vibius.'",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Deliberate misdirection that is also true: the Censor's name is not Vibius, but Vibius is the name the seed was meant for, and the Censor's own seal-chain runs through Vibius the elder. Ch.12 clarifies: he is Aulus Terentius Pharus and Vibius was his friend and his fool.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "'The other two' ways up: the rock does not answer when the lamp comes.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Strain and spolia, named in ch.15 with readings.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "The rock's code gets better than Bram's, with a rhythm Bram never had: a duellist's timing in his taps.",
+   "type": "behavioral",
+   "subtlety": 8,
+   "mechanism": "The Censor was the best fang of his generation; ch.13 he beats Jonah with a stick.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "A name of three words in the old tongue, tapped once, not tapped back, kept at the top.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Aulus Terentius Pharus. Ch.12 he says it aloud. Ch.22 Jonah writes it in the book.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "Hands in the bucket: the Vein's shards hide the plate's colour from a lamp for a breath.",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "The trick that saves him in ch.14 when the gallery comes down and in ch.19 in the riot.",
+   "related_thread": "The Forms"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Corr",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Bricks",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Grade 15. Laughing on the Deep road for the first time. Carrying a three-word name at the top of the list. Needs a reason to pass the door."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Said his name to someone after twenty years."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Stronger. Settles for the names. Does the hand drill before being asked."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Jonah Vale",
+    "Corr",
+    "Bricks",
+    "Ulli",
+    "Decimus"
+   ],
+   "summary": "Back on the road as a ghost; the punishment detail read.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "Thirty nights on the haul: LATE; the names; the fever counted in Latin; the hand drill; the jokes; why me; count men; the three-word name.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 5,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "hopeful",
+ "opening_hook": "Corr stopped saying a month.",
+ "closing_hook": "The rock taps a name, three words in the old tongue, once, and Jonah keeps it at the top.",
+ "word_count": 3524,
+ "notes": "Grade 15. The Censor has not yet said his name aloud; Jonah has it in taps. Jonah learned Latin numerals. Next: find a reason to pass the door (Bricks owes him; Decimus)."
+}
