@@ -1,0 +1,338 @@
+{
+ "title": "Interlude. The Register",
+ "summary": "Priscus's eyes, in the City, nineteen days after a courier packet from the Belt put a prefect's report and a Flamen's letter on his desk. Livia comes to the study without knocking, her own grey book under her arm, and asks him to write to their father declining the Claudian match with Drusus; she did not choose him; put it in the subjunctive. Then she unties the cord. She was at Tessera in the spring and read the one who read void: Pollio frowned, the Master said void, she said unstable in front of the prefect; a cut one with a white line where a citizen's line had been, and she knew him the way you know a hand across a room. She asked the guard at the cage his intake name: Vale, my lady, citizen for a week, off Anvil. 'Throat, 4471, reading unstable,' in her own book, not the College's, and she knows why. She asks why the boy she was told through a cell slot had gone home was on a road with a number. Priscus has decided what he will not say, which is everything, and says the other thing in the voice for the law: he signed the release himself; the boy left Anvil; some other magistrate's hand. His heart does nothing; eighteen years of Aequitas and Pulse taught him to decide a thing is true and then say it. She has no Pulse, only twenty-five years of his face, and reads him anyway: 'That was very good. You believed it while you said it.' She has found the register in the third crate: Vale, Jonah. Died in the Throat, 389. Dead twice, on a paper in his study and on a road, and he told her he went home. He says nothing. She asked once; she learned that from him. 'I don't know what you did. I know it was you, and for the house. I'll find out. And when I know I'll come and tell you, and I'll watch you decide.' Write to Father tonight. The next morning the Frumentarius Cominius sits in the clients' chair unannounced with two papers: the Vigilant's report of six years ago, read twice because the barge destroyed with all hands came into Anvil's lower docks three days later with a purser who wrote a letter and a pilot who was invested, arrested, and sent to Tessera under Priscus's hand with a number; and the prefect's report, read once. His office has found three void readings in a hundred years and cut all three. 'I don't want to know what you did. It's on your desk. What did his heart do?' Priscus, unprepared for a man who has already decided what is true, answers: nothing; the boy told the truth about a thing he did not understand; he sent him to the Belt for what he carried, not what he was, wrote him dead so nobody would look for it, and burned the thing himself. Cominius will open the file: Priscus's name on the first page for his hand, his father's on the second for his seal, the boy's on the third because he is the one Cominius will find; and he would like to talk to the sister, not today. Priscus sits with the third crate open and the line he wrote in a clerk's hand five years ago, his heart doing nothing, and writes to his father about the Claudian, in the subjunctive.",
+ "story_date": "394, summer, the City; nineteen days after the Belt courier",
+ "events": [
+  {
+   "type": "dialogue",
+   "description": "Livia asks Priscus to write to their father declining the Claudian match with Drusus Claudius: she did not choose him; the Vibian house wants to stand nearer the Wall; put it in the subjunctive. He agrees to write tonight.",
+   "affected_characters": [
+    "Livia Vibia",
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "evening"
+  },
+  {
+   "type": "revelation",
+   "description": "Livia tells Priscus she read the void one at Tessera three times, knew him like a hand across a room, asked the cage guard his intake name (Vale, citizen for a week, off Anvil), and wrote 'Throat, 4471, reading unstable' in her own book and not the College's, and knows why. She asks why the boy he said went home was on a road with a number.",
+   "affected_characters": [
+    "Livia Vibia",
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [
+    "Livia's notebook"
+   ],
+   "story_timestamp": "evening"
+  },
+  {
+   "type": "confrontation",
+   "description": "Priscus lies with Pulse-proof calm: he signed the release, the boy left Anvil, some other magistrate's hand. Livia, with no Pulse and twenty-five years of his face, reads him anyway: 'That was very good. You believed it while you said it.' She has found the register copy in the third crate: Vale, Jonah. Died in the Throat, 389. Dead twice. He says nothing. She asked once. She will find out and come and tell him and watch him decide.",
+   "affected_characters": [
+    "Livia Vibia",
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [
+    "Pit register"
+   ],
+   "story_timestamp": "evening"
+  },
+  {
+   "type": "revelation",
+   "description": "The Frumentarius Cominius, unannounced, with the Vigilant's report read twice and the prefect's report read once: a barge destroyed with all hands that docked at Anvil three days later; a pilot invested, arrested, sent to Tessera under Priscus's hand with a number and a register that says he died on arrival; a void reading three times, a word his office has for a thing found three times in a hundred years and cut. 'What did his heart do?'",
+   "affected_characters": [
+    "Cominius",
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [
+    "The false manifest",
+    "Pit register"
+   ],
+   "story_timestamp": "next morning"
+  },
+  {
+   "type": "decision",
+   "description": "Priscus, unprepared for a man who has already decided what is true, tells him: the boy's heart did nothing; he told the truth about a thing he did not understand; Priscus sent him to the Belt for what he carried, wrote him dead so nobody would look for it, and burned the thing himself. Cominius will open the file: Priscus first page, his father second for the seal, the boy third, the one he will find. He wants to talk to Livia, not today.",
+   "affected_characters": [
+    "Marcus Vibius Priscus",
+    "Cominius",
+    "Livia Vibia"
+   ],
+   "affected_objects": [
+    "The seal"
+   ],
+   "story_timestamp": "next morning"
+  },
+  {
+   "type": "reflection",
+   "description": "Priscus sits with the third crate open and the line he wrote in a clerk's hand five years ago, his heart doing nothing, and writes to his father about the Claudian, in the subjunctive.",
+   "affected_characters": [
+    "Marcus Vibius Priscus"
+   ],
+   "affected_objects": [
+    "Pit register"
+   ],
+   "story_timestamp": "next morning"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The Pit register copy in Priscus's third crate says Vale, Jonah, died in the Throat, 389, and Priscus lied to her through the cell slot; he did it for the house; she does not know what he did.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "Priscus told Livia the boy from Anvil was released and went home.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced",
+   "note": "Corrects her wrong belief: she now knows it was a lie."
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "A prefect's report says a Collar with 4471's number went into the wall this spring after killing a Centurion with his hands.",
+   "new_knowledge_level": "believes",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "Livia read 4471 at Tessera, learned his intake name from the guard, wrote him unstable in her own book, has found the register in his crate, and knows he lied; she will find out what he did.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Livia Vibia"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "Tullus's report and Pollio's letter: a struck Master alive twenty-three years, Sabinus dead by a Collar's hands, 4471 in a sealed cask with a mark that would not close, a shackle told no, gone into the wall on a foreman's word.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "The Frumentarii are opening a file on the boy from the derelict with Priscus's name first, his father's second, and Jonah's third; Cominius has read the Vigilant's report twice and knows the barge docked at Anvil.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Cominius"
+  },
+  {
+   "character_name": "Cominius",
+   "fact": "Priscus read Jonah's heart doing nothing in the cell, sent him to the Belt for what he carried, wrote him dead in the register so nobody would look, and burned the seal himself; the seal was addressed to Vibius the elder.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Marcus Vibius Priscus"
+  },
+  {
+   "character_name": "Cominius",
+   "fact": "The thing that reads void came up out of the Pit this spring, killed a Centurion of the Princeps' house, and went into a wall on a foreman's word he does not believe; Livia read it unstable.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "Livia refuses the Claudian match with Drusus; Priscus will write to their father declining it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Livia Vibia"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The register copy in Priscus's study saying Jonah died in the Throat in 389 was written by Priscus himself in a clerk's hand to close the file.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Livia knows Priscus lied to her about Jonah and has resolved to find out what he did; she has refused the Claudian match.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The Frumentarius Cominius has connected the Vigilant's report, the Anvil docking, Priscus's release and register, and the Tessera reports; he has opened the file with Priscus, Vibius, and Jonah on it, and does not believe Jonah went into the wall.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Tullus reported that 4471 went into the wall, on Harrow's word; the story held on Tessera.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Livia",
+   "beat_type": "escalate",
+   "description": "The fifth touch: the register. She knew him like a hand across a room, wrote him in her own book, refuses the Claudian, and reads her brother's Pulse-proof lie with twenty-five years of his face. She will find out. No declaration; a promise to watch him decide."
+  },
+  {
+   "thread_name": "Priscus's law",
+   "beat_type": "escalate",
+   "description": "He decides what he will not say, which is everything, and says the other thing with his heart flat; then a man who has already decided what is true gets the confession the sister did not. He wrote the boy dead in a clerk's hand because it was the cleanest way."
+  },
+  {
+   "thread_name": "The Frumentarii",
+   "beat_type": "escalate",
+   "description": "Cominius opens the file: the Vigilant's report read twice, the Anvil docking, the release and the register, the Tessera reports, a void reading three times. First page Priscus, second Vibius, third the boy he will find. He wants Livia."
+  },
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "escalate",
+   "description": "Priscus admits to a Frumentarius that he burned the seal addressed to his father; the Gracchan father's seal is on the second page of the file."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "The fourth name, seen from inside: a just man who bent the law exactly once, being read by his sister and a clerk with a grain-sack on his shoulder."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "reinforce",
+   "description": "The story held: Tullus's report says 4471 went into the wall on Harrow's word; only the Frumentarius does not believe it."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The Frumentarii's file: Priscus first page, Vibius second, the boy third; Cominius will find him.",
+   "type": "verbal",
+   "subtlety": 3,
+   "mechanism": "Ch.40: Nasso sells the reading to a Frumentarius; someone in the City knows. Book 2: Cominius at a dinner.",
+   "related_thread": "The Frumentarii"
+  },
+  {
+   "description": "Cominius wants to talk to Livia about the unstable reading, not today.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Book 2: Livia is asked to read Sertorius at a dinner and says what she sees, or does not.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Livia refuses the Claudian match; Priscus writes to their father in the subjunctive.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Book 2: the father wins; she is engaged to Drusus anyway. Book 3 she breaks it and tells nobody why.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Livia will find out what her brother did and come and tell him and watch him decide.",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Book 4: she tells him, with the truth of the seed from the archive, and watches.",
+   "related_thread": "Priscus's law"
+  },
+  {
+   "description": "Priscus says a great many things because Livia said them first: 'he won'.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Book 4: what she says first before the duel decides what the law hears.",
+   "related_thread": "Priscus's law"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Priscus: 'The purser will be seen to",
+   "status": "reinforced"
+  },
+  {
+   "match": "The sergeant recognizes the mark in the wax",
+   "status": "reinforced"
+  },
+  {
+   "match": "'Is it in your possession?' 'No.' reads true on Pulse",
+   "status": "resolved"
+  },
+  {
+   "match": "Priscus's word was true when he said it",
+   "status": "resolved"
+  },
+  {
+   "match": "Livia says something to her brother after looking at the line",
+   "status": "resolved"
+  },
+  {
+   "match": "Decimus wrote 4471 into the wall",
+   "status": "reinforced"
+  },
+  {
+   "match": "Pollio's letter to the College",
+   "status": "resolved"
+  },
+  {
+   "match": "Harrow's story: 4471 walked into the Cradle",
+   "status": "resolved"
+  },
+  {
+   "match": "Sabinus stopped mid-road at the name",
+   "status": "reinforced"
+  }
+ ],
+ "new_characters_note": "Cominius, of the Frumentarii: small, plain tunic, grain-sack on the shoulder, a clerk's smile; has read the Vigilant's report twice.",
+ "object_updates": [
+  {
+   "name": "Pit register",
+   "holder": "Marcus Vibius Priscus",
+   "location": "The City"
+  },
+  {
+   "name": "Livia's notebook",
+   "holder": "Livia Vibia",
+   "location": "The City"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "location": "The City"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "location": "The City"
+  },
+  {
+   "character_name": "Cominius",
+   "location": "The City"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "emotional_state": "Lied to his sister with his heart flat and told a clerk the truth. His name is on the first page. Wrote to his father in the subjunctive."
+  },
+  {
+   "character_name": "Livia Vibia",
+   "emotional_state": "Refused the Claudian. Knows her brother lied and not about what. Will find out and watch him decide."
+  },
+  {
+   "character_name": "Cominius",
+   "emotional_state": "Has never once had a thing go into a wall that he would have liked to see go into one. Opening the file."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The City",
+   "characters": [
+    "Livia Vibia",
+    "Marcus Vibius Priscus"
+   ],
+   "summary": "The study: decline the Claudian; the grey book; Tessera; the guard's answer; the question.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The City",
+   "characters": [
+    "Marcus Vibius Priscus",
+    "Livia Vibia"
+   ],
+   "summary": "The Pulse-proof lie; read anyway; the register in the third crate; dead twice; she asked once; she will find out.",
+   "purpose": "confrontation"
+  },
+  {
+   "location": "The City",
+   "characters": [
+    "Cominius",
+    "Marcus Vibius Priscus"
+   ],
+   "summary": "The Frumentarius with two papers; what did his heart do; the confession; the file with three names; the letter in the subjunctive.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "confrontation",
+ "pacing": "medium",
+ "emotional_tone": "cold",
+ "opening_hook": "Priscus had known for nineteen days that his sister was going to ask him, and had prepared by deciding what he would not say.",
+ "closing_hook": "Then he wrote to his father about the Claudian. He put it in the subjunctive.",
+ "word_count": 2484,
+ "notes": "Second interlude, Priscus's POV, third-person past. 2,484 words, trimmed twice toward the 2,000 rule. Livia's fifth Book 1 touch (the register). The register copy's 389 line is Priscus's own falsification in a clerk's hand; Decimus's 394 register line on Tessera is a separate document. New character Cominius (Frumentarius) needs a DB row. Drusus Claudius named. Timeline: the courier packet reached the City about two months after the harvest, while Jonah is still on the Heron approaching Anvil."
+}
