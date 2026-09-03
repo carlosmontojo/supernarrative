@@ -156,12 +156,13 @@ disagree, Book 6 decides who was right.
   the book, House Sertorius, the columbarium keys, the gift Quiet.
 
 ### Livia Vibia (the slow burn)
-Priscus's daughter. Eleven in chapter 3, when she says "He won" and stops a flogging.
-Eighteen in chapter 34. Flamen-scholar track, the best fang in her house, has never
-killed. The romance of the series and it does not happen: Book 2 she reads Sertorius
-at her father's table and is curious instead of afraid; Book 3 friendship; Book 4 he
-destroys her father and she learns who he is the same week; Book 5 enemies who cannot
-stop talking; Book 6 whatever is left. Full sheet in 03_characters.md.
+Priscus's younger sister, daughter of Vibius the elder, the senator the seal was
+addressed to. Nineteen in chapter 3, same age as Jonah. Centurion 40 on a cadet's
+cutting, the best fang in her house, has never killed. Flamen-scholar track. The
+romance of the series, present in every book, an "almost" in every book, and it does
+not happen until Book 6. Five touches in Book 1: the sharpening (ch. 3), the
+investiture (ch. 5), the bars (ch. 6), the inspection (ch. 25), the interlude (ch. 34).
+Full map in 04_romance.md, sheet in 03_characters.md.
 
 ### The four
 1. Silas Marchand (the Danglars). Blank purser of the Kestrel. Saw the plate through
@@ -282,24 +283,31 @@ chapter 5 hidden under a Blank's mark, unstripped and faking it by chapter 8.
    and his name goes on the rolls. A Thinstripe cadet calls Jonah to sharpen: steel
    knives, unplated, for sport, in front of the crowd. Jonah cannot refuse. He wins in
    nine seconds with Varro's hands and does not understand how. The cadet's instructor
-   orders him flogged for winning. A girl of eleven with a broad stripe, standing beside
-   the quaestor, says "He won" before anyone else does. Priscus echoes her: "The boy
-   won. Flog the instructor." Jonah does not learn her name. He remembers her face.
-   Morrow announces the petition: manumission, captaincy, investiture next week. Mara,
-   and a hull ring cut from the first ship he ever broke. Hook: strain, grade 9, and the
-   echo in his hands is pleased.
+   orders him flogged for winning. A young woman with a broad stripe, bored beside the
+   quaestor, says "He won" before anyone else does. Priscus echoes his sister: "The boy
+   won. Flog the instructor." After, Livia finds Jonah at the yard edge and asks how he
+   did it, because she is a duellist and it did not look like anything she knows. He is
+   rude to her. She laughs. Then Mara arrives with a hull ring cut from the first ship
+   he ever broke, and Jonah gets engaged in front of her, and Livia watches that too.
+   Morrow announces the petition: manumission, captaincy, investiture next week. Hook:
+   strain, grade 9, and the echo in his hands is pleased.
 4. Interlude: Three Men and a Letter (2,000). Marchand saw the plate. Corin saw the
    fight and saw Mara watching it. Gaspar drinks. The letter gets written.
 5. Investiture (4,600) (⚔ at the end). The Flamen's scan: Tacitus plays dead on
    instinct, Hush turned inward for the first time. The cutting goes in. Tacitus eats it
    with nothing showing and wears its face. Reading: "Grade 1. Standard cutting. Fused at
-   9." A thin black line on his arm. Miles 10, hidden. Tom weeps. Engagement dinner. The
+   9." A thin black line on his arm. Miles 10, hidden. Livia, in her brother's
+   household, sees the plate go the wrong colour for half a second and files it. Tom
+   weeps. Engagement dinner. The
    vigiles. Lock: nothing happens, and only Jonah knows why. Fangs at Tom's throat. He
    kneels and pretends to be locked, and the pretending is the hardest thing he has done.
 6. Imperium (4,200). Priscus with Pulse: Jonah cannot lie to him, and knows it within a
    minute. Marchand's letter: unregistered genius, Republican seal. A Flamen reads him
    again: "Grade 1." Priscus: "Collars see monsters in every barge." Then the seal's
-   addressee: his father. Face changes. Burns it. Promises freedom. Leaves.
+   addressee: his father. Face changes. Burns it. Promises freedom. Leaves. After, the
+   bars: Livia comes to the cell with water. Her brother has promised her the boy will
+   be released. Jonah believes it because she does. She asks his name. He gives it. She
+   is the only Stripe who has ever asked.
 7. Ad Metalla (4,000) (⚔). The transport hold. No trial. Rations by challenge: a Blank
    convict with a grade 5 kills a Collar for his water. Jonah takes the knife off him
    and kills him unplated, with Varro's hands, and hates how easy it is. Grade 11. The
@@ -334,8 +342,9 @@ standing in it. The problem is never how to grow. It is how to grow without bein
 13. Chisel (4,200) (⚔). First blade lesson. The Censor with a stick beats him thirty
     times in an hour. "You fight like a man with a fang. Fight like a man with a hand."
     The Forms named: Vibian, Claudian, Fulvian, Aemilian. The echo of Varro stripped
-    out of his hands, one bruise at a time. Grade 16. Hook: news of Tom's death, two
-    months late.
+    out of his hands, one bruise at a time. Grade 16. He thinks of Mara every night and
+    once, resenting it, of the woman at the bars, because she was the last person who
+    used his name. Hook: news of Tom's death, two months late.
 14. Quota (4,400) (⚔). The quota goes up. A guard, Tiro 8, about to fang a decury-mate
     for slowness. Jonah kills him in the dark with a chisel through the hip seam and
     Devours the lorica: first spolia in the Pit. Grade 18. Body into the Vein. Tullus
@@ -376,8 +385,11 @@ standing in it. The problem is never how to grow. It is how to grow without bein
 
 ### PART III — THE TRIMMER (ch. 25–34, about 38,000 words)
 
-25. Inspection (4,000). Hush for six hours at 31. A young Flamen frowns and writes it
-    down.
+25. Inspection (4,400). Hush for six hours at 31. A young Flamen frowns and writes it
+    down. Then the scholar-novice behind him reads the shaved, scarred convict 4471 a
+    second time, and it is Livia, twenty-five, and the lines flicker, and she looks at
+    him for a long moment and writes in her own notebook, not the College's, and walks
+    on. He does not sleep for two days. Tacitus feels his heart and does not understand.
 26. Plan (3,800). Casks. The forged manifest. Grade 32.
 27. What You Ask of a Friend (3,400). Ulli stays.
 28. Auger (3,800). Auger finds out. Demands in. Has a daughter.
@@ -397,10 +409,12 @@ standing in it. The problem is never how to grow. It is how to grow without bein
     wreck and wins ugly. Devours half a crewman's lorica and feels the cutting beg.
     Stops. Seal, wrong-shaped. First echo since Varro. Grade 42.
 33. Smugglers (4,000). Yara. Nobody dies. The Censor's rhetoric pays. Price named.
-34. Interlude: Priscus (2,000). The City. The praetorship. His father. His daughter
-    Livia, eighteen, refusing the marriage he arranged and holding her fang wrong on
-    purpose so he will correct her grip and touch her arm. The Vigilant's old report of
-    a decurion lost in the rings, and a Frumentarius who has read it twice.
+34. Interlude: Priscus (2,000). The City. The praetorship. His father. His sister
+    Livia refusing the Claudian match, and asking him why he told her the boy from
+    Anvil went home when a Pit register in his study says "Vale, Jonah. Died in the
+    Throat, 389." He lies with Pulse-proof calm. She reads him anyway. The Vigilant's
+    old report of a decurion lost in the rings, and a Frumentarius who has read it
+    twice.
 
 ### PART IV — THE NAME (ch. 35–40, about 22,000 words)
 
@@ -429,22 +443,27 @@ Sabinus, the auxiliaries), two set pieces of five thousand words or more.
 
 1. Damnatio. Bond, fall, Pit, Forms, the Trimmer, name.
 2. Purple. The columbarium heist. Quiet. The Ludi from the bottom step: the only ladder
-   that goes up, climbed with a stolen face. The Frumentarii. Marchand falls.
-3. Auxilia. Corin. The daughter of the rising he betrayed. Mara recognizes him. The
-   Republicans court Sertorius. Corin falls on a duelling floor.
-4. Praetor. Priscus. Verdict against the Sertorian Form. An innocent dies: Livia's
-   little brother. Livia learns who Sertorius is. Integrity breaks. Tacitus disagrees
-   out loud.
-5. Limes. War with the Confederacy. Voice can unfuse. The Princeps offers a deal.
-6. Devotio. Sinking the Empire from within. The book of names. Tacitus.
+   that goes up, climbed with a stolen face. Livia engaged to a Claudian; Jonah courting
+   a banker's daughter for the plan. The Frumentarii. Marchand falls.
+3. Auxilia. Corin. Sahra of Tessera under Sertorius's roof. Livia breaks her
+   engagement and teaches him the Vibian Form. Mara recognizes him. The Republicans
+   court Sertorius. Corin falls on a duelling floor.
+4. Praetor. Priscus. Verdict against the Sertorian Form. An innocent dies: Priscus's
+   son, Livia's nephew. Livia learns who Sertorius is the same week, with her fang at
+   his throat. Integrity breaks. Tacitus disagrees out loud.
+5. Limes. War with the Confederacy. Livia is the College's envoy to the other side.
+   Voice can unfuse. Sahra dies holding a door. The Princeps offers a deal, and Livia
+   reads the seal first.
+6. Devotio. Sinking the Empire from within. The book of names. Tacitus. Livia, late,
+   as the one thing he did not take.
 
 ---
 
 ## 7. HOW I WILL KEEP CONTEXT ACROSS 150,000 WORDS
 
-- Four files are the canon: this outline, 01_power_system.md, 02_world_bible.md,
-  03_characters.md. They are re-read before every chapter.
-- Build the SuperNarrative DB from these four files: project, voice
+- Five files are the canon: this outline, 01_power_system.md, 02_world_bible.md,
+  03_characters.md, 04_romance.md. They are re-read before every chapter.
+- Build the SuperNarrative DB from these five files: project, voice
   rules, style references, 40 planned chapters, character sheets with grades and gifts,
   story facts and the epistemic matrix (who knows about the seed, the seal, the Censor,
   Varro's death, Jonah's genius), threads with dependencies, planted clues.

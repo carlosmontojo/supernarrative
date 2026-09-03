@@ -54,7 +54,7 @@ going to lie to think in it. You cannot lie to a man in a language you only spea
 
 - Every bearer's genius is a household god. Roman families had lares; the Empire has
   loricae. A Broadstripe house's ancestral genius has a name, a shrine, and a feast day.
-  The Vibian genius is called Aequitas. Livia Vibia talks to it as a child.
+  The Vibian genius is called Aequitas. Livia Vibia talked to it as a child, and does not get to wear it: she is the second child, and second children get cuttings.
 - A bearer who dies has the lorica cut from him at the pyre and passed to the heir. "The
   god stays, the man goes." The heir wears it within the hour or the genius sulks.
 - A Collar who dies has the collar cut off and melted. There is no god to pass on. The
@@ -169,7 +169,8 @@ going to lie to think in it. You cannot lie to a man in a language you only spea
   grade is seated last and read by the host's Pulse before the second course. Sertorius
   will be read at every dinner in Book 2.
 - Women hold stripes, loricae, seats and fangs. The Law of Spoils has no sex. Livia
-  Vibia is a better fang than her father by twenty-two.
+  Vibia is a better fang than her brother, on a cutting, and everyone in the house
+  knows it and nobody says it.
 
 ---
 

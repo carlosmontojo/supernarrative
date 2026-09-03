@@ -59,7 +59,8 @@ cross, until they do), Arc in Book 1 and beyond.
 ## MARCUS VIBIUS PRISCUS
 - Want: the praetorship, then the consulship, then to be remembered as the magistrate
   who never bent the law. He has bent it exactly once.
-- Need: to be seen by his daughter as the man he tells himself he is.
+- Need: to be seen by his sister as the man he tells himself he is. She is thirteen
+  years younger and he raised her more than their father did.
 - Wound: at twenty he inherited Aequitas and duelled his cousin for it the same week,
   because the Law of Spoils demanded it. He killed a boy he had grown up with. He has
   believed in the law with a convert's fury ever since, because if the law is not holy
@@ -73,43 +74,42 @@ cross, until they do), Arc in Book 1 and beyond.
   Holds Pulse, so he never needs to ask twice.
 - Never: he will not lie in a court. He has never had to. He arranges the world so the
   court never hears the question.
-- Book 1: the ceiling. Book 4: the fall, and an innocent with it.
+- Family: wife Aemilia, a political match; son Marcus, one year old in chapter 3,
+  eight in Book 4. Sister Livia, whom he lied to once, in chapter 6, and has been
+  lying to since.
+- Book 1: the ceiling. Book 4: the fall, and his son with it.
 
 ## LIVIA VIBIA (the slow burn)
-- Eleven in chapter 3. Eighteen in chapter 34. Nineteen in Book 2. Jonah is 26 and 27.
-- Want: to know what the Matter is. She is on the Flamen scholar track, which
-  Broadstripe daughters take when they refuse a marriage and their fathers are too proud
-  to force it. She wants the reading room, the archive, the old records nobody opens.
-  That road ends at the Censor's truth, and she does not know it yet.
-- Need: to be wrong about her father, or right about him, and to survive either.
-- Wound: chapter 3. She watched a Collar win a sharpening bout in nine seconds and heard
-  an instructor order him flogged for it, and she said "He won" before her father did.
-  Her father echoed her. She learned that day that the law is what her father decides
-  to hear. She has been testing that ever since.
-- Secret: she has read her father with his own Pulse, once, at fifteen, and he lied to
-  her. About what, she does not know. She has not told anyone. She will find out in
-  Book 4 and it will be about a seal.
-- Contradiction: the best fang in House Vibia and the one member of it who thinks the
-  Law of Spoils is barbaric. She has never declined a challenge. She has never killed.
-  She wins and stops. Nobody knows what to do with that.
-- Voice: precise like her father, then a joke, which her father never makes. Asks
-  questions she does not know the answer to, which nobody in her caste does.
-- Never: she will not spoil. Book 5 tests it.
-- Book 1: two scenes, chapter 3 (the girl who says "He won") and chapter 34 (the
-  interlude, eighteen, refusing a marriage, holding her fang wrong on purpose so her
-  father will correct her and touch her arm). Jonah does not think about her in Book 1
-  except once, chapter 39, when he lists what Priscus has and Yara asks "So?" and he
-  says "So nothing" and Tacitus notices.
-- The burn: Book 2, she reads Sertorius at her father's table and the reading does not
-  add up and she is curious instead of afraid. She is the only person in the City who
-  talks to him as a person. Book 3, friendship; she teaches him the Vibian Form for
-  sport and he lets her win, and she knows, and does not say. Book 4, he destroys her
-  father and her little brother dies in the machinery of it, and she finds out who he is
-  the same week. Book 5, enemies who cannot stop talking. Book 6, whatever is left.
-- Why it cannot happen: he is going to destroy her father. She could read him. She is
-  a Broadstripe and he is a Collar in a stolen face. And the honest reason, the one
-  Tacitus says out loud in Book 4: he does not think he is allowed anything he has not
-  taken, and he will not take her.
+- Nineteen in chapter 3, Jonah's age. Twenty-five in chapter 25. Priscus's younger
+  sister by thirteen years, daughter of Vibius the elder, the senator the seal was
+  addressed to. Second child, so a cutting, not the house lorica: Centurion 40 as a
+  Broadstripe cadet, Tribune by Book 2. The best fang in House Vibia and the only
+  member of it who thinks the Law of Spoils is barbaric. Has never declined a
+  challenge. Has never killed. Wins and stops.
+- Want: to know what the Matter is. Flamen-scholar track, which Broadstripe daughters
+  take when they refuse a marriage and their fathers are too proud to force it. The
+  reading room, the archive, the records nobody opens. That road ends at the Censor's
+  truth. She reaches it in Book 4.
+- Need: to be right about her brother, or wrong about him, and survive either.
+- Wound: chapter 3. She said "He won" and her brother repeated it, and she learned that
+  the law is what her brother decides to hear. Chapter 6: she promised a boy through
+  bars that her brother would release him, because her brother had promised her. He
+  did not. She did not find out for seven years. When she does, in chapter 34, she
+  reads her brother and he lies to her face.
+- Secret: "Throat, 4471, reading unstable." Her own note, from the inspection, in her
+  own book, not the College's. She did not report it. She does not know why. She
+  knows why.
+- Contradiction: a Broadstripe who asks questions. A duellist who will not spoil. A
+  Flamen who is starting not to believe the Flamens.
+- Voice: precise like her brother, then a joke, which he never makes. Asks questions
+  she does not know the answer to.
+- Never: she will not spoil. She will not lie to Jonah. She is the only person in six
+  books who never does.
+- Book 1: five touches. The yard edge (3), the wrong colour (5), the bars (6), the
+  Throat (25), the register (34). Full map in 04_romance.md.
+- The burn: engaged to a Claudian in Book 2; breaks it in Book 3 and tells nobody why;
+  fang at his throat in Book 4; the other side of a war in Book 5; Book 6, late, the
+  one thing he did not take.
 
 ## TOM VALE
 - Want: for his son to have a stripe. Any stripe.
@@ -271,10 +271,22 @@ cross, until they do), Arc in Book 1 and beyond.
 - Senator, Gracchan treasurer, seventy, Tribune 66 who has not deployed plate in a
   decade. Wants the Senate to hold the Wall. Would not free a Collar to get it. The
   seal was addressed to him. He does not know his son burned it. He finds out in
-  Book 4, from Livia.
+  Book 4, from his daughter. He arranged Livia's Claudian match to buy the Princeps'
+  house; she broke it and cost him the Wall.
 
 ## THE PRINCEPS, TIBERIUS CLAUDIUS SEPTIMUS
 - Seventy-one. Imperator 131. Holds the Wall. Tired in the way that makes men
   dangerous. Knows what the Vein is. Has done the Censor's arithmetic himself. Is
   waiting for someone to bring him a way out that does not end with his house melted.
   Book 2 he meets Sertorius. Book 5 he makes the offer.
+
+## THE RIVALS (see 04_romance.md)
+- Drusus Claudius. The Princeps' grandson. Tribune 70 in Book 2, the best young fang
+  on the Ludi floor, decent, and engaged to Livia by her father. Jonah beats him and
+  does not kill him, twice. Never forgives the first. Is there at the end.
+- Cassia Marchand. The banker's daughter. Clever, bored, not fooled, ruined by the
+  man who courted her. Forgives him in Book 4, which is worse.
+- Sahra of Tessera. Daughter of the leader Corin betrayed. Under Sertorius's roof from
+  Book 3. Loves him openly and says so. Dies in Book 5 holding a door. In the book.
+- Aster of Sable. Confederate envoy, Book 5. No stripe. Asks Livia questions. What
+  Jonah would have been.
