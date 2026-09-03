@@ -14,7 +14,8 @@ upd = json.loads(r.stdout)
 c = sqlite3.connect(db)
 c.execute("UPDATE chapters SET word_count=?, status='draft', file_path=?, title=COALESCE(title,?) WHERE chapter_number=?", (wc, chf, a.get("title"), n))
 if a.get("story_date"): c.execute("UPDATE chapters SET story_date=? WHERE chapter_number=?", (a["story_date"], n))
-for nm, st in a.get("status_changes", {}).items(): c.execute("UPDATE characters SET status=? WHERE name=?", (st, nm))
+sc = a.get("status_changes", {}); sc = {d["character_name"]: d["status"] for d in sc} if isinstance(sc, list) else sc
+for nm, st in sc.items(): c.execute("UPDATE characters SET status=? WHERE name=?", (st, nm))
 for es in a.get("character_emotional_states", []): c.execute("UPDATE characters SET emotional_state=? WHERE name=?", (es["emotional_state"], es["character_name"]))
 for ob in a.get("object_updates", []):
     hid = c.execute("SELECT id FROM characters WHERE name=?", (ob["holder"],)).fetchone() if ob.get("holder") else None

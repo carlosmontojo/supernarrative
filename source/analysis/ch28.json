@@ -1,0 +1,431 @@
+{
+ "title": "Harrow",
+ "summary": "On the sixteenth night Jonah unpacks cask thirty-one alone: eats eleven slabs of the harvest (the top of thirty-two, the settling no longer fights him), carries thirty-one slabs to the far cut, and the gallery has twelve hearts in it. Harrow, who knocks the casks every night since the Flamen came, has found the cask singing hollow and counted his way to the truth. Jonah feels the hunger say 'that one' and refuses it. Harrow does not ask to be out: there is no out for the foreman who packed it. He demands in: he packs thirty-one so it sings right, and he is the one who tells Decimus that 4471 went in the night. His price is less: don't tell him the rest. And a girl, Ada, thirteen, on Marl, the south road past Pell's forty, writing to a number the Throat wrote wrong. Jonah promises a man will go to her and say her father is alive; the thing to say is 'the north forty never made quota'. Harrow packs the cask on the seventeenth as a bearing ring of seventy slabs with a hollow in the middle: the Vein does not reach for its own arm. On the eighteenth night Ullan sits down in the Cradle with Jonah and Pell; Pell and Ullan sing the fallow song; Jonah says the names and asks Tacitus to stand between, and it does, its back to the room, letting none of the count through; Ullan stops on the fourth verse and Pell sings it to the end; the hand on the arm twice in the dark. At the dawn count Decimus reads 2290 and nobody answers; Harrow says the one who carries went in the night. Decimus looks at Jonah for a long time, says 'you look like the wall, boy', asks if he has a thing to say, and writes Ullan with two l's beside the number. 'Forty-four. He carried me.' Decimus tells Harrow that when 4471 goes, let him walk in himself, and makes a mark Jonah cannot read. At the sixth bell Jonah goes into thirty-one feet first; Harrow lids it and knocks it once; in the whole dark Jonah says the names and then says 'Now', and Tacitus closes on his heart.",
+ "story_date": "394, spring, days 16 to 19 of the harvest",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "Jonah unpacks cask thirty-one alone on the sixteenth night and eats eleven slabs of the harvest, slowly; the settling no longer fights him; he is at the top of thirty-two and anything past it is a grade he cannot hide. He carries thirty-one slabs to the far cut.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks",
+    "The false manifest"
+   ],
+   "story_timestamp": "day 16, night"
+  },
+  {
+   "type": "confrontation",
+   "description": "Harrow, who has knocked the casks every night since the Flamen came, finds thirty-one singing hollow, counts his way to the truth (the seventh cask, the freighter question, the slate written light), and comes to the turn with a shuttered lamp. 'Put that away. I don't want to see it.' The hunger says 'that one'; Jonah refuses it: he carries the buckets with his gloves off.",
+   "affected_characters": [
+    "Harrow",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 16, night"
+  },
+  {
+   "type": "revelation",
+   "description": "Harrow does not ask to be out, because there is no out for the foreman who packed it. He demands in: he packs thirty-one so it sings right, and he is the Deep foreman who tells Decimus that 4471 went in the night. His price is less: don't tell him where the eleven went or what was on Jonah's hands. And his daughter Ada, thirteen, on Marl, the south road past Pell's forty, who writes to a number the Throat wrote wrong.",
+   "affected_characters": [
+    "Harrow",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 16, night"
+  },
+  {
+   "type": "decision",
+   "description": "Jonah promises that a month out a man will go to the south road on Marl and tell Ada her father is alive and foreman of the Deep, and the right number, and a thing her father said: 'the north forty never made quota.' Even if he is found on the dock, a man with a knife in him says it anyway.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Harrow"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 16, night"
+  },
+  {
+   "type": "encounter",
+   "description": "On the seventeenth Harrow packs thirty-one as a bearing ring of seventy slabs leaning in, with a hollow the width of a man and a flat course on top, and it sings right when knocked. The Vein never reaches for the casks because they are it: 'like a hand doesn't reach for the arm it's on'. He will not come to the Cradle: that is not his.",
+   "affected_characters": [
+    "Harrow",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 17, night"
+  },
+  {
+   "type": "death",
+   "description": "The eighteenth night: Ullan sits down in the Cradle with his back to the wall, Jonah on one side with the blanket, Pell on the other. Pell and Ullan sing the fallow song; Jonah says the names under it and asks Tacitus to stand between, and it stands in his doorway with its back to the room and lets none of the count through. Ullan's voice goes down into the song on the fourth verse and does not come back; Pell sings it to the end, the last verse to the wall. 'Then I'll not ask what you are again. I've had the answer.' Jonah sits till the fourth bell; the hand on the arm twice; 'I know.'",
+   "affected_characters": [
+    "Ulli",
+    "Jonah Vale",
+    "Pell",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 18, night"
+  },
+  {
+   "type": "encounter",
+   "description": "Dawn count of the nineteenth: Decimus reads 2290 and nobody answers. Harrow says the one who carries went in the night, 4471 sat with him, it was slow. Decimus looks at Jonah for the length of a count and sees a man who is dying, because that is what it is. 'Nine years.' 'He carried forty-three.' 'Forty-four. He carried me.' 'You look like the wall, boy. Have you a thing to say. I'll write it.' 'Ullan. Of Marl. The east fields. Two l's.' Decimus writes the name beside the number in his own hand, small.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Harrow",
+    "Pell"
+   ],
+   "affected_objects": [
+    "Pit register"
+   ],
+   "story_timestamp": "day 19, dawn"
+  },
+  {
+   "type": "revelation",
+   "description": "Harrow tells Jonah that Decimus said, after: when 4471 goes, don't carry him, let him walk in himself, he's earned that; and made a mark Harrow could not read. Jonah understands Decimus has counted it and come out at the same place, and he will never know what the mark was.",
+   "affected_characters": [
+    "Decimus",
+    "Harrow",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "day 19, sixth bell"
+  },
+  {
+   "type": "transformation",
+   "description": "Jonah goes into cask thirty-one feet first; the ring does not reach for him; Harrow lays the last two slabs over the gap, lids it, knocks it once. In the whole dark Jonah says the names and says 'Now', and Tacitus closes on his heart.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Harrow"
+   ],
+   "affected_objects": [
+    "The casks"
+   ],
+   "story_timestamp": "day 19, sixth bell"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Harrow",
+   "fact": "Jonah is going up the Throat in cask thirty-one on the twentieth, sealed, as matter, with the manifest written light in Rennick's hand; Ulli is going into the wall himself on the eighteenth.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Harrow",
+   "fact": "Jonah's hands take plate, and eleven slabs of the harvest went into him.",
+   "new_knowledge_level": "partial",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Harrow has a daughter, Ada, thirteen, on Marl, the south road past Pell's forty, writing to a wrong number; her mother is dead; the thing to say is that the north forty never made quota.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Harrow"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Vein does not reach for the casks because they are it, as a hand does not reach for the arm it is on; a ring of slabs with a man in the middle is not reached for.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Harrow"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Tacitus can stand between: put its back to the room and let none of the wall's count through him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Pell",
+   "fact": "What Jonah feels through the rock when the wall takes a man; he will not ask what Jonah is again.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "Ullan of Marl, the east fields, two l's, went into the wall on the eighteenth; 4471 sat with him.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Harrow"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "4471 is not going into the wall the way the road thinks; he has counted it and come out where Jonah did.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Decimus told Harrow to let 4471 walk into the Cradle himself when he goes, and made a mark Harrow could not read; Decimus knows.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "told_by:Harrow"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Harrow found the plan by knocking the casks; he is in; his price is less, and a message to his daughter Ada on Marl.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Ullan of Marl went into the wall on the eighteenth night with the fallow song; Tacitus stood between and let none of it through.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Decimus wrote Ullan's name with two l's beside the number, and told Harrow to let 4471 walk in himself, and made a mark nobody can read.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah is in cask thirty-one, held as matter, at the sixth bell of the nineteenth.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah is at the top of thirty-two after eating eleven slabs; the settling no longer fights him.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "complicate",
+   "description": "The seventh thing comes looking for him: Harrow knocks the casks. There is no out for the foreman who packed it, so he is in: he packs thirty-one as a bearing ring and he is the witness at the count. Jonah goes into the cask at the sixth bell and says 'Now'."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "escalate",
+   "description": "Eleven slabs of the harvest; the settling stops fighting. The hunger looks at a man with a fast heart at twenty paces and says 'that one', and Jonah says no: he carries the buckets with his gloves off."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "It stands between: back to the room, face to him, and lets none of the wall's count through. The hand on the arm twice. Then, in the cask: 'Now.' It closes on his heart."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "escalate",
+   "description": "Ullan of Marl written with two l's, by Decimus, beside the number, in his own hand, because the boy asked him to write it right. Forty-four: he carried me. A new name for the book: Ada Harrow, Marl, the south road past Pell's forty; the north forty never made quota."
+  },
+  {
+   "thread_name": "Decimus",
+   "beat_type": "escalate",
+   "description": "Decimus reads 2290 and nobody answers; he looks at Jonah for the length of a count and sees a man dying because that is what it is. 'You look like the wall, boy.' After: let him walk in himself, he's earned that. A mark Jonah cannot read."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "The Vein does not reach for the casks because they are it, as a hand does not reach for the arm it is on. It takes Ullan slowly, carefully, the way a hand goes over a thing it has wanted a long time."
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "reinforce",
+   "description": "Tremor as a Form of counting: twelve hearts in the Deep, one at the turn not asleep. Cursus step: the Count, applied to a man who has counted the same thing and come out at the same place."
+  }
+ ],
+ "clues": [
+  {
+   "description": "Ada Harrow, thirteen, Marl, the south road past Pell's forty; 'the north forty never made quota.'",
+   "type": "verbal",
+   "subtlety": 4,
+   "mechanism": "Book 2: a man goes to the south road on Marl. Jonah keeps the promise from the Interior through Yara's people.",
+   "related_thread": "The book of names"
+  },
+  {
+   "description": "The Vein does not reach for the casks because they are it: a hand does not reach for the arm it is on.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Ch.29: why the seal will not take with a man in the ring; the mark is not for men. Book 3: how a cutting hides in matter.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "Decimus's mark that nobody can read, after telling Harrow to let 4471 walk in himself.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Ch.30: Decimus in the corridor with orders; ch.40 the register line 'Died in the Throat' is in Decimus's hand. He wrote the story before it happened.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Harrow knocks every cask and a cask with a man in it sings right on the road's end but he does not know what it does on the dock.",
+   "type": "structural",
+   "subtlety": 5,
+   "mechanism": "Ch.32: the Heron's crew knock the casks to skim; thirty-one sings wrong to a man who knows casks.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "Tacitus stands between: its back to the room, letting nothing through.",
+   "type": "behavioral",
+   "subtlety": 5,
+   "mechanism": "Book 2: it stands between him and a Voice that is not his. Book 4: it stands between him and her.",
+   "related_thread": "Tacitus"
+  },
+  {
+   "description": "Harrow's fear since the day Auger put Jonah at the face: the thing in the middle.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Ch.29: Harrow says at the count what he saw and no more; the rod comes for him later and he has less.",
+   "related_thread": "Escape from the Pit"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The fallow song tells the water the crop is in",
+   "status": "resolved"
+  },
+  {
+   "match": "Two gone in a week",
+   "status": "reinforced"
+  },
+  {
+   "match": "Tacitus's answer: a hand on the arm",
+   "status": "reinforced"
+  },
+  {
+   "match": "The wall goes still for a song",
+   "status": "reinforced"
+  },
+  {
+   "match": "The thing Ulli did on Marl",
+   "status": "reinforced"
+  }
+ ],
+ "status_changes": {
+  "Ulli": "dead"
+ },
+ "object_updates": [
+  {
+   "name": "The casks",
+   "note": "Cask thirty-one repacked by Harrow as a bearing ring of seventy slabs with a hollow; forty-two slabs removed (eleven eaten, thirty-one laid six deep on top in casks twenty-nine and thirty); Jonah inside from the sixth bell of the nineteenth, lidded, unsealed."
+  },
+  {
+   "name": "Pit register",
+   "note": "Decimus wrote 'Ullan' with two l's beside 2290 in his own hand, and made a mark nobody can read after telling Harrow to let 4471 walk in himself."
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Pell",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Shallows"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Sat till the fourth bell. Refused the hunger a man. Promised a girl on Marl. In the cask; said Now."
+  },
+  {
+   "character_name": "Harrow",
+   "emotional_state": "In, because there is no out. Wants less. Afraid all the way through and the lamp did not shake."
+  },
+  {
+   "character_name": "Pell",
+   "emotional_state": "Felt it through the rock. Will not ask what Jonah is again. Sang the last verse to the wall."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Wrote Ullan with two l's. Told Harrow to let the boy walk in himself. Made a mark nobody can read."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Stood between with its back to the room. Told no. Settled. Closed on his heart when asked."
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Gone into the wall on the fourth verse, at peace, sat with."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "The loading gallery on the sixteenth night: unpacking thirty-one; eleven slabs eaten; the top of thirty-two; twelve hearts.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Harrow",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Harrow at the turn with a shuttered lamp: the hunger refused; there is no out; in; less; Ada on Marl; the north forty never made quota.",
+   "purpose": "confrontation"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Harrow",
+    "Jonah Vale"
+   ],
+   "summary": "The seventeenth: the bearing ring; the Vein does not reach for its own arm; not coming to the Cradle.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Ulli",
+    "Jonah Vale",
+    "Pell",
+    "Tacitus"
+   ],
+   "summary": "The Cradle on the eighteenth: the fallow song; standing between; Ullan goes on the fourth verse; Pell sings it to the end.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Shallows",
+   "characters": [
+    "Decimus",
+    "Jonah Vale",
+    "Harrow",
+    "Pell"
+   ],
+   "summary": "Dawn count: 2290 and nobody; forty-four; you look like the wall, boy; Ullan with two l's.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Harrow",
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "summary": "Sixth bell: Decimus's mark; feet first; the lid; the names; Now.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 7,
+ "scene_type": "confrontation",
+ "pacing": "medium",
+ "emotional_tone": "paranoid",
+ "opening_hook": "A cask that said two hundred and forty had to weigh two hundred and forty, and the difference had to come out in slabs.",
+ "closing_hook": "In the whole dark of the cask he says 'Now', and Tacitus closes on his heart.",
+ "word_count": 5351,
+ "notes": "Progression: eleven slabs of the harvest; the settling no longer fights; top of Principal 32; Tremor precise enough to count twelve hearts and one awake at the turn; Tacitus learns to stand between; Hold used on purpose at the end. Outline's 'Auger' role filled by Harrow (Auger died ch.25 riot). Ulli's number 2290 introduced here. Decimus has made marks on the road seven years (re-signed for five more in ch.24)."
+}
