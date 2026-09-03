@@ -1,0 +1,346 @@
+{
+ "title": "Deep",
+ "summary": "Third year. The genius has not eaten since Vetch and is taking from Jonah: fat, then the muscle of his left forearm; a bucket drops. The Censor forbids feeding from the wall: it will learn you will let it and will not stop asking; the wall will learn your shape. Jonah decides the old man is being a stone. Foremen go to the Deep for a week to learn the slab; Jonah tells the Censor 'I won't touch the wall' and feels the seam go. The face: the Vein as floor, roof and sides; gloves; the slab comes off for him and Harrow notices. Ulli heard the lie through the rock and says he will be at the end of the gallery so somebody is. Fourth night: 'eat'. It eats its mother on purpose and it is the best thing he has ever felt, and it does not stop for 'enough', and taking his hand off is like pulling it from a hull breach. Five sizes. He wakes in fever with Sorrel, a digger the wall has half taken, singing, bringing a chisel down; full plate comes up fitted and right for the first time since the Kestrel; the fang under the ribs; he stands in it and it is good and the echoes say this is what it is for, and he nearly agrees, until Ulli says his number. The plate will not go in: it catches on the seam. 'You lied to him. Same thing, for you.' Sorrel to the wall. Four days with plate on both forearms under gloves. The Censor: I let you go to see what you would do with the lie. Twenty-four. 'For the first time in three years you are going to fight me with it on. Get up.' The stick hits plate and skids: 'Ah.'",
+ "story_date": "391, the third year",
+ "events": [
+  {
+   "type": "transformation",
+   "description": "Hunger turns: the genius takes fat off his ribs and muscle from his left forearm; a bucket drops on the haul. The Censor forbids feeding from the wall.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391"
+  },
+  {
+   "type": "revelation",
+   "description": "Jonah lies to the Censor for the first time: 'I won't touch the wall.' The seam goes. The Censor hears it and lets him go.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391"
+  },
+  {
+   "type": "movement",
+   "description": "Jonah's foreman's week at the Deep face under Harrow; gloves; the slab comes off for him in a fraction of the time; Harrow says nothing and nods. Ulli tells him he heard the lie and will be at the end of the gallery.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Harrow",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, days 1-3 of the week"
+  },
+  {
+   "type": "transformation",
+   "description": "Fourth night: bare hand on the Vein, 'eat'. The genius eats its mother on purpose; the wall turns all of itself toward the bite; it does not stop for 'enough'; he tears his hand off. Five sizes. Grade about 24. The best thing he has ever felt.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, night 4"
+  },
+  {
+   "type": "death",
+   "description": "In the fever, Sorrel, a digger the wall had half taken, brings a chisel down on him singing the wall's come. Full plate comes up fitted and right for the first time since the Kestrel; the chisel skids; the crooked fang goes in under Sorrel's ribs. He stands in it and it is good. Ulli says his number and the yes goes out of him.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Sorrel",
+    "Tacitus",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, night 4"
+  },
+  {
+   "type": "discovery",
+   "description": "The plate will not go in: it catches on the seam and hangs on both forearms. Ulli: 'You lied to him. Same thing, for you. A genius in a man who's lying to himself can't hold a shape.' Sorrel to the wall. Four days of plate under gloves.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Ulli"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "391, nights 4-8"
+  },
+  {
+   "type": "encounter",
+   "description": "Jonah tells the Censor. The Censor knew and let him go to see what he would do with the lie; he would not have come if the plate had gone in. The seam is what happens, not a punishment; whole by not lying, from now, and waiting. The wall will not stop asking now. Fights him with plate on: the stick skids. 'Ah.'",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "affected_objects": [
+    "The Censor's stick"
+   ],
+   "story_timestamp": "391, night 8"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius takes from his body when hungry: fat, then muscle, then what he cannot spare.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Feeding from the Vein on purpose is the best thing he has ever felt and the genius does not stop for 'enough'; the wall now knows his shape far better and will not stop asking.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Integrity: a genius in a man who is lying to himself cannot hold a shape; the plate catches on the seam and hangs; it is not punishment; whole only by not lying, from now, and waiting.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Ulli"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Full plate can come up fitted and right when the genius is fed and unafraid; standing in it is good, and the echoes call it what it is for.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Censor heard the lie and let him go to see what he would do with it.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Aulus Terentius Pharus"
+  },
+  {
+   "character_name": "Ulli",
+   "fact": "4471 carries full plate and a crooked fang from the back of his wrist and killed Sorrel with it; he lied to the Censor and the plate will not go in.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Jonah fed from the Vein against orders, is about twenty-four, killed Sorrel in full plate, and has plate stuck on his forearms by the seam.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Harrow",
+   "fact": "4471 cuts a slab like twenty years and the Vein comes off for him; the cut one.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Integrity: a genius in a man who is lying to himself cannot hold a shape; the plate catches on the seam and hangs; it is not punishment; whole only by not lying, from now, and waiting.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Feeding from the Vein on purpose is the best thing he has ever felt and the genius does not stop for 'enough'; the wall now knows his shape far better and will not stop asking.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah will one day tell all of this to a woman with a broad stripe who has never lied to him, and she will say 'that's not an excuse'.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "climax",
+   "description": "Hunger takes his arm; he lies to the one person he decided not to lie to; the seam; the plate hangs on his forearms for days. Named and shown: not punishment, what happens. Whole by not lying and waiting."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "Eats its mother on purpose: five sizes, about twenty-four. Full fitted plate for the first time since the Kestrel. Does not stop for enough. Hangs on the seam."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "escalate",
+   "description": "The face: floor, roof, sides. The wall turns all of itself toward the bite and goes loud for an hour. It knows his shape now and will not stop asking."
+  },
+  {
+   "thread_name": "The Censor's guilt",
+   "beat_type": "complicate",
+   "description": "'He's being a stone.' The Censor let the lie go to see what Jonah would do with it. 'I have never had one. I chose the stone.'"
+  },
+  {
+   "thread_name": "The Forms",
+   "beat_type": "escalate",
+   "description": "The stick hits plate and skids: 'Ah.' For the first time he fights the old man with it on."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "Sorrel's shape in the count, between the Blank who touched what he should not and the boy who said no."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "Twice: he will tell this to a woman with a broad stripe who never lied to him; 'that's not an excuse'; 'no, it's a number'."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "reinforce",
+   "description": "Harrow fair and afraid; the Deep's geography: two hundred paces in, then down; Ulli at the end of the gallery."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The wall went loud for an hour and the whole Deep heard it and thought it was a fall.",
+   "type": "environmental",
+   "subtlety": 5,
+   "mechanism": "The Deep's slab count falters after the loud night (the Vein closes on the bitten place); the weight-count collapses; ch.19 the riot.",
+   "related_thread": "Auger's law"
+  },
+  {
+   "description": "'It does not know how to stop a piece of itself, and it did not want to, because it was finding out what shape you are, and this was a shape.'",
+   "type": "structural",
+   "subtlety": 6,
+   "mechanism": "The Mouth (ch.23) is the wall having found his shape.",
+   "related_thread": "The Vein's truth"
+  },
+  {
+   "description": "The echoes' yes came almost all the way up and went out at his number said by a friend.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "Names hold him; a name said by another does what his own saying does. Ch.30 Decimus's name; Book 4 Livia's.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "Gloves at the face, worn through at every finger.",
+   "type": "object",
+   "subtlety": 6,
+   "mechanism": "Ch.26 the harvest's cask-handlers work gloved; the escape uses a glove.",
+   "related_thread": "Escape from the Pit"
+  },
+  {
+   "description": "'I have never had one. I chose the stone.' The Censor has never had a seam because he never let anything in to agree with.",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Ch.22: the last lesson is about agreement. Ask it what it wants before it asks you.",
+   "related_thread": "The Censor's guilt"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "The ring under the skin of his left forearm",
+   "status": "reinforced"
+  },
+  {
+   "match": "The stripped Thinstripe Aulus nods",
+   "status": "resolved"
+  },
+  {
+   "match": "The old man with the stick will say this was the night",
+   "status": "resolved"
+  },
+  {
+   "match": "Vetch's echo: being the thing a room",
+   "status": "reinforced"
+  },
+  {
+   "match": "The third reading: 'like reading a man with a fever",
+   "status": "reinforced"
+  },
+  {
+   "match": "Jonah feels 'a small clean tearing",
+   "status": "resolved"
+  }
+ ],
+ "status_changes": {
+  "Sorrel": "dead"
+ },
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Harrow",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "About twenty-four, full, feverish, plate stuck on both forearms. Told the truth four days late. Fighting the stick with it on."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Fed. Unafraid for the first time since the box. Hanging on the seam."
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "emotional_state": "Let the lie go and got the answer. 'Ah.'"
+  },
+  {
+   "character_name": "Ulli",
+   "emotional_state": "Was at the end of the gallery so somebody was. Saw the plate. Said his number."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "summary": "The bucket drops; the Censor forbids; the stone; the lie on the road; the seam.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Harrow",
+    "Ulli"
+   ],
+   "summary": "The face; gloves; the slab comes off for him; Ulli heard the lie.",
+   "purpose": "worldbuilding"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Sorrel",
+    "Ulli"
+   ],
+   "summary": "'Eat.' Five sizes. Sorrel's chisel; full plate; the fang; it is good; the number said; the plate hangs.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus"
+   ],
+   "summary": "Told four days late; the seam explained; twenty-four; fighting with plate on; the stick skids.",
+   "purpose": "develop_character"
+  }
+ ],
+ "tension_level": 8,
+ "scene_type": "action",
+ "pacing": "fast",
+ "emotional_tone": "chaotic",
+ "opening_hook": "The first thing it took was the fat off his ribs, and he did not notice, because there had not been much.",
+ "closing_hook": "The stick hits plate and skids, and the old man says 'Ah', as if he had waited a long time to hear that sound, and hits him again.",
+ "word_count": 5054,
+ "notes": "Grade about 24. Integrity mechanic fully shown. New minor characters: Harrow (deep foreman, fair and afraid), Sorrel (dead). Ulli has seen the plate and the fang. The wall went loud: plant for the Deep's count faltering before the riot."
+}
