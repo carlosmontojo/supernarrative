@@ -1,0 +1,386 @@
+{
+ "title": "Investiture",
+ "summary": "The last day of Founding Week. Jonah goes into the Flamens' house holding the genius still; on the reading glass it hides itself deeper than he ever pushed it, on its own, like something that has been on the wrong side of a glass before. First reading: clean. The cutting goes in, stupid and happy; the genius takes it from below, wears it, and the second reading says 'Grade one. Standard. Fused at nine' with the Flamen noting 'plate reads dark'. The mark is a drawing. Livia sees and files it. The collar will not open on command and is cut with jaws. Tom weeps. Priscus: 'Be precise with him. Go and be a captain.' At the engagement dinner the vigiles come; the sergeant says the word to the line and nothing happens; fangs stand near Tom and Mara; Jonah kneels and pretends to be locked, and feels a seam go. The search finds the stone box and the seal under the floorboard. Mara understands everything. Gaspar does not look up. Jonah tells his father it is a mistake, his first lie to him.",
+ "story_date": "388, last day of Founding Week",
+ "events": [
+  {
+   "type": "discovery",
+   "description": "On the reading glass the genius hides itself on its own, deeper than Jonah can push it: it knows what a Flamen's glass is. First reading: no lorica, no genius, grade nothing.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, last day of Founding Week, morning"
+  },
+  {
+   "type": "transformation",
+   "description": "The standard cutting goes into Jonah's forearm; the genius takes it from below (Devour, silent) and wears it (Shift, first mimicry). Second reading: 'Grade one. Standard cutting. Fused at nine.' The Flamen notes plate reads dark. The mark is drawn by the genius. Grade 10, Miles, hidden.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, morning"
+  },
+  {
+   "type": "discovery",
+   "description": "The collar does not open on the word; the Flamen cuts it with jaws, blaming old issue. Jonah is manumitted, says the citizen's oath in Latin.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tom Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, morning"
+  },
+  {
+   "type": "encounter",
+   "description": "Priscus lays the Republic's hand on Jonah's shoulder, with the letter in his pocket: 'Your purser is a man named Marchand, who is precise. Be precise with him.' Livia looks at the line, then at his face, says something to her brother.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Marcus Vibius Priscus",
+    "Livia Vibia"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, morning"
+  },
+  {
+   "type": "encounter",
+   "description": "Engagement dinner in Tom's two rooms: Tom's speech, Mara finishes it, Gaspar in the corner never looks at Jonah.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tom Vale",
+    "Mara Ansel",
+    "Ezra Morrow",
+    "Gaspar Roake"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "encounter",
+   "description": "The vigiles arrest Jonah by the quaestor's order 'on a matter concerning the Flamens'. The sergeant says the word to the line; nothing happens. Fangs near Tom and Mara. Jonah kneels and pretends to be locked; a seam goes inside him.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus",
+    "Tom Vale",
+    "Mara Ansel"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night, second hour"
+  },
+  {
+   "type": "discovery",
+   "description": "The search finds the stone box in the first minute and the seal under the floorboard in the twelfth. The sergeant goes pale at the mark in the wax.",
+   "affected_characters": [
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "The stone box",
+    "The seal"
+   ],
+   "story_timestamp": "388, night"
+  },
+  {
+   "type": "movement",
+   "description": "Jonah is walked up the yard road past the Flamens' house into the quaestor's house and down. He told his father it was a mistake and he would be back by morning: his first lie to Tom.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tom Vale",
+    "Mara Ansel"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "388, night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius hides itself from a Flamen's reading glass on its own; it has been on the wrong side of a glass before.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The genius can eat a cutting from inside and wear its shape; his citizen's mark is a drawing.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Marchand was promised the Kestrel's captaincy after Ochoa and has been passed over for Jonah.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Marcus Vibius Priscus"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "fact": "The new citizen Vale's plate read dark on a fresh cutting, his collar did not open on the word, and his mark came up like something drawn.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "fact": "Jonah carries a whole, unregistered genius (Tacitus) that does not obey imperium and has no fuse.",
+   "new_knowledge_level": "suspects",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "fact": "Jonah knelt on purpose when the word did not hold him, because of the fangs near Tom and her.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Tom Vale",
+   "fact": "Jonah was arrested by the quaestor's order on a matter concerning the Flamens; Jonah says it is a mistake.",
+   "new_knowledge_level": "wrong_belief",
+   "how_learned": "told_by:Jonah Vale"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "fact": "Jonah was arrested at his own engagement dinner by the quaestor's order on a matter concerning the Flamens.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "The Flamen's reading at investiture returned Grade 1, standard cutting, clean; plate reads dark.",
+   "new_knowledge_level": "knows",
+   "how_learned": "witnessed"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "fact": "The vigiles recovered a stone box and a sealed packet from the Vale rooms.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:sergeant"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "The genius hides itself from a Flamen's reading glass on its own; it has been on the wrong side of a glass before.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "The genius can eat a cutting from inside and wear its shape; his citizen's mark is a drawing.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Plate darkens with grade and age; a fresh Blank cutting reads grey.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "escalate",
+   "description": "It hides on its own from the glass; it eats the cutting silently and wears it; it draws the mark; it kneels when told and does not understand why, and turns that over."
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "plant",
+   "description": "Kneeling on purpose while every piece of him wants to stand: 'a small clean tearing, like a seam going.' Integrity shown before it is named."
+  },
+  {
+   "thread_name": "Livia",
+   "beat_type": "reinforce",
+   "description": "She watches his arm and his feet; the page does not turn when the cutting goes in; she says something to her brother after."
+  },
+  {
+   "thread_name": "Priscus's law",
+   "beat_type": "complicate",
+   "description": "He performs the manumission with the letter in his pocket, jokes about Marchand, and has the rooms searched during the dinner."
+  },
+  {
+   "thread_name": "The seed and the seal",
+   "beat_type": "escalate",
+   "description": "The seal found under the floorboard; the sergeant goes pale at the wax."
+  },
+  {
+   "thread_name": "Marchand's letter",
+   "beat_type": "escalate",
+   "description": "The arrest 'on a matter concerning the Flamens' follows the letter exactly. Priscus's 'precise' is the tell."
+  },
+  {
+   "thread_name": "Mara and Corin",
+   "beat_type": "complicate",
+   "description": "Mara sees the word fail and understands everything he did not tell her. She does not look away. He does not look at her."
+  },
+  {
+   "thread_name": "Revenge: the four names",
+   "beat_type": "reinforce",
+   "description": "Gaspar in the corner, looking at the bottle as Jonah is taken out."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The genius hides from the glass 'the way a man goes flat in a ditch when he hears a rifle'. It has been on the wrong side of a glass before.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "The Censor hid it from the Flamens' readings for years before the derelict; it remembers the College. Ch.12.",
+   "related_thread": "The seed and the seal"
+  },
+  {
+   "description": "The Flamen: 'plate reads dark. Odd on a fresh cutting. They come up grey.' He blames Ferrum blood.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Plate colour is grade and age. Livia files it. The black-market reading in ch.38 will show it again.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Priscus: 'Your purser is a man named Marchand, who is precise. Be precise with him.'",
+   "type": "verbal",
+   "subtlety": 7,
+   "mechanism": "Priscus has read the letter; 'precise' is Marchand's word. Ch.35 Gaspar's account lets Jonah hear it again.",
+   "related_thread": "Marchand's letter"
+  },
+  {
+   "description": "Livia says something to her brother after looking at the line and his face; he nods without looking at her.",
+   "type": "behavioral",
+   "subtlety": 7,
+   "mechanism": "She told him the reading looked wrong. He already had the letter. Ch.34: what she said and what he did with it.",
+   "related_thread": "Livia"
+  },
+  {
+   "description": "Jonah feels 'a small clean tearing, like a seam going' when he forces the genius to kneel.",
+   "type": "structural",
+   "subtlety": 7,
+   "mechanism": "Integrity: a divided host cannot hold plate. The seam is where the plate will misfire in ch.18.",
+   "related_thread": "Hunger and Integrity"
+  },
+  {
+   "description": "The sergeant recognizes the mark in the wax and goes pale.",
+   "type": "visual",
+   "subtlety": 6,
+   "mechanism": "A senatorial seal, House Vibia. The sergeant knows whose house he serves.",
+   "related_thread": "The seed and the seal"
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "Holding cells, Anvil"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "Holding cells, Anvil"
+  },
+  {
+   "character_name": "Tom Vale",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Mara Ansel",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Ezra Morrow",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Gaspar Roake",
+   "location": "Anvil tenements"
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "location": "Quaestor's house, Anvil"
+  },
+  {
+   "character_name": "Livia Vibia",
+   "location": "Quaestor's house, Anvil"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Bound, in the dark under the quaestor's house. Something tore when he knelt. Lied to his father for the first time."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Pressed flat, not hungry, turning over the kneeling. Waiting to see what he does about it."
+  },
+  {
+   "character_name": "Tom Vale",
+   "emotional_state": "The best night of his life, then 'Son'."
+  },
+  {
+   "character_name": "Mara Ansel",
+   "emotional_state": "Understood everything. Did not look away."
+  },
+  {
+   "character_name": "Livia Vibia",
+   "emotional_state": "Saw something on the glass and filed it. Told her brother."
+  },
+  {
+   "character_name": "Marcus Vibius Priscus",
+   "emotional_state": "The reading came out right and he wonders why he expected it not to. The seal is on its way to his desk."
+  }
+ ],
+ "object_updates": [
+  {
+   "name": "The stone box",
+   "holder": "Marcus Vibius Priscus",
+   "location": "Quaestor's house, Anvil"
+  },
+  {
+   "name": "The seal",
+   "holder": "Marcus Vibius Priscus",
+   "location": "Quaestor's house, Anvil"
+  },
+  {
+   "name": "The hull ring",
+   "holder": "Jonah Vale",
+   "location": "Holding cells, Anvil"
+  }
+ ],
+ "scenes": [
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Ezra Morrow",
+    "Tom Vale"
+   ],
+   "summary": "Six days of holding still; Morrow explains the investiture and asks to know nothing.",
+   "purpose": "build_tension"
+  },
+  {
+   "location": "Anvil",
+   "characters": [
+    "Jonah Vale",
+    "Marcus Vibius Priscus",
+    "Livia Vibia",
+    "Tom Vale",
+    "Mara Ansel",
+    "Ezra Morrow"
+   ],
+   "summary": "The Flamens' house: two readings, the cutting eaten and worn, the mark drawn, the collar cut, the oath, Priscus's hand.",
+   "purpose": "advance_plot"
+  },
+  {
+   "location": "Anvil tenements",
+   "characters": [
+    "Jonah Vale",
+    "Tom Vale",
+    "Mara Ansel",
+    "Ezra Morrow",
+    "Gaspar Roake"
+   ],
+   "summary": "The engagement dinner; the vigiles; the word fails; he kneels; the seal is found; taken away.",
+   "purpose": "advance_plot"
+  }
+ ],
+ "tension_level": 8,
+ "scene_type": "revelation",
+ "pacing": "medium",
+ "emotional_tone": "dread",
+ "opening_hook": "The Flamens' house was the only building on the moon that had been built rather than cut.",
+ "closing_hook": "Under his ribs the thing that knelt when he told it to is turning the not-understanding over. Waiting to see what he does about it.",
+ "word_count": 4854,
+ "notes": "Grade 10 hidden under a Grade 1 mark. Jonah is now legally a Blank citizen; the collar is destroyed. The seal and the stone box are with Priscus. The Flamen of Anvil is unnamed. The sergeant carries the quaestor's token."
+}
