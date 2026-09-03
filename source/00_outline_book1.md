@@ -155,6 +155,14 @@ disagree, Book 6 decides who was right.
   greed, not end it. Trains a reformer, gets an avenger. Dies in ch. 22. Last gifts:
   the book, House Sertorius, the columbarium keys, the gift Quiet.
 
+### Livia Vibia (the slow burn)
+Priscus's daughter. Eleven in chapter 3, when she says "He won" and stops a flogging.
+Eighteen in chapter 34. Flamen-scholar track, the best fang in her house, has never
+killed. The romance of the series and it does not happen: Book 2 she reads Sertorius
+at her father's table and is curious instead of afraid; Book 3 friendship; Book 4 he
+destroys her father and she learns who he is the same week; Book 5 enemies who cannot
+stop talking; Book 6 whatever is left. Full sheet in 03_characters.md.
+
 ### The four
 1. Silas Marchand (the Danglars). Blank purser of the Kestrel. Saw the plate through
    the hatch in ch. 2. Writes the denunciation: unregistered genius and a Republican
@@ -274,9 +282,12 @@ chapter 5 hidden under a Blank's mark, unstripped and faking it by chapter 8.
    and his name goes on the rolls. A Thinstripe cadet calls Jonah to sharpen: steel
    knives, unplated, for sport, in front of the crowd. Jonah cannot refuse. He wins in
    nine seconds with Varro's hands and does not understand how. The cadet's instructor
-   orders him flogged for winning. Priscus, quaestor, stops it: "The boy won. Flog the
-   instructor." Morrow announces the petition: manumission, captaincy, investiture next
-   week. Mara. Hook: strain, grade 9, and the echo in his hands is pleased.
+   orders him flogged for winning. A girl of eleven with a broad stripe, standing beside
+   the quaestor, says "He won" before anyone else does. Priscus echoes her: "The boy
+   won. Flog the instructor." Jonah does not learn her name. He remembers her face.
+   Morrow announces the petition: manumission, captaincy, investiture next week. Mara,
+   and a hull ring cut from the first ship he ever broke. Hook: strain, grade 9, and the
+   echo in his hands is pleased.
 4. Interlude: Three Men and a Letter (2,000). Marchand saw the plate. Corin saw the
    fight and saw Mara watching it. Gaspar drinks. The letter gets written.
 5. Investiture (4,600) (⚔ at the end). The Flamen's scan: Tacitus plays dead on
@@ -386,9 +397,10 @@ standing in it. The problem is never how to grow. It is how to grow without bein
     wreck and wins ugly. Devours half a crewman's lorica and feels the cutting beg.
     Stops. Seal, wrong-shaped. First echo since Varro. Grade 42.
 33. Smugglers (4,000). Yara. Nobody dies. The Censor's rhetoric pays. Price named.
-34. Interlude: Priscus (2,000). The City. The praetorship. His father. The Vigilant's
-    old report of a decurion lost in the rings, and a Frumentarius who has read it
-    twice.
+34. Interlude: Priscus (2,000). The City. The praetorship. His father. His daughter
+    Livia, eighteen, refusing the marriage he arranged and holding her fang wrong on
+    purpose so he will correct her grip and touch her arm. The Vigilant's old report of
+    a decurion lost in the rings, and a Frumentarius who has read it twice.
 
 ### PART IV — THE NAME (ch. 35–40, about 22,000 words)
 
@@ -420,8 +432,9 @@ Sabinus, the auxiliaries), two set pieces of five thousand words or more.
    that goes up, climbed with a stolen face. The Frumentarii. Marchand falls.
 3. Auxilia. Corin. The daughter of the rising he betrayed. Mara recognizes him. The
    Republicans court Sertorius. Corin falls on a duelling floor.
-4. Praetor. Priscus. Verdict against the Sertorian Form. An innocent dies. Integrity
-   breaks. Tacitus disagrees out loud.
+4. Praetor. Priscus. Verdict against the Sertorian Form. An innocent dies: Livia's
+   little brother. Livia learns who Sertorius is. Integrity breaks. Tacitus disagrees
+   out loud.
 5. Limes. War with the Confederacy. Voice can unfuse. The Princeps offers a deal.
 6. Devotio. Sinking the Empire from within. The book of names. Tacitus.
 
@@ -429,7 +442,9 @@ Sabinus, the auxiliaries), two set pieces of five thousand words or more.
 
 ## 7. HOW I WILL KEEP CONTEXT ACROSS 150,000 WORDS
 
-- Build the SuperNarrative DB from this outline and the power system: project, voice
+- Four files are the canon: this outline, 01_power_system.md, 02_world_bible.md,
+  03_characters.md. They are re-read before every chapter.
+- Build the SuperNarrative DB from these four files: project, voice
   rules, style references, 40 planned chapters, character sheets with grades and gifts,
   story facts and the epistemic matrix (who knows about the seed, the seal, the Censor,
   Varro's death, Jonah's genius), threads with dependencies, planted clues.
