@@ -1,0 +1,301 @@
+{
+ "title": "Decimus",
+ "summary": "End of the second year. Decimus takes the night post at the cage, which is not his, and asks Jonah to sit and read him a letter from his daughter Sula, nine, on Etruria: a school with a garden, a tree she has the care of, the seven hills two of them spelled wrong, two winters counted at the edge of the page. Jonah reads the hills the way she spelled them. Decimus: his wife died when the College could not grow a second lung; the Pit pays three times; the aunt, the school, the tree; 'not worth the trim' after watching Tullus lose fifty-two in the garrison hall. Jonah sees, all at once, how the guard's cutting would come off through the hip seam in twenty counts, and holds it: stop. Decimus: 'I know about Vetch. I said they do so it was said. I don't do personal. Either way.' He would have liked Pell's death to be later. 'It's a school with a tree and it's a wall that eats Marl. It's the same thing. I hope you find the place where one stops and the other starts. I hope it's somewhere I never have to stand.' At the end, the reason for the letter: if he does not finish the five, say his name once, so it is said by somebody who is not a paper. 'Decimus Alba. Of Etruria. The foundry town. Sula's father.' The Censor will not write a guard on the slabs but says keep it; you will be asked for it. Jonah adds it to the names on the road. Grade holds at 20.",
+ "story_date": "390, end of the second year",
+ "events": [
+  {
+   "type": "encounter",
+   "description": "Decimus on the night cage post, not his, asks 4471 to sit and reads him nothing: he asks Jonah to read him Sula's letter aloud. The tree, MINE, the seven hills, two winters counted.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [
+    "Sula's letter"
+   ],
+   "story_timestamp": "390, night"
+  },
+  {
+   "type": "revelation",
+   "description": "Decimus's life: wife dead four years when the College could not grow a second lung; Pit pay three times Etruria's, paid to the aunt; the school with the tree; twenty years at seven; watched Tullus trimmed from fifty-two in his first year and never asked for the nine.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390, night"
+  },
+  {
+   "type": "discovery",
+   "description": "Jonah sees, all at once, that Decimus's cutting would come off through the hip seam in twenty counts and nobody would count it; the echoes have one opinion about guards on stools; he holds it: stop.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390, night"
+  },
+  {
+   "type": "revelation",
+   "description": "Decimus: 'I know about Vetch. He didn't walk into the Deep.' He said 'they do' so it was said and will say it again. 'I don't do personal. Either way.' He would have liked Pell's death later than a quarter hour.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390, night"
+  },
+  {
+   "type": "revelation",
+   "description": "'It's a school with a tree and it's a wall that eats Marl. It's the same thing. I've never found the place where one stops and the other starts. You'll look. I hope it's somewhere I never have to stand.'",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390, night"
+  },
+  {
+   "type": "revelation",
+   "description": "The reason for the letter: if he does not finish the five, say his name once so it is said by somebody who is not a paper. 'Decimus Alba. Of Etruria. The foundry town. Sula's father.' Jonah says it back.",
+   "affected_characters": [
+    "Decimus",
+    "Jonah Vale"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390, night"
+  },
+  {
+   "type": "encounter",
+   "description": "The Censor will not write a guard beside Pell's brother on the slabs but tells Jonah to keep it: 'You will be asked for it.' Jonah adds Decimus Alba to the names on the road; the genius adds it to what it expects.",
+   "affected_characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Tacitus"
+   ],
+   "affected_objects": [],
+   "story_timestamp": "390, night"
+  }
+ ],
+ "knowledge_changes": [
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Decimus's full name is Decimus Alba, of Etruria, the foundry town, Sula's father; Sula is nine, keeps a tree at a school, and has counted two winters until he comes home.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Decimus knows Vetch did not walk into the Deep and has chosen to say 'they do'; he does not do personal, either way.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "The Empire from a Blank's stool: a school with a tree and a wall that eats Marl are the same thing; nobody has found where one stops and the other starts.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Jonah Vale",
+   "fact": "Decimus watched Tullus trimmed from fifty-two in the garrison hall in their first year and has refused the nine since.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Decimus"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "4471 reads what is under a thing, gives things back without knowing he does it, and says names on the road at night; Bricks thinks he is praying.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Decimus",
+   "fact": "Vetch did not walk into the Deep; Pell has his garrison chisel and 4471 was in the chamber.",
+   "new_knowledge_level": "knows",
+   "how_learned": "deduced"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "fact": "Decimus asked Jonah to say his name if he dies before his five years are done.",
+   "new_knowledge_level": "knows",
+   "how_learned": "told_by:Jonah Vale"
+  }
+ ],
+ "reader_knowledge_changes": [
+  {
+   "fact": "Decimus's full name is Decimus Alba, of Etruria, the foundry town, Sula's father; Sula is nine, keeps a tree at a school, and has counted two winters until he comes home.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Decimus knows Vetch did not walk into the Deep and has chosen to say 'they do'; he does not do personal, either way.",
+   "new_knowledge_level": "knows"
+  },
+  {
+   "fact": "Jonah will say Decimus's name on the same road with the Censor's stick broken and a Centurion's fang in his hand, and it will be the only thing that holds the plate on him.",
+   "new_knowledge_level": "knows"
+  }
+ ],
+ "thread_beats": [
+  {
+   "thread_name": "Decimus",
+   "beat_type": "escalate",
+   "description": "The letter, the tree, the two winters, the wife's lung, the trim he watched, 'I know about Vetch', the same thing, and the name: Decimus Alba, Sula's father. 'Say it once.'"
+  },
+  {
+   "thread_name": "Hunger and Integrity",
+   "beat_type": "reinforce",
+   "description": "He sees the guard's cutting come off in twenty counts and holds it: the heaviest thing in the place where he keeps things is that he cannot hate this man."
+  },
+  {
+   "thread_name": "The book of names",
+   "beat_type": "reinforce",
+   "description": "The Censor will not put a guard on the slabs; Jonah keeps the name on the road instead. The narration promises the day he will say it with a fang in his hand."
+  },
+  {
+   "thread_name": "Tacitus",
+   "beat_type": "reinforce",
+   "description": "Hungry since Vetch; wanted the guard; told stop; adds Decimus Alba to what it expects. Grade holds."
+  },
+  {
+   "thread_name": "The Vein's truth",
+   "beat_type": "reinforce",
+   "description": "The College grew a lung and could not grow two: the Matter is medicine on Etruria and a wall that eats Marl here, and it is the same thing."
+  },
+  {
+   "thread_name": "Escape from the Pit",
+   "beat_type": "plant",
+   "description": "Two winters: Decimus's five ends within the escape's window. The narration flashes forward to the road, the broken stick, the Centurion's fang."
+  }
+ ],
+ "clues": [
+  {
+   "description": "The narration: Jonah will say Decimus's name 'on the same road with the old man's stick broken and the old man dead and a Centurion's fang in his hand, and it would be the only thing that held the plate on him.'",
+   "type": "structural",
+   "subtlety": 3,
+   "mechanism": "Direct foreshadowing of ch.30: the Censor dead, the duel with Sabinus, Decimus killed, Integrity held by the name.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Sula counts: fingers, stones, the days. Two marks at the edge of the page like marks on a wall.",
+   "type": "visual",
+   "subtlety": 6,
+   "mechanism": "Book 2: Sula's schooling paid under a false name; Book 4: she counts who paid.",
+   "related_thread": "Decimus"
+  },
+  {
+   "description": "Blanks on Etruria say 'the Republic' without thinking, like the quaestor.",
+   "type": "verbal",
+   "subtlety": 6,
+   "mechanism": "Register as caste: the word you use tells people your caste. Jonah notes it for Book 2.",
+   "related_thread": "The Forms"
+  },
+  {
+   "description": "Bricks has heard Jonah say the names on the road and thinks he is praying.",
+   "type": "behavioral",
+   "subtlety": 6,
+   "mechanism": "The road knows he does something at night. Ch.28 Auger knows more.",
+   "related_thread": "Auger's law"
+  },
+  {
+   "description": "Tullus was trimmed from fifty-two in the garrison hall with the whole guard watching, in Decimus's first year.",
+   "type": "verbal",
+   "subtlety": 5,
+   "mechanism": "Tullus's bitterness; ch.19 the decimation; ch.29 Tullus at the harvest.",
+   "related_thread": "Escape from the Pit"
+  }
+ ],
+ "clue_resolutions": [
+  {
+   "match": "Decimus keeps a bandage in his coat pocket",
+   "status": "reinforced"
+  },
+  {
+   "match": "Decimus looks at Pell's garrison chisel",
+   "status": "resolved"
+  },
+  {
+   "match": "Livia: 'That's a lie, but it's a good one",
+   "status": "reinforced"
+  },
+  {
+   "match": "The Halyard bar",
+   "status": "reinforced"
+  }
+ ],
+ "new_objects": [
+  {
+   "name": "Sula's letter",
+   "description": "Cheap grey garrison paper, folded many times, from Sula, nine, on Etruria: the tree marked MINE, the seven hills, two winters counted at the edge.",
+   "holder": "Decimus",
+   "location": "The Deep",
+   "significance": "Inside Decimus's coat against his chest. Ch.30: what Jonah takes from the coat."
+  }
+ ],
+ "character_locations_end": [
+  {
+   "character_name": "Jonah Vale",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Tacitus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Decimus",
+   "location": "The Deep"
+  },
+  {
+   "character_name": "Aulus Terentius Pharus",
+   "location": "The Chamber"
+  },
+  {
+   "character_name": "Ulli",
+   "location": "The Deep"
+  }
+ ],
+ "character_emotional_states": [
+  {
+   "character_name": "Jonah Vale",
+   "emotional_state": "Cannot hate him. The heaviest thing in the place where he keeps things. Has a guard's name for the road."
+  },
+  {
+   "character_name": "Decimus",
+   "emotional_state": "Heard the letter read right once. Said the thing he came to say. Two winters."
+  },
+  {
+   "character_name": "Tacitus",
+   "emotional_state": "Wanted the guard. Told stop. Expects one more name."
+  }
+ ],
+ "scenes": [
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Decimus",
+    "Tacitus"
+   ],
+   "summary": "The cage stool; Sula's letter read; Etruria, the lung, the trim; the plate held; 'I know about Vetch'; the same thing; the name.",
+   "purpose": "develop_character"
+  },
+  {
+   "location": "The Deep",
+   "characters": [
+    "Jonah Vale",
+    "Aulus Terentius Pharus",
+    "Ulli",
+    "Tacitus"
+   ],
+   "summary": "The Censor will not write a guard; keep it; the name added on the road; the flash forward.",
+   "purpose": "build_tension"
+  }
+ ],
+ "tension_level": 4,
+ "scene_type": "dialogue",
+ "pacing": "slow",
+ "emotional_tone": "intimate",
+ "opening_hook": "The guard had a letter, and he had nobody to read it to, and that was how Jonah learned his other name.",
+ "closing_hook": "He would say it again on the same road with a Centurion's fang in his hand, and he was glad, later, that he had not known.",
+ "word_count": 3588,
+ "notes": "Grade holds at 20 by design (ch.17 is a hold-still chapter). Decimus's full name Decimus Alba established. Sula's letter is inside his coat. Direct foreshadowing of ch.30 is deliberate (Monte Cristo-style narratorial anticipation)."
+}
