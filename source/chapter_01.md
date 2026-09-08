@@ -2,7 +2,7 @@
 
 The derelict had been dead for four hundred years and it was still a better ship than the Kestrel.
 
-Jonah could see that from three kilometres out, which was as close as anyone sane brought a barge to the inner rings of Quirinus. The hull hung in the debris the way a coin hangs in water, dark and thin, turning very slowly. Nothing around it had touched it. Four centuries of wreckage. Cutters, haulers, one whole legion transport broken in half. All of it drifting and grinding, eating itself in the ring plane. This one hull sat in the middle of it clean. No pitting. No frost. The rock and ice went around it.
+Jonah could see that from three kilometres out, which was as close as anyone sane brought a barge to the inner rings of Quirinus. Quirinus was the gas giant that Anvil went round. The rings were where the Empire had thrown its dead ships for four hundred years. The hull hung in the debris the way a coin hangs in water, dark and thin, turning very slowly. Nothing around it had touched it. Four centuries of wreckage. Cutters, haulers, one whole legion transport broken in half. All of it drifting and grinding, eating itself in the ring plane. This one hull sat in the middle of it clean. No pitting. No frost. The rock and ice went around it.
 
 "That's not right," Jonah said.
 
@@ -10,7 +10,9 @@ Jonah could see that from three kilometres out, which was as close as anyone san
 
 Jonah flew.
 
-The Kestrel was two hundred metres of cargo spine with a cabin on one end and a drive on the other, and it handled like exactly that. You did not fly a barge through ring debris. You parked a barge on the ring plane's edge and sent a cutter in on a tether. If the cutter came back with a salvage worth the fuel, you were a genius. If it didn't, you were a Collar who'd wasted a Blank's fuel. There was a scale of consequences for that which everybody on the Limes could recite. Jonah had recited it himself, twice, to inspectors who wanted to hear it. The Kestrel did not have a cutter. Morrow's yard had sold the cutter in the spring to make a payroll. So the barge went in.
+The Kestrel was two hundred metres of cargo spine with a cabin on one end and a drive on the other, and it handled like exactly that. You did not fly a barge through ring debris. You parked a barge on the ring plane's edge and sent a cutter in on a tether. If the cutter came back with a salvage worth the fuel, you were a genius. If it didn't, you were a Collar who'd wasted a Blank's fuel. There was a scale of consequences for that which everybody on the Limes could recite. Jonah had recited it himself, twice, to inspectors who wanted to hear it.
+
+The scale was the Empire. At the bottom were Collars: peregrines, people with no citizenship, with a ring of black metal round the neck that any Stripe could lock with a word. Jonah had worn his for nineteen years. Above them were Blanks: citizens, with a cutting under the skin of one arm and a thin white line where it had gone in. Above the Blanks were the Stripes. Thin purple on the arm for the equestrian order, broad purple for the senatorial, a whole lorica for each of them, and the law in their hands. The Limes was the frontier, the belt of moons and rocks at the edge of the settled worlds where the Empire kept its yards and its mines and the people who worked them. The Kestrel did not have a cutter. Morrow's yard had sold the cutter in the spring to make a payroll. So the barge went in.
 
 He had the drive at a whisper and the manoeuvring jets doing all the work, and his hands were doing what they did, which was mostly not thinking. A slab of hull plate the size of a tenement block came around on the left, slow, tumbling end over end with a rhythm you could count. He counted it, and took the Kestrel under it on the fourth beat with forty metres to spare. Forty metres was a lot. He heard Marchand let out a breath behind him anyway.
 
@@ -58,7 +60,7 @@ Jonah glanced at him. Ochoa was looking at the hull. His jaw was doing something
 
 Up close it was a chapel.
 
-Jonah didn't have another word for it. He'd broken ships for four years before Morrow put him in a pilot's seat. He'd been inside more hulls than most Thinstripe officers ever would. He knew what a warship looked like from the inside, what a hauler looked like, and what a Broadstripe's yacht looked like when it came to Anvil to die with the wine still in the racks. This wasn't any of those. The corridors were too tall. The walls had things carved into them, letters he could half read, the old Latin that the Flamens used on the sides of their cutters and that nobody on the Limes was supposed to be able to read at all. Jonah could read it because manifests were written in it and he'd wanted to know what he was carrying. Most of these words weren't on manifests. MATER. LAMINA. He didn't know the rest.
+Jonah didn't have another word for it. He'd broken ships for four years before Morrow put him in a pilot's seat. He'd been inside more hulls than most Thinstripe officers ever would. He knew what a warship looked like from the inside, what a hauler looked like, and what a Broadstripe's yacht looked like when it came to Anvil to die with the wine still in the racks. This wasn't any of those. The corridors were too tall. The walls had things carved into them, letters he could half read, the old Latin that the Flamens used on the sides of their cutters and that nobody on the Limes was supposed to be able to read at all. The Flamens were the Empire's priests, if a priest was a man in a white robe who put your arm on a slab of dark glass and read a number off it. They cut the loricas. They put them into arms and took them out again. Nobody was made a citizen without one in the room, and nobody was graded without one. Jonah could read it because manifests were written in it and he'd wanted to know what he was carrying. Most of these words weren't on manifests. MATER. LAMINA. He didn't know the rest.
 
 No frost on the walls. No dust. Four hundred years in vacuum and the place looked like somebody had swept it that morning.
 
@@ -92,7 +94,7 @@ Ochoa put his glove flat on the stone. Nothing happened. Then the stone moved, n
 
 Beyond it was a room the size of the Kestrel's cabin. Stone floor, stone walls. In the middle, on a low block, a box.
 
-Jonah had been expecting something bigger. He'd been expecting, if he was honest with himself, gold, or a lorica, or something that a Gracchan or a Flamen or whoever had sent Ochoa here would pay a captain's wage for. The box was the size of a man's head. It was the same dark stone as the door. It had no lid that he could see and no lock.
+Jonah had been expecting something bigger. He'd been expecting, if he was honest with himself, gold, or a lorica, or something that a Gracchan or a Flamen or whoever had sent Ochoa here would pay a captain's wage for. A lorica was the thing a Stripe carried under his skin. A genius, the Flamens called it: a living piece of matter that grew into a man's arm and gave him plate to wear, a blade to draw, and a number on the glass. The whole Empire ran on them, and the Empire had never once made one. It found them. Every lorica in the settled worlds had been cut, the story went, from a handful of old ones, and cut small, so that it would grow into a citizen and then stop. A whole one, uncut, was a thing out of a Founding Day song. As for the Gracchans, they were the men in the City who said the Senate should rule and the Princeps should not. The Princeps cut a few of them every generation to keep the argument fresh. The box was the size of a man's head. It was the same dark stone as the door. It had no lid that he could see and no lock.
 
 Ochoa went to it and stood over it and didn't touch it.
 
@@ -266,7 +268,7 @@ And then it came in.
 
 It was not like putting on a suit.
 
-Everything he'd ever heard about investiture was about putting on a suit. Blanks who'd been through it talked about it in the yard bars like it was a wedding night. The Flamen puts the cutting on your arm and it goes into you, they said. It's cold, then it's warm, then it's you. Then you have a friend under your skin for the rest of your life, a stupid, loyal, dog-brained friend who'll hold a knife off your throat and never ask why. That was a suit going on.
+Everything he'd ever heard about investiture was about putting on a suit. Blanks who'd been through it talked about it in the yard bars like it was a wedding night. The Flamen puts the cutting on your arm and it goes into you, they said. It's cold, then it's warm, then it's you. Then you have a friend under your skin for the rest of your life, a stupid, loyal, dog-brained friend who'll hold a knife off your throat and never ask why. That was a suit going on. That was a cutting: a sliver of a lorica, cut small in the College and fused, so that it grew into a man up to a fixed number and stopped there. Blanks got one. Stripes got the whole thing, or a bigger piece of it, with a name for it and a house behind it.
 
 This was a mind coming in.
 
@@ -292,7 +294,7 @@ He knew it was the wrong arm. He didn't know how he knew. It came out of his rig
 
 Varro laughed again.
 
-It was a different laugh. It was the laugh of a man who has been frightened for two seconds and has just remembered who he is. Whatever was happening to the peregrine, it was a peregrine, with a crooked shard sticking out of the wrong side of his arm. Varro was a Thinstripe of the equestrian order with fourteen years of plate on him, and there was a procedure for this.
+It was a different laugh. It was the laugh of a man who has been frightened for two seconds and has just remembered who he is. Whatever was happening to the peregrine, it was a peregrine, with a crooked shard sticking out of the wrong side of his arm. Varro was a Thinstripe of the equestrian order with fourteen years of plate on him, and there was a procedure for this. Fourteen years was a grade in the twenties. A grade was the number the Flamens read off a man's arm on the glass: how much lorica he carried, how hard it hit, how much it could take. Tiro was one to nine. Miles was ten to nineteen. Principal was twenty to thirty-nine, and above that were the Centurions and the Tribunes and the Legates, and Jonah had never seen one. He knew the bands the way every Collar knew them, from below, as the list of people who could kill him without a trial.
 
 The decurion's plate came up. It came out of the stripe on his arm and over him like water running the wrong way, clean, fast, fitted. It was over him in the time it took Jonah to breathe in. His fang came out of the inside of his forearm, straight, a proper blade, a forearm's length, and he set his feet.
 

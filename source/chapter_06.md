@@ -252,6 +252,8 @@ It was not the sergeant.
 
 It was four Blanks he didn't know, in a grey that was not the vigiles' grey, with a paper. The one with the paper did not look at it and did not look at Jonah either. He looked at the wall over Jonah's shoulder and said a number. The number was not a name. Then he said, in the voice of a man reading a manifest, "Transport. Ad metalla. By order," and did not say whose.
 
+Ad metalla. To the mines. Everybody on Anvil knew the words. The Empire had one mine that mattered, on a rock called Tessera at the far end of the Belt, and the Collars who went down it did not come back up. Metalla VII, the papers called it. The yards called it the Pit.
+
 "There's a mistake," Jonah said. "The quaestor said. The fourth bell. He said it in front of his vigiles. Ask him. Go up and ask him."
 
 Nobody went up.

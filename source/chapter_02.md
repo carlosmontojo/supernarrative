@@ -204,7 +204,7 @@ Marchand gave it. His voice was steady and dull and exactly right. Debris strike
 
 Jonah brought the barge in.
 
-The reading was a Blank with a grade you could count on one hand and a wand that he waved at each of them in turn on the dock, bored, the way they always did it. Jonah stood in the line with Bram on one side and Hollis on the other and thought, very hard, about nothing.
+The reading was a Blank with a grade you could count on one hand and a wand that he waved at each of them in turn on the dock, bored, the way they always did it. The wand was the small reading. It found a lorica on a man or it did not. The big reading was the glass, a slab of dark stone in the Flamens' house that gave a number, the gifts, and the colour of the plate. The College wrote all of it down and kept it for ever. A Collar coming off a barge got the wand. Nobody had ever been on the wrong side of a wand. Jonah stood in the line with Bram on one side and Hollis on the other and thought, very hard, about nothing.
 
 He hadn't known that would work. He'd thought about it for eleven hours. What he'd decided was that the thing in him had gone still, in the hold, when Varro said the word to the collar. It had gone still because it was listening. Maybe it could be asked to be still now. So he asked. He didn't do it with words. He just held it, the way you hold your breath, and it held. It was the strangest feeling he'd ever had, like holding a second heart still inside the first.
 

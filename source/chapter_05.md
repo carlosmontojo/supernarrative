@@ -102,6 +102,8 @@ Nobody said anything. The Flamen bent closer to the glass. Jonah, who could not 
 
 "Plate reads dark," the Flamen said, half to himself. "Odd on a fresh cutting. They come up grey, mostly." He looked at Jonah's arm, at the skin, which was skin. "Some do that. Deep blood on the Ferrum side, I've seen it. Nothing." He straightened. "Grade one. Standard. Fusing at nine."
 
+Nine was the fuse. The Flamen would put his thumb on the cutting and say a word, and the cutting would stop growing at nine, for life. Tiro nine was the ceiling of a Blank. A Thinstripe's cutting was fused at thirty-nine. A Broadstripe's house lorica had no ceiling that anyone had found. That was the ladder, and the fuse was the reason it had rungs.
+
 He put his thumb on Jonah's forearm where the cutting had gone in, and pressed, and said a word in the old Latin.
 
 Jonah felt the pressure go in. He felt it go looking for the thing it was meant to bind, the cutting, the stupid friend, to put a ceiling on it. He felt the thing wearing the cutting lie perfectly still and let it. Let it press. Let it find three small wants and a number, lay a ceiling on them, and lie there under the ceiling, folded, patient. The ceiling came down on nothing at all, and held nothing at all. The Flamen took his thumb away satisfied.

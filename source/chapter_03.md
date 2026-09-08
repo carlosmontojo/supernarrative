@@ -38,6 +38,8 @@ The Lesser Ludi were four bouts. Collar against Collar, steel knives, unplated, 
 
 Most of them died in the wars before that. Everybody knew it. They went anyway. Jonah had never understood it, and had said so, once, to Corin. Corin had looked at him with an expression Jonah had never seen on him before or since and had said, then you've never been afraid enough.
 
+The greater Ludi were the other thing, and they were not for Collars. Stripe against Stripe, plated, fangs out, to the death unless the loser gave up his stripe first. The winner ate the loser's lorica. That was the law, the Lex Spolia, and it was the only ladder in the Empire that went up. A genius that ate another took about a fifth of what it ate, so a Thinstripe of thirty who killed a Thinstripe of forty walked off the sand at thirty-eight. Every house in the City had climbed that way. Every Collar on Anvil knew the arithmetic and would never be let near it.
+
 Corin came into the ring against a cutter from the north yards, a big man, older, with a knife he held like a torch.
 
 Jonah watched Corin's feet.
