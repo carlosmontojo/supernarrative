@@ -1,110 +1,112 @@
 # Chapter 38: What a Stripe Is Worth
 
-The Flamen who sold readings kept his glass in a cutting shed on the north side, behind the melt-house, where the smoke went. Jonah stood outside it on the third morning with the hood up and felt, through the rock, what was inside.
+The Flamen who sold readings kept his glass in a cutting shed on the north side, behind the melt-house, where the smoke went.
 
-Three hearts. One fast and thin, an old man's, going the way Gaspar's went. Two slow and plated, Tiro, one on either side of the door inside, the way the boys had stood at the road's end. And a fourth thing that was not a heart. It was in the middle of the shed on a stand. It was the Vein, and it was cracked. He felt the crack in it the way he had felt the knot in the face of the Deep, a place where the dark glass had been whole and was not. The thing in the doorway of him looked at it and was interested, because it had never felt a broken piece of its mother before.
+Jonah stood outside it on the third morning with the hood up and counted what was inside. Three hearts. One fast and thin, an old man's. Two slow and plated, Tiro, one either side of the door. And on a stand in the middle of the shed, a slab of the Vein, cracked. Tacitus felt the crack and was interested. It had never felt a broken piece of its mother before.
 
-"Not that," he said, under his breath, in the old tongue. "We're here to be read. Let it."
+"Not that," Jonah said under his breath, in the old tongue. "We're here to be read. Let it."
 
 He knocked.
 
 ---
 
-Nasso had been a Flamen of the College for thirty years and had been defrocked for eleven, and the eleven showed more.
+Nasso had been a Flamen of the College for thirty years and defrocked for eleven. The eleven showed more.
 
-He was sixty, thin, in a robe that had been white and was the colour of the shed. He had a Flamen's hands, long, clean, with the cutting in the right forearm showing grey at the wrist where the robe was pushed back. He had a Flamen's face, which was a face that had looked at four thousand arms on a glass and had stopped, at some point, seeing men on the other end of them. He sat behind the cracked slab on a stool. The two Tiro stood where Jonah had felt them stand. They were Blanks with hired cuttings and short fangs and the bored look a man wears who is paid to stand by a door. They looked at a Halyard's hood and did not straighten.
+Sixty, thin, in a robe that had been white and was now the colour of the shed. Long clean hands, the cutting grey at the wrist where the robe was pushed back. A face that had looked at four thousand arms on a glass and had stopped, somewhere along the way, seeing the men on the other end of them. He sat behind the cracked slab on a stool. The two Tiro stood where Jonah had felt them stand. Blanks with hired cuttings and short fangs, paid to stand by a door. They looked at a Halyard's hood and did not straighten.
 
 "Morrow's man," Nasso said.
 
 "No."
 
-"Morrow's yard sent a slab across this glass at the second bell. A harvest slab, whole, with a College groove on the edge of it, off a Halyard skimmer that's on the lower docks lying about its casks. I paid coin for it. I'll sell it up the ring a shard at a time and nobody'll ask." The defrocked Flamen's voice was dry and quick. "And now there's a Halyard at my door. You'll forgive me for adding."
+"Morrow's yard sent a slab across this glass at the second bell. A harvest slab, whole, College groove on the edge, off a Halyard skimmer that's on the lower docks lying about her casks. I paid coin for it. I'll sell it up the ring a shard at a time and nobody'll ask." The voice was dry and quick. "And now there's a Halyard at my door. You'll forgive me for adding."
 
 "Add what you like. I've come to be read."
 
-Nasso looked at him.
-
 "Halyards don't get read. Halyards run dark. It's the one thing they're for."
 
-"Then I'm a poor Halyard." Jonah put a shard on the slab. Not on the crack; beside it. "That's the price of a reading on Anvil. I asked. It's what a Blank pays for a cutting's grade so he can tell his wife. I've paid it. Read me."
+"Then I'm a poor Halyard." Jonah put a shard on the slab. Beside the crack, not on it. "That's the price of a reading on Anvil. I asked. It's what a Blank pays to learn his grade so he can tell his wife. Read me."
 
-The old man looked at the shard. He looked at it for longer than a Flamen looks at matter, because a Flamen who sells readings from a cracked glass in a smoke-shed has looked at very little matter in eleven years. Then he looked at the hood.
+Nasso looked at the shard a long time. A man who sells readings from a cracked glass in a smoke-shed does not see much matter in eleven years. Then he looked at the hood.
 
-"Arm," he said.
+"Arm."
 
-Jonah gave him the right one.
+Jonah gave him the right one. He pushed the sleeve to the elbow and laid the forearm on the dark glass with the white line up. The two Tiro saw the line and straightened. Nasso saw it and did not.
 
-He pushed the sleeve back himself, to the elbow, and laid the forearm on the cracked dark glass of the Vein with the white line up. The two Tiro by the door saw the line and straightened. Nasso saw it and did not.
-
-"Struck," the old Flamen said.
+"Struck," he said.
 
 "Yes."
 
-"A citizen's line, cut. Seven years, by the scar. And the plate's dark under it; I can see that from here, I don't need the glass for that." He put his long clean hands on the slab, either side of the arm, and did not touch it yet. "You know what a struck man is, on a glass? He's a void. That's the word. The College cuts the line and reads void and writes it. That's a man's grade for the rest of his life. A void doesn't come to a shed and pay to be read, because there's nothing to read. There's nothing there."
+"A citizen's line, cut. Seven years, by the scar. Plate's dark under it. I can see that from here." He put his hands on the slab either side of the arm and did not touch it yet. "You know what a struck man is on a glass? A void. That's the word. The College cuts the line, reads void, writes it. That's his grade for the rest of his life. A void doesn't come to a shed and pay to be read. There's nothing to read."
 
 "Read it anyway."
 
-"I'm telling you what a reading costs." Nasso did not move his hands. "Not the shard. The shard's the price of a Blank's grade. A struck man on my glass is a thing I'm supposed to send to the garrison. If I read him and don't send him, that's my neck, and a neck's worth more than a shard. So the price is the shard and the thing I'm going to ask you after. You'll answer it, because I'll have read you and I'll know whether you're lying."
+"I'm telling you what a reading costs. Not the shard. A struck man on my glass is a man I'm supposed to send to the garrison. If I read him and don't send him, that's my neck. So the price is the shard, and one question after. You'll answer it, because I'll have read you and I'll know if you're lying."
 
 "You'll not know that."
 
 "I've read four thousand arms."
 
-"Then read this one," Jonah said, "and tell me what it's worth. That's what you sell. What a stripe's worth. What a cutting's worth. What a man's worth on a glass. I've come to find out what I'm worth. I'll pay what it costs."
+"Then read this one," Jonah said, "and tell me what it's worth. That's what you sell. What a stripe's worth. What a man's worth on a glass. I'll pay what it costs."
 
 Nasso put his hands on the arm.
 
 ---
 
-It was not like Livia's glass.
+Six times in seven years Jonah had stood with his arm on the Vein and a Flamen's hands on it. Each time he had held Tacitus flat, or in the cellar, or nothing. A reading was a hand going through a house looking for a room, and he had learned to have no room.
 
-He had thought it would be. He had stood in a line six times in seven years with his arm on the Vein and a Flamen's hands on it. A thing behind his heart held flat, or in the cellar, or being nothing. He had learned what a reading felt like from the inside, which was a hand going through a house looking for a room. He had learned to have no room. He had a room now. He had come to the shed to have it found. He stood with his arm on a cracked slab in a smoke-shed on Anvil and said, to the thing in the doorway of him, in the old tongue: let him. Don't hide. Don't be nothing. Be what you are and let the glass have it. I want to know, and this is the only glass on this rock that'll not write it down.
+He had a room now. He had come here to have it found.
 
-And Tacitus let the glass have it.
+Let him, he told it, in the old tongue. Don't hide. Don't be nothing. Be what you are and let the glass have it. This is the only glass on this rock that won't write it down.
 
-He felt it happen. He felt the old Flamen's hands go into the arm through the plate, the reading, the hand going through the house. He felt the thing with a name stand in the doorway with its face to the hand and not step back, not go into the cellar, not be still. Stand, and be looked at, the way it had stood on the Deep road and let a fang come. The hand found it.
+Tacitus let the glass have it.
+
+He felt the old man's hands go into the arm through the plate. He felt Tacitus stand with its face to the hand and not step back. Stand, and be looked at. The hand found it.
 
 Nasso's hands stopped.
 
-He would tell that, later, to the one person. She would say, what did it feel like. He would say: it was a man walking into a room he had walked into four thousand times and finding somebody sitting in it. Not hiding. Sitting. Looking back at him. And the man stopping in the door.
+A man had walked into a room he had walked into four thousand times and found somebody sitting in it. Not hiding. Looking back.
 
 "That's not a cutting," Nasso said.
 
-His voice had changed. The dry quick thing had gone out of it. What was under it was very old and very careful, a Flamen's voice, the one they used for the slab. He did not take his hands off the arm.
+The dry quick voice had gone. What was under it was old and careful, a Flamen's voice, the one they kept for the slab. He did not take his hands off the arm.
 
 "No," Jonah said.
 
-"That's not a fuse. There's no fuse. There's no mark on it; a cutting's got the College's mark on it the way a coin's got a face. I've never once in four thousand arms put my hands on a lorica with no face on it." The hands did not move. "It's whole. Gods. It's whole and it's old and it's looking at me."
+"There's no fuse. There's no mark. A cutting's got the College's mark on it, same as a coin's got a face. I've never once in four thousand arms put my hands on a lorica with no face on it." The hands did not move. "It's whole. Gods. It's whole and it's old and it's looking at me."
 
 "Yes."
 
-"Grade." Nasso said it to the glass, the way they did. "Grade." He stopped. "It won't hold still."
+"Grade." He said it to the glass. "Grade." He stopped. "It won't hold still."
 
 Jonah waited.
 
-"The lines. On the glass. A grade's a line on the glass and it holds and I read it. These don't. They're moving. They go to forty and they go past it and they come back. They go to something I've no line for and come back. They'll not stop." The old man's hands were shaking, and it was not the shard. "Force nine. Speed ten. Hold seven; that's the plate, it's wrong-shaped, I can feel it, it's shut where it should be open. Sense nine. Wit." He stopped again. "Wit's not there. There's no value. It's not nothing; nothing reads as a line at zero. It's not reading at all. The glass is asking and it's not answering."
+"A grade's a line on the glass. It holds, and I read it. These don't. They go to forty and past it and come back. They go to something I've no line for and come back." The old man's hands were shaking. "Force nine. Speed ten. Hold seven. That's the plate, it's wrong-shaped, it's shut where it should be open. Sense nine. Wit." He stopped again. "Wit's not there. Not zero. Zero reads as a line. It's not reading at all. The glass is asking and it's not answering."
 
 "It doesn't answer," Jonah said. "It's got one word."
 
-Nasso looked up at the hood.
+Nasso looked up at the hood, then down again, because a Flamen finishes a reading.
 
-"Gifts," he said, and looked down again, because a Flamen finishes a reading. "Plate. Blade. Hush; that's turned wrong too, it's turned in, I've seen that once in eleven years on a Halyard captain. Seal. Malformed. Reach. Malformed. Both of them taken, not grown, and taken wrong." He breathed. "And four I don't know."
+"Gifts. Plate. Blade. Hush. That's turned wrong too, it's turned in. I've seen that once in eleven years, on a Halyard captain. Seal. Malformed. Reach. Malformed. Both taken, not grown, and taken wrong." He breathed. "And four I don't know."
 
 "Four."
 
-"Four things on this glass I've never seen. I've read the tree. I've read every gift a lorica's held in four hundred years. They're a hundred and twelve. I know all of them by the line, and there's four here that aren't in it. One of them's eating. I can feel that. It's the biggest thing on the glass and it's an eating thing and it's looking at the crack in my slab the way a man looks at a plate of fish." He took his hands off the arm.
+"I've read the tree. Every gift a lorica's held in four hundred years. A hundred and twelve. I know every one by its line, and there's four here that aren't in it. One of them's eating. It's the biggest line on the glass and it's an eating thing, and it's looking at the crack in my slab."
 
-He took them off the way a man takes his hands off a thing that has just spoken to him. He sat back on the stool and looked at the hood. His heart, which had been fast and thin, was faster.
+He took his hands off the arm. He sat back on the stool. His heart, already fast and thin, went faster.
 
 "Unregistered," he said.
 
-Jonah did not say anything.
+Jonah said nothing.
 
-"That's the word. The College's word. I've never once had to use it. Nobody has; there've been three in a hundred years and the grain-men cut all three. They teach it to novices as a thing that doesn't happen, the way they teach the Sertorian Form." Nasso's voice was flat. "Genius: unregistered. Lineage: none. Grade: indeterminate. That's the reading. That's what's on my glass, and I'll tell you what it's worth, since you asked, since you paid for that too."
+"That's the College's word. I've never once had to use it. Nobody has. There've been three in a hundred years and the grain-men cut all three. They teach it to novices as a thing that doesn't happen, same as the Sertorian Form." Nasso's voice was flat. "Genius: unregistered. Lineage: none. Grade: indeterminate. That's the reading. And I'll tell you what it's worth, since you paid for that too."
 
 "Tell me."
 
-"A senator's seat." The old man said it without any weight. "To the man who brings it in. The grain-men'd give a Blank a broad stripe for it; they'd give a defrocked Flamen his robe back and a house in the City and his name off the list. That's what an unregistered's worth. It's worth more than the slab I bought this morning and more than every shard I'll sell up the ring for the rest of my life. It's the most valuable thing that's ever been in this shed and it's sitting in a Halyard's arm looking at me." He was quiet a moment. "And you knew that. Before you put the arm on the glass. You knew what I'd find and you knew what it's worth. You came anyway, to a man who sells readings, and paid him a shard to see it."
+"A senator's seat. To the man who brings it in. The grain-men would give a Blank a broad stripe for it. They'd give a defrocked Flamen his robe back, a house in the City and his name off the list. It's worth more than the slab I bought this morning and every shard I'll ever sell up the ring. It's the most valuable thing that's ever been in this shed, and it's sitting in a Halyard's arm looking at me."
+
+"Yes."
+
+"You knew. Before you put the arm on the glass. You knew what I'd find and what it's worth. And you came anyway, to a man who sells readings, and paid him a shard to see it."
 
 "Yes."
 
@@ -116,25 +118,21 @@ The two Tiro by the door had their fangs out.
 
 ---
 
-He had counted them before he knocked.
+He had counted them before he knocked. Two Blanks with hired cuttings, six and seven. Plate and Blade and nothing else. They had heard a Flamen read something worth a senator's seat, and they had done the sum. They came off the door together, one each side.
 
-Two Blanks with hired cuttings, six and seven. Plate and Blade and nothing else. Paid to stand by a door and put a fang in a Collar who would not pay. They had listened to a Flamen read a thing on a glass that was worth a senator's seat. They had done the sum. It had come out the way sums came out on Anvil. They came off the door together. Not high and low, the garrison way; they had not been to a garrison. One for each side, the way two men come at a drunk.
+He did not put the plate up. Two Blanks who had never seen a garrison did not need plate. They needed Varro.
 
-He did not put the plate up.
+He took the first one's wrist in both hands.
 
-That was the thing he would keep. He had put it up at the road's end in the light with a Flamen watching. He had put it up on the dock road with a Thinstripe forty paces off. He stood in a smoke-shed with his arm still on a cracked slab and did not put it up. A Flamen who sold readings did not need to see plate to know what he had read. Two Blanks with hired cuttings who had never been to a garrison were not a thing that needed plate. They were a thing that needed Varro.
+A wrist is a hinge, and a hinge goes one way. The fang dropped out of the fingers onto the shed floor and was plate again. The arm went the wrong way with a sound. The man sat down against the slab's stand and looked at his arm and did not get up.
 
-He took the first one's wrist.
+The second one had his fang at Jonah's throat.
 
-Both hands. The way Varro had known and Livia had named on a rail. The way a garrison school taught in its first month: a wrist is a hinge and a hinge goes one way. The fang went out of the fingers onto the shed floor and was plate again. The arm went the way arms do not go. The man sat down against the slab's stand and looked at his arm and did not get up.
+Jonah let it come. The plate came up under it, a hand's width, at the seam only. The Wall. The seam shut wrong, backward, in a lump. The fang skidded and went past his ear into the shed wall.
 
-The second one had the fang at his throat.
+Jonah took the arm behind the fang and turned it. The man went over his hip onto the floor. Jonah put a boot on the wrist and leaned. The man screamed. The fang went back into the cutting, because a screaming man's cutting will not hold a fang out.
 
-He let it come. He stood with his arm on the glass and let a hired Tiro's fang come at the throat seam of a man with no plate up. The plate came up under it, a hand's width, at the seam only, the Wall, the old man's Wall. The plate going where the fear was because he did not lie about where the fear was. The seam was shut, wrong, backward, in a lump. The fang skidded on a thing that had not been there and went past his ear into the shed wall.
-
-Jonah took the arm that had the fang in it and turned it. The man went over his hip onto the floor. Jonah put a boot on the wrist and leaned. The fang went back into the cutting because a man's cutting will not hold a fang out when the man is screaming. The man screamed.
-
-"Stop," Jonah said. In the road's tongue. "You're not dead. Neither of you. That's a thing I decided before I knocked. Sit there."
+"Stop," Jonah said, in the road's tongue. "You're not dead. Neither of you. I decided that before I knocked. Sit there."
 
 They sat there.
 
@@ -142,9 +140,7 @@ He took his boot off the wrist and turned round. Nasso had not moved from his st
 
 "There's a bell under there," Jonah said. "For the garrison. You've had your hand on it since I said yes. You've not rung it." He came round the slab. "Tell me why."
 
-The old Flamen looked at him.
-
-"Because I've read four thousand arms," Nasso said, "and I know what a man's going to do before he does it, most days, from the arm. I don't know what you're going to do. A man who doesn't know what a thing's going to do doesn't ring a bell at it." He took his hand out from under the slab. Slowly. "And because of the other thing."
+"Because I've read four thousand arms," Nasso said, "and most days I know what a man's going to do from the arm. I don't know what you're going to do. A man who doesn't know what a thing will do doesn't ring a bell at it." He took his hand out from under the slab. Slowly. "And because of the other thing."
 
 "Say it."
 
@@ -152,25 +148,23 @@ The old Flamen looked at him.
 
 Jonah stood over him.
 
-He thought about the old man on the rock of the Cradle with the stick across his knees, saying: there will be a man who has seen you. He will be small and afraid and greedy. You will have to decide what a man like that is worth. I will tell you now what the answer is, so that you will have heard it once. He is worth nothing. You kill him, and you say his name, and you go on. A small frightened greedy man who has seen you is the thing that ends you, not the Vibian, not the Trimmer, him. And Jonah had said, on the rock, yes. He had meant it.
+The old man had said it on the rock of the Cradle with the stick across his knees. There will be a man who has seen you. Small, afraid, greedy. He is worth nothing. You kill him, and you say his name, and you go on. A small frightened greedy man who has seen you is what ends you. Not the Vibian. Him. And Jonah had said, yes.
 
-He thought about a man on a bucket with his eyes shut saying, once, to take one. He thought about a guard coming down a road slow with his rifle down. He thought about a boy's cutting saying please and a thing with a name that had heard the word once and knew what it was for.
+He thought about a man on a bucket with his eyes shut saying, once, to take one. A guard coming down a road slow with his rifle down. A boy's cutting saying please.
 
 He thought about what a stripe was worth.
 
 "Two shards," he said.
 
-Nasso did not say anything.
+Nasso said nothing.
 
-"Two. On the slab. Beside the first. That's three. Three's more than you'd get from the ring for Morrow's slab in a year. It's yours. It's for the reading, which I've had, and for the thing you've not done, which is ring the bell." He put them down. "And for the thing you'll not do. Which is write it."
+"Two. On the slab. Beside the first. That's three. Three's more than the ring would give you for Morrow's slab in a year." He put them down. "That's for the reading, which I've had. For the bell, which you've not rung. And for what you'll not do, which is write it."
 
 "A Flamen finishes a reading."
 
-"Finish it in your head. Say the remarks. I know how they go; I've had three." Jonah stood back from the slab. "Say them to me and then never say them again."
+"Finish it in your head. Say the remarks. I know how they go. I've had three." Jonah stood back from the slab. "Say them to me, and then never say them again."
 
-Nasso looked at the three shards on the cracked glass.
-
-Then he looked at the arm, which was still there, on the slab, with the white line up, because Jonah had not taken it away. He said it, in the voice for the slab, the old careful one, the way a Flamen finishes:
+Nasso looked at the three shards on the cracked glass. Then at the arm, still on the slab with the white line up. He said it in the old careful voice, the one for the slab:
 
     READING. Unlicensed. Anvil, lower docks.
     Bearer: unknown.
@@ -186,30 +180,34 @@ He took his arm off the glass.
 
 ---
 
-He would tell the one person, years later, that this was the mistake. She would say, which. He would say: the shed. The Flamen. I'd read the four thousand arms in his hands and the bell under his slab and the shake in his voice when he said whole. I'd counted it. It came out to a small frightened greedy man with a thing in his head worth a senator's seat. I stood over him with my boot off a Blank's wrist. I did the sum the old man told me the answer to on a rock, and I got it wrong on purpose.
+He would tell her, a year later, that this was the mistake. Not the road. The shed.
 
-And she would say, why.
+"You'd counted him," she would say.
 
-And he would say: because he hadn't rung the bell. Because a boy's cutting had said please and I'd stopped, and a guard had come down a road slow. I'd started to think that a man who has the bell under his hand and doesn't ring it is a man who's decided something. I wanted that to be worth a stripe. I wanted it to be worth more than a senator's seat. I wanted there to be a line on the slate for it.
+"I'd counted him. Four thousand arms in his hands and a bell under his slab and a shake in his voice when he said whole. A small frightened greedy man with a senator's seat in his head. I stood over him with my boot off a Blank's wrist. I did the sum the old man gave me the answer to, and I got it wrong on purpose."
 
-And she would say, was there.
+"Why."
 
-And he would say, no. There was a line for what he did after. That's the only kind there is.
+"Because he hadn't rung the bell. Because a cutting had said please and I'd stopped, and a guard had come down a road slow. I wanted a man with a bell under his hand who doesn't ring it to be worth something. More than a senator's seat. I wanted a line on the slate for it."
+
+"Was there."
+
+"No. There was a line for what he did after. That's the only kind there is."
 
 ---
 
-He went out of the shed into the smoke with the reading in him and the hood up. The two Tiro sat against the wall with their arms in their laps. Nasso sat on his stool with three shards on a cracked slab and his long clean hands flat beside them, his heart going fast and thin. He did not look back, because he had decided. A decided thing is a thing you do not look back at, the old man had said, or you will do it twice.
+He went out of the shed into the smoke with the reading in him and the hood up. The two Tiro sat against the wall with their arms in their laps. Nasso sat on his stool with three shards on a cracked slab and his hands flat beside them. Jonah did not look back. A decided thing you do not look back at, the old man had said, or you do it twice.
 
 He stood in the north yards with the melt-house chimney going over him.
 
-"Indeterminate," he said, to the thing in the doorway of him, in the old tongue. "Lines that won't hold still. Wit, no value returned. Four unrecognized." He breathed the smoke. "That's what I am on a glass. Not forty-two. Not anything. The College's word for a thing that doesn't happen. That's the answer I told Yara I'd have in a month, and I've got it. It's not an answer, it's a reading that says the glass doesn't know."
+"Indeterminate," he said to Tacitus, in the old tongue. "Lines that won't hold still. Wit, no value returned. Four unrecognized." He breathed the smoke. "That's what I am on a glass. Not forty-two. Not anything. The College's word for what doesn't happen. That's the answer I told Yara I'd have in a month. It's not an answer. It's a reading that says the glass doesn't know."
 
-The thing in the doorway did not say its word.
+Tacitus did not say its word.
 
-It did the other thing. It turned, in the doorway, the way it had turned in the Chamber when it heard its name. It looked, not at him, but at the thing the Flamen had read: at itself. At the eating thing and the shifting thing. At the hearing thing and the thing that felt boots through rock. Four things a man with four thousand arms behind him had no line for. It looked at them the way a man looks at his own hands the first time somebody tells him they are his. Jonah felt it look. He felt what it felt, which was not pride and not hunger and not interest.
+It turned in the doorway of him and looked at itself. At the four gifts the Flamen had no line for. The eating one, the shifting one, the hearing one, the one that felt boots through rock. It looked at them the way a man looks at his own hands the first time somebody tells him they are his. Jonah felt it look. What it felt was not pride and not hunger.
 
-It was the thing a man feels who has been told, by somebody with the right to say it, that he does not have a name in the book, and has decided, standing in the smoke, that he will have one.
+It had been told, by somebody with the right to say it, that it had no name in the book. And it had decided, standing in the smoke, that it would have one.
 
 "Yes," Jonah said. "All right. Yes. Tonight."
 
-Behind him, in the shed, an old man who had finished a reading sat for a long time with his hands beside three shards. Then he took a pen out of his robe, and did not use it. He put it back, and took it out again.
+Behind him, in the shed, an old man sat for a long time with his hands beside three shards. Then he took a pen out of his robe, and did not use it. He put it back, and took it out again.

@@ -2,25 +2,25 @@
 
 The bar went into the groove and the lid came up. There was light, and he could see it.
 
-That was the first thing. Not the lamp, not the face over it, not the hold; the seeing. He had gone into the cask blind with a white fever behind his eyes. He lay in the ring now with the lid coming off and looked up at a lamp. It was a lamp, yellow, hanging from a hook on a beam, swinging a little with the hull. It was the first thing he had seen in thirty-one days. He looked at it the way he had looked at the Kestrel's yoke the first time, as a thing that answered.
+Not the lamp, not the face over it. The seeing. He had gone into the cask blind with a white fever behind his eyes. Now he lay in the ring looking up at a yellow lamp on a hook, swinging a little with the hull. The first thing he had seen in thirty-one days.
 
-Then the face came over the rim, and stopped.
+Then a face came over the rim, and stopped.
 
-It was an old face. Belt-brown, with a Halyard's flat nose and a beard cut short with a knife. A bar in one hand and a lamp in the other. It looked down into a cask of the College's sealed harvest and saw seventy slabs of the Vein standing in a ring, and a man lying in the middle of them with a white line on his arm. It did what a face does that has opened a great many casks and never once found that.
+An old face. Belt-brown, a Halyard's flat nose, a beard cut short with a knife. A bar in one hand and a lamp in the other. It looked down into a sealed College cask, at seventy slabs of the Vein standing in a ring, and at a man lying in the middle of them with a white line on his arm.
 
 "Hal," the old man said. Not loud. "Hal. Get Kaspar."
 
-Jonah said, in the old tongue, from the bottom of the well: let go.
+Jonah said, in the old tongue: let go.
 
 It let go at once this time.
 
-His heart came up. It came up the way it had on the floor of the Cradle, slowly, through the names of things. It was a good heart. It was forty-one and settled and the coat fitted. The rest of him was not. He found that out when he tried to move. He put his hands on the slabs to sit up and the hands did not do it. They shook. Not the six years' way and not the fever's way; they shook the way a thing shakes that has not been used for a month and has forgotten how. His legs were not there at all. His mouth was dry in a way that went all the way down. He understood, lying in the ring with an old Halyard's lamp on his face, that a thing with a name had held him thirty-one days without letting him wear, and had held him well. A man who has not eaten for thirty-one days has still not eaten.
+His heart came up slowly, through the names of things, the same as on the floor of the Cradle. It was a good heart. Forty-one, settled, the coat fitted. The rest of him was not good. He put his hands on the slabs to sit up and the hands did not do it. They shook. Not the six years' shake and not the fever's; a month unused, and forgotten how. His legs were not there at all. His mouth was dry all the way down. Tacitus had held him thirty-one days without letting him wear, and held him well. A man who has not eaten for thirty-one days has still not eaten.
 
 The hunger came up with the heart.
 
-Not his. Tacitus's. It had held him as matter for a month and eaten nothing, because a thing holding does not eat. It came up out of the well with him now the way it had come up in the Mouth, all at once, everywhere. There were nine people on the ship and two of them were plated. It knew where both of them were before he did.
+Not his. Tacitus's. It had held him as matter for a month and eaten nothing, because holding is not eating. Now it came up all at once, everywhere, as it had in the Mouth. Nine people on the ship, and two of them plated. It knew where both were before he did.
 
-"Don't," he said, aloud, to it, in the old tongue. His voice came out of him in pieces. "Not yet."
+"Don't," he said aloud, in the old tongue. His voice came out in pieces. "Not yet."
 
 The old man with the bar looked at him.
 
@@ -32,21 +32,21 @@ The old man with the bar looked at him.
 
 He got the minute and not more.
 
-Kaspar came down the ladder into the hold with a lamp and a fang out. The plate was up on him to the elbows, grey, a Blank's plate, thin. Jonah felt him coming before the boots hit the deck, the way he felt everything now; a Tiro six, a cutting in the right arm, Plate and Blade and one more. A heart going fast. Behind him on the ladder were two more, unplated, with knives. The old man with the bar had stepped back from the cask and set the lamp on a cask beside it. He was holding the bar in both hands now.
+Kaspar came down the ladder with a lamp and a fang out. Plate up to the elbows, grey, a Blank's plate, thin. Jonah felt him before the boots hit the deck: a Tiro six, a cutting in the right arm, Plate and Blade and one more. A fast heart. Two more men behind him on the ladder, unplated, with knives. The old man had set his lamp on the next cask and had the bar in both hands.
 
-"What is it," Kaspar said. Belt accent, Halyard under it. Young. Thirty, and the mate. Afraid, and covering it with the plate.
+"What is it," Kaspar said. Belt accent, Halyard under it. Thirty, and the mate. Afraid, and covering it with the plate.
 
 "A man." The old one did not take his eyes off the cask. "In thirty-one. In a ring. Somebody packed him. He's got a collar line and he says he can't feel his legs."
 
 "A convict."
 
-"He was in a sealed cask, Kaspar. With a Flamen's mark on it." The old man's voice was flat. "I've opened casks for the skim thirty years and I've never once opened one with a mark on it that wasn't a mark. This one's a mark. I looked. It's a knot, it's the College's, and it's the wrong way round. I looked at it a long time before I got the bar. It's backward. Like a thing seen in water." He breathed. "Somebody sealed that cask from inside."
+"He was in a sealed cask, Kaspar. With a Flamen's mark on it." The old man's voice was flat. "Thirty years I've opened casks for the skim. Never once one with a real mark. This one's real. It's a knot, it's the College's, and it's the wrong way round. Backward. I looked a long time before I got the bar." He breathed. "Somebody sealed that cask from inside."
 
 Kaspar looked at the cask.
 
-Jonah watched him look. He was sitting up now; he had got his hands to work by putting the plate into them, a little, the way he had put it into a slate. The plate had come up on his palms and he had pushed with it. He sat in the ring with seventy slabs standing round him and his back against the far course. He looked at four men in a freighter's hold over the rim of a cask, and counted.
+Jonah watched him look. He had got his hands working by putting a little plate into them, the same trick as on a slate, and pushed himself up against the far course. He sat in the ring, looked at four men in a freighter's hold over the rim, and counted.
 
-It came out badly. He knew it before it finished. Four men who skimmed a College harvest, on a contractor's freighter, thirty-one days out, with a stowaway in a sealed cask, and the seal broken, by them, with a bar. A College that never asked what happened to two casks in forty would ask, very carefully, what had happened to a cask that came in with its mark broken and a Collar's story in it. A crew that had found the cask had one thing they could do about it that did not end with all of them on a slab. It was the thing a crew did with a stowaway in the Belt. The lock, and the dark, and forty casks on the dock with a story about a seal that had cracked in the cold.
+It came out badly. A crew that skimmed a College harvest, thirty-one days out, with a stowaway in a sealed cask and the seal broken by their own bar. The College never asked about two casks in forty. It would ask, very carefully, about a cask that came in with its mark broken and a Collar's story in it. A crew had one move that did not end with all of them on a slab. The lock, and the dark, and forty casks on the dock with a story about a seal that cracked in the cold.
 
 "He goes out the lock," Kaspar said.
 
@@ -56,91 +56,91 @@ It came out badly. He knew it before it finished. Four men who skimmed a College
 
 The two with knives came round the cask.
 
-Jonah said, to the thing in the doorway, in the old tongue, very quietly: not the plated one. Not first.
+Jonah said to Tacitus, in the old tongue, very quietly: not the plated one. Not first.
 
-And they took his arms and lifted. His legs did not hold him. They had him half out of the ring with his knees on the rim and his hands on the slabs when the plate came up.
+They took his arms and lifted. His legs did not hold. They had him half out of the ring, knees on the rim, hands on the slabs, when the plate came up.
 
 ---
 
 It came up wrong.
 
-He had known it would. The old man had said it with a stick: after a big jump you learn your own plate again, it is not a cutting, it does not settle like one, it settles faster and different every time. He had learned it again at twenty-four and at twenty-eight and at thirty-one on the floor of the Cradle with a month to do it in. He had thirty-one days of being matter and no floor and no month. The plate came up on him in a Halyard freighter's hold with two men's hands on his arms. It was forty-one, and it was the wrong shape.
+He had known it would. After a big jump you learn your own plate again; it settles faster than a cutting and different every time. He had learned it at twenty-four and at twenty-eight and at thirty-one, with a month to do it in. This time he had thirty-one days as matter and no month. The plate came up on him in a Halyard hold with two men's hands on his arms, and it was forty-one, and it was the wrong shape.
 
-Not everywhere. It had always been everywhere. It came up now the way a thing comes up that has learned a new trick and does not know yet where the trick goes. It came up thick on the forearms where the fang had eaten strips on the road, thicker than it had ever been, and thin on the back. Over the seams it did a thing he had never felt it do, which was close. Not go up over them, the Wall way, because he was not lying about where he was afraid. Shut. The seam at the throat and the seam at the armpit and the seam at the hip shut the way a lid shuts in a groove. He felt them shut and did not know what it was. It was heavy. The man on his left arm said, "What," the way the boy had said it in the cut, and let go.
+Thick on the forearms where the fang had eaten strips on the road, thicker than ever. Thin on the back. And over the seams it did something he had never felt it do. It shut. The seam at the throat, the seam at the armpit, the seam at the hip, shut hard, a lid in a groove. He felt them shut and did not know what it was. It was heavy. The man on his left arm said, "What," and let go.
 
 Jonah went over the rim.
 
-He went over it the way he had at the road's end, one hand, the whole weight. The weight was wrong and the hand did not hold. He went down onto the deck of the hold on his knees between two casks, with a man with a knife on either side of him and a mate with a fang coming. His legs were not there. He put the fang out.
+One hand, the whole weight, the same as at the road's end. The weight was wrong and the hand did not hold. He went down on his knees on the deck between two casks, a knife on either side of him, a mate with a fang coming. His legs were not there. He put the fang out.
 
-It came out of the back of his right wrist. It always had. And it went past the place he had put it.
+It came out of the back of his right wrist. It always had. And it went past where he put it.
 
-He had put it a hand long, the way it came, the crooked one. It came out a hand long and then it was an arm long, in the same motion, without his asking. It went past the man on his right, who had been a hand out of reach, and through the meat of his thigh, high, and out. The man sat down on the deck and looked at the leg. Jonah looked at the fang.
+He had put it a hand long, the crooked one. It came out a hand long and then it was an arm long, in the same motion, without his asking. It went past the man on his right, who had been a hand out of reach, and through the meat of his thigh, high, and out. The man sat down on the deck and looked at his leg. Jonah looked at the fang.
 
-Reach. He had the word from a page. The fang changes length mid-cut. It was a thing a licensed Centurion's cutting had, and did every day for twenty years without thinking, the way a hand goes to a bucket handle. Jonah had eaten the cutting on the Deep road, all of it, a fifth of it into him in the time a man takes to sit down. Every gift a lorica holds has a chance to pass, the old man had said. This one had passed, and it had come out wrong. He had not asked for an arm. He had asked for a hand. It had given him what Sabinus would have wanted.
+Reach. He had the word from a page: the fang changes length mid-cut. A licensed Centurion's cutting did it every day for twenty years without thinking. Jonah had eaten that cutting on the Deep road, all of it, and every gift a lorica holds has a chance to pass. This one had passed, and it had come out wrong. He had asked for a hand. It had given him what Sabinus would have wanted.
 
 That was the echo.
 
-He felt it then, on his knees on the deck. It was the first since Varro, and it was worse. Varro had been feet. A duellist's feet and a duellist's contempt, in his hands. He had won three fights on them and hated it. The old man had spent a year getting them out. This was not feet. This was a way of looking at a hold full of Blanks with knives, bored, from a long way up, as slabs that would come or would not. It was in his eyes, behind them, where the fever had been. It looked at the mate coming with a thin grey fang and a Tiro six's plate. It thought, without words, in a voice that was not his: that one's nothing.
+He felt it then, on his knees. The first since Varro, and worse. Varro had been feet: a duellist's feet and a duellist's contempt. The old man had spent a year getting them out. This was not feet. This was a way of looking at a hold full of Blanks with knives, bored, from a long way up, as slabs that would come or would not. It sat behind his eyes where the fever had been. It looked at the mate coming with a thin grey fang and thought, in a voice that was not his: that one's nothing.
 
 "No," Jonah said, aloud. "Not yours. Mine."
 
 Kaspar came in.
 
-He came in the garrison way, because there was only one way and every school in the Empire taught it; high, for the throat seam. The throat seam was shut. Jonah felt the fang hit it and skid. Not into plate; off it, the way a knife skids off a lid. The mate's face did the thing the boy's had done at the road's end. Jonah was still on his knees. He did the only thing his legs would do, which was not stand.
+The garrison way, high, for the throat seam, because every school in the Empire taught it. The throat seam was shut. The fang hit it and skidded. Not into plate. Off it. The mate's face did what the boy's had done at the road's end. Jonah was still on his knees. His legs would not stand, so he did the one thing they would do.
 
 He stepped.
 
-Not up. Sideways, on his knees, half a pace, into the place the fang was not. It was the water step, and it was right. It was the first time in his life. He had done it three hundred times on the rock and three times in a cut and twice on a road. It had been half every time, ugly, late, his. On his knees on the deck of a Halyard freighter with a Tiro's fang going past his ear it was whole, and smooth, and early. It was not his. It was Sabinus's. It was in his knees the way the wrist turn had been in his hands off a dead decurion. He did it perfectly. He wanted, on his knees in a hold with a fang out, to be sick.
+Sideways, on his knees, half a pace, into the place the fang was not. The water step, and it was right. The first time in his life. Three hundred times on the rock, three in a cut, twice on a road, and it had been half every time, ugly, late, his. On his knees in a Halyard hold with a Tiro's fang going past his ear it was whole and smooth and early. It was not his. It was Sabinus's, in his knees, the way the wrist turn had been in his hands off a dead decurion. He did it perfectly. He wanted to be sick.
 
 He took the mate's arm instead.
 
-Both hands. The wrist and the elbow, the way Varro had known and Livia had named. The arm went the way arms do not go. The fang went out of the fingers and clattered on the deck. It was not a fang anymore, it was plate, gone back into the cutting. Jonah had the arm, the right arm, the plated one, in both hands. The hunger, which had been holding since the lid came off, stopped holding.
+Both hands, wrist and elbow, the turn Varro had known and Livia had named. The arm went where arms do not go. The fang went out of the fingers, back into plate. Jonah had the right arm, the plated one, in both hands. The hunger, which had been holding since the lid came off, stopped holding.
 
 It went in.
 
-It went in through his palms into the grey thin Blank's plate on a mate's forearm. It found the cutting under it and did what it did. Not one bite. It had been thirty-one days without eating. Before that, a month on eleven slabs and a shackle and a Centurion. It had held a man as matter the whole of that time with its hands closed on his heart, and had been polite about it. It was not polite now. It ate. He felt it eat the way he had felt it eat the shackle, want by want, hold, hold. This was not a shackle. This was a lorica on a living man, a Tiro six. A cutting that had been in a Halyard boy's arm since he was fourteen and had grown with him. It had gone up six grades in sixteen years on a freighter that never once had a fight. It had wants, and Jonah heard them.
+Through his palms, into the thin grey plate on a mate's forearm, to the cutting under it. Not one bite. Thirty-one days without eating; before that a month on eleven slabs and a shackle and a Centurion. It had held a man the whole of that time with its hands closed on his heart and been polite about it. It was not polite now. It ate. Want by want, hold, hold, the same as the shackle. But this was not a shackle. This was a lorica on a living man. A cutting that had been in a Halyard boy's arm since he was fourteen and grown with him, six grades in sixteen years on a freighter that never once had a fight. It had wants, and Jonah heard them.
 
-That was the thing that stopped him.
+That was what stopped him.
 
-Not the mate screaming. Kaspar was screaming. He was on his knees on the deck with a Collar's hands on his arm and his plate going in strips into the Collar's palms. He was screaming the way a man screams whose arm is being taken off by something he cannot see. Jonah heard that. It was a sound, and he had heard a great many sounds. He heard the other thing under it. He heard it the way he had heard the College shackle say hold, through the plate, through the palm, in the tongue the wall spoke. A small thing, a cutting, six grades, that had never once been asked for anything but plate and a fang and had given them. It was saying, to the thing eating it, in the only word it had, the way a man says it who has nothing else to say:
+Not the screaming. Kaspar was on his knees with a Collar's hands on his arm and his plate going into the Collar's palms in strips, screaming with his whole chest. Jonah heard that. He had heard a great many sounds. He heard something under it too, through the plate, through the palm, in the tongue the wall spoke. A small cutting, six grades, that had never been asked for anything but plate and a fang, saying to what was eating it the only word it had:
 
 Please.
 
 He let go.
 
-He let go the way Tacitus had let go of his heart when he said let go at the bottom of the well: not at once, and then at once. The hunger did not want to. It had half a lorica in it and the other half three fingers away. It was thirty-one days empty. It did the doorway thing, the deciding. Jonah said, in the old tongue, aloud, on his knees, with a Halyard mate screaming in his hands:
+Not at once, and then at once. The hunger did not want to. It had half a lorica in it and the other half three fingers away, and it was thirty-one days empty. It hesitated. Jonah said, in the old tongue, aloud, with a Halyard mate screaming in his hands:
 
 "No. That one said please. Let go."
 
 It let go.
 
-Kaspar fell over. He lay on the deck of the hold with his right arm bare to the elbow. Bare, not plated and not skin. The plate was gone off it in a patch the shape of two hands. The skin under it was grey and shining where a cutting had been half eaten and had not died. He stopped screaming, because he had run out. He lay there breathing with his eyes open looking at the beam.
+Kaspar fell over. He lay on the deck with his right arm bare to the elbow. Not plated and not skin. The plate was gone off it in a patch the shape of two hands, and the skin under it was grey and shining where a cutting had been half eaten and had not died. He stopped screaming because he had run out. He lay breathing with his eyes open, looking at the beam.
 
 Jonah knelt beside him with his hands empty.
 
-The hold was quiet. Pike stood by the cask with the bar in both hands and had not moved. Dov sat against a cask with his hands round his thigh, blood coming between the fingers, his face white. Hal was on the ladder, halfway, with a knife, looking down. He had been there since the plate came up. He had not come down and had not gone up.
+Pike stood by the cask with the bar in both hands and had not moved. Dov sat against a cask with his hands round his thigh, blood between the fingers, face white. Hal was halfway down the ladder with a knife, looking down. He had been there since the plate came up.
 
-And the thing in the doorway settled.
+And Tacitus settled.
 
-Jonah felt it settle. Half a lorica, a Tiro six's, three grades of it. It went in and did not fight. It settled the way the shackle had. He felt the coat pull in one more size, from forty-one, and it was forty-two. It was not a thing he wanted. He had not once wanted it. He knelt on the deck of a Halyard freighter's hold with a boy's half-eaten arm beside him. He felt himself get a grade for it and thought, this is what the old man meant. This is the Law. The strong eat the weak and get stronger. There's no line on the slate for what the weak said while it happened. I've a line for it. I'll write it.
+Half a lorica, a Tiro six's, three grades of it. It went in and did not fight. The coat pulled in one more size, from forty-one to forty-two. He had not wanted it. He had not once wanted it. He knelt in a hold beside a boy's half-eaten arm and got a grade for it, and thought: this is what the old man meant. This is the Law. The strong eat the weak and get stronger. There's no line on the slate for what the weak said while it happened. I've a line for it. I'll write it.
 
-And then he felt the other thing, and it was new.
+Then he felt the other new thing.
 
-The half of the cutting that had gone into him had had a gift. He had felt it pass the way he had felt Reach pass on the road, without asking. It was Seal, the plate gift, the one that shut seams. It was the thing his plate had done when it came up wrong. The seams shutting. He had felt them shut and not known what it was. It was this. It was a Halyard boy's cutting's one trick, the thing a lorica learns on a ship where the cold gets into the seams. It had come across in a half and it was wrong. He felt it be wrong. It shut the seams, and it shut them the way the harvest mark had closed from inside, backward, lumpy, a knot the wrong way round. The plate over his throat was sealed. It was heavy. It would not open when he asked it to, and then it did, badly. He knelt with his neck plated and unplated and plated again. He thought, wrong-shaped. Both of them. The Reach and the Seal. I ate one whole and one half and I've got both of them wrong.
+The half cutting had had a gift, and it had passed, without asking, the same as Reach. Seal. The plate gift that shuts seams. That was what his plate had done when it came up wrong. A Halyard boy's cutting's one trick, learned on a ship where the cold gets into the seams. It had come across in a half, and it was wrong. It shut the seams backward and lumpy, a knot the wrong way round, the harvest mark closing from inside. The plate over his throat was sealed. It would not open when he asked, and then it did, badly. He knelt with his neck plated and unplated and plated again. Wrong-shaped. Both of them. One eaten whole, one half, and both wrong.
 
 "Pike," he said.
 
 The old man did not answer.
 
-"Pike. Your mate's alive. His arm's not going to be what it was. Dov's leg'll heal; I went through the meat, I'm a foreman, I know where the meat is." He put his hand flat on the deck. He could feel the ship through it, the whole of it, the way he had felt the road. There were nine hearts on it, and eight of them were going fast. One, on the deck above, forward, had been going fast since the screaming started and had stopped. It was going slow now, on purpose, the way a heart goes slow when a man is making it. "That's your captain coming down. She's plated. She's Tiro nine. She's got Hush and she's running it inward, which is a thing I've done six years. So I know what it costs her and I know she's not coming down to fight me." He looked at the ladder. "Tell her I've stopped. Tell her I stopped when he said please."
+"Pike. Your mate's alive. His arm's not going to be what it was. Dov's leg'll heal. I went through the meat; I'm a foreman, I know where the meat is." He put his hand flat on the deck and felt the ship through it, the whole of it. Nine hearts, eight of them fast. One, on the deck above, forward, had gone fast when the screaming started and then slowed. On purpose. "That's your captain coming down. She's plated. Tiro nine. She's got Hush and she's running it inward, and I did that six years, so I know what it costs her. She's not coming down to fight me." He looked at the ladder. "Tell her I've stopped. Tell her I stopped when he said please."
 
 ---
 
-Yara came down the ladder the way a captain comes into her own hold, without hurrying. She had a fang out, and it was not for him.
+Yara came down the ladder without hurrying, with a fang out. It was not for him.
 
-He saw that. He saw her see the hold from the bottom of the ladder. The mate on the deck with his arm bare. Dov's leg. Pike with the bar. The Collar on his knees between the casks with his hands flat on the deck and his neck plated wrong. The fang was in her hand the way Sabinus had carried his, point down, a thing she had carried so long it was not a thing. She did not point it at him. She held it, and stood at the bottom of the ladder, and looked. Her heart was slow, and it was costing her.
+He saw her see the hold from the bottom rung. The mate with his arm bare. Dov's leg. Pike with the bar. The Collar on his knees with his hands flat on her deck and his neck plated wrong. She carried the fang point down, the way Sabinus had. She did not point it at him. Her heart was slow, and it was costing her.
 
-She was forty. Halyard, flat-nosed, with a Blank's thin stripe on her wrist. The stripe was new, ten years, not more. She had grey in her hair and a face that had never once in its life been surprised by anything it found in a hold. It was not surprised now. It was counting. He watched her count and it was his count, the same one, all at once, without looking. She came out where he had come out, and her face did nothing.
+Forty. Halyard, flat-nosed, a Blank's thin stripe on her wrist, ten years old at most. Grey in her hair and a face that had never once been surprised by anything in a hold. It was counting. He watched her run his count, the same one, all at once, and come out where he had come out. Her face did nothing.
 
 "You're the thing in thirty-one," she said.
 
@@ -148,27 +148,27 @@ She was forty. Halyard, flat-nosed, with a Blank's thin stripe on her wrist. The
 
 "Pike says the mark's backward."
 
-"I made it. From inside. With my hand." He did not move. "There's no Flamen on this ship and there's no Flamen on the dock you're going to. You're not going to a dock the College watches. You're going to a yard in the Belt where the two casks you skim go. You'll put thirty-eight on a College dock a week later with a story. Nobody was ever going to look at thirty-one's mark. Pike looked. He looks at everything. That's why he's alive at seventy on a skimmer."
+"I made it. From inside. With my hand." He did not move. "There's no Flamen on this ship and none on the dock you're going to. You're going to a yard in the Belt where the two casks you skim go. You'll put thirty-eight on a College dock a week later with a story. Nobody was ever going to look at thirty-one's mark. Pike looked. He looks at everything. That's why he's alive at seventy on a skimmer."
 
 Yara looked at Pike.
 
 "He talks," Pike said.
 
-"He's a Collar with a white line who came out of a sealed cask and took Kaspar's arm half off with his hands." She said it to the old man without any weight. "And he talks. He's on his knees with his hands flat on my deck. Which of those do I count?"
+"He's a Collar with a white line who came out of a sealed cask and took Kaspar's arm half off with his hands." She said it without weight. "And he talks. He's on his knees with his hands flat on my deck. Which of those do I count?"
 
 "All of it," Jonah said. "That's the only way it comes out."
 
-She looked at him then. Properly. The way the woman on the stool had, six weeks and thirty-one days ago, for longer than a number took. He let her, and did not do anything with his face, because there was nothing on it that was not true. He was a man who could not stand. He was forty-two and settled and wrong-shaped. He had a boy's cutting saying please in him, and a Centurion's contempt behind his eyes that was not his. He was hungry, and it was showing. He was not going to eat anyone else on this ship. He did not know how to say that in a way a Halyard captain with a fang would believe, so he did not say it. He put it on his face and let her read it.
+She looked at him then. Properly, for longer than a number takes, the way the woman on the stool had. He let her, and did nothing with his face, because nothing on it was untrue. A man who could not stand. Forty-two, settled, wrong-shaped. A boy's cutting saying please in him and a Centurion's contempt behind his eyes. Hungry, and showing it. Not going to eat anyone else on this ship. He did not know how to say that so a Halyard captain with a fang would believe it, so he let her read it.
 
 "What are you," Yara said.
 
 He thought about a purser's pilot off Anvil.
 
-"I don't know," he said. "I've been asked three times in a month by people with the right to ask, and I've said the thing I was. It's not true anymore, and I've not got the new one yet." He breathed. "I'm a man who's been in a box thirty-one days and hasn't eaten. I've a letter on my chest from a girl to her father. Her father's dead, and I did it, and I'm going to find her. That's what I am tonight. Ask me again in a month."
+"I don't know," he said. "I've been asked three times in a month by people with the right to ask, and I've said what I was. It's not true anymore, and I've not got the new one yet." He breathed. "I'm a man who's been in a box thirty-one days and hasn't eaten. I've a letter on my chest from a girl to her father. Her father's dead, and I did it, and I'm going to find her. That's what I am tonight. Ask me again in a month."
 
-Yara did not say anything.
+Yara said nothing.
 
-She looked at the mate on the deck. Kaspar had turned his head and was looking at her. His face was the face of a man who has had a thing taken off him that he had had since he was fourteen. She looked at the arm, and at the grey shining patch where a cutting had been half eaten and had lived. Jonah watched her put that with the rest. It weighed, and she let it.
+She looked at Kaspar. He had turned his head and was looking at her, with the face of a man who has had something taken off him that he had had since he was fourteen. She looked at the grey shining patch on the arm and let it weigh.
 
 "He said please," she said. "Pike says you said that. That you stopped when he said please."
 
@@ -180,13 +180,13 @@ She looked at the mate on the deck. Kaspar had turned his head and was looking a
 
 The hold was very quiet.
 
-Yara stood at the bottom of her ladder with a fang in her hand and looked at a Collar who had just told her that a lorica had asked him for something. Jonah watched the thing go across her face that had gone across the Censor's on a shelf when a Collar said the wall had shown him something. It was the face of a person who has spent a long time being the only one who knows a thing, and has just been told it by a stranger, and would rather not have been.
+Yara stood at the bottom of her ladder and looked at a Collar who had just told her a lorica had asked him for something. Her face did what the Censor's had done on the shelf, when a Collar said the wall had shown him something. The face of a person who has spent a long time being the only one who knows something, and has just heard it from a stranger, and would rather not have.
 
 "Put your plate away," she said.
 
-He tried. It went. Not clean; the seals let go last, wrong, the way they had shut. The throat came open in a lump. He knelt on the deck with his neck bare and his hands bare and looked at her.
+He tried. It went. Not clean; the seals let go last, in lumps. The throat came open last. He knelt with his neck bare and his hands bare and looked at her.
 
-"Hal. Come down off that ladder and get a bowl of something into him. Pike, Dov's leg. Kaspar." She stopped. She went across the hold and knelt beside her mate. She put her hand on the bare arm, on the grey patch. He made a sound, and she did not take the hand away. "Kaspar. It's still in there. I can feel it. It's half and it's alive. It's not coming back to what it was. You're not going to be a mate on a Halyard ship with half a cutting, and I'm sorry. I'll say that once. I'll not say it again because it won't help." She looked at Jonah over the mate's head. "You did that."
+"Hal. Come down off that ladder and get a bowl of something into him. Pike, Dov's leg. Kaspar." She stopped, crossed the hold, and knelt by her mate. She put her hand on the grey patch. He made a sound. She did not take the hand away. "Kaspar. It's still in there. I can feel it. It's half and it's alive. It's not coming back to what it was. You're not going to be a mate on a Halyard ship with half a cutting, and I'm sorry. I'll say that once. I'll not say it again because it won't help." She looked at Jonah over the mate's head. "You did that."
 
 "Yes."
 
@@ -196,11 +196,11 @@ He tried. It went. Not clean; the seals let go last, wrong, the way they had shu
 
 "That's not what I asked."
 
-"No," Jonah said. "It's not." He did not look away. "Ask me the other thing. The one you came down to ask. It's not what am I. You'd not have come down the ladder for that with your heart slowed on purpose. You came down because Pike said backward, and a thing that seals a College cask from inside isn't a convict. You wanted to see it before Kaspar put it out the lock, because you've a use for a thing like that. You were counting what it would cost you before you got to the bottom of the ladder. You've counted, and it's come out. So ask."
+"No," Jonah said. "It's not." He did not look away. "Ask me the other one. The one you came down to ask. It's not what am I. You'd not have slowed your heart on purpose and come down a ladder for that. You came because Pike said backward, and a man who seals a College cask from inside isn't a convict. You wanted to see him before Kaspar put him out the lock, because you've a use for him. You were counting the cost before you got to the bottom rung. You've counted. It's come out. So ask."
 
-Yara knelt beside her mate with her hand on his arm and looked at him for a long time.
+Yara knelt with her hand on her mate's arm and looked at him for a long time.
 
-"Not tonight," she said. "Tonight you eat, and you get your legs. You sit in that cask with the lid off, and Pike sits on a stool with a bar and watches you. If you put your plate up he hits you with the bar, and then we'll all find out what happens. Tomorrow I'll ask." She stood up. "It's thirty-one days to the yard. You've a month to get your new answer. I've a month to decide if I want to hear it."
+"Not tonight," she said. "Tonight you eat, and you get your legs. You sit in that cask with the lid off, and Pike sits on a stool with a bar and watches you. If you put your plate up he hits you with the bar, and then we'll all find out what happens. Tomorrow I'll ask." She stood. "It's thirty-one days to the yard. You've a month to get your new answer. I've a month to decide if I want to hear it."
 
 "That's fair."
 
@@ -214,9 +214,9 @@ Yara knelt beside her mate with her hand on his arm and looked at him for a long
 
 He ate.
 
-Hal brought a bowl and it was fish, a Belt fish, in a broth. He took it in hands that shook and got it to his mouth. It was the first thing he had tasted since Ullan's last morning and he did not taste it. He got it down. He got a second down. The hunger, the other one, Tacitus's, did not go down with it. Fish was not matter, and a thing that ate loricae did not eat fish. It sat in the doorway of him with three grades of a Halyard boy's cutting in it, and the rest of that cutting alive on the deck ten paces off. It looked, and did not lean, because it had been told no, and had heard why.
+Hal brought a bowl. Belt fish in a broth. He got it to his mouth in hands that shook. It was the first food since Ullan's last morning and he did not taste it. He got it down, and a second. The other hunger, Tacitus's, did not go down with it. Fish was not matter. It sat in the doorway of him with three grades of a Halyard boy's cutting in it and the rest of that cutting alive on the deck ten paces off. It looked. It did not lean, because it had been told no, and had heard why.
 
-He sat in the cask with the lid off. Pike sat on a stool with the bar across his knees, the way the old man had sat with a stick, and watched him. He did not say anything for an hour, and then said:
+He sat in the cask with the lid off. Pike sat on a stool with the bar across his knees and watched him, and said nothing for an hour. Then:
 
 "Thirty years I've opened casks."
 
@@ -228,7 +228,7 @@ He sat in the cask with the lid off. Pike sat on a stool with the bar across his
 
 "Show me."
 
-Jonah looked at him. Then he put his palm flat on the inside of the cask, on the dark glass of the Vein that had held him a month, and asked. The shape went out through the plate on his palm into the glass, the knot of closed lines. It took, and it was the wrong way round. Pike leaned over with the lamp and looked at it for a long time, the way he had looked at the one on the lid before he got the bar.
+Jonah put his palm flat on the inside of the cask, on the dark glass that had held him a month, and asked. The knot of closed lines went out through his palm into the glass. It took, and it was the wrong way round. Pike leaned over with the lamp and looked at it a long time.
 
 "That's the College's."
 
@@ -236,20 +236,20 @@ Jonah looked at him. Then he put his palm flat on the inside of the cask, on the
 
 "And you're a Collar."
 
-"I was." Jonah took his hand off the glass. "A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here." He touched his chest. "That's what I was. What I am's the thing your captain's going to ask tomorrow, and I told her the truth. I've not got it yet."
+"I was." Jonah took his hand off the glass. "A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here." He touched his chest. "That's what I was. What I am is what your captain's asking tomorrow. I told her the truth. I've not got it yet."
 
 Pike sat with the bar.
 
 "Kaspar's my sister's boy," he said, after a while.
 
-Jonah did not say anything.
+Jonah said nothing.
 
-"I'm telling you so it's said. She'll want to know what it was. When we're home." The old man looked at the mate, who was asleep, or something like it, with his arm bare on the deck. "I'll tell her it stopped. I don't know what else I'll tell her. I don't know what to call it." He looked at Jonah. "Have you a name for it? The thing that stopped?"
+"I'm telling you so it's said. She'll want to know what it was. When we're home." The old man looked at the mate, asleep or near it, arm bare on the deck. "I'll tell her it stopped. I don't know what else I'll tell her. I don't know what to call it." He looked at Jonah. "Have you a name for it? The thing that stopped?"
 
 Jonah thought about a word at the bottom of a well.
 
 "It has," he said. "It's called Tacitus. It stopped because I asked it. It asked me why and I said he said please. It had heard that word once before, from a guard, on a road, and it knew what it was for." He closed his eyes. "That's the whole of it. Tell her that. Tell her it knew what the word was for."
 
-Pike did not say anything for a long time.
+Pike said nothing for a long time.
 
 Then he put the bar down on the deck beside the stool, and left it there. Jonah heard it, and did not open his eyes.

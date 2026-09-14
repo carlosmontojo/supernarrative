@@ -1,54 +1,48 @@
 # Chapter 12: The Censor
 
-The reason was Bricks. It took him two days to find it, and the rock had been right that he had more than it had.
+"I'll take the haul," Jonah said.
 
-He'd counted. Lying on the shelf with the thirtieth night done and the haul finished and no way back down the Deep road, he'd counted the way the rock had said, the way you count debris, all at once, without looking. Who owed. Who feared. Who had a hand on whom.
-
-Bricks owed him a hand. Not the broken one. The bowl. Bricks had said mine in the road in front of Auger and had been put on one knee and had been given his soup back. A foreman who has been given his soup back in front of sixty men has a thing he cannot pay and cannot forget. It sat in Bricks's small eyes every time he looked at Jonah. Jonah had been not-looking at it for a month.
-
-Decimus brought things down. A bandage. A warning about Corr. You'll want to eat first. A guard who brought things down ten kilometres for a number was a guard who could be asked for a thing, once, if it was small and if it cost him nothing but a mark on a list.
-
-And the haul was the worst detail in the Pit, and nobody in the history of the Pit had ever asked for it.
-
-So on the second day he stood in the road at the dusk count and said, to Bricks, in front of Decimus, "I'll take the haul."
+Second day after the haul ended. He said it in the road at the dusk count, to Bricks, in front of Decimus, with sixty men eating behind him.
 
 Bricks looked at him.
 
-"Permanent. Every night. Decury six gets a man's extra ration for it, the way it does for the post, and I get the walk." He kept his face still. "I like the walk."
+"Permanent. Every night. Decury six gets a man's extra ration for it, the same as for the post, and I get the walk." He kept his face still. "I like the walk."
 
 "Nobody likes the walk."
 
-"I do. It's quiet. There's nobody on it asking me what I am." That was true, and he let Bricks hear that it was true. "You've got a hand that doesn't work and a bucket to carry, and a decury that's a man short on the wall because I'm cut. The Vein wants me, and everyone knows I'll be back in the Cradle by spring. Put me on the haul. I'm no use at the wall anyway. Corr'll tell you."
+"I do. It's quiet. There's nobody on it asking me what I am." "You've got a hand that doesn't work and a bucket to carry, and a decury a man short at the wall because I'm cut. Everyone knows I'll be back in the Cradle by spring. Put me on the haul. I'm no use at the wall. Corr'll tell you."
+
+He had counted, to get here. Two nights on the shelf, counting as the rock said. Who owed. Who feared. Bricks owed him the bowl: a foreman given his soup back in front of sixty men has a debt he cannot pay and cannot forget. Decimus brought things down, a bandage, a warning, and could be asked for one small thing that cost him a mark on a list. And nobody in the history of the Pit had ever asked for the haul.
 
 Bricks did not look at Corr. He looked at Decimus.
 
-Decimus looked at his list. He looked at it for a long time, the way he'd looked at the bandage before he gave it. Then he made a mark on it with the stub of a stylus and said, without looking up, "Four four seven one. Haul. Permanent. Volunteer." And then, because he was Decimus: "Nobody volunteers for the haul."
+Decimus looked at his list. Then he made a mark with the stub of a stylus and said, without looking up, "Four four seven one. Haul. Permanent. Volunteer." And then, because he was Decimus: "Nobody volunteers for the haul."
 
 "I like the walk."
 
-"You said." The old guard made another mark. "It won't be personal when you regret it."
+"You said." Another mark. "It won't be personal when you regret it."
 
 ---
 
 The rock, that night, tapped one word when he put his knuckles to it.
 
-GOOD.
+"GOOD."
 
-And then: ULLI.
+And then: "ULLI."
 
 He waited.
 
-THE ONE WHO SINGS. HE HEARD ME IN THE CRADLE. HE HEARS ME NOW; HE SITS IN THE DEEP ROAD ON THE NIGHTS THERE IS NO ONE TO SIT WITH AND LISTENS TO US TAP AND SAYS NOTHING. I HAVE LISTENED TO HIM SIX YEARS. HE IS THE ONLY MAN IN THIS PIT WHO KNOWS WHAT THE WALL IS AND HE HAS TOLD NO ONE BECAUSE NO ONE WOULD HEAR. GO AND FIND HIM. TELL HIM THE ROCK ASKS HIM TO SIT SOMEWHERE ELSE FOR THREE NIGHTS.
+"THE ONE WHO SINGS. HE HEARD ME IN THE CRADLE. HE HEARS ME NOW. HE SITS IN THE DEEP ROAD AND LISTENS TO US TAP AND SAYS NOTHING. I HAVE LISTENED TO HIM SIX YEARS. HE IS THE ONLY MAN IN THIS PIT WHO KNOWS WHAT THE WALL IS. GO AND FIND HIM. TELL HIM THE ROCK ASKS HIM TO SIT SOMEWHERE ELSE FOR THREE NIGHTS."
 
-Why?
+"Why?"
 
-BECAUSE ON THE THIRD NIGHT I AM GOING TO COME OUT, AND I WOULD RATHER HE DID NOT SEE THE DOOR.
+"BECAUSE ON THE THIRD NIGHT I AM GOING TO COME OUT, AND I WOULD RATHER HE DID NOT SEE THE DOOR."
 
 ---
 
-Ulli was at the far end of the Deep, where the road ran out and the galleries started, sitting on a bucket with his back to the rock and his eyes closed, singing under his breath to nobody.
+Ulli was at the far end of the Deep, where the road ran out and the galleries started. He sat on a bucket with his back to the rock and his eyes shut, singing under his breath to nobody.
 
-He opened his eyes when Jonah's boots stopped in front of him. He did not seem surprised. Nothing surprised Ulli; six years of carrying the dying had taken it out of him, or put something else in its place.
+He opened his eyes when Jonah's boots stopped in front of him. He did not look surprised. Nothing surprised Ulli.
 
 "Cut one."
 
@@ -56,95 +50,129 @@ He opened his eyes when Jonah's boots stopped in front of him. He did not seem s
 
 Ulli looked at him for a while.
 
-"It talks to you," he said. "Not taps. Talks. I've heard it. Every night for a month, you and it, on the road. I sit here and I don't tap, because I don't know what taps back. It taps to you like it knows what you are." He did not ask what Jonah was. He'd asked once, in the Cradle, and had not been answered, and did not seem to need to ask again. "What does it want?"
+"It talks to you," he said. "Not taps. Talks. I've heard it. Every night for a month, you and it, on the road. I sit here and I don't tap, because I don't know what taps back." "What does it want?"
 
 "To come out."
 
 The deep man was quiet a long time.
 
-"Six years," he said at last, "I've sat with the dying in that gallery with the wall singing names at them. Some nights the rock tapped. I never once tapped back, because I thought, if it's a man, he's been in there since before I came. And if he's been in there that long and he's still tapping, then he's either the bravest thing in this rock or he's the Vein wearing a man. I couldn't tell which, and I didn't want to be the one to find out." He stood up. His knees made a sound like Auger's. "Three nights."
+"Six years I've sat with the dying in that gallery with the wall singing names at them. Some nights the rock tapped. I never once tapped back." He stood up. His knees cracked. "I thought, if it's a man, he's been in there since before I came. And if he's still tapping after that long, he's either the bravest thing in this rock or he's the Vein wearing a man. I didn't want to be the one to find out. Three nights."
 
 "Three."
 
-"And after."
+"And after?"
 
 "After, I don't know."
 
-Ulli picked up his bucket. He looked, once, down the road toward the Cradle and the door past it, and then at Jonah. He said, "If it's a man. Tell him Ulli says the singing was for him too. Some nights. When there was nobody else."
+Ulli picked up his bucket and looked once down the road toward the Cradle.
+
+"If it's a man. Tell him Ulli says the singing was for him too. Some nights. When there was nobody else."
 
 He went up the road.
 
 ---
 
-On the third night Jonah stood in the Cradle in the whole dark with the warm wall of the Vein at his back and waited for a rock to open.
+On the third night Jonah stood at the back of the Cradle in the whole dark with the Vein warm behind him and waited for a rock to open.
 
-He'd thought about how. He'd had two nights and he'd used them, lying on the shelf saying the names. He'd thought about a steel door with no handle and a lamp that was never lit. He'd thought about a man who had been behind it for twenty years and had tapped, this morning, TONIGHT. THE CRADLE. STAND AT THE BACK. DO NOT BRING A LIGHT. And he'd thought, the door's two hundred paces down the road, past the Cradle. There's a foreman at the buckets and a guard at the cage. The door's steel, and he's old. Then he'd thought, you don't know he's old. You know he taps like an old man. You don't know what taps back.
+The rock had tapped that morning: TONIGHT. THE CRADLE. STAND AT THE BACK. DO NOT BRING A LIGHT. The steel door was two hundred paces down the road, with a foreman at the buckets and a guard at the cage. And he did not know the rock was old. He knew it tapped old. He did not know what tapped back.
 
-He stood at the back of the Cradle with his hands open at his sides. The thing under his ribs leaned, curious, toward the rock on his left, the cut edge of the gallery, the wall that was not the Vein, where the tapping had come from.
+He stood with his hands open. The genius leaned toward the rock on his left, where the tapping had come from.
 
 The wall moved.
 
-Not the Vein. The rock. A piece of the rock the size of a door, at the back of the Cradle, low, where a man would have to stoop, moved the way the stone door on the derelict had moved, back and to one side. There was no sound, because the whole dark ate sound. There was a hole behind it, and in the hole there was a light.
+Not the Vein. The rock. A piece the size of a door, low, where a man would have to stoop, slid back and to one side, silent. Behind it was a hole, and in the hole was a light.
 
-It was a lamp. A small one, hooded, the kind Tullus's men carried, turned down to a thread. It came out of the hole ahead of a hand. The hand was thin and had a white line across the inside of the forearm as wide as three fingers. After the hand came the rest of him.
+The genius came up all at once. He had not asked it. The fang was out of the back of his right wrist, crooked, before the light had cleared the hole. Then a hand came out of the dark and took his wrist.
 
-He was old. He had been right about that. He was thin the way a man is thin who has eaten one bowl a day for twenty years and has decided not to die of it. He was straight, straighter than any man in the Pit, straighter than the quaestor on his bench, with his shoulders back and his chin level as if the roof of the Cradle were a great deal higher than it was. His head was shaved, or had lost its hair. His face was all bone and lines. His eyes, when the lamp caught them, were pale and very steady. They went over Jonah once, from his boots to his face, the way Livia's had at the yard rail, considering, finding out where his weight was.
+It was fast. He never saw it move. Thin fingers closed on his forearm below the fang. They turned the wrist so the point went at the floor and held it there. The grip did not shake. He tried to turn it back and could not.
+
+"Put it away," a low voice said. "You will not need that. Not tonight."
+
+He put it away. The hand let go.
+
+The light was a lamp, small, hooded, the kind Tullus's men carried, turned to a thread. The forearm that held it had a white line across the inside as wide as three fingers. After the arm came the rest of him.
+
+He was old. He was thin, a man who had eaten one bowl a day for twenty years and decided not to die of it. He was straighter than any man in the Pit, shoulders back and chin level. His head was shaved. His face was bone and lines. His eyes were pale and very steady. They went over Jonah once, boots to face, finding out where his weight was.
 
 Then they went to his hands.
 
 "Bring the plate up," the old man said. "The right hand. The back. The way I taught you."
 
-His voice was low and dry and it was not a Pit voice. It had the endings right. It had, Jonah thought, more than the endings right. It had the whole of the old tongue behind it the way the quaestor's had, except the quaestor's had been a man reading a page. This was a man who had written the page and forgotten it and did not need it.
+His voice was low and dry and it was not a Pit voice. It had the endings right. The quaestor had read from a page. This was the man who had written it.
 
 Jonah brought the plate up on the back of his right hand.
 
-The old man looked at it in the lamp. He looked for a long time. He did not touch it. He bent, with the lamp, and looked at the dark glass on the back of a Collar's hand from a finger's width away, the way the Flamen on Anvil had looked into the slab. Jonah watched his face and saw a thing go across it that he had never seen on a face before and would see only twice more in his life.
+The old man bent with the lamp and looked at the dark glass from a finger's width away. He did not touch it. Something went across his face. Grief. And under the grief, so far down it might have been the lamp, something close to joy.
 
-It was grief. And under the grief, so far under that it might have been the lamp, something that was almost joy.
+"There are supposed to be none left," he said, quietly, to the plate. "I hid the last one on a ship four hundred years dead. I put it in a stone room and shut the door. I went to the Senate and told them, and they put me here." He straightened. "And a Ferrum boy with a mouth went and opened the door. Of course he did."
 
-"There are supposed to be none left," the old man said, very quietly, to the plate. "I hid the last one on a ship four hundred years dead. I put it in a stone room and I shut the door. I went to the Senate and I told them, and they put me here." He straightened. His eyes came up to Jonah's. "And a Ferrum boy with a mouth went and opened the door. Of course he did. Of course."
+Jonah did not breathe.
 
-Jonah stood with the plate on his hand and did not breathe.
+"Put it away. Sit down. There are three hours before the lamp comes down the road. I have waited twenty years to say this to somebody, so I will say it quickly. You can have the questions tomorrow. There will be a great many tomorrows."
 
-"Put it away," the old man said. "Sit down. There are three hours before the lamp comes down the road. I have been waiting twenty years to say this to somebody, so you will forgive me if I say it quickly and do not stop for questions. You can have the questions tomorrow. There will be a great many tomorrows."
+Jonah sat.
 
-Jonah sat down.
+The old man sat across from him with the lamp between them and folded his hands. A duellist's hands, long, still, knuckles a fraction too large. Jonah's wrist still hurt where they had been.
 
-The old man sat down across from him, on the rock, with the lamp between them turned to a thread, and folded his hands. Jonah saw that the hands were a duellist's, long, still, with the knuckles a fraction too large. They had not held anything in a long time and still knew how.
+"My name is Aulus Terentius Pharus. I was a senator of the Republic and Master of the College of Flamens, and for eleven years when I was young enough to enjoy it, the best fang on the Senate floor. Down here they call me the Censor, because I count. That is not what a censor was. But it is what they mean, and I have stopped correcting them." He looked at Jonah. "You may call me that, or old man, which is what you have been calling me in your head for a month. I could hear it in the taps."
 
-"My name," the old man said, "is Aulus Terentius Pharus. I was a senator of the Republic and Master of the College of Flamens and, for about eleven years when I was young enough to enjoy it, the best fang on the Senate floor. They call me the Censor, down here, because I count. That is not what a censor was. But it is what they mean, and I have stopped correcting them. You may call me that or you may call me old man, which is what you have been calling me in your head for a month; I could hear it in the taps." He looked at Jonah. "And you are Jonah Vale, called four four seven one, called cut one, called the one who turned around. You have inside you the last whole piece of the thing that made this Empire. You have no idea what that means, and I am going to tell you."
+"You could not."
+
+"I could. And you are Jonah Vale, called four four seven one, called cut one, called the one who turned around. You have inside you the last whole piece of the thing that made this Empire. You have no idea what that means. I am going to tell you."
 
 ---
 
-He told him.
+"The wall is one thing," the Censor said. "That is the first piece. Everything they told you at the Throat, everything Corr says, everything the Flamens say in their white house on Anvil, is built on the wall being a substance. A seam in a rock that you cut with steel. It is not. It is one mind, all of it, every gallery, every level, from the Shallows to the Mouth. One mind the size of a planetoid. It was here before the Crossing. Four hundred years ago a survey crew put a drill into it. It bled and closed, and they put a bigger drill in."
 
-He told it the way the rock had tapped, in short hard pieces with the gaps in the right places. Jonah sat on the floor of the Cradle with the Vein warm at his back and heard it. He did not interrupt, because there was nothing in him that could have.
+"One mind," Jonah said. "The whole Pit."
 
-The wall was one thing. That was the first piece. Everything they had told him at the Throat, everything Corr said, everything the Flamens said in their white house on Anvil, was built on the wall being a thing. A substance. A seam of something in a rock that you cut with steel and put in buckets. It was not. It was one thing, all of it, every gallery, every level, from the Shallows to the Mouth, one mind the size of a planetoid. It had been here before the Crossing and it would be here after. Four hundred years ago a survey crew had put a drill into it. It had bled and closed, and they had put a bigger drill in.
+"The whole Pit. Every lorica in the Empire is a piece of it. Every cutting in every Blank's arm, every Thinstripe's plate, every ancestral genius in every Broadstripe house with a shrine and a feast day. Cut off this wall, carried up the Throat in a cask, taken to the College and made small."
 
-Every lorica was a piece of it. That was the second piece. Every cutting in every Blank's arm, every Thinstripe's plate, every ancestral genius in every Broadstripe house with a name and a shrine and a feast day, all of it, was a piece cut off this wall. It was carried up the Throat in a cask and taken to the College and made small. That was the word. Made small. A piece of the wall was a mind, the way the wall was a mind, and a mind could say no. So the Flamens had learned in the first fifty years to cut a thing out of each piece before they gave it to a man. The thing they cut out was the part that could say no. What was left knew how to hold, how to strike, how to obey, and nothing else.
+"Made small."
 
-"You felt it," the old man said. "On Anvil. When they gave you the cutting. You told the rock it was stupid. It was not stupid. It was maimed. There is a difference and you will learn to feel it. It will make you very angry, and that is correct."
+"A piece of the wall is a mind, and a mind can say no. So in the first fifty years the Flamens learned to cut something out of each piece before they gave it to a man. They cut out the part that could say no. What was left knew how to hold, how to strike, how to obey, and nothing else." The pale eyes did not move. "You felt it. On Anvil, when they gave you the cutting. You told the rock it was stupid. It was not stupid. It was maimed. There is a difference. It will make you very angry, and that is correct."
 
-The thing in Jonah was not maimed. That was the third piece. It was a seed. That was the Flamens' word. It meant a piece of the wall that had been cut and not made small, a whole mind the size of a fist. In four hundred years the College had cut exactly nine of them, on purpose, to see what would happen, and had put them in men. Every one of the men had died, or worse. Every one of the seeds had been destroyed after. The ninth had not.
+"And mine?"
 
-"I was Master," the old man said. "I was forty years old and I had done the arithmetic on the wall, which nobody had done in a century because nobody wanted the answer. The answer was that we were cutting faster than it grew. In two hundred years there would be no wall, no plate, no Empire. If the Confederacy ever learned this they would simply wait. And I went to the vaults to see what else we had that nobody wanted to know about. There was a box. In the box was the ninth seed, that should have been cut in the year two hundred and had not been, because the Master of that year had been afraid of it. He had written a note, which I read." He was quiet a moment. "The note said that the seed had a name. That it had said the name to him, in his head, the way the wall says things, and that he had not been able to cut it after that. I did not read the name. I have thought about that for twenty-two years and I still do not know if I was right."
+"Yours was not made small. It is a seed. That is the Flamens' word. A piece of the wall cut and left whole, a mind the size of a fist. In four hundred years the College cut nine of them, on purpose, to see what would happen, and put them in men."
 
-He had taken the box. He had taken it out of the vault under his own seal and he had taken it to the Limes, to a shipbreaking moon. A yard ledger there listed a founding-era Flamen hull in the inner rings of a gas giant that no Imperial chart had ever recorded. The yard cutters of Anvil kept their own ledgers of what was in the rings and did not share them with the Empire. He had bought the location from the ledger's keeper for a winter's food. He had put the box in the stone room the Flamens of the Crossing had built for exactly that purpose, and shut the door, and gone home.
+"And?"
+
+"Every man died, or worse. Every seed was destroyed after. Except the ninth." The Censor was quiet a moment. "I was Master. I was forty. I had done the arithmetic on the wall, which nobody had done in a century because nobody wanted the answer. We were cutting faster than it grew. In two hundred years there would be no wall, no plate, no Empire. If the Confederacy ever learned that, they would simply wait."
+
+"So you went looking."
+
+"I went to the vaults to see what else we had that nobody wanted to know about. There was a box. In it was the ninth seed. It should have been cut in the year two hundred and had not been, because the Master of that year was afraid of it. He left a note. The note said the seed had a name. That it had said the name to him, in his head, and after that he could not cut it." He stopped. "I did not read the name. I have thought about that for twenty-two years and I still do not know if I was right."
+
+"You took the box."
+
+"Under my own seal. I took it to the Limes, to a shipbreaking moon. A yard ledger there listed a founding-era Flamen hull in the rings of a gas giant that no Imperial chart had ever recorded. The yard cutters of Anvil keep their own ledgers and do not share them. I bought the location from the ledger's keeper for a winter's food. I put the box in the stone room the Flamens of the Crossing had built for exactly that purpose. I shut the door, and went home."
 
 "A winter's food," Jonah said.
 
-It was the first thing he had said. The old man looked at him.
-
-"The cutter's name was Vale," he said. "I did not know that until you said it in the Cradle. Tom Vale, nine fingers, sold something once for a winter's food and never told you. He sold me a set of coordinates out of a yard ledger, and I paid him in Marl grain, and I never saw his face. That is the whole of it. I would tell you if there were more."
+"The cutter's name was Vale. I did not know that until you said it in the Cradle. Tom Vale, nine fingers, sold something once for a winter's food and never told you. He sold me a set of coordinates out of a yard ledger. I paid him in Marl grain. I never saw his face. That is the whole of it. I would tell you if there were more."
 
 Jonah sat very still.
 
-"And then I went to the Senate," the Censor said. "I stood up in front of four hundred men with the broad stripe and told them what the wall was. I told them what we were doing to it, what a seed was, that I had hidden the last one where they could not cut it. I told them that if we did not stop, the Empire would end in two centuries in the dark. A man named Lucius Vibius, who was my friend, who had sat at my table, who had a son of ten and a daughter not yet born, stood up and moved that I be condemned for treason against the Matter. The motion carried. They cut the stripe out of my arm in the Forum in front of the College. I lived, which I am told was a surprise to everyone, and they put me on a transport." He unfolded his hands and folded them again. "Vibius has been looking for the box for twenty-two years. Not to free it. To own it. A Gracchan with the last seed in his hand is a Gracchan who can tell the Princeps that he knows what the wall is. That he will tell the Senate. That the Senate can hold the Wall in both senses. That is the whole of the Gracchan cause, boy, and always was, and it is not yours."
+"And then?" he said.
 
-"Ochoa," Jonah said.
+"And then I went to the Senate. I stood in front of four hundred men with the broad stripe. I told them what the wall was, what a seed was, and that I had hidden the last one where they could not cut it. I told them the Empire would end in two centuries in the dark."
 
-"Your captain. Yes. A courier. He would have bought the coordinates from a Gracchan who bought them from your father. He would have carried the seal to say he had gone to look. He went to look because there is a war coming on the far Limes that everyone in the City has known about for a year and nobody on Anvil. A war means the College goes looking for anything it has ever lost." The old man's voice did not change. "He knew what a seed does. Every courier who has ever carried Gracchan paper about that box has been told. He told you not to touch it because he knew. You touched it because a Stripe had killed him in the middle of a sentence and you decided that whatever was in the box was yours. You told the rock that. I am not sure you understand yet that it was the only thing you could have done that would have kept you alive."
+"And they listened."
+
+"They listened." He unfolded his hands and folded them again. "A man named Lucius Vibius stood up and moved that I be condemned for treason against the Matter. My friend. He had sat at my table. He had a son of ten and a daughter not yet born. The motion carried. They cut the stripe out of my arm in the Forum in front of the College. I lived, which I am told was a surprise to everyone. They put me on a transport."
+
+"Vibius," Jonah said.
+
+"He has been looking for the box for twenty-two years. Not to free it. To own it. A Gracchan with the last seed in his hand can tell the Princeps that he knows what the wall is. That the Senate can hold the Wall in both senses. That is the whole of the Gracchan cause, boy, and always was, and it is not yours."
+
+"Ochoa."
+
+"Your captain. A courier. He bought the coordinates from a Gracchan who bought them from your father. He carried the seal to say he had gone to look. He went because there is a war coming on the far Limes that the whole City has known about for a year and nobody on Anvil. A war means the College goes looking for everything it has ever lost." The voice did not change. "He knew what a seed does. Every courier who has ever carried Gracchan paper about that box has been told. He told you not to touch it because he knew."
+
+"And I touched it."
+
+"Because a Stripe had killed him in the middle of a sentence, and you decided that whatever was in the box was yours. You told the rock that. I am not sure you understand yet that it was the only thing you could have done that would have kept you alive."
 
 ---
 
@@ -154,41 +182,55 @@ Jonah sat very still.
 
 "It didn't. I put my hand in."
 
-"You put your hand in, and it looked at you, and it came. Nine men before you had a seed put in them by the College, on a slab, with a Flamen holding the rod. Every one of those seeds went in fighting and came out through the man's skin in an hour with the man dead around it, because a whole mind does not go where it is put. It goes where it wants. You were not put. You were dying on a deck. It was four hundred years alone in a box. Something in you was warm, and it wanted, and it came." The pale eyes did not move. "And then it went home through your hands in the seventh chamber, because the wall called it. Any man in the Empire would tell you that is the end, that is what the Cradle is for. You lay in the dark and said the names of everyone you had ever loved or killed, and it turned around at the door and came back."
+"You put your hand in, and it looked at you, and it came. Nine men before you had a seed put in them on a slab, with a Flamen holding the rod. Every one came out through the man's skin in an hour with the man dead around it. A whole mind does not go where it is put. It goes where it wants." The pale eyes did not move. "You were dying on a deck. It had been four hundred years alone in a box. Something in you was warm, and it wanted, and it came."
+
+"And in the seventh chamber it went home."
+
+"The wall called it. Any man in the Empire would tell you that is the end, that is what the Cradle is for. You lay in the dark saying the names of everyone you had ever loved or killed, and it turned around at the door and came back."
 
 "You told me to."
 
-"I told you to give it a name. I did not tell you to give it forty. I did not know that was possible. I have read every page the College has on the Matter and there is no page for a seed that turns around." The old man leaned forward, a little, into the thread of lamp. "And it took a mouthful going out. You told the rock that too. It bit its mother on the way back through the door and she could not stop it, because she is one thing and does not know how to stop a piece of herself. Do you understand what that means?"
+"I told you to give it a name. I did not tell you to give it forty. I did not know that was possible. I have read every page the College has on the Matter and there is no page for a seed that turns around." "And it took a mouthful going out. It bit its mother on the way back through the door, and she could not stop it, because she is one thing and does not know how to stop a piece of herself. Do you understand what that means?"
 
 "No."
 
 "Good. Neither do I. That is where we will begin."
 
-Jonah looked at him.
+Jonah looked at him. A thin straight old man with a white line across his arm, who had designed nothing that Jonah knew of yet and had told him everything else. What Jonah had carried since LATE was not gratitude and not trust. It was a question.
 
-He looked at the thin straight old man with the white line across his arm, sitting on the floor of the Cradle with his duellist's hands folded, who had designed nothing that Jonah knew of yet and had told him everything else. He found the thing he had been carrying since the fourth night, since LATE, since the rock had made him laugh on the Deep road. It was not gratitude and it was not trust. It was a question, and he had a mouth, and the rock had said so.
-
-"What do you want?" he said. "From me. You didn't tap to a dying man for twenty years to tell him a story. You want something. Everybody down here wants something. Auger wants the road to run. Bricks wants a shard. Decimus wants to go home. What do you want?"
+"What do you want?" he said. "From me. You didn't tap to a dying man for twenty years to tell him a story. Everybody down here wants something. Auger wants the road to run. Bricks wants a shard. Decimus wants to go home. What do you want?"
 
 The Censor looked at him for a long moment.
 
-Then he laughed. It was one breath through the nose, dry, the way the quaestor had laughed at a sum he had never seen. It was not the same laugh, because there was something under it that the quaestor's had not had.
+Then he laughed. One breath through the nose, dry.
 
-"You are going to be very good at this," he said. "I want you to know I have noticed." He unfolded his hands. "I want out. Not for me. I will die in this rock, that is settled, I settled it in the second year. I want the thing in you out. Out of the Pit, out of the Limes, up the Throat and into the City, into a room with four hundred Broadstripes in it. In a body that they cannot Lock and cannot Hush and cannot read, that can walk up to the Princeps with a broad stripe on its arm and say, I know what the wall is. That is what I want. I wanted it twenty-two years ago and I was too afraid to do it myself, so I put it in a box. A boy went and opened the box." He stopped. "And I want to teach him not to die in the first year, which is what you will do without me, because you are quick and you have a mouth and you know nothing. The College comes down this Throat with glass every second year, and you have eleven months."
+"You are going to be very good at this. I want you to know I have noticed." He unfolded his hands. "I want out. Not for me. I will die in this rock; I settled that in the second year. I want the thing in you out. Out of the Pit, out of the Limes, up the Throat and into the City, into a room with four hundred Broadstripes in it. In a body they cannot Lock, cannot Hush, cannot read. A body that can walk up to the Princeps with a broad stripe on its arm and say, I know what the wall is."
+
+"That's what you wanted twenty-two years ago."
+
+"And I was too afraid to do it myself, so I put it in a box. A boy went and opened the box." He stopped. "And I want to teach him not to die in the first year, which is what you will do without me. You are quick and you have a mouth and you know nothing. The College comes down this Throat with glass every second year. You have eleven months."
 
 "To learn what?"
 
-"Everything." The old man stood up. His knees made no sound at all. "The words on the wall of that ship. MATER. LAMINA. SEMEN. You could read them and you did not know what they meant; tomorrow you will. The old tongue, all of it, not the endings, the thing behind the endings, so that when you stand in front of a man with a broad stripe you think in his language and he cannot tell. The law. Every page of it, so that you know exactly which pages you are not on. The Senate. The College. The houses, their fangs, their Forms, what each one is afraid of. How to stand. How to eat. How to be bored." He looked down at Jonah. "And that."
+"Everything." The old man stood. His knees made no sound at all. "The words on the wall of that ship. MATER. LAMINA. SEMEN. You could read them and did not know what they meant. Tomorrow you will. The old tongue, all of it, so that when you stand in front of a Broadstripe you think in his language and he cannot tell. The law, every page, so that you know which pages you are not on. The Senate. The College. The houses, their fangs, their Forms, what each one is afraid of. How to stand. How to eat. How to be bored." He looked down. "And that."
 
 He nodded at Jonah's right hand.
 
-"That came out of the wrong arm, you told the rock. The back of the wrist, crooked, like a bad knife. Every fang in the Empire comes out of the inside of the forearm, straight, because every lorica in the Empire was cut to a shape and cannot make another. Yours was not cut. It can come out of anywhere it likes. There was a Form for that, once. A house that fought with a fang that came from anywhere, that was not there until it was. The house is gone and the Form is in one book and the book is in my head." The pale eyes were very steady. "I am going to teach you to fight like a man with a hand, first, because you fight like a man with a fang and a dead Thinstripe's feet and it is a disgrace. And then I am going to teach you the four Forms every duellist in the City knows, so you can see them coming. Then I am going to teach you the fifth."
+"That came out of the wrong arm, you told the rock. The back of the wrist, crooked. Every fang in the Empire comes out of the inside of the forearm, straight, because every lorica in the Empire was cut to a shape and cannot make another. Yours was not cut. It can come out of anywhere it likes. There was a Form for that, once. A house that fought with a fang that came from anywhere, that was not there until it was. The house is gone. The Form is in one book, and the book is in my head."
+
+"Teach me that."
+
+"Last. First I am going to teach you to fight with a hand, because you fight with a fang and a dead Thinstripe's feet, and it is a disgrace. Then the four Forms every duellist in the City knows, so you can see them coming. Then the fifth."
 
 Jonah stood up.
 
 "And the count," he said.
 
-"And the count." The Censor bent and picked up the lamp. "Nobody here dies of the Vein, Jonah Vale. Write that down where you keep things. They die of not understanding it. The wall is not your enemy. It is the only thing in this rock that has never once lied to you. Corr is not your enemy, or Bricks, or Auger, who is a better man than he has any right to be after nineteen years. Your enemy is up the Throat. Your enemy is a man who burned a seal and told his sister the fourth bell. His father, who sat at my table. Every man with a stripe who has ever said a word to a collar and watched a body kneel." He turned toward the hole in the rock. "Tomorrow. The haul. Bring your hands."
+"And the count." The Censor picked up the lamp. "Nobody here dies of the Vein, Jonah Vale. Write that down. They die of not understanding it. The wall is not your enemy. It is the only thing in this rock that has never once lied to you. Corr is not your enemy, or Bricks, or Auger, who is a better man than he has any right to be after nineteen years."
+
+"Then who is?"
+
+"Your enemy is up the Throat. A man who burned a seal and told his sister the fourth bell. His father, who sat at my table. Every man with a stripe who has ever said a word to a collar and watched a body kneel." He turned toward the hole in the rock. "Tomorrow. The haul. Bring your hands."
 
 "Censor."
 
@@ -200,6 +242,8 @@ The Censor stood with his back to Jonah and the lamp in his hand, and did not tu
 
 "Tell him I heard it," he said. "Every night. Tell him it was the only thing in twenty years that was not the wall."
 
-He stooped, and went into the hole, and the rock moved back across it with no sound. Jonah stood alone in the Cradle in the whole dark with the Vein warm at his back and a thing under his ribs that had bitten its mother. He thought, eleven months. He thought, Tom Vale sold him the door. He thought, MATER, LAMINA, SEMEN, mother, blade, seed, I could read it, I read it and I didn't know.
+He stooped and went into the hole. The rock moved back across it without a sound.
 
-Then he went out to the road and picked up the buckets, because it was the haul, and he'd asked for it.
+Jonah stood alone in the Cradle with the Vein warm at his back. Eleven months. Tom Vale had sold him the door. MATER, LAMINA, SEMEN. Mother, blade, seed. He had read it on a dead ship and had not known.
+
+Then he went out to the road and picked up the buckets, because it was the haul, and he had asked for it.
