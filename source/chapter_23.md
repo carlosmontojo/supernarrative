@@ -4,6 +4,8 @@ Jonah stopped at the last lamp on the Deep road and put his hand flat on the roc
 
 "Eleven nights," he said, in the old tongue. "That's long enough."
 
+"You've been patient with me," he added. "I know it."
+
 The genius listened.
 
 Nobody worked the Mouth and nobody guarded it. There was nothing at the bottom of the Pit a man could steal or a guard could stop. The road to it was three galleries past the last lamp, and past the lamp it was not a road. It was a crack.
@@ -227,6 +229,10 @@ Ulli looked at him a long moment and didn't say it would pass, because he didn't
 "It's not nothing to me either."
 
 "Go on, then," Ulli said, eyes shut again. "Say your names. I'll listen for both of us."
+
+"I will," Jonah said.
+
+"Then go."
 
 Jonah stood in the lamp.
 
