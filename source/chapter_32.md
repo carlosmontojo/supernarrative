@@ -242,7 +242,7 @@ Jonah put his palm flat on the inside of the cask, on the dark glass that had he
 
 "And you're a Collar."
 
-He took his hand off the glass, and then touched his chest, and Jonah said, "I was. A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here. That's what I was. What I am is what your captain's asking tomorrow. I told her the truth. I've not got it yet."
+He took his hand off the glass. Jonah said, "I was. A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here." He touched his chest. "That's what I was. What I am is what your captain's asking tomorrow. I told her the truth. I've not got it yet."
 
 Pike sat with the bar.
 

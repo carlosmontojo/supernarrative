@@ -58,7 +58,7 @@ The stance went third. Livia had seen it at the yard rail, Mara in the square, A
 
 "I am not taking it away because it is bad. I am taking it away because it is not yours. You cannot use a dead man's contempt without it using you. When you can do the step because you have chosen to, in your own legs, looking at the man in front of you and seeing a man, then you may have it back. Not before."
 
-What he wanted to say was that the wrist-turn had kept him alive twice already and asking him to hand it back felt like handing back a coat in the snow. What he said cost less.
+What he wanted to say was that the wrist-turn had kept him alive twice already, and giving it up meant giving up the only weapon he had left. What he said cost less.
 
 "How long?" he said.
 
