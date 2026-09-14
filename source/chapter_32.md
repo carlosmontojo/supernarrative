@@ -28,6 +28,10 @@ The old man with the bar looked at him.
 
 Jonah said, in the road's tongue, "Praying. Give me a minute. I'm not going anywhere. I can't feel my legs." It hurt to say even that much.
 
+"You're a talker," the old man said. Not an accusation. A fact, filed.
+
+"So I'm told," Jonah said. "It's my worst habit, and I've never once managed to lose it, and tonight doesn't seem the night to start."
+
 ---
 
 He got the minute and not more.
