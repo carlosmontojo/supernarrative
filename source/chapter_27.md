@@ -22,7 +22,7 @@ The deep man said nothing for a long time.
 
 "You've got it wrong," he said at last. "You've counted it the way the old man would. Who owes, who fears, where the gap is. You've come out to a line that costs me, and you've stopped. You're a man who gives the bowl back. You don't know how to take one." He opened his eyes and looked at the roof. "I'm not on the slate, cut one. I never was. I'm the one who carries."
 
-Jonah said, "I don't understand. Seven years I've counted casks and slabs and men, and I never once counted that. Why haven't I asked you why you're alive?"
+Jonah said, "I don't understand. Seven years I've counted casks and slabs and men, but I never once counted that. Why haven't I asked you why you're alive?"
 
 "No. Seven years, and you've never once asked me why I'm alive. That's your answer."
 

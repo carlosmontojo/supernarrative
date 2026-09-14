@@ -78,7 +78,7 @@ He turned back to the lamp.
 
 The thing Jonah wanted to say was uglier: that a man who counted long enough eventually became one of the things counted, and stopped noticing the difference. He didn't say it. Decimus had brought him a letter to read, not a mirror to look in.
 
-"That's not all," Jonah said.
+"That's not all," he said.
 
 "No." A pause. "No, it's not. But it's the part I can say on a stool."
 
@@ -115,6 +115,8 @@ He talked about the Empire, and did not use the word. Blanks on Etruria said the
 "No."
 
 "You will. You were a Collar, and you've been three years on a road where a wall grows plate for a legion out of men's backs. I'm sitting here with a rifle telling you about a school. I know what it sounds like." He looked at the rock overhead. "It's both. Nobody down here will tell you that and nobody up top will either. It's a school with a tree and it's a wall that eats Marl. It's the same thing. Twenty-five years and I've never found the place where one stops and the other starts. I stopped looking. A man who looks for that place doesn't go home." He was quiet. "You'll look. You've been looking since you turned around in the Cradle. I hope you find it. I hope it's somewhere I never have to stand."
+
+"I'm looking. I haven't found it. I don't think it exists, but I keep looking anyway, because the alternative is deciding it's all one thing, and I'm not ready to decide that yet," Jonah said.
 
 Jonah looked at the old man and could not hate him. He had known since the bandage that he would not be able to. It was the heaviest thing he carried.
 
@@ -162,6 +164,6 @@ The stick came out of the dark before he had finished standing. It took him acro
 
 He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, in the order he had them, out of order. At the end he said the new one. The genius, which an hour ago had wanted a guard's cutting off him through the hip seam in a count of twenty, listened to the name of the man on the stool. It added it to the names it expected, and did not wander.
 
-"Decimus Alba," Jonah said, to the dark. "Of Etruria. Sula's father. Two winters."
+"Decimus Alba. Of Etruria. Sula's father. Two winters," Jonah said, to the dark.
 
 He did not know, saying it, that he would say it again on the same road with the old man's stick broken and the old man dead and a Centurion's fang in his hand. That it would be the only thing holding the plate on him. He was glad, later, that he had not known. It had been, whatever came after, a good hour.

@@ -74,7 +74,7 @@ It was hard. His heart had come back and his hands had come back. The rest of hi
 
 Jonah said, "Dying. Six years. Everybody says so." He looked at the rod still shaking in Pollio's hand. "You'd know better than most, Flamen. You're the one who keeps writing it down."
 
-He put his hands on the rim and stood up in the cask. He did it slowly, so they would see what he was: a Collar in a cask, unarmed, with his hands shaking. While he did it he said it loud, in the road's tongue, so the four deep men and the two guards and the whole of the road's end would have it whether they wanted it or not.
+He put his hands on the rim and stood up in the cask. He did it slowly, so they would see what he was: a Collar in a cask, unarmed, with his hands shaking. While he did it he said it loud, in the road's tongue, so the four deep men and the two guards and the road's end would have it whether they wanted it or not.
 
 Jonah said, "He didn't know. Harrow. He packed a hundred and twelve on the seventeenth, the same as every cask. I came down on the sixteenth night with no lamp and moved forty-two of them. They're in twenty-nine and thirty, six deep, on top, under the lid. Count them. I'll wait." He looked at Harrow. "You packed right. I'm what was wrong with it. Say that part loud too, if anybody asks you later."
 
@@ -220,7 +220,7 @@ Tullus said nothing for a moment.
 
 "You can't hold that gallery."
 
-Jonah said, "I can hold it till the harvest's late. You counted that coming down." He kept his hands on his knees. "And I know what you do then, because I've done the same sum. You go up to the Shallows and you start at decury six. At the post. One a day, at the turn, where I can see it happen. Pell first, because he's old and he's Marl and he sings, and you'll have him sing while they do it, because a man who's grieving works slower and the count matters more to you than the man." He looked at the prefect. "You won't say that out loud, prefect. I will. Pell. Then the rest of six. One a day. And then I come out. That's the count. We've both done it, sitting here, without moving our mouths, except I've just moved mine, because somebody in this has to say the numbers where the man they belong to can hear them. I'm sitting here because I'd rather you said it than did it, and because I've not decided which of you I'm going to kill on the way to the road, and I want a minute."
+Jonah said, "I can hold it till the harvest's late. You counted that coming down." He kept his hands on his knees. "And I know what you do then, because I've done the same sum. You go up to the Shallows and you start at decury six. At the post. One a day, at the turn, where I can see it happen. Pell first. He's old, and he's Marl, and he sings. You'll have him sing while they do it, because a man who's grieving works slower, and the count matters more to you than the man does." He looked at the prefect. "You won't say that out loud, prefect. I will. Pell. Then the rest of six. One a day. And then I come out. That's the count. We've both done it, sitting here, without moving our mouths, except I've just moved mine, because somebody in this has to say the numbers where the man they belong to can hear them. I'm sitting here because I'd rather you said it than did it. And because I've not decided which of you I'm going to kill on the way to the road, and I want a minute."
 
 Thirty men with rifles did not move.
 

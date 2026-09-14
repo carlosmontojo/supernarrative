@@ -4,6 +4,12 @@ He said it in the Chamber, because it was the only room in the Pit that was quie
 
 Getting there took a week. He had known it would. Five sizes at the face had cost him nine days of plate on his arms. This was a piece of the first cut, given by the wall's own hand, and it was worse. The coat went over him door on door, stacking, and his body had to grow into every one of them while it was on. He had the fever for six days, even and constant. He cut his shard. He said his number. He stood at the wall of the seventh chamber with the chisel and sweated through his shirt while the Vein opened for him.
 
+"You've got the face again," Pell said, before Jonah had said a word.
+
+"What face."
+
+"The adding one. You did it all through the riot count too. I decided a while back that's just your face now." He went back to his line.
+
 "You're going," Pell said, to the wall. He had said it so many times it had stopped being words. It was just what he did now, the same as the songs. "Sixth year. Nobody takes six years to go."
 
 "I'm not going."
@@ -56,7 +62,7 @@ And it heard its name.
 
 He felt it hear. He would try to describe that once, later, to a woman with a broad stripe. He would get only this far: it was like saying a man's name across a road and watching him turn. Except the man had never once been called anything, and had not known that he could be. It turned fully. It came out of the doorway and into the room of him, through the arm, the shoulder, the old break in the wrist, the heart. It stopped at the heart. It always did. And stayed.
 
-"Tacitus," Jonah said again, quietly, to be sure.
+"Tacitus," he said again, quietly, to be sure.
 
 It answered. Not in words; it had none. He felt it in the place where it had stopped, and it was not hunger, not interest, not the want from the Mouth. It settled into the coat, into the scar at the seam, into every part of him at once. The plate that had been a size too big for a week stopped being too big. It fit. He put his hand on his chest. It was Tacitus, and it was staying.
 
@@ -90,7 +96,7 @@ Jonah sat against the cage frame, same as four years ago with a letter.
 
 "I signed," Decimus said, to the lamp. "Another five. In the autumn, when the first five was up. I was at the surface with the paper that said I'd served, and the house on Campania if I wanted it. The transport for Etruria was on the dock, and I signed." His face did nothing. "The aunt's dead. Two years. Fees went up with the war, everything does. A guard's pay on Etruria is a third of what it is here. There's a tree in a garden Sula's got the care of, and I'm not going to be the reason it dies." He shifted the rifle. "So I signed. Five more. She'll be sixteen. I haven't written to tell her, because I don't know how to write that a man who said two winters signed for five. It's not personal. I've said that so many times I don't know what it means anymore. It's the only thing I've got that isn't."
 
-"You could have told me," Jonah said. "Before. In the autumn."
+"You could have told me before, in the autumn, instead of letting me find it out at a count," Jonah said.
 
 "I'm telling you."
 
@@ -134,6 +140,12 @@ He felt the key. He felt the door open on hinges oiled once a month for twenty-t
 
 Then he felt them run.
 
+One of them came past the seventh chamber's mouth at a dead run and nearly put a shoulder into decury six's wall. He caught himself a pace off, breathing hard, young, Tiro, a fang half out of his forearm he did not seem to know he'd drawn.
+
+"Put that away. You're not going to need it for a shard, and I'm not going to make you feel better about drawing it on a man who's cutting one," Jonah said.
+
+The guard looked at the fang, then at Jonah, then put it away and went on up the road without telling anyone who'd said that to him.
+
 He cut his shard. It came off clean. He dropped it in the bucket and stood with his arms shaking. That was what the Vein did to a man it was taking. Pell did not look up. The road did not know yet. It would, by the dusk count, because everything came down the Throat as a number, and this was going to come down as one.
 
 It came down as three.
@@ -166,7 +178,7 @@ Tacitus heard the road say three days, and heard what Jonah was thinking about t
 
 Waiting to be asked.
 
-"Three days," Jonah said aloud, to nobody, in the old tongue. Then, because it had a name now, and a mind asked nothing does not stay polite: "I'll need you to be nothing. For longer than six hours. I don't know how long yet. Will you?"
+"Three days," he said aloud, to nobody, in the old tongue. Then, because it had a name now, and a mind asked nothing does not stay polite: "I'll need you to be nothing. For longer than six hours. I don't know how long yet. Will you?"
 
 It did not answer. It had no words.
 

@@ -120,7 +120,7 @@ Not at once, and then at once. The hunger did not want to. It had half a lorica 
 
 It let go.
 
-Kaspar fell over. He lay on the deck with his right arm bare to the elbow. Not plated and not skin. The plate was gone off it in a patch the shape of two hands, and the skin under it was grey and shining where a cutting had been half eaten and had not died. He stopped screaming because he had run out. He lay breathing with his eyes open, looking at the beam.
+Kaspar fell over. He lay on the deck with his right arm bare to the elbow. Not plated and not skin. The plate was gone off it in a patch the shape of two hands. The skin under it was grey and shining, where a cutting had been half eaten and had not died. He stopped screaming because he had run out. He lay breathing with his eyes open, looking at the beam.
 
 Jonah knelt beside him with his hands empty.
 

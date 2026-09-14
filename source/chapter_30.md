@@ -2,9 +2,13 @@
 
 Sabinus walked him up the road four paces behind, to one side, with the fang down.
 
-The rifles had gone. Jonah felt them go, thirty pairs of boots up the Deep road past the slab galleries and the door and the Cradle, and stop beyond it, where a Centurion had told a prefect to put them. The road between was empty. The lamps were too far apart. Two men walking. He could feel the Centurion's heart through the rock, and it was not going fast.
+The rifles had gone. Jonah felt them go, thirty pairs of boots up the Deep road past the slab galleries, the door, and the Cradle, and stop beyond it, where a Centurion had told a prefect to put them. The road between was empty. The lamps were too far apart. Two men walking. He could feel the Centurion's heart through the rock, and it was not going fast.
 
 Thirty rifles had come down the road with their hearts going. Tullus's had been steady because it had nowhere left to go. Sabinus had come down through them with the fang out and his heart slow, and it was slow now, walking a Collar up a road to kill him. He was not afraid. He had been afraid once, of a finger of steel in a seam. He had come down the Throat tonight to stop thinking about it.
+
+"You don't talk much for a march," Jonah said.
+
+"I don't need to," Sabinus said. "You will. Everyone does, walking to this."
 
 "Here," he said, and stopped.
 
@@ -33,6 +37,10 @@ Jonah said, "No. The old Blank was Auger. You killed him with a backhand because
 Jonah said, "He'd read every page there was, before they cut him in the Forum. He read the road through a wall for twenty years after, and there was a page about you." He put the stick on his shoulder. "A client of the Princeps' house who washed out of the Ludi because he could not bear to grind. Who went to the Belt with a licence and trimmed twice in a yard, against men who came out to trim a Centurion because it was cheap. The page said: the Claudian Form without the Wall. A wall that can shed is a man pretending. And a man pretending can be made to hurry."
 
 Sabinus's face did nothing.
+
+"He never told you anything," Sabinus said.
+
+"No," Jonah said. "He told the wall, and the wall told me. It's a longer way round, Centurion, but it gets there."
 
 "He said it with this," Jonah said. "Every night. Five years. I've never won with anything else."
 
@@ -146,7 +154,7 @@ Coming down.
 
 ---
 
-A man with a rifle, alone, coming down toward a Collar who had just killed a Centurion, past the point where the prefect had told the guard to stop. Jonah knew what a man does with a rifle when he comes round a lamp and sees that. He had counted it at the turn with his hands on his knees. He had not decided. He was forty-one and blind, and Tacitus had just eaten a Centurion and was not polite.
+A man with a rifle, alone, coming down toward a Collar who had just killed a Centurion, past the point where the prefect had told the guard to stop. Jonah knew what a man does with a rifle when he comes round a lamp and sees that. He had counted it at the turn with his hands on his knees. He had not decided. He was forty-one and blind. Tacitus had just eaten a Centurion and was not polite.
 
 The man came round the lamp. Jonah's hand went where he was going.
 
@@ -168,7 +176,9 @@ The old guard sat on the rock with his back against the Vein and a Collar's hand
 
 "No." The voice for things that were not personal, very quiet. "You'll not want to. Sit."
 
-Jonah sat down beside him in the dark with the half stick still in his hand and his back to the wall, the way he had sat beside Ullan. The old guard's breaths had a count to them, and the count was short.
+Jonah said, "I wasn't planning on standing. Not tonight, and not for this."
+
+He sat down beside him in the dark with the half stick still in his hand and his back to the wall, the way he had sat beside Ullan. The old guard's breaths had a count to them, and the count was short.
 
 "Orders. Tullus. Go down and look. If the Centurion's dead, shoot the Collar. If the Collar's dead, come back and say." He breathed. "I said, send a young one. He said, they're afraid of him. You're not."
 
@@ -205,6 +215,8 @@ Jonah sat with the letter in his hand.
 "Sula's father."
 
 "Write that first. Before the rest. They put the rest first on a slab and it's wrong."
+
+Jonah said, "I'll write it twice, so it stays. You'll not have to trust me to remember."
 
 He breathed once more. Jonah felt it through the rock, through the plate, through a hand on a shoulder in the dark, as he had felt the old man and Ullan. Tacitus did not stand between, because he had not asked it to, and he would not have. It went through him, all of it, the whole of a man going. It was the fourth time, and the worst, and he let it.
 

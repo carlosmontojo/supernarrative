@@ -68,7 +68,7 @@ He said it again.
 
 Again.
 
-"That's the count," Jonah said, to the dark. "It starts with you and it goes through him and it ends there. For tonight." He was quiet a moment. "You'd think a man who talks as much as I do would have more to say to the one thing that's listened to all of it. I don't. Just that."
+Jonah said, to the dark, "That's the count. It starts with you and it goes through him and it ends there. For tonight." He was quiet a moment. "You'd think a man who talks as much as I do would have more to say to the one thing that's listened to all of it. I don't. Just that."
 
 Then the last thing he had to say. This was the Vein, and the wall knew what a name was for. He said what Ulli had said with his eyes shut against the warm dark of the Cradle, and what Jonah had never once said to it. His throat had had a fang in it three hours ago. It came out rough.
 
