@@ -250,6 +250,10 @@ He took his hand off the glass. Jonah said, "I was. A Flamen put a rod on my col
 
 Pike sat with the bar.
 
+"You're quieter now," the old man said.
+
+"I run out eventually," Jonah said. "Everybody's surprised by that. I'm surprised by that."
+
 "Kaspar's my sister's boy," he said, after a while.
 
 Jonah said nothing.
