@@ -22,7 +22,9 @@ He hadn't told Mara. He had told her the boarding, Ochoa, Varro, the fake strike
 
 "Standing like you're waiting to be hit." She was beside him at the rail, in her festival clothes, which were her yard clothes with the burns turned inward. "Nobody's going to hit you. It's Founding Day. They only hit us on the other three hundred and sixty-four."
 
-"And you're counting the dais," she said. "Every purple sleeve on it. I can see your eyes doing it."
+"I'll take the odds."
+
+"And you're counting the dais. Every purple sleeve on it. I can see your eyes doing it."
 
 Jonah said, "Somebody should. Nobody up there's counting us."
 

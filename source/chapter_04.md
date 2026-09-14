@@ -48,9 +48,9 @@ Then it wasn't. He had watched it come out of the boy and cover him and move. He
 
 That was not the part that frightened him. That was a horror, and horrors happened: hull strikes, drive fires, a man's hand in a cutter's jaws. He had inventoried horrors. The part that frightened him was after. The plate had gone back in, and the boy had stood in the hold with a dead Stripe at his feet. He had not screamed. He had not run. He had not fallen down. He had looked at what he'd done. Then he had knelt beside the captain.
 
-Jonah said, "Captain. Don't talk. I've got it, I know where it is, and I'll take it there myself."
+The boy had said, "Captain. Don't talk. I've got it, I know where it is, and I'll take it there myself."
 
-It came out in an ordinary voice, which was the part Marchand kept turning over. And nine hours later, in the dark, with the cutter going around them, Jonah said, "We're going to go home. A dead captain, a hole in the aft ring, and a barge crew that never saw a decurion in their lives." He had laid out the whole of it, the strike, the torch, the manifest, the reading, in the same ordinary voice. Every piece of it had been right.
+It came out in an ordinary voice, which was the part Marchand kept turning over. And nine hours later, in the dark, with the cutter going around them, the boy had said, "We're going to go home. A dead captain, a hole in the aft ring, and a barge crew that never saw a decurion in their lives." He had laid out the whole of it, the strike, the torch, the manifest, the reading, in the same ordinary voice. Every piece of it had been right.
 
 Marchand had lived his whole life among men who were a little frightened of him, because he knew where the numbers were. He had never been frightened of one of them.
 
