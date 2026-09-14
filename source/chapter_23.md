@@ -10,7 +10,7 @@ Nobody worked the Mouth and nobody guarded it. There was nothing at the bottom o
 
 He had come without buckets and without a lamp. He had not told Ulli, because Ulli would have come, and this was not for two. Past the door he could open with his hand. Past the Cradle. Past the slab galleries where Harrow's men slept in the cut with their gloves off. To here.
 
-"He said, somewhere you can hear the answer," Jonah said. "I don't think that's a road. I think it's the bottom."
+"He said, somewhere you can hear the answer. I don't think that's a road. I think it's the bottom," Jonah said.
 
 He went into the crack.
 
@@ -60,7 +60,7 @@ The genius did not lean and did not pull. It stood as it had stood for six hours
 
 It knew this place.
 
-"Yes," Jonah said. "I know. I've come down to ask."
+"Yes. I know. I've come down to ask," Jonah said.
 
 He walked into the room.
 
@@ -94,13 +94,13 @@ And they took a piece.
 
 He felt that too, and he would never try to say what it was like. It was one thing finding out, all at once, that it could be two. The second thing was being carried away, up, into a direction it had no name for. It could not follow. It could still feel the piece. Going up. Getting smaller. Then something was done to the piece, far up, in the cold. The piece stopped being able to hear. The wall said come to it, for the first time, and nothing came.
 
-"The first cask," Jonah said, with his hands on the wound. "That was the first cask."
+"The first cask. That was the first cask," Jonah said, with his hands on the wound.
 
 Four hundred years of that.
 
 He felt them all at once. Every cut. Every rod. Every cask going up the Throat with a deaf piece inside it. Every man laid against it in the Cradle that it had reached for, looking for a place to be, because the pieces had gone and the men were warm. It had not known what a man was. It had learned, slowly, from the inside of six hundred and forty-two of them. A man had names in him, and the names stayed when the man went. It had kept them. Keeping was the only thing it had ever done that had not been done to it.
 
-"Six hundred and forty-two," Jonah said. "I've got them too. I know."
+"Six hundred and forty-two. I've got them too. I know," Jonah said.
 
 Then, in a year the wall could not have named, the College had taken nine pieces and not made them small.
 
@@ -110,7 +110,7 @@ And the ninth.
 
 The ninth had not gone into a man. It had gone into a box. In the box, it had said something to the man who held it, in the man's head, as the wall said things. The man had not been able to cut it after. He had shut the box. The box went into a vault. The wall said come to it for a hundred and eighty-eight years, and it heard, every hour, and could not come, and did not stop listening.
 
-"That was him," Jonah said. "The old man. He couldn't cut you after. He told me."
+"That was him. The old man. He couldn't cut you after. He told me," Jonah said.
 
 Then the box had gone somewhere colder and darker and sat there twenty-two years. The wall went on saying come. The ninth went on hearing.
 
@@ -144,7 +144,9 @@ He never did find a number for it. It was a piece of the first thing. The wall w
 
 It went on a long time.
 
-When it stopped, and he could feel his hands, he sat in the dark with the wall breathing at his back and said what he now knew.
+When it stopped, and he could feel his hands, he understood something else. He had just asked the largest thing on this rock a question, and it had answered him, and it would answer again if he asked again. That was a kind of power he had never once had over anything in his life. It frightened him worse than the fever did.
+
+He sat in the dark with the wall breathing at his back and said what he now knew.
 
 "You're not a piece of it. Not anymore."
 
@@ -198,6 +200,12 @@ The deep man opened his eyes. He looked at Jonah in the lamp for a long moment. 
 
 "Yes."
 
+"You're shaking."
+
+"I'm frightened, Ulli," Jonah said. "I asked it a question, and it answered, and I don't know what to do with a thing that big saying yes to me. I've never had that before. I don't think I want it twice in one week."
+
+Ulli looked at him a long moment and didn't say it would pass, because he didn't know that it would.
+
 "And it." The deep man stopped. His face did nothing. "I sing to it, cut one. Seven years. I sing to it so the dying have something that's not the wall. It's never once sung back. Not to me. It sings to the ones it's taking. An hour ago it stopped."
 
 "Stopped."
@@ -206,11 +214,19 @@ The deep man opened his eyes. He looked at Jonah in the lamp for a long moment. 
 
 "Harrow doesn't wake up."
 
-"Harrow woke up. It stopped singing and it did something else. I don't have a word. Like a man letting out a breath he's held for a long time." He shook his head. "Then it started again, and it was different. I've been sitting here trying to work out what was different. Then you come up the road with your hands like that, and I know."
+"Harrow woke up. It stopped singing and it did something else. I don't have a word for it. The way you'd let out a breath you'd been holding a long time, except it isn't a man." He shook his head. "Then it started again, and it was different. I've been sitting here trying to work out what was different. Then you come up the road with your hands like that, and I know."
 
 "What?"
 
 "It's got one more name than it had," Ulli said. "And it didn't take it. It was given."
+
+"Given."
+
+"By something that's been in that room longer than the Empire, to a man who walked all the way down to ask it a question instead of taking what he wanted. That's not nothing, cut one."
+
+"It's not nothing to me either."
+
+"Go on, then," Ulli said, eyes shut again. "Say your names. I'll listen for both of us."
 
 Jonah stood in the lamp.
 

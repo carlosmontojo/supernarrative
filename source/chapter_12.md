@@ -1,6 +1,6 @@
 # Chapter 12: The Censor
 
-What he wanted to say was that decury six was one hand and one old farmer short of making quota, and that the haul was the only lever left to fix it without anyone guessing why. What he said was shorter: the kind of thing a man says when he only wants an easy detail.
+What he wanted to say was that decury six was one hand and one old farmer short of quota, and the haul was the only lever left to fix it quietly. What he said was shorter: the kind of thing a man says when he only wants an easy detail.
 
 "I'll take the haul," he said.
 

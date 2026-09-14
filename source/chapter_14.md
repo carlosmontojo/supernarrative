@@ -208,7 +208,7 @@ He stopped at decury six. He looked at Bricks's hand. He looked at Hollen's back
 
 "Four four seven one, Centurion. Cut one. The Vein's got him. Been going since winter, the foreman says. Sweats, shakes."
 
-What he did not say to Sabinus was the only true sentence in the chamber: that the guard the centurion had come looking for was already in the wall, and that Jonah had put him there. What he let Sabinus see instead was a dying Collar shaking on cue.
+What he did not say to Sabinus was the only true sentence in the chamber: the guard he wanted was already in the wall, and Jonah had put him there. What he let Sabinus see instead was a dying Collar, shaking on cue.
 
 Sabinus looked at Jonah's face. Jonah let it shake. He let the fever from the night show, which was not hard, and let his eyes go to the floor as Pell's had. He held the genius as still as he had ever held anything. Sabinus looked at a dying Collar with a white line on his arm and found nothing in it that was not beneath him.
 

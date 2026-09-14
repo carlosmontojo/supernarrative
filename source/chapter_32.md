@@ -26,7 +26,7 @@ The old man with the bar looked at him.
 
 "What was that?"
 
-"Praying," Jonah said, in the road's tongue. It hurt. "Give me a minute. I'm not going anywhere. I can't feel my legs."
+Jonah said, in the road's tongue, "Praying. Give me a minute. I'm not going anywhere. I can't feel my legs." It hurt to say even that much.
 
 ---
 
@@ -52,7 +52,7 @@ It came out badly. A crew that skimmed a College harvest, thirty-one days out, w
 
 "He can't stand."
 
-"I can talk, though," Jonah said. "That part's still working, which is more than my legs can say. Most crews like to know what they're putting out a lock before they put it out. I'm cheap to ask, and I answer fast, on account of the lock."
+Jonah said, "I can talk, though. That part's still working, which is more than my legs can say. Most crews like to know what they're putting out a lock before they put it out. I'm cheap to ask, and I answer fast, on account of the lock."
 
 "Then he goes out the lock lying down." The mate came forward with the fang. "Pike, you don't have to watch. Hal. Dov. Get him up."
 
@@ -84,7 +84,7 @@ That was the echo.
 
 He felt it then, on his knees. The first since Varro, and worse. Varro had been feet: a duellist's feet and a duellist's contempt. The old man had spent a year getting them out. This was not feet. This was a way of looking at a hold full of Blanks with knives, bored, from a long way up, as slabs that would come or would not. It sat behind his eyes where the fever had been. It looked at the mate coming with a thin grey fang and thought, in a voice that was not his: that one's nothing.
 
-"No," Jonah said, aloud. "Not yours. Mine."
+Jonah said, aloud, "No. Not yours. Mine."
 
 Kaspar came in.
 
@@ -120,7 +120,7 @@ Kaspar fell over. He lay on the deck with his right arm bare to the elbow. Not p
 
 Jonah knelt beside him with his hands empty.
 
-"I did that," Jonah said to him, plainly, because Kaspar was looking at the beam and somebody owed him the words even if he could not answer. "I heard you say please and I stopped, but I didn't stop soon enough, and that's mine, not the hunger's. I'm sorry."
+Jonah said, "I did that. I heard you say please and I stopped, but I didn't stop soon enough, and that's mine, not the hunger's. I'm sorry." He said it plainly, because Kaspar was looking at the beam and somebody owed him the words even if he could not answer.
 
 Kaspar did not answer. His eyes stayed on the beam.
 
@@ -134,7 +134,7 @@ Then he felt the other new thing.
 
 The half cutting had had a gift, and it had passed, without asking, the same as Reach. Seal. The plate gift that shuts seams. That was what his plate had done when it came up wrong. A Halyard boy's cutting's one trick, learned on a ship where the cold gets into the seams. It had come across in a half, and it was wrong. It shut the seams backward and lumpy, a knot the wrong way round, the harvest mark closing from inside. The plate over his throat was sealed. It would not open when he asked, and then it did, badly. He knelt with his neck plated and unplated and plated again. Wrong-shaped. Both of them. One eaten whole, one half, and both wrong.
 
-"Pike," Jonah said.
+"Pike," he said.
 
 The old man did not answer.
 
@@ -162,7 +162,7 @@ Yara looked at Pike.
 
 "He's a Collar with a white line who came out of a sealed cask and took Kaspar's arm half off with his hands." She said it without weight. "And he talks. He's on his knees with his hands flat on my deck. Which of those do I count?"
 
-"All of it," Jonah said. "That's the only way it comes out."
+Jonah said, "All of it. That's the only way it comes out."
 
 She looked at him then. Properly, for longer than a number takes, the way the woman on the stool had. He let her, and did nothing with his face, because nothing on it was untrue. A man who could not stand. Forty-two, settled, wrong-shaped. A boy's cutting saying please in him and a Centurion's contempt behind his eyes. Hungry, and showing it. Not going to eat anyone else on this ship. He did not know how to say that so a Halyard captain with a fang would believe it, so he let her read it.
 
@@ -202,7 +202,7 @@ He tried. It went. Not clean; the seals let go last, in lumps. The throat came o
 
 "That's not what I asked."
 
-"No," Jonah said. "It's not." He did not look away. "Ask me the other one. The one you came down to ask. It's not what am I. You'd not have slowed your heart on purpose and come down a ladder for that. You came because Pike said backward, and a man who seals a College cask from inside isn't a convict. You wanted to see him before Kaspar put him out the lock, because you've a use for him. You were counting the cost before you got to the bottom rung. You've counted. It's come out. So ask."
+Jonah said, "No. It's not." He did not look away. "Ask me the other one. The one you came down to ask. It's not what am I. You'd not have slowed your heart on purpose and come down a ladder for that. You came because Pike said backward, and a man who seals a College cask from inside isn't a convict. You wanted to see him before Kaspar put him out the lock, because you've a use for him. You were counting the cost before you got to the bottom rung. You've counted. It's come out. So ask."
 
 Yara knelt with her hand on her mate's arm and looked at him for a long time.
 
@@ -242,7 +242,7 @@ Jonah put his palm flat on the inside of the cask, on the dark glass that had he
 
 "And you're a Collar."
 
-Jonah said, "I was." He took his hand off the glass. "A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here." He touched his chest. "That's what I was. What I am is what your captain's asking tomorrow. I told her the truth. I've not got it yet."
+He took his hand off the glass, and then touched his chest, and Jonah said, "I was. A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here. That's what I was. What I am is what your captain's asking tomorrow. I told her the truth. I've not got it yet."
 
 Pike sat with the bar.
 
