@@ -86,7 +86,7 @@ Ulli was at the end of the gallery on his bucket. He'd carried forty-two men out
 
 He went on the forty-second night.
 
-He counted it. He'd stopped counting nights, and he counted these, because they were something he'd done, not something done to him. He picked up the buckets the Deep man had left at the cage, glad to be rid of them, and walked down the road past the lamps too far apart, past Ulli, who didn't open his eyes, and into the Cradle.
+He counted it. He'd stopped counting nights, and counted these, because they were something he'd done, not something done to him. He picked up the buckets the Deep man had left at the cage, glad to be rid of them, and walked down the road, past Ulli, who didn't open his eyes, and into the Cradle.
 
 He put the buckets down. He didn't tap. He stood at the back, where the rock met the Vein, and waited. The genius, which had leaned at every wall in the Pit and hadn't, for six weeks, leaned at this one, leaned.
 
@@ -94,7 +94,7 @@ The rock opened.
 
 The old man came out with the lamp turned to a thread and the stick on his shoulder. He stopped, and looked.
 
-He was thinner. Jonah saw that first. Six weeks on one bowl a day was six weeks on one bowl a day at seventy. The straight back was straight, the chin level, but there was less of him, and the knuckles on the stick hand were larger than they'd been.
+He was thinner. Six weeks on one bowl a day, at seventy. The straight back was straight, the chin level, but there was less of him, and the knuckles on the stick hand were larger than they'd been.
 
 "You've lost a stone," the Censor said.
 
@@ -144,7 +144,7 @@ Jonah looked at the stick on the rock.
 
 He picked up the stick.
 
-"So. You're twenty-six, near enough, and going. I've six weeks to put back, and a fifth Form to give you, and a College coming down the Throat before long. And Sabinus, whom you watched Auger make hurry, and whom you'll make hurry too, because you kept his face, and I saw you keep it. You know the four. Say them."
+"So. You're twenty-six, near enough, and going. I've six weeks to put back, a fifth Form to give you, and a College coming down the Throat before long. And Sabinus, whom you watched Auger make hurry, and whom you'll make hurry too, because you kept his face. I saw you keep it. You know the four. Say them."
 
 "Vibia. Claudia. Fulvia. Aemilia."
 
@@ -162,6 +162,6 @@ He said them.
 
 He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, out of order, same as he had them. Corr, Auger, Hollen. Bricks, Marcus, who never used it. Tallow, fifteen. The Deep man, whose name he didn't have, and said so. Decimus Alba, of Etruria, whom he'd put under a shelf.
 
-And at the end, standing in the dark with the genius fed on nothing but a stick and listening, the way it always listened, he said the first one. Three words in the old tongue, tapped once on a wall by a man who hadn't said it in twenty years and had wanted it said. He said it with the endings right. He didn't say it easily, and he didn't say it soft. He didn't say anything after it.
+And at the end, standing in the dark with the genius fed on nothing but a stick, listening, he said the first one. Three words in the old tongue, tapped once on a wall by a man who hadn't said it in twenty years and had wanted it said. He said it with the endings right. He didn't say it easily, or soft. He didn't say anything after it.
 
 It was on the list again, at the top, where it had been. It would stay there.
