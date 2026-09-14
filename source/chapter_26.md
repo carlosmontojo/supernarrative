@@ -60,7 +60,7 @@ Forty of them. Not barrels. They were the same dark glass as the reading slabs, 
 
 "Every one's a piece of the wall," Harrow said behind him. The deep foreman had followed him down with a lamp. Harrow was fair and afraid, and did not let a man into the loading gallery alone. Jonah had counted on that. "Cut and hollowed a hundred years back. You can't put the Vein in steel. It eats through anything but itself, so they made the casks out of it. Forty. They go up full and come back empty on the next transport. Nobody's ever made a forty-first."
 
-Jonah said, "Forty. And nobody's ever asked why not. That's not a question a man who works down here gets to ask, is it."
+Jonah said, "Forty. And nobody's ever asked why not. That's not a question a man down here gets to ask."
 
 "No," Harrow said. "It isn't."
 
@@ -100,7 +100,7 @@ It did not answer. It could not.
 
 But it did not settle either. It did what it had done on the slab at the Throat when the word came. It stood in the doorway of him and looked through, and did not go. It hesitated. He stood in the dark and let it. After a while it stopped, and he did not know what it had decided.
 
-Jonah said, "All right. I'll ask again. Nearer the day. I talk to you more than I talk to anyone left alive, and you've never once told me I talk too much. I find that restful."
+Jonah said, "All right. I'll ask again. Nearer the day. I talk to you more than anyone left alive, and you've never once told me I talk too much. I find that restful."
 
 The second thing was the seal.
 
