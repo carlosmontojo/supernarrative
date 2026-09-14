@@ -152,25 +152,33 @@ Pell said nothing about it. He had stopped asking things in the fourth year and 
 
 "The Broadstripe. The woman. She looked at you longer."
 
-"She read me twice."
+"She read me twice," Jonah said. "Everybody else on this road got read once. I should feel honoured. Mostly I feel weighed."
+
+"That a joke?"
+
+"An attempt."
+
+"Didn't land."
+
+Jonah said, "No. They rarely do, before a Flamen's had his hands on my arm."
 
 "She read the whole road once each. You, twice, longer the second time. Then she told the old one he was wrong to his face, in front of the prefect." Pell was quiet a moment. "I've been on the Limes sixty-six years. Never seen a Stripe tell a Stripe he was wrong for a Collar. Once, on Anvil, at the sand, years back. A quaestor's sister said a cut one had won a bout. That's what the north yards said, when they came down." He turned over. "I'm not asking. I'm saying I heard it, and I've a memory. It's hers or it's another one, and there's not two."
 
 Jonah lay with his hands on his chest.
 
-"There's not two," he said.
+Jonah said, "There's not two. I'd know. I've been counting things on this road for six years. It's the one habit they never got out of me."
 
 "No." Pell breathed. "Then she knows you."
 
-"I don't know."
+"She knows a face from a yard rail six years gone, and a convict at the bottom of a Throat who isn't supposed to have letters," Jonah said. "That's not the same as knowing me. I'm hoping."
 
 "She knows you. A man's face doesn't change; a man's number does. She looked at your arm a long time and then your face a long time. Then she lied to a Master for you in the old tongue. I don't speak it, cut one, but I know what a lie sounds like. It's the one thing every tongue's got the same." He was quiet. "She's going up the Throat with sixteen slabs and a seal she says a convict couldn't have drawn. A month on a transport with all that in her lap, to think."
 
-"Yes."
+"Then I hope she thinks kindly," Jonah said.
 
 "That's how it goes."
 
-"Yes."
+"It's how it always goes," Jonah said. "Somebody with more stripe than me decides what I am, and I find out after, from a guard who happened to be standing there."
 
 Pell said nothing more. After a while he sang the song from the north forty, the one with the drainage in it. Jonah lay under it and thought about a woman with a book that was not the College's. She had read six hundred and forty-two names all night, and looked up from the last line to say, mark him void.
 
@@ -206,7 +214,17 @@ Jonah did not move.
 
 "What did she write?"
 
-"I don't read the old tongue, four four seven one. I read numbers." He made another mark Jonah could not see. "She wrote a long time. That's all I've got. It's not much. It's what a guard has." He went on down the road.
+"I don't read the old tongue, four four seven one. I read numbers." He made another mark Jonah could not see. "She wrote a long time. That's all I've got. It's not much. It's what a guard has."
+
+Jonah said, "It's plenty. Thank you."
+
+"For what."
+
+"For telling a dying man what a woman with a book thought of him, instead of telling him to shut up and cut," Jonah said. "You didn't have to give me that."
+
+Decimus looked at him a moment in the lamp.
+
+"No," he said. "I didn't." He went on down the road.
 
 Jonah stood at the wall.
 
@@ -214,4 +232,4 @@ Tacitus, out of the cellar now, had heard a guard say Vale, my lady. It had felt
 
 It waited to be told.
 
-"Later," Jonah said, in the old tongue, very quietly, to the wall. "I'll tell you later. I don't know what it is either."
+Jonah said, in the old tongue, very quietly, to the wall, "Later. I'll tell you later. I don't know what it is either."

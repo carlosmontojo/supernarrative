@@ -20,11 +20,11 @@ Nobody asked him how he knew. Corr had been on the wall four years. He knew what
 
 They made eleven the first day and Bricks chose Hollen for the post. Hollen took it without a sound, ten across the back at the dusk count with the road watching. The second day they made eleven again and Bricks chose Pell.
 
-Bricks had not wanted to. But a foreman whose decury missed chose a man. Choose the same man twice and the road said you had a favourite. Choose the strong ones and the decury went from eleven to nine. Pell was sixty, cut like a farmer, and had made one shard in two days. Everybody could count.
+Bricks had not wanted to. But a foreman whose decury missed chose a man. Choose the same man twice and the road said you had a favourite. Choose the strong ones and the decury went from eleven to nine. Pell was sixty, farmer-built even now, and had made one shard in two days. Everybody could count.
 
 Pell took it to the floor. Ten strokes. He got up after and went to the wall and put his chisel to the dark. His hands shook so badly the steel rang on the Vein.
 
-"Give it here," Jonah said.
+"Give it here," he said.
 
 "No," Pell said, and cut.
 
@@ -62,9 +62,15 @@ Jonah took the steel off the wall slowly and let his arms shake, and turned. Vet
 
 "Cut one," Vetch said. "The one the Vein wants. I've heard about you. Sweats and shakes and then can't. Corr says you're going." The lamp swung to Pell. "And the old one. Marl. Made nothing today, foreman says. Nothing. In a decury that owes twelve." He came into the chamber. "So I thought I'd come down and help. Like the north-side cutter. He made twelve with a little help. Didn't he."
 
-"He did," Jonah said.
+"He did," he said.
 
 "So." Vetch stopped in front of Pell. He put the fang under the old man's chin and lifted. Pell's head came up off the wall and his eyes came round, slowly, to the young guard's face. "One shard, Marl. In a quarter hour. Or I take the difference out of the count myself, and it's not the post."
+
+What he wanted to say was that he could put the fang hand on the floor before Vetch finished the sentence. What he said instead tried to end this without anyone's hands leaving the ends of their arms.
+
+"He's decury six's best count when his hands aren't shaking," Jonah said. "If he goes down tonight, the number goes down with him. That's on your report, not mine."
+
+Vetch looked at him for the first time since the lamp had come into the chamber, and decided Jonah was not worth the extra sentence. "Then he'd better not shake." The fang did not move.
 
 Pell looked at him.
 
@@ -170,7 +176,13 @@ He put the coat in the bucket under a shard. He took the lamp. He picked up Vetc
 
 "Cut with that tomorrow. It's sharper."
 
-Pell took it.
+Pell took it. He turned it over once, testing the balance, the way he might have tested a scythe forty years ago on a field that no longer existed.
+
+"Better than your usual," Pell said.
+
+"Everything's better than my usual," Jonah said.
+
+Pell made a sound that started as a laugh and came out as a cough.
 
 "Five," the old man said again, to the floor. Then, after a moment: "He'd have done it. In a quarter hour. He wasn't waiting. I've seen the ones that wait, and he wasn't one."
 
@@ -195,6 +207,8 @@ He stopped at decury six. He looked at Bricks's hand. He looked at Hollen's back
 "That one," he said, to the guard behind him. Not a question.
 
 "Four four seven one, Centurion. Cut one. The Vein's got him. Been going since winter, the foreman says. Sweats, shakes."
+
+What he did not say to Sabinus was the only true sentence in the chamber: that the guard the centurion had come looking for was already in the wall, and that Jonah had put him there. What he let Sabinus see instead was a dying Collar shaking on cue.
 
 Sabinus looked at Jonah's face. Jonah let it shake. He let the fever from the night show, which was not hard, and let his eyes go to the floor as Pell's had. He held the genius as still as he had ever held anything. Sabinus looked at a dying Collar with a white line on his arm and found nothing in it that was not beneath him.
 

@@ -58,7 +58,7 @@ He came up the road at a walk. A man running at twelve auxiliaries was a man wit
 
 Dace looked up from Bram. "Curfew, friend."
 
-"I heard the bell."
+"I heard the bell," Jonah said. "And I heard your fang land on that man's face before I was close enough to see the band. You're new at this. I can tell."
 
 "Then you'll know what you're out for." Dace straightened. Twenty-five. Blood on the flat of his fang. A band, and a face that was pleased with the band. "Two a night. He's one." He looked the hood over. "You're the other. That's the road's luck. Arm."
 
@@ -108,7 +108,7 @@ He read the face from ten paces. Five years of drill on a rock, reading a face a
 
 "Who are you," Corin said.
 
-Jonah said nothing.
+"A man you signed a letter about once, without asking what was in it," Jonah said. "You didn't need to ask. You needed me to lose a bout I'd already won, and I hadn't, and you signed anyway. That's all I am to you. It's enough."
 
 "I asked you who you are."
 

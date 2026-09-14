@@ -12,7 +12,7 @@ Jonah sat beside him, with his own back to the Vein.
 
 "I did. I've sat with it fourteen nights, till the wall's done. It's done. So ask."
 
-"Carry me," Jonah said. "On the nineteenth. The harvest goes up on the twentieth. Harrow lids the last casks on the nineteenth and the Flamen seals them at dusk. I'll be in thirty-one from the sixth bell, held. It goes up the hopper cage on the twentieth with the rest." He said it flat, in the road's tongue. "At the dusk count on the nineteenth, Decimus says four four seven one, and there's nobody. You say he went in. I carried him at the fourth bell, I sat with him, I took the blanket back. Decimus makes a mark."
+Jonah said it flat, in the road's tongue: "Carry me. On the nineteenth. The harvest goes up on the twentieth. Harrow lids the last casks on the nineteenth and the Flamen seals them at dusk. I'll be in thirty-one from the sixth bell, held. It goes up the hopper cage on the twentieth with the rest. At the dusk count on the nineteenth, Decimus says four four seven one, and there's nobody. You say he went in. I carried him at the fourth bell, I sat with him, I took the blanket back. Decimus makes a mark."
 
 "And the wall."
 
@@ -22,9 +22,9 @@ The deep man said nothing for a long time.
 
 "You've got it wrong," he said at last. "You've counted it the way the old man would. Who owes, who fears, where the gap is. You've come out to a line that costs me, and you've stopped. You're a man who gives the bowl back. You don't know how to take one." He opened his eyes and looked at the roof. "I'm not on the slate, cut one. I never was. I'm the one who carries."
 
-"I don't understand."
+Jonah said, "I don't understand. Seven years I've counted casks and slabs and men, and I never once counted that. Why haven't I asked you why you're alive?"
 
-"No. Seven years, and you've never once asked me why I'm alive."
+"No. Seven years, and you've never once asked me why I'm alive. That's your answer."
 
 Jonah looked at him.
 
@@ -70,7 +70,7 @@ Jonah did not move.
 
 Jonah sat with his back to the wall. He had nowhere to put it.
 
-"That's not a price," he said. "That's you dying so the count comes out."
+"That's not a price," Jonah said. "That's you dying so my count comes out even, and calling it a favour I'm doing you."
 
 "It's me dying. The count's yours. I've told you what mine is. I've been choosing the day nine years, and I've chosen one that does a job for a man I carried out of this room once. I'd rather that than a day that does nothing, which is all the other days I had." He turned his head. "You give the bowl back. I've watched you do it seven years, and it's the reason I'm sitting here and not on my bucket. I'm asking you, once, to take one."
 
@@ -98,7 +98,7 @@ Ulli said nothing. After a while he began to sing again. Jonah did not know the 
 
 He asked Tacitus that night, on the road, after the names. It was the first time he had asked it for something that was not for him.
 
-"He's going in," he said, in the old tongue, in the dark between the lamps. "On the eighteenth. On purpose. He's going to sit down and stop singing, and the wall's going to do what it's wanted for nine years, slowly, because it's polite. I'm going to be sitting there." He put his hand on his chest. "I've felt it take a man. I felt it take the old man through my hand. I don't want to feel this one. I want to be there and not feel it. I don't know if that's something I can ask you."
+Jonah said, in the old tongue, in the dark between the lamps, "He's going in. On the eighteenth. On purpose. He's going to sit down and stop singing, and the wall's going to do what it's wanted for nine years, slowly, because it's polite. I'm going to be sitting there." He put his hand on his chest. "I've felt it take a man. I felt it take the old man through my hand. I don't want to feel this one. I want to be there and not feel it. I don't know if that's something I can ask you."
 
 It listened.
 
@@ -110,7 +110,7 @@ Then it did something new. It pressed, once, in the middle of him, where the sea
 
 It had no hand. It did that.
 
-"All right," Jonah said, after a while. "Thank you."
+Jonah said, after a while, "All right. Thank you."
 
 He went to the wall in the morning and cut his shard. Pell, beside him, did not look up and did not sing. At the change of shift he said, to the floor:
 

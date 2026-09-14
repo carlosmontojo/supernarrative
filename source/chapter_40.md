@@ -48,9 +48,9 @@ It listened.
 
 "Tom Vale. Anvil. Morrow's yard. Nine fingers. South yards. Believed in the ladder. Sold a set of numbers for a winter's food and knew, and never told me. Was happy the night I answered in Latin. Sat in a chair with the door open. Paid by the yard, the melt says. Paid by the man who wrote the letter, out of his own purse, because a good man made him. Mara said his name at the fire where you don't."
 
-"Captain Ochoa. The Kestrel. Said nothing, the highest thing. Carried a seal for a senator, died on a decurion's fang over the fish course. Said Vibius with the last of it. Morrow said his name right, once, at the melt, and didn't look at me."
+"Captain Ochoa. The Kestrel. Said nothing, the highest thing. Carried a seal for a senator, died on a decurion's fang over the fish course. Said Vibius with the last of it. Morrow said his name right, once, at the melt, and didn't look at me," Jonah said.
 
-"Decurion Varro. The Vigilant. Killed a man without breaking conversation. The first. His feet are in my legs and his contempt is not, anymore, and that took the old man a year."
+"Decurion Varro. The Vigilant. Killed a man without breaking conversation. The first. His feet are in my legs and his contempt is not, anymore, and that took the old man a year," Jonah said.
 
 He said the road. Corr, north yards, four years, said a month, a tree. Bricks. Hollen. Aulus of Marl. Tallow, fifteen. Marcus, who never used it. The Deep man written as unknown. Auger, who said his name to Ulli and made a Centurion hurry with a second chisel. Vetch, a guard, not written before, and was now. Sorrel. The boy from the last transport whose name he did not know, and said so.
 
@@ -84,7 +84,7 @@ Then he said his own.
 
 He stopped.
 
-"That's the count," he said. "It starts with you and it ends with me and there's room. There's always room. It's the only thing about a count that's kind."
+"That's the count," he said. "It starts with you and it ends with me and there's room. There's always room. It's the only thing about a count that's kind," Jonah said.
 
 ---
 
@@ -102,7 +102,7 @@ Jonah stood very still.
 
 Then he laughed. Once, out loud, at the beam, as he had laughed on the Cradle floor when it had learned to hold him from its mother and stopped when he said when. It had learned to speak from him. The old man had said it would: it has no tongue but yours. The first sentence it made was the one he had given it, every time, for something that could not be answered. It had given it back.
 
-"Yes," he said. "All right. Yes. You do."
+"Yes. All right. Yes. You do," Jonah said.
 
 Pike, at the foot of the ladder, said, to the lamp: "He's talking to it."
 

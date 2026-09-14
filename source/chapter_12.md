@@ -1,6 +1,8 @@
 # Chapter 12: The Censor
 
-"I'll take the haul," Jonah said.
+What he wanted to say was that decury six was one hand and one old farmer short of making quota, and that the haul was the only lever left to fix it without anyone guessing why. What he said was shorter: the kind of thing a man says when he only wants an easy detail.
+
+"I'll take the haul," he said.
 
 Second day after the haul ended. He said it in the road at the dusk count, to Bricks, in front of Decimus, with sixty men eating behind him.
 
@@ -46,7 +48,9 @@ He opened his eyes when Jonah's boots stopped in front of him. He did not look s
 
 "Cut one."
 
-"The rock asks you to sit somewhere else. Three nights."
+What he wanted to say was that he was sorry to be spending the one kindness in the Deep on a rock that did not need it as badly as the dying did. What he said left that out.
+
+"The rock asks you to sit somewhere else. Three nights. Please," Jonah said.
 
 Ulli looked at him for a while.
 
@@ -124,7 +128,7 @@ The old man sat across from him with the lamp between them and folded his hands.
 
 "The wall is one thing," the Censor said. "That is the first piece. Everything they told you at the Throat, everything Corr says, everything the Flamens say in their white house on Anvil, is built on the wall being a substance. A seam in a rock that you cut with steel. It is not. It is one mind, all of it, every gallery, every level, from the Shallows to the Mouth. One mind the size of a planetoid. It was here before the Crossing. Four hundred years ago a survey crew put a drill into it. It bled and closed, and they put a bigger drill in."
 
-"One mind," Jonah said. "The whole Pit."
+"One mind," he said. "The whole Pit."
 
 "The whole Pit. Every lorica in the Empire is a piece of it. Every cutting in every Blank's arm, every Thinstripe's plate, every ancestral genius in every Broadstripe house with a shrine and a feast day. Cut off this wall, carried up the Throat in a cask, taken to the College and made small."
 
@@ -148,7 +152,7 @@ The old man sat across from him with the lamp between them and folded his hands.
 
 "Under my own seal. I took it to the Limes, to a shipbreaking moon. A yard ledger there listed a founding-era Flamen hull in the rings of a gas giant that no Imperial chart had ever recorded. The yard cutters of Anvil keep their own ledgers and do not share them. I bought the location from the ledger's keeper for a winter's food. I put the box in the stone room the Flamens of the Crossing had built for exactly that purpose. I shut the door, and went home."
 
-"A winter's food," Jonah said.
+"A winter's food," he said.
 
 "The cutter's name was Vale. I did not know that until you said it in the Cradle. Tom Vale, nine fingers, sold something once for a winter's food and never told you. He sold me a set of coordinates out of a yard ledger. I paid him in Marl grain. I never saw his face. That is the whole of it. I would tell you if there were more."
 
@@ -162,7 +166,7 @@ Jonah sat very still.
 
 "They listened." He unfolded his hands and folded them again. "A man named Lucius Vibius stood up and moved that I be condemned for treason against the Matter. My friend. He had sat at my table. He had a son of ten and a daughter not yet born. The motion carried. They cut the stripe out of my arm in the Forum in front of the College. I lived, which I am told was a surprise to everyone. They put me on a transport."
 
-"Vibius," Jonah said.
+"Vibius," he said.
 
 "He has been looking for the box for twenty-two years. Not to free it. To own it. A Gracchan with the last seed in his hand can tell the Princeps that he knows what the wall is. That the Senate can hold the Wall in both senses. That is the whole of the Gracchan cause, boy, and always was, and it is not yours."
 
@@ -176,7 +180,7 @@ Jonah sat very still.
 
 ---
 
-"Why?" Jonah said.
+"Why?" he said.
 
 "Because it chose you."
 
@@ -236,7 +240,7 @@ Jonah stood up.
 
 The old man stopped.
 
-"Ulli says the singing was for you too. Some nights. When there was nobody else."
+"Ulli says the singing was for you too. Some nights. When there was nobody else," Jonah said.
 
 The Censor stood with his back to Jonah and the lamp in his hand, and did not turn around. For a moment his straight shoulders were not straight.
 

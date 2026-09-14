@@ -74,7 +74,17 @@ He didn't answer. The singing man let it go.
 
 "Two."
 
-"Two. Bricks brought your bowl. I ate it. You weren't going to." No apology in it. "The Cradle's a cut off the Deep. Where the Vein's thickest. They put the sick ones here because it's kind, they say. The Vein wants them, so let them be near it, so it can finish. Nobody works this gallery. Nobody comes but me." The rough voice went quiet. "It's warm. You'll have felt that. Warmest place in the Pit."
+"Two. Bricks brought your bowl. I ate it. You weren't going to." No apology in it.
+
+"You ate my bowl," Jonah said.
+
+"You weren't going to eat it. You were dying."
+
+"I might have surprised you."
+
+"You didn't. I checked." Ulli's voice was rough, and something in it was almost amused. "Next time don't almost die on a day I'm hungry."
+
+"The Cradle's a cut off the Deep. Where the Vein's thickest. They put the sick ones here because it's kind, they say. The Vein wants them, so let them be near it, so it can finish. Nobody works this gallery. Nobody comes but me." The rough voice went quiet. "It's warm. You'll have felt that. Warmest place in the Pit."
 
 It was. The cold was in him, but the rock under him was warm, and the air, and the dark. He understood where he was. The Cradle had a wall of Vein, and they had laid him with his back against it, because the wall wanted him, and it was kind.
 
@@ -89,6 +99,8 @@ The singing man didn't answer for so long that Jonah thought he'd gone.
 "Names," Ulli said at last. "Not in words. But that's what it is. You'll hear it, if you last. Everybody it's taken. It's got them all, and it goes through them. I sing over the top so the new ones don't have to listen." He shifted on the rock. "Corr thinks I'm mad. Corr's been on the Shallows four years and thinks the Vein's a wall. I've been in the Deep six and I know what it is. It's a thing that counts."
 
 Jonah lay in the warm dark with the cold in the middle of him and thought about what stood half out of him, looking back, and what it had said, going.
+
+What he wanted to say was that he was afraid to ask whether Ulli had ever heard his own name come up out of the wall. What he asked instead was smaller.
 
 "Ulli."
 
@@ -198,7 +210,9 @@ He felt that. He'd felt it stop on the derelict when it found his heart. It had 
 
 "Cut one," Ulli said. "What are you doing?"
 
-"Hask." His throat closed and he made it open. "Hask. I killed him. He was nothing, and I killed him, and I've got him. A boy from Marl who said no once. I don't know his name. I'm sorry. I don't know it."
+What he did not say was the boy's name, because he had never had it. What he gave instead was everything else he did have, and it suddenly seemed a very small thing to offer a dead stranger.
+
+"Hask." His throat closed and he made it open. "Hask. I killed him. He was nothing, and I killed him, and I've got him. A boy from Marl who said no once. I don't know his name. I'm sorry. I don't know it. He should have one anyway," Jonah said. "Even if I have to make it up."
 
 He was shaking.
 
@@ -244,7 +258,7 @@ It was not a good laugh. Ulli made a sound.
 
 "You were going. I've sat with forty. I know the sound. You were going and you started saying names at the wall and now you're." Ulli stopped. "What are you?"
 
-"Cold," Jonah said. "Hungry."
+"Cold," he said. "Hungry."
 
 That was the other thing. He felt it as he said it. It had come back with a mouthful of the wall. In a month it had never once been full, but its hunger had been a fire's hunger, without size or end. This was different. It had eaten a piece of what it came from, and now it knew what that tasted like. The hunger had a size. He could feel the edges of it, the edges of a room in the dark. He was going to spend the rest of his life knowing exactly how big it was, and how full, and how far from full.
 
@@ -292,7 +306,7 @@ Counted, it had said. That was the whole of what it had to give, and it had give
 
 "Three. And you turned around." The deep man's voice was very quiet. "Nobody turns around."
 
-"I know," Jonah said. "I've been told."
+"I know," he said. "I've been told."
 
 He closed his eyes. The fever came up through him, warm, from the middle out, and behind his heart it rested. Somewhere in the rock behind his head, past the Cradle, behind a steel door, something that counted had heard him say every name he had and had said one word back.
 

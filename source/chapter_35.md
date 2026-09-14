@@ -36,13 +36,13 @@ He gave it. The left one; he had counted that too. The auxiliary pushed the slee
 
 "Other one."
 
-"Burned," Jonah said. "Torch. Six years back. You'll not want to see it."
+"Burned. Torch. Six years back. You'll not want to see it," Jonah said.
 
 The auxiliary looked at him a moment longer. He was twenty, a fang he had not used, a band a week old. Jonah stood with his face doing nothing, a man who'd rather not show a burn, bored, tired, Belt. The auxiliary said, "Go on," and Jonah went, past the man still holding his jaw against the rail.
 
 Sabinus said, behind his eyes, without words: that one's nothing.
 
-"He's a boy with a band," Jonah said, in the old tongue, under his breath, walking. "What I'd have been if I'd stayed. Shut up."
+"He's a boy with a band," Jonah said, in the old tongue, under his breath, walking. "What I'd have been if I'd stayed. The Empire doesn't trust a Blank to check an arm. It only trusts a Collar who's already put a fang in one. That's the whole design, and it's tidy. Shut up."
 
 ---
 
@@ -50,7 +50,7 @@ The melt-house was on the north side, where the yards' waste went, and the Flame
 
 He had never been inside. Nobody went inside who did not have to. The clerk was a Blank with a stripe on his wrist so thin it might have been a scar, and a ledger.
 
-"Six years back," Jonah said. "Winter. South yards. A man named Vale."
+"Six years back. Winter. South yards. A man named Vale," Jonah said.
 
 The clerk did not look up. "The melt doesn't take names."
 
@@ -63,6 +63,8 @@ Jonah looked at the column. South yards, adult male, one. Paid by the yard. Morr
 "Paid by the yard," he said. "Which yard?"
 
 "Doesn't say. Morrow's, if it's south. He's the only one who pays. Or was." The clerk shut the book. "You'll want the Halyard. Gaspar's there. He was there for all of them."
+
+"Thank you," Jonah said. The clerk did not look up for that either, but Jonah said it anyway, because the man had given him a column and asked for nothing back.
 
 ---
 
@@ -94,7 +96,7 @@ Gaspar lifted his head. He looked at the hood with wet half-open eyes and saw no
 
 "Who's asking."
 
-"A man off the Belt who heard the name. From somebody who'd been to Tessera." Jonah kept the Belt in his voice. "Said a Collar off Anvil died in a Pit with a story on him, and a man named Gaspar had it, and would sell it."
+"Does it matter, if the story's the same either way?" Jonah said, and did not wait for Gaspar to decide it did. "A man off the Belt who heard the name. From somebody who'd been to Tessera." He kept the Belt in his voice. "Said a Collar off Anvil died in a Pit with a story on him, and a man named Gaspar had it, and would sell it."
 
 "I'd sell it. I've sold it before. Nobody's paid that much." He put his hand over the shard and did not pick it up. "Tom's boy."
 
@@ -172,7 +174,7 @@ He stood at the rail with his hands on it, and Tacitus waited. He thought of a m
 
 The hand with no hand.
 
-"Not yet," Jonah said. "Not for him. For me." He took his hands off the rail. "Four. That's the count. Three on this rock and one in the City. I've a slab under my coat, three days, and a hood, and a Thinstripe reading arms at the gate who's what I'd have been." He looked up at the hull ring. "And she said his name. At the fire. Where you don't."
+"Not yet. Not for him. For me," Jonah said. He took his hands off the rail. "Four. That's the count. Three on this rock and one in the City. I've a slab under my coat, three days, and a hood, and a Thinstripe reading arms at the gate who's what I'd have been." He looked up at the hull ring. "And she said his name. At the fire. Where you don't."
 
 Behind him, up the dock road, a bell went.
 

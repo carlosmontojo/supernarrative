@@ -36,7 +36,7 @@ Five years on a rock with a stick. Thirty-one days in a cask. A morning with his
 
 ---
 
-"A purser," he said, "who saw something through a hatch and was afraid of it. Who wrote it down, and was seen to for it. That's what they said. Seen to. A house on the upper ring, the tax farm and the bank, for a letter."
+"A purser," he said, "who saw something through a hatch and was afraid of it. Who wrote it down, and was seen to for it. That's what they said. Seen to. A house on the upper ring, the tax farm and the bank, for a letter," Jonah said.
 
 "That's a man."
 
@@ -92,7 +92,7 @@ He did not answer at once.
 
 He had said the fourth name every night for seven years with what the man had done. Read his heart and found it doing nothing. Sent him down a hole for what he carried. Burned it. Wrote him dead in a clerk's hand. And three nights ago at the rail he had said to Tacitus, not yet, not for him, for me. He had meant the fourth. He had also meant a man on a stool at the bottom of the Throat with a grey book on his knee, who had asked a guard what he was called.
 
-"Marcus Vibius Priscus," he said. "Quaestor. He's got a seat, in a year. He'll stand for praetor and get it. He's got a Form. Verdict, the Vibian, the one that doesn't move. He looks at the place he'll put the blade before he draws. He's got a father who's a Gracchan, which is why I went down a hole. The seal was to the father. The son burned it so the father wouldn't hang." He stopped. "And he's got a sister."
+"Marcus Vibius Priscus," he said. "Quaestor. He's got a seat, in a year. He'll stand for praetor and get it. He's got a Form. Verdict, the Vibian, the one that doesn't move. He looks at the place he'll put the blade before he draws," Jonah said. "He's got a father who's a Gracchan, which is why I went down a hole. The seal was to the father. The son burned it so the father wouldn't hang." He stopped. "And he's got a sister."
 
 "So?" Yara said.
 
@@ -136,7 +136,7 @@ The hull ring went round twice more. The dock lamps went down to their night set
 
 "So who are you now?"
 
-"There was a rock," he said, "at the far edge of the settled worlds. The Roma ark's people didn't want it. There was a legion they didn't want either. Halyard and Ferrum and Marl."
+"There was a rock," he said, "at the far edge of the settled worlds. The Roma ark's people didn't want it. There was a legion they didn't want either. Halyard and Ferrum and Marl," Jonah said.
 
 Yara's hand stayed on the glass.
 

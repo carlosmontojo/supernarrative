@@ -2,9 +2,9 @@
 
 He said it in the Chamber, because it was the only room in the Pit that was quiet, and because the old man had drawn it.
 
-Getting there took a week. He had known it would. Five sizes at the face had cost him nine days of plate on his arms. This was a piece of the first cut, given by the wall's own hand, and it was worse. The coat went over him like a stack of doors, and his body had to grow into every one of them while it was on. He had the fever for six days, even and constant. He cut his shard. He said his number. He stood at the wall of the seventh chamber with the chisel and sweated through his shirt while the Vein opened for him.
+Getting there took a week. He had known it would. Five sizes at the face had cost him nine days of plate on his arms. This was a piece of the first cut, given by the wall's own hand, and it was worse. The coat went over him door on door, stacking, and his body had to grow into every one of them while it was on. He had the fever for six days, even and constant. He cut his shard. He said his number. He stood at the wall of the seventh chamber with the chisel and sweated through his shirt while the Vein opened for him.
 
-"You're going," Pell said, to the wall. He had said it so many times it had stopped being words. It was just what he did now, like the songs. "Sixth year. Nobody takes six years to go."
+"You're going," Pell said, to the wall. He had said it so many times it had stopped being words. It was just what he did now, the same as the songs. "Sixth year. Nobody takes six years to go."
 
 "I'm not going."
 

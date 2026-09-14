@@ -12,6 +12,8 @@ It had grown anyway. On the haul, the stick, the wall. On the door of the Vein h
 
 "It's taking from you," the Censor said. He'd seen the bucket drop; he saw everything. "Your arm. Your legs next, then what you can't spare. It's grown faster than the body around it, and it needs feeding. It hasn't been, because the only meat on this road is the wall, and I've told you not to."
 
+The honest answer, the one he actually thought, was *tell that to my arm, which isn't feeling reasonable about it.* He gave the old man the shorter one instead.
+
 "Then let me."
 
 "No."
@@ -82,7 +84,7 @@ Harrow noticed on the second day.
 
 "Not like that." He looked at the slab. "That's a deep cut. Twenty years of one. Where'd you learn it?"
 
-"It comes off for me," Jonah said. "Corr says it does that."
+"It comes off for me. Corr taught me the angle three years ago, on a wall that fought him every day of his life and never once fought me. That's his, not mine," Jonah said.
 
 Harrow looked at him a long moment, then at the white line on his arm, and nodded slowly, and went back down the gallery.
 
@@ -156,7 +158,7 @@ He stood in full plate at the bottom of the Deep, the wall singing, a man dying 
 
 And it was good.
 
-That was what he'd keep, and tell the woman with the broad stripe, and nobody else. Not the killing. The standing. The plate on him, fitted, right, the fang out, heat coming off him like a stove. He stood in it for a count of ten, or twenty, over a man he'd cut beside four days and never spoken to. He wasn't sorry. He wasn't afraid. The decurion in his hands and the boy folded in with him had one opinion, and it was yes. This. This is what it's for.
+That was what he'd keep, and tell the woman with the broad stripe, and nobody else. Not the killing. The standing. The plate on him, fitted, right, the fang out, more heat coming off him than a body should make. He stood in it for a count of ten, or twenty, over a man he'd cut beside four days and never spoken to. He wasn't sorry. He wasn't afraid. The decurion in his hands and the boy folded in with him had one opinion, and it was yes. This. This is what it's for.
 
 He nearly agreed.
 
@@ -172,7 +174,7 @@ The deep man looked at the plate, the dark glass over a Collar's arms and chest,
 
 "Put it away. Harrow's on the road."
 
-And the yes went out of Jonah like the drive cutting.
+And the yes went out of Jonah the same way the drive cut: all at once, and gone.
 
 ---
 
@@ -222,7 +224,7 @@ The Censor looked a long time.
 
 "I don't know. Five sizes. More than Varro and Vetch together."
 
-"Twenty-four, then, if you were a cutting, which you're not. Twenty-four in one night." His voice was stone. "And a man dead, Ulli says, half in the wall already. The wall loud an hour, so Harrow thought it was a fall. The plate stuck on you like a coat on a broken arm." He set the lamp down. "Tell me what you told me on the road, four nights before."
+"Twenty-four, then, if you were a cutting, which you're not. Twenty-four in one night." His voice was stone. "And a man dead, Ulli says, half in the wall already. The wall loud an hour, so Harrow thought it was a fall. The plate stuck on you and stayed stuck, same as a splint stays on a break." He set the lamp down. "Tell me what you told me on the road, four nights before."
 
 "I said I wouldn't touch it."
 

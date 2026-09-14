@@ -58,7 +58,9 @@ The stance went third. Livia had seen it at the yard rail, Mara in the square, A
 
 "I am not taking it away because it is bad. I am taking it away because it is not yours. You cannot use a dead man's contempt without it using you. When you can do the step because you have chosen to, in your own legs, looking at the man in front of you and seeing a man, then you may have it back. Not before."
 
-"How long?"
+What he wanted to say was that the wrist-turn had kept him alive twice already and asking him to hand it back felt like handing back a coat in the snow. What he said cost less.
+
+"How long?" he said.
 
 "As long as it takes. Get up."
 
@@ -108,7 +110,9 @@ The trouble was the day.
 
 A fever that came at the end of the third hour was still in him at the dawn count. Decimus said his number and looked at his face. Corr looked at his face too.
 
-"You're going again," Corr said, in the second month. Not unkindly. "I can see it. You sweat and your hands shake. You cut like a new man. That's the Vein. It let you go once. It doesn't let go twice."
+"You're going again," Corr said, in the second month. Not unkindly. "I can see it. You sweat and your hands shake. You cut the way a new man cuts. That's the Vein. It let you go once. It doesn't let go twice."
+
+What he wanted to say was that he had already turned around once and had no plans to volunteer for a rematch. What he said was shorter, and true anyway.
 
 "I turned around."
 
@@ -200,7 +204,7 @@ Two months. Bit more. He counted back, and it came out to the sixtieth night, or
 
 "For what?"
 
-"For saying it. Nobody says it. That's what's wrong with this place. Nobody says anything." He picked up the chisel. "Cut a shard a day. Don't make Bricks guess. That's the whole of it."
+"For saying it plain, and staying to say it. Nobody down here says anything," Jonah said. He picked up the chisel. "Cut a shard a day. Don't make Bricks guess. That's the whole of it."
 
 He went back to the wall.
 
@@ -245,3 +249,7 @@ Jonah gave it to him.
 The Censor wrote it with a chisel point, slowly, in the old tongue, beside a number in the fourth column of a slab of the thing that had made the Empire. When he had finished he read it back, once, aloud, and the endings were right.
 
 "Counted," he said.
+
+"That's not enough," he said. "Not for him."
+
+"No," the Censor said. "It never is. It is what the wall can hold. The rest you carry yourself."

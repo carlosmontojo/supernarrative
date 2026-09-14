@@ -10,9 +10,11 @@ Nobody spoke. Sixty men with bowls, and the only sound was Ulli's boots.
 
 Corr sat against the wall with his soup. He opened his mouth. He closed it. He looked at Jonah's face, then at the gallery wall behind Jonah, then at his bowl. He did not say a month. He did not say anything at all.
 
+What he wanted to say was that he was fine. It would not have helped, so he let the silence stand.
+
 "It doesn't turn around," Bricks said. He stood by the bucket with his wrist splinted against his chest in a strip of Decimus's cloth. "Nineteen years I've heard of. Auger's heard of nineteen. It doesn't."
 
-"It didn't," Jonah said.
+"It didn't," he said.
 
 "Then what did?"
 
@@ -32,9 +34,13 @@ Decimus read it out at the dusk count, off the list, without looking up.
 
 "Four four seven one. Punishment detail. Thirty nights. The haul."
 
-"Punishment for what?" Jonah said.
+"Punishment for what?" he said.
 
-"Tullus's rule. You weren't sick. You were absent. Six days of quota that decury six carried for you. A man who's carried pays." The old guard made a mark. "It's not personal." Then, still not looking up, in a voice that was: "You'll want to eat first. It's a long way down."
+"Tullus's rule. You weren't sick. You were absent. Six days of quota that decury six carried for you. A man who's carried pays." The old guard made a mark. "It's not personal."
+
+"They carried it because I couldn't stand. That's not on them," Jonah said.
+
+"Nobody said it was on them. It's on you. Thirty nights." Decimus still didn't look up. Then, in a voice that was: "You'll want to eat first. It's a long way down."
 
 Bricks told him what the haul was, over the bowl, in the fewest words Bricks had.
 
@@ -122,7 +128,13 @@ The old farmer was quiet a moment. "Fourth after who?"
 
 "Huh," Pell said. He turned over. "Say the rest, then. I'm listening."
 
-Jonah said the rest, all fourteen, quietly, to the end. The plate went in. Not because he had pushed. It had stayed for the names once, at a door, and it had learned something there. When the names were being said, it wanted to be in, listening. By the last name it was asleep, if it slept, and so was Pell.
+Jonah said the rest, all fourteen, quietly, to the end.
+
+"You'll run out of nights before you run out of names," Pell said, from above.
+
+"I'm counting on it," Jonah said.
+
+The plate went in. Not because he had pushed. It had stayed for the names once, at a door, and it had learned something there. When the names were being said, it wanted to be in, listening. By the last name it was asleep, if it slept, and so was Pell.
 
 "HOW MANY," the rock tapped, the next night.
 

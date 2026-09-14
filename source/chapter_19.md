@@ -44,6 +44,8 @@ Jonah stood at the wall with his chisel and counted. Fifty-nine men on the road.
 
 "No. Tullus sends Sabinus down with the guard. Sabinus does what he's doing in the Deep. Then Tullus lines the road and counts it. One in ten goes to the post and doesn't come off it. A decimation. Very old. It's in the library the Roma ark carried. The most Roman thing in this Pit." His face in the lamp was stone. "It happens whether you're in it or not. The only thing you choose is where you're standing when it does."
 
+There was a version of the next question with teeth in it, about who had drawn the table in the first place. He left it where it was. The old man already knew, and saying it wouldn't move one man off that road tomorrow.
+
 "Where should I stand?"
 
 "Wherever the fewest men die," the Censor said. "That's the only answer I've ever had, and I didn't learn it in time. Get up."
@@ -100,7 +102,7 @@ He knew. He went to the mouth and looked, once. Sixty men and four guards and a 
 
 He was harvesting.
 
-Sabinus walked at the pace of a man going somewhere. Men came at him from the walls. He didn't stop walking. The fang went through the first one's throat as he came in, without turning. Through the second one's belly on the backswing. The third came in low. Sabinus stepped, half a step, and the chisel hit rock where his hip had been. The fang came down on the man's neck like a rope cut.
+Sabinus walked at the pace of a man going somewhere. Men came at him from the walls. He didn't stop walking. The fang went through the first one's throat as he came in, without turning. Through the second one's belly on the backswing. The third came in low. Sabinus stepped, half a step, and the chisel hit rock where his hip had been. The fang came down on the man's neck and opened it in one line.
 
 Next.
 
@@ -130,7 +132,7 @@ He took the Collar's wrist. Not the turn. The pull. He pulled the arm straight a
 
 "Get up, Decimus." He hauled him under the arms, the same way Ulli hauled the sick. Six paces to the sleeping gallery. Pushed him in. The Collar got up behind them with his chisel. Jonah turned and put his own into the man's thigh, high, in the meat, and pulled it out. The man sat down. He'd live. He wouldn't follow.
 
-"In," Jonah said. "Under the shelf. Stay there. It's not personal."
+"In. Under the shelf. Stay there. It's not personal," Jonah said.
 
 Decimus looked at him from the mouth of the gallery with the face that had waited in the tunnel once, for a boy on his knees.
 
@@ -142,7 +144,7 @@ Jonah turned around. Sabinus was twenty paces off, and had stopped walking.
 
 He hadn't stopped for Jonah. Auger had come to meet him.
 
-Auger held his chisel like a man remembering it. He came in low, short, a feint at the belly and his other hand for the throat. Sabinus did the half step, into the place the chisel wasn't.
+Auger held his chisel loose, forgotten again, same as always. He came in low, short, a feint at the belly and his other hand for the throat. Sabinus did the half step, into the place the chisel wasn't.
 
 And Auger was there.
 
@@ -174,7 +176,7 @@ The second one was quicker, came in low. Jonah did the half step. Late and ugly,
 
 It didn't go out. It lay on the rock and threw light up the wall. Jonah stood in it, full plate, two dead Blanks at his feet, a Centurion twenty paces off on a road that was screaming. The genius, fed, plated, unafraid, looked at the two cuttings in the two dead arms, and leaned.
 
-"No," Jonah said, aloud, in the old tongue. "Not here. He'd smell it."
+"No. Not here, not with him twenty paces off. He'd smell it," Jonah said, aloud, in the old tongue.
 
 It didn't argue. It never argued. But it didn't stop leaning either. He held it off with the whole count. A Centurion with a licence could feel a genius eat the way a man feels a draught, and Sabinus had just learned fear and would want something to do about it.
 
@@ -232,7 +234,7 @@ Then the guards took the five of them to the post at the cage end. Sabinus came 
 
 He told the old man all of it. The first hour and the second, on the rock of the Cradle, from the cage dropping too fast to the sound the road made when Sabinus put the fang through Corr. The Censor sat across from him with the lamp and the stick on his knees. He didn't speak until it was done, and not for a while after.
 
-"The slate," Jonah said.
+"The slate," he said.
 
 "Yes."
 
@@ -262,7 +264,9 @@ Jonah looked at him and waited.
 
 Jonah stood up. He stood with his back to the wall the old man had put the sick against, and looked at the thin straight figure in the lamp with the stick on the rock beside him. There was too much to carry, and no order to put it in.
 
-"Corr's name," he said. "Corr of Anvil. North yards. Four years on the wall. He said a month."
+He had a sentence ready that would have taken the old man's confession and used it for a knife, something about a man who drew roads and called the walking of them correct. It would have been true, and it would have cost them both the one hour they had left to spend on something useful. He put it away with the rest.
+
+"Corr's name. Corr of Anvil. North yards. Four years on the wall. He said a month," Jonah said.
 
 "I'll write it."
 

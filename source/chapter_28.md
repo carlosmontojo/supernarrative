@@ -24,7 +24,7 @@ The gallery had twelve hearts in it.
 
 He did not move. Eleven in the slab galleries, slow, asleep. One at the turn. Not asleep. Not slow. A man who has come round a corner and seen something and stopped. A man who has been afraid for nine years and has just found what he was afraid of.
 
-"Harrow," Jonah said, into the dark.
+"Harrow," he said, into the dark.
 
 The lamp came on.
 
@@ -100,7 +100,7 @@ Jonah said nothing.
 
 Jonah looked at him for a long time.
 
-"There's what you'll not know," he said, "and there's what you'll do. You'll not know about the eleven. You'll not know about my hands. You'll know that a cut one asked you to pack a cask light and you did it, and why. You'll know you said something at the dusk count that was true as far as you'd seen it." He put his hand flat on the rock. "And this is what you'll do. The name. Ada Harrow, Marl, the south road past Pell's forty. Say it again."
+Jonah said, "There's what you'll not know, and there's what you'll do. You'll not know about the eleven. You'll not know about my hands. You'll know that a cut one asked you to pack a cask light and you did it, and why. You'll know you said something at the dusk count that was true as far as you'd seen it." He put his hand flat on the rock. "And this is what you'll do. The name. Ada Harrow, Marl, the south road past Pell's forty. Say it again."
 
 Harrow said it again.
 
@@ -114,7 +114,7 @@ The foreman stood at the turn with the lamp at his knee.
 
 "And if you're on the dock and it opens."
 
-"Then there's a man on the dock who says her father's alive, and he's got a knife in him, and he says it anyway." Jonah kept his voice level. "That's the count, Harrow. I've done it every way. That's the only line on it that's yours."
+Jonah said, "Then there's a man on the dock who says her father's alive, and he's got a knife in him, and he says it anyway." He kept his voice level. "That's the count, Harrow. I've done it every way there is to do it, and it comes out the same. That's the only line on it that's yours to carry, and I'm sorry it's there at all."
 
 Harrow looked at the cask.
 
@@ -132,7 +132,7 @@ Jonah stood in the gallery without a lamp and watched a man who had packed nine 
 
 "Nine years I've packed these and never thought about it." Harrow put his hand on the lid. "The Vein doesn't reach for the casks. It reaches for a cutting in a man's arm at twenty paces. It reaches for a rod. It reaches for the slabs in a bucket; I've felt it. But it's never once reached for a cask, and the casks are it. I asked Auger why, my first year. He said, because they're it. Like a hand doesn't reach for the arm it's on." He took his hand away. "Seventy slabs in a ring with a man in the middle. It'll not reach for the ring. I'd not want to be the thing in the middle."
 
-"I've been the thing in the middle seven years."
+"I've been the thing in the middle seven years," Jonah said. "It's not new work. It's just the first time anybody's built me a room for it."
 
 "Yes," Harrow said. "That's what I've been afraid of, since the day Auger put you at the face." He picked up the lamp. "I'll not come to the Cradle tomorrow. That's not mine."
 
@@ -232,7 +232,7 @@ Decimus made the mark. He made it slowly. Jonah heard the scratch of the stylus 
 
 "You look like the wall, boy." Decimus said it without weight. "You look like the old man looked the week before. I've made marks on this road seven years and I know the week before when I see it." He did not look up. "Have you a thing to say. I'll write it."
 
-"Ullan," Jonah said. "Of Marl. The east fields. Two l's. Write it with two."
+Jonah said, "Ullan. Of Marl. The east fields. Two l's. Write it with two."
 
 Decimus wrote it with two. He looked at what he had written, and at the number the Throat had given a man nine years ago. He wrote the name beside the number in his own hand, small. He had once written a boy's name beside a number on a deck, because the boy had asked him to write it right.
 

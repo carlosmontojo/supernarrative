@@ -2,7 +2,7 @@
 
 "You have asked me twice what it wants," the Censor said. "Both times I told you I did not know. Both times that was true, and it was also the answer of a coward. Tonight I am going to tell you what I think. Put your hand on the wall."
 
-It was the second year. The count had come down the Throat as twelve and stayed at twelve, by weight. Rennick carried fifteen up every dusk and Tullus read it and said nothing. Decury six had a foreman who chose a man when the count was short and did not choose soft. Corr had stopped talking to him. He cut his line beside Jonah's and said nothing. That was what a foreman was. It was correct.
+It was the second year. The count had come down the Throat as twelve and stayed at twelve, by weight. Rennick carried fifteen up every dusk and Tullus read it and said nothing. Decury six had a foreman who chose a man when the count was short and did not choose soft. He'd told Decimus why, once, at the dawn count. "Corr's had four hard weeks and one easy one. I gave him the easy one back today. That's the count, not kindness," Jonah said. Decimus had written it down anyway, which was its own kind of answer. Corr had stopped talking to him after that. He cut his line beside Jonah's and said nothing. That was what a foreman was. It was correct.
 
 They were at the back of the Cradle, where the tunnel rock met the dark of the Vein. It was the thickest Vein a man could stand in front of, and it breathed. It had breathed at his back every night for eighteen months while a stick came at him out of the dark. He had stopped noticing it, the way you stop noticing your own heart.
 
@@ -16,7 +16,7 @@ He put his hand on the wall.
 
 Jonah looked at him.
 
-"It nearly took me. Through a chisel. You were on the other side of the rock."
+"It nearly took me. Through a chisel. You were on the other side of the rock," Jonah said.
 
 "You were nineteen days into something you did not understand, with a genius that had never once been asked to stay. It is eighteen months now. You have said the names five hundred times. It expects them. It expects you." The pale eyes did not move. "If I am wrong you go into the wall. I will tap to you until you do. I will have been wrong about one more thing, and at my age that is no great burden. Flat."
 
@@ -84,6 +84,8 @@ He sat with his back to the Vein and shook. It was not the fever. The old man sa
 
 Jonah sat with that.
 
+He thought of the Empire loving its Collars the same way, from a great distance, with a number where a hand should be. He didn't say it. The old man had just handed him the ugliest thing he knew about himself, and there was no room left in the hour for a smaller point.
+
 "And the cut ones. Aulus of Marl on the slab. Corr says cut ones go faster. It knows there's a hole in you."
 
 "Corr is a fool and is right, as usual. A man who has had a cutting taken out has a place in him where a piece of the wall was. The wall feels that place from across the Pit. It goes there. It tries to fill it. Bricks has lived eleven years because Bricks has the sense of a stone and the wall cannot get purchase on him. Most do not." The old man touched the white line on his own forearm, once. "I had a place. A large one. Seventy-one on the glass. The College cut it out of me in the Forum with the rod. I woke on a slab with a hole in me the size of a house. They put me in this rock, and in the first month the wall found the hole."
@@ -111,6 +113,8 @@ He said it flatly, to the lamp.
 Jonah did not look away.
 
 "You did not have the choice," the Censor said. "You were dying on a deck with a Stripe over you. That is the whole difference between us, boy. Understand it exactly. You will spend the rest of your life being told you are brave, and you are not. You were cornered. I was not. And I chose the stone."
+
+Jonah had a comparison ready, about a man who chose fear and called it caution, next to a boy who never had a choice and got called brave for it anyway. He kept it. The old man had just handed him the ugliest true thing he owned. There was no need to critique the wrapping.
 
 "That's why you tapped to the dying," Jonah said. "Twenty years. Not to count them."
 
@@ -185,6 +189,12 @@ He took his hand away.
 ---
 
 Pell was on the shelf above his in the sleeping gallery, under the lamp that never went out. Jonah stood beside the shelf in the dark and said his name, and the farmer's eyes opened.
+
+"You've got the face," Pell said.
+
+"What face?"
+
+"The adding one. You get it when you've got a number for somebody and you're working out how to hand it over." He pushed up on one elbow. "Whose."
 
 "Your brother," Jonah said.
 

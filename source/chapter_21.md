@@ -88,13 +88,13 @@ He got up. He went for the shoulder. The old man was not where the shoulder had 
 
 "Up."
 
-"You're seventy."
+"You're seventy. At some point the arithmetic should start working in my favor," Jonah said.
 
-"I am aware of it. Up."
+"I am aware of it. Up." Something in the old man's voice suggested he had been waiting years for someone to say that to him.
 
 Down. Up. Down. On the thirtieth fall, lying on the rock with his ribs on fire, he understood the difference. He was not trying to reach a wrist anymore. He was trying to reach a man. Any part of him. The man was seventy. He had eaten one bowl a day for twenty-one years, and some nights now he coughed.
 
-"You're teaching me this now," Jonah said from the floor, "because I'm going to touch you."
+"You're teaching me this now because I'm going to touch you," Jonah said from the floor.
 
 "Yes."
 
@@ -104,7 +104,11 @@ Down. Up. Down. On the thirtieth fall, lying on the rock with his ribs on fire, 
 
 ---
 
-"Bearing," the Censor said, on a night in the fourth year when the first hour was done and Jonah was still on his feet. "Sit down. Not there. There. That is a couch. You are at dinner."
+"Bearing," the Censor said, on a night in the fourth year when the first hour was done and Jonah was still on his feet. "Sit down."
+
+"You've spent four years telling me to keep this shut. Now you want to drill it," Jonah said, and touched his own jaw.
+
+"Your mouth talked you onto a transport you had no business boarding, and out of a hold with a decurion's blood on the floor. It corrected a foreman over your mother's name when you were nine years old, and it got you beaten for it. It is the truest thing about you. It is also what buried you here." The pale eyes didn't move. "For four years I have taught you to hold it still. Tonight I start teaching you to aim it. In two years it is going to get you a seat in the Senate instead of a grave. Sit down. Not there. There. That is a couch. You are at dinner."
 
 There was a rock the size of a bucket on the floor of the Cradle. The old man had rolled it there. Jonah sat on it.
 
@@ -120,7 +124,7 @@ Jonah looked at the rock.
 
 The stick took him across the shin.
 
-"It is a fish. It is a very good fish; the host's cook is famous for it. You will say so in the old tongue, in a sentence with a subordinate clause in it, because a Broadstripe never says anything straight when it can be said around a corner. You will say it to the woman on your left. She is the wife of the Thinstripe seated fourth and she is bored. You will be bored too. You have learned to stand like a man who has been beaten. Now learn to sit like a man who has never once been interested in anything."
+"It is a fish. It is a very good fish; the host's cook is famous for it. You will say so in the old tongue, in a sentence with a subordinate clause in it, because a Broadstripe never says anything straight when it can be said around a corner. You will say it to the woman on your left. She is the wife of the Thinstripe seated fourth and she is bored. You will be bored too. You have learned to stand with the stillness of a man who has already been beaten. Now learn to sit with the stillness of a man who has never once been interested in anything."
 
 "That's the whole of Bearing?"
 
@@ -188,7 +192,7 @@ Not the one breath through the nose. The whole of it, out loud, in the Cradle, w
 
 "Sertorius," he said. "That was Sertorius. The hand where the man is going. Not where he is. Do you understand what you did?"
 
-"I put my hand where you'd step."
+"I put my hand where you'd step," Jonah said.
 
 "And you did not know I would step there. You have never known. Three hundred times I have stepped there and you have never once been there. You did not decide. Your hand went. That is the Form. That is the whole of the book that burned. The hand goes where the man is going and then there is a blade. One day you are standing with your hand on a Centurion's shoulder and a fang in it, and he is saying oh." He wiped his lip again. "Take your hand off. You have won. I am seventy-three and coughing blood. I have been beaten by a barge pilot on a rock I drew, and I have never in my life been so pleased with anything."
 
@@ -240,6 +244,8 @@ Jonah got up.
 
 The stick came out of the dark before he was on his feet. He took it on the wrist. He took it on the knee. Down, up, down. On the fourth fall his left hand was on the old man's shoulder again, with the fang a finger off the seam.
 
-The Censor laughed. Coughed. Wiped his mouth.
+Jonah stood over him with his hand still short of the old man's shoulder.
 
-"Again," he said.
+"You keep laughing every time I hit you. At some point that's going to look like encouragement," Jonah said.
+
+"It is encouragement." The Censor laughed. Coughed. Wiped his mouth. "Again."

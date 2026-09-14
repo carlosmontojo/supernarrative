@@ -26,7 +26,11 @@ He drew it on the rock with a chisel point, in the old tongue, and Jonah read it
 
 "It came down on nothing."
 
-"Yes. Nothing there to fuse. On a cutting, the word puts a ceiling in the genius, and it can't grow past it, ever. The man carries that ceiling in his arm the rest of his life." A line, scratched across the rock. "Nine. Tiro. A citizen. That's Decimus, who's seven, and was offered nine, and said it wasn't worth the trim. You'll understand why in a moment. Nine's a plate that stops a knife, a fall, a fang the length of a hand. That's what the Republic gives a citizen for his oath."
+"Yes. Nothing there to fuse. On a cutting, the word puts a ceiling in the genius, and it can't grow past it, ever. The man carries that ceiling in his arm the rest of his life." A line, scratched across the rock. "Nine. Tiro. A citizen. That's Decimus, who's seven, and was offered nine, and said it wasn't worth the trim."
+
+"Smart man," he said.
+
+"I didn't ask you to admire him. I asked you to understand him. They're not the same thing in this rock." The chisel didn't stop. "You'll understand why in a moment. Nine's a plate that stops a knife, a fall, a fang the length of a hand. That's what the Republic gives a citizen for his oath."
 
 Another line, higher.
 
@@ -46,9 +50,13 @@ He looked at the lines.
 
 Jonah looked at the lines on the rock.
 
-"So the Empire," he said slowly, "is a family heirloom."
+"So the Empire is a family heirloom," Jonah said.
 
 "Yes. And you're the cloth they polish it with."
+
+The reply came up whole: *then I'd like a wage.* He let it die behind his teeth. A cloth didn't get to want things out loud, not from him, not yet. "Does the cloth ever ask what it's polishing," Jonah said, "or is that also part of the design?"
+
+The Censor almost smiled. "Ask a rag and see what it tells you."
 
 ---
 
@@ -56,7 +64,7 @@ Jonah looked at the lines on the rock.
 
 "Strain."
 
-"The genius learns when its bearer's near death and doesn't die. That's why cadets are sent to the far Limes at twenty, and why the Ludi are fought with live plate. You've been near death five times since the derelict, by my count, and it's learned from every one. You told the rock what it felt like, and it felt like a lock going over. That's strain. It can't be faked. The genius knows."
+"The genius learns when its bearer's near death and doesn't die. That's why cadets are sent to the far Limes at twenty, and why the Ludi are fought with live plate. You've been near death five times since the derelict, by my count, and it's learned from every one. You told the rock what it felt like, and each time something in you went over, a lock turning. That's strain. It can't be faked. The genius knows."
 
 "And the third."
 
@@ -92,7 +100,7 @@ He nodded at the chisel.
 
 Jonah picked up the chisel left-handed and brought the fang out of the back of his right wrist.
 
-It came crooked. It always did. A hand's length of dark glass, bent like a bad knife, out of the wrong side of the arm. The genius, never once asked for it before, brought it up with something close to eagerness, and held it, and waited.
+It came crooked. It always did. A hand's length of dark glass, bent and ugly, out of the wrong side of the arm. The genius, never once asked for it before, brought it up with something close to eagerness, and held it, and waited.
 
 "Every fang in the Empire comes out of the inside of the forearm, straight. That's the shape cut into every piece of the wall before the Flamens give it away. A Vibian fang's a spike. A Claudian's a cleaver. A Fulvian's a whip's length of edge. Shapes cut into the genius, same as the ceiling. It can no more make another shape than it can grow past nine." He looked at the crooked glass on the back of Jonah's wrist. "Yours wasn't cut. It came out of the wrong arm because nobody told it which arm, and crooked because nobody told it straight. It can come out anywhere, in any shape, and the only reason it hasn't is you've never asked." He paused. "Ask it for a hook."
 
@@ -126,6 +134,16 @@ He got up and went to the back wall of the Cradle and didn't open it. He went pa
 
 Ulli opened his eyes. He looked at the old man walking past him for the first time in six years. He didn't get up, and didn't speak. He closed his eyes again, and his lips moved, and it was the song.
 
+Jonah had a question ready about a man who'd walked this road every night for six years and never once stopped to hear what was sung on it. He put it away. Ulli hadn't asked for it, and the old man already knew the shape of it without being told.
+
+"You know his name. Do you know the song?" Jonah said.
+
+"No."
+
+"Then you don't know everything down here. Only what's on a slate."
+
+The old man didn't answer that either, and kept walking.
+
 The steel door was two hundred paces on. No handle. No slot. A dead lamp beside it. The Censor stopped in front of it and put his hand flat on the steel.
 
 "Every month Tullus's men come down this road with a lamp and a key. They hand me the lamp, take the slate I've written the numbers on, lock it, and go. Twenty years. I couldn't open it from the inside with a key, because the lock's on this side. I haven't stood on this side of it since the day they put me through." He took his hand away. "I built the tunnel instead. Took nine years."
@@ -148,7 +166,7 @@ Not his wrist. His palm. Thin, thinner than a chisel point. It went into the sea
 
 The door moved.
 
-It didn't open. It moved a finger's width in its frame, with a sound that went down the Deep road like a bell. Jonah pulled the fang back into his hand so fast it hurt. He stood with his heart going and looked down the road toward Ulli, the buckets, the lamps.
+It didn't open. It moved a finger's width in its frame, with a sound that rang down the Deep road, one clean note. Jonah pulled the fang back into his hand so fast it hurt. He stood with his heart going and looked down the road toward Ulli, the buckets, the lamps.
 
 Nothing came.
 
@@ -160,7 +178,7 @@ It was smaller than the Cradle.
 
 That was the first thing Jonah saw, in the light of the old man's lamp: a cut in the rock the size of two rooms, a shelf for sleeping, a slab for everything else. Leaning against the rock in rows, sixteen slabs of the Vein cut thin and dark, each covered edge to edge in a small even hand. A bowl. A bucket. In the far corner, low, the mouth of the tunnel, and a chisel worn to half its length propped beside it. Nothing else.
 
-"Twenty years," the old man said. He stood in the doorway of his own cell. "I've tapped to dying men through that wall. Written on those. Dug with that. Once a month a Thinstripe has stood where you're standing and handed me a lamp." He went to the slabs and touched the nearest one. "I was Master of the College of Flamens. Four hundred men under me. A house on Latium with a room for my books larger than this Pit. I'm going to die here, and it's correct that I should. Look at this room and understand that, so when you leave it you don't carry me with you like a debt."
+"Twenty years," the old man said. He stood in the doorway of his own cell. "I've tapped to dying men through that wall. Written on those. Dug with that. Once a month a Thinstripe has stood where you're standing and handed me a lamp." He went to the slabs and touched the nearest one. "I was Master of the College of Flamens. Four hundred men under me. A house on Latium with a room for my books larger than this Pit. I'm going to die here, and it's correct that I should. Look at this room and understand that, so when you leave it you don't carry me out of it as a debt."
 
 Jonah stood in the doorway.
 
@@ -169,6 +187,10 @@ Jonah stood in the doorway.
 The Censor didn't answer that. He turned from the slabs and looked at Jonah in the lamp, considering, finding out where the weight was.
 
 "Because I built the box," he said, "and I'm in it. That's enough for tonight. You've opened a door with your hand that Tullus's men need a tool and a key for. You've made a hook out of a fang because I asked. You understand what a fuse is, why a man would refuse a licence, and why another would kill for one. That's the fourth of it, and the fifth. Go and carry your buckets." He came to the door. "Close this behind you. With the hand. I want to hear it lock from the inside, once, so I know the sound."
+
+"You'll hear it. You built it. You know exactly what it sounds like when it works," Jonah said.
+
+The old man's face didn't move. The lamp in his hand did, a little.
 
 Jonah went out onto the road.
 

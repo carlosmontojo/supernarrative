@@ -16,7 +16,13 @@ Jonah stood at the wall of the seventh chamber with five men where there'd been 
 
 He didn't go down the Deep road.
 
-He'd told Decimus, the morning after, that the haul was done. Flat, at the count: "Six is five men and a foreman. I'm at the wall. The haul goes to whoever wants it." Decimus made a mark. "Nobody wants it," he said, and gave it to a Deep man who'd been touched on the shoulder in the line. That man carried buckets past the Cradle every night for a month and never once heard the rock.
+He'd told Decimus, the morning after, that the haul was done. Flat, at the count: "Six is five men and a foreman. I'm at the wall. The haul goes to whoever wants it." Decimus made a mark. "Nobody wants it," he said, and gave it to a Deep man who'd been touched on the shoulder in the line.
+
+"Give him the easy bucket, not the far one," Jonah said. "He's had enough taken off him this month without a bad handle too."
+
+Decimus looked at him a moment, then made the mark anyway. It went to the far bucket, because that was the rule and neither of them could bend it. He shortened the man's watch by an hour without saying why, which was the nearest Decimus ever came to agreeing out loud.
+
+That man carried buckets past the Cradle every night for a month and never once heard the rock.
 
 Jonah slept. That was what he did with the hours. He lay on the shelf with the lamp at the end that never went out and Pell above him, singing to the wall some nights and not others. He said the names, because the genius expected them, and something that expected didn't wander. Corr, and Auger, and the rest, out of order. He didn't say the first one. He slept.
 
@@ -48,7 +54,9 @@ Jonah lay with his hands on his chest.
 
 "I know what he did. I was in the line. I watched the hand stop, watched Tullus read a slate, watched Corr step out. I've been on this rock long enough to count what a slate is." His voice didn't change. "He sold Corr. And the day after he sold Tullus ten. Forty-one men are alive cutting the wall's number instead of dying on fourteen, and Auger's in the wall having got what he took a cage for. Both. That's what a slate is. You want one or the other. There isn't one or the other. There's a slate."
 
-"That's what Decimus said. About the Empire."
+Jonah had an answer ready about men who wrote slates for a living and men who died on them, and how the first kind always seemed to survive their own arithmetic. He didn't say it to Pell, who'd never written anything in his life but a brother's name that wasn't even his to write.
+
+"That's what Decimus said," Jonah said. "About the Empire."
 
 "Decimus is a fool with a rifle who brought you a bandage. Right about most things, though." Pell turned back to the wall. "Go down the road, cut one. Or don't, and I'll sing over you when they carry you. I'll get the words right; I'll have learned them from the wall. It's got a great many."
 
@@ -128,7 +136,7 @@ The Censor stood with the stick on his shoulder and the lamp in his hand and loo
 
 Jonah said nothing.
 
-"You think I don't know what I am. I told you the night of the line, and you left, which was correct. I'm a man who does arithmetic. It comes out to Corr. It came out to ten. It came out to a paper that put you at the face so you'd eat slabs and not the wall. Twenty-two years ago it came out to a mine that gave ten a day and didn't fall, and I've been in it since." He set the stick down between them, carefully, same as he had the night of Tom's death. "I have never once asked you to forgive it. I've never asked anyone else. I asked the Senate once, and they cut the stripe out of my arm for it. I ask you for nothing, Jonah Vale. I'm asking you to take. That's what I've wanted since you tapped your number on my wall. A man who'd take everything I have and not carry me up the Throat like a debt. You've just said you will. It's the first word you've said to me in three years I believed entirely."
+"You think I don't know what I am. I told you the night of the line, and you left, which was correct. I'm a man who does arithmetic. It comes out to Corr. It came out to ten. It came out to a paper that put you at the face so you'd eat slabs and not the wall. Twenty-two years ago it came out to a mine that gave ten a day and didn't fall, and I've been in it since." He set the stick down between them, carefully, same as he had the night of Tom's death. "I have never once asked you to forgive it. I've never asked anyone else. I asked the Senate once, and they cut the stripe out of my arm for it. I ask you for nothing, Jonah Vale. I'm asking you to take. That's what I've wanted since you tapped your number on my wall. A man who'd take everything I have and not carry me up the Throat as a debt. You've just said you will. It's the first word you've said to me in three years I believed entirely."
 
 Jonah looked at the stick on the rock.
 
@@ -151,6 +159,8 @@ He picked up the stick.
 He said them.
 
 "Your endings haven't been a disgrace in a year, and I haven't said so, because it didn't need saying." He set his feet. "The fifth is called Sertoria. The house of a man who lost a war against the Empire and won every battle in it. He made a Senate of his own on a rock at the edge of everything, and was murdered by his friends at dinner, which is what happens to men who win every battle. His house fought with a fang that wasn't there until it was. I'll show you what that means." He came off the wall fast, no warning, the stick already moving. "Get up."
+
+He had a reply ready about a man who kept getting up for people who'd already decided how the story ended. He kept it behind his teeth. Getting up was the only argument the old man had ever respected, and words weren't going to win this one either.
 
 "I'm standing."
 

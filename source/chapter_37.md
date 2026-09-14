@@ -16,7 +16,7 @@ Morrow looked up.
 
 A grey coat. A hood. A man standing in a doorway that had been locked, and no sound of it opening. Morrow's hand went to the cutter's bar that leaned against the desk.
 
-"You'd not reach it," Jonah said.
+"You'd not reach it," he said.
 
 "No." Morrow took his hand back. "I'd not." He put the paper down. "Then who've you come from."
 
@@ -144,7 +144,7 @@ He had one grade of Plate in his arm, the cutting a yard owner was invested with
 
 Morrow said nothing.
 
-"And then you pay your cutters," Jonah said. "That's the whole of the price. It's not a gift to the family. It's a gift to the yard."
+"And then you pay your cutters," he said. "That's the whole of the price. It's not a gift to the family. It's a gift to the yard," Jonah said.
 
 The yard owner sat with his hand on his forearm and looked at the slab for a long time. Jonah felt his heart through the floor, big and slow and tired. Thirty years of paying Collars like citizens and never once being paid back.
 
@@ -160,11 +160,11 @@ The yard owner sat with his hand on his forearm and looked at the slab for a lon
 
 Jonah thought about a man on a dock with his hand on a blanket, saying debris. A man on the office steps saying a name right, once, and not looking at him while he did it. A hand on the back of a boy's neck. A man in a clean office saying, you'll pay for the fire because you wrote the letter.
 
-"Because you paid for the fire," he said, "and you made him pay for it. You told nobody. It's the only line on your ledger you're not ashamed of."
+"Because you paid for the fire," he said. "And you made him pay for it. You told nobody. It's the only line on your ledger you're not ashamed of. I'd have paid you for that alone, without the note," Jonah said.
 
 "That's not a reason a Halyard has."
 
-"And because the Empire doesn't want a yard that pays Collars like citizens to exist. I'd like it to, a while longer." He stood up. "You'll not see me again. Don't look. Bram won't talk about me and you'll not either. You've a seventh day and a slab and a Flamen to see. A man in a hood is something a yard owner never saw."
+"And because the Empire doesn't want a yard that pays Collars like citizens to exist. I'd like it to, a while longer. Thank you for the lock not mattering more than it did." He stood up. "You'll not see me again. Don't look. Bram won't talk about me and you'll not either. You've a seventh day and a slab and a Flamen to see. A man in a hood is something a yard owner never saw."
 
 He went to the door.
 
@@ -174,7 +174,7 @@ He stopped.
 
 "The lock." The yard owner had not moved. "It's a Flamen's. It's got a want in it. I asked the man who fitted it what it wanted. He said, to stay shut, that's all they want. I said, what opens it. He said, the key, or a Flamen, or nothing." He looked at the hood. "Which are you."
 
-"Nothing," Jonah said. "It opened for nothing. Tell the bank."
+"Nothing," he said. "It opened for nothing. Tell the bank," Jonah said.
 
 He opened the door.
 
@@ -204,7 +204,7 @@ She did not go to bed. She stood in the dark with the unlit lamp and looked at J
 
 "Then what are you."
 
-"Ask me in a month," Jonah said, and went past her into the yard.
+"Ask me in a month," he said, and went past her into the yard.
 
 He did not look back. Behind him the office door closed. Morrow's voice, low, saying his daughter's name. Hers, through the wood: "But Father, he's got Tom Vale's." Then the door shut on the rest.
 
@@ -220,6 +220,6 @@ He looked at the office window, where the lamp still burned.
 
 Then the small touch. The hand with no hand.
 
-"I know," Jonah said. "There's room. There's always room. It's the only kind part of a count." He put his hands in the coat. "Tomorrow the Flamen. Then I'll have the reading, and I'll know what I am. I'll have a name for it, and I'll go."
+"I know," he said. "There's room. There's always room. It's the only kind part of a count," Jonah said. He put his hands in the coat. "Tomorrow the Flamen. Then I'll have the reading, and I'll know what I am. I'll have a name for it, and I'll go."
 
 He went out by the cutters' gate. It had no lock. Morrow had never once thought a cutter would steal from him, and he had been right.

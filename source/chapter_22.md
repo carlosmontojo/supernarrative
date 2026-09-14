@@ -22,7 +22,7 @@ Six hundred and forty-one. That was the count by the autumn. Six hundred and for
 
 "It should."
 
-"It does. I said no because it doesn't weigh, it's not a bucket." Jonah looked at the slabs. "It's got bigger, that's all. You said there was always room."
+"It does. I said no because it doesn't weigh, it's not a bucket," Jonah said. He looked at the slabs. "It's got bigger, that's all. You said there was always room."
 
 "There is." The old man coughed. It went on. "That is the only kind thing about it. I am saying it again because I will not have many more chances. It is the one thing I would like you to have heard twice."
 
@@ -44,9 +44,9 @@ The Master's seal he taught from the slab. He drew it on the sixteenth, in the m
 
 "That. On a glass beside a door. From the palm. As the hook comes."
 
-"It's a mess."
+"It's a mess. Four hundred years, and nobody's ever cleaned it up," Jonah said.
 
-"It is four hundred years old. Drill it."
+"It is four hundred years old. Drill it." Something that might have been amusement moved behind the old man's eyes and went nowhere else, because coughing took the rest of it.
 
 Jonah drilled it. Thirty times a night, the plate coming up on his palm in a shape that had opened a door in the City for four centuries. The genius learned it as it learned everything, interested. By the autumn it came before he had finished asking.
 
@@ -61,6 +61,10 @@ The old man looked down at him.
 "It catches. On the third. It didn't in the spring."
 
 "No," the Censor said. "It did not." He was quiet a moment. "That is a heart through rock. Through a table is easier; a table is thinner. You have it. Do not tell anyone at dinner what their heart is doing. It is the rudest thing a man can do and it will get you challenged, and you cannot be challenged. You cannot spoil on a floor in front of a Flamen without every glass in the City going dark." He coughed. "It catches on the third. Yes. I have been counting it since the spring. It is the last arithmetic I have and it comes out to the winter."
+
+"Is that a warning, or a schedule?" Jonah said.
+
+"Both. I have never seen the difference between the two, and I am running out of time to learn one."
 
 ---
 
@@ -176,7 +180,7 @@ The wall took him.
 
 Not fast. It never was. He felt it start, from the arm in, from the hole where a Tribune's genius had been cut out in the Forum twenty-three years ago and never filled. Then the wall found the living hand on the chest. It reached. Warm, up through the palm, along the bones of the wrist, and the plate under his skin went pale where it touched. The genius did not lean. It stood still and watched, as it had watched Aulus of Marl on the slab. It was not afraid, and it was not hungry.
 
-"No," Jonah said, in the old tongue. "Him. Not me."
+"No," he said, in the old tongue. "Him. Not me."
 
 The wall said what it said. Come. The old man went. Jonah's hand came off the chest with the palm white to the wrist, and the colour crept back.
 
@@ -196,7 +200,7 @@ He locked the door from the road with his hand and stood a moment on the Deep ro
 
 Ulli was at the end of the road on his bucket, with his eyes open.
 
-"He's gone," Jonah said.
+"He's gone," he said.
 
 "I heard the wall." The deep man did not get up. "It went quiet. It doesn't go quiet. It went quiet for a breath and I thought, that's him. That's the room, counting the man who drew it." He looked down the road at the door. "Was he. At the end."
 

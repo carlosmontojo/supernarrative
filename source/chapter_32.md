@@ -52,7 +52,9 @@ It came out badly. A crew that skimmed a College harvest, thirty-one days out, w
 
 "He can't stand."
 
-"Then he goes out the lock lying down." The mate came forward with the fang. "Pike, you found him, you don't have to watch. Hal. Dov. Get him up."
+"I can talk, though," Jonah said. "That part's still working, which is more than my legs can say. Most crews like to know what they're putting out a lock before they put it out. I'm cheap to ask, and I answer fast, on account of the lock."
+
+"Then he goes out the lock lying down." The mate came forward with the fang. "Pike, you don't have to watch. Hal. Dov. Get him up."
 
 The two with knives came round the cask.
 
@@ -118,6 +120,10 @@ Kaspar fell over. He lay on the deck with his right arm bare to the elbow. Not p
 
 Jonah knelt beside him with his hands empty.
 
+"I did that," Jonah said to him, plainly, because Kaspar was looking at the beam and somebody owed him the words even if he could not answer. "I heard you say please and I stopped, but I didn't stop soon enough, and that's mine, not the hunger's. I'm sorry."
+
+Kaspar did not answer. His eyes stayed on the beam.
+
 Pike stood by the cask with the bar in both hands and had not moved. Dov sat against a cask with his hands round his thigh, blood between the fingers, face white. Hal was halfway down the ladder with a knife, looking down. He had been there since the plate came up.
 
 And Tacitus settled.
@@ -128,11 +134,11 @@ Then he felt the other new thing.
 
 The half cutting had had a gift, and it had passed, without asking, the same as Reach. Seal. The plate gift that shuts seams. That was what his plate had done when it came up wrong. A Halyard boy's cutting's one trick, learned on a ship where the cold gets into the seams. It had come across in a half, and it was wrong. It shut the seams backward and lumpy, a knot the wrong way round, the harvest mark closing from inside. The plate over his throat was sealed. It would not open when he asked, and then it did, badly. He knelt with his neck plated and unplated and plated again. Wrong-shaped. Both of them. One eaten whole, one half, and both wrong.
 
-"Pike," he said.
+"Pike," Jonah said.
 
 The old man did not answer.
 
-"Pike. Your mate's alive. His arm's not going to be what it was. Dov's leg'll heal. I went through the meat; I'm a foreman, I know where the meat is." He put his hand flat on the deck and felt the ship through it, the whole of it. Nine hearts, eight of them fast. One, on the deck above, forward, had gone fast when the screaming started and then slowed. On purpose. "That's your captain coming down. She's plated. Tiro nine. She's got Hush and she's running it inward, and I did that six years, so I know what it costs her. She's not coming down to fight me." He looked at the ladder. "Tell her I've stopped. Tell her I stopped when he said please."
+Jonah said, "Pike. Your mate's alive. His arm's not going to be what it was. Dov's leg'll heal. I went through the meat; I'm a foreman, I know where the meat is." He put his hand flat on the deck and felt the ship through it, the whole of it. Nine hearts, eight of them fast. One, on the deck above, forward, had gone fast when the screaming started and then slowed. On purpose. "That's your captain coming down. She's plated. Tiro nine. She's got Hush and she's running it inward, and I did that six years, so I know what it costs her. She's not coming down to fight me." He looked at the ladder. "Tell her I've stopped. Tell her I stopped when he said please."
 
 ---
 
@@ -148,7 +154,7 @@ Forty. Halyard, flat-nosed, a Blank's thin stripe on her wrist, ten years old at
 
 "Pike says the mark's backward."
 
-"I made it. From inside. With my hand." He did not move. "There's no Flamen on this ship and none on the dock you're going to. You're going to a yard in the Belt where the two casks you skim go. You'll put thirty-eight on a College dock a week later with a story. Nobody was ever going to look at thirty-one's mark. Pike looked. He looks at everything. That's why he's alive at seventy on a skimmer."
+Jonah said, "I made it. From inside. With my hand." He did not move. "There's no Flamen on this ship and none on the dock you're going to. You're going to a yard in the Belt where the two casks you skim go. You'll put thirty-eight on a College dock a week later with a story. Nobody was ever going to look at thirty-one's mark. Pike looked. He looks at everything. That's why he's alive at seventy on a skimmer."
 
 Yara looked at Pike.
 
@@ -164,7 +170,7 @@ She looked at him then. Properly, for longer than a number takes, the way the wo
 
 He thought about a purser's pilot off Anvil.
 
-"I don't know," he said. "I've been asked three times in a month by people with the right to ask, and I've said what I was. It's not true anymore, and I've not got the new one yet." He breathed. "I'm a man who's been in a box thirty-one days and hasn't eaten. I've a letter on my chest from a girl to her father. Her father's dead, and I did it, and I'm going to find her. That's what I am tonight. Ask me again in a month."
+Jonah said, "I don't know. I've been asked three times in a month by people with the right to ask, and I've said what I was. It's not true anymore, and I've not got the new one yet." He breathed. "I'm a man who's been in a box thirty-one days and hasn't eaten. I've a letter on my chest from a girl to her father. Her father's dead, and I did it, and I'm going to find her. That's what I am tonight. Ask me again in a month."
 
 Yara said nothing.
 
@@ -236,7 +242,7 @@ Jonah put his palm flat on the inside of the cask, on the dark glass that had he
 
 "And you're a Collar."
 
-"I was." Jonah took his hand off the glass. "A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here." He touched his chest. "That's what I was. What I am is what your captain's asking tomorrow. I told her the truth. I've not got it yet."
+Jonah said, "I was." He took his hand off the glass. "A Flamen put a rod on my collar seven years ago on a dock. It came off and I went down a hole. A man taught me on a rock for five years what every mark in the Empire was for, with a stick, and I've a bit of the stick here." He touched his chest. "That's what I was. What I am is what your captain's asking tomorrow. I told her the truth. I've not got it yet."
 
 Pike sat with the bar.
 
@@ -248,7 +254,7 @@ Jonah said nothing.
 
 Jonah thought about a word at the bottom of a well.
 
-"It has," he said. "It's called Tacitus. It stopped because I asked it. It asked me why and I said he said please. It had heard that word once before, from a guard, on a road, and it knew what it was for." He closed his eyes. "That's the whole of it. Tell her that. Tell her it knew what the word was for."
+Jonah said, "It has. It's called Tacitus. It stopped because I asked it. It asked me why and I said he said please. It had heard that word once before, from a guard, on a road, and it knew what it was for." He closed his eyes. "That's the whole of it. Tell her that. Tell her it knew what the word was for."
 
 Pike said nothing for a long time.
 

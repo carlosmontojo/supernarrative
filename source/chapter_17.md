@@ -16,6 +16,8 @@ Jonah sat. On the rock, against the cage frame. Far down the Deep road Ulli was 
 
 "I read."
 
+He almost added *and count, and remember, none of which has done me any good yet.* He didn't. Decimus hadn't asked for a speech. He'd asked a fact.
+
 "Common speech. Not the other."
 
 "Common speech."
@@ -74,13 +76,15 @@ He turned back to the lamp.
 
 "And it wouldn't be personal if I told Sabinus, and Sabinus took you up the Throat and put you on the slab. Did to you what he did to a Marl officer I stood beside on the ramp your first day. I don't do personal. Either way. I count, and I go home. That's all."
 
-"That's not all."
+The thing Jonah wanted to say was uglier: that a man who counted long enough eventually became one of the things counted, and stopped noticing the difference. He didn't say it. Decimus had brought him a letter to read, not a mirror to look in.
+
+"That's not all," Jonah said.
 
 "No." A pause. "No, it's not. But it's the part I can say on a stool."
 
 Ulli's song came up the road, faint, and stopped, and started again.
 
-"He was going to kill Pell," Jonah said.
+"He was going to kill Pell, and Pell's sixty, slow, and never once raised a hand to anybody on this road," Jonah said.
 
 "I know."
 
@@ -136,7 +140,7 @@ Jonah waited.
 
 "Decimus Alba. Of Etruria. The foundry town. Sula's father." He said it plainly, in the voice for things that were not personal. It was the most personal thing anyone had said to Jonah in three years. They both knew it and neither said so. "That's all."
 
-"Decimus Alba. Of Etruria. Sula's father."
+"Decimus Alba. Of Etruria. Sula's father," Jonah said.
 
 "Good." He shifted the rifle. "Now pick up your buckets. You've a road to walk and I've a count at dawn. You're late, four four seven one, and it's not personal, but you are."
 

@@ -68,7 +68,7 @@ He said it again.
 
 Again.
 
-"That's the count," he said, to the dark. "It starts with you and it goes through him and it ends there. For tonight."
+"That's the count," Jonah said, to the dark. "It starts with you and it goes through him and it ends there. For tonight." He was quiet a moment. "You'd think a man who talks as much as I do would have more to say to the one thing that's listened to all of it. I don't. Just that."
 
 Then the last thing he had to say. This was the Vein, and the wall knew what a name was for. He said what Ulli had said with his eyes shut against the warm dark of the Cradle, and what Jonah had never once said to it. His throat had had a fang in it three hours ago. It came out rough.
 
@@ -76,7 +76,7 @@ Then the last thing he had to say. This was the Vein, and the wall knew what a n
 
 Tacitus listened.
 
-"I'm not. He was. Ullan. He'd chosen the day nine years. He sat down and let go and it was his. I've not chosen anything. It's all been chosen for me. A slate, a count, a cask, a road. I did what the count said and it came out where the count said. There's a man on the road who said please." He put his hand flat on the slab beside him. "I'm going to ask you to hold me. Now. Before the cage. Thirty days, forty, a hold with a crew that skims. You'll do it well, because you always do. I'll be matter. I'll come out the other end at forty-one settled with the fever gone and a letter on my chest. I'm telling you first that I'm not ready. So it's said."
+Jonah said, "I'm not. He was. Ullan. He'd chosen the day nine years. He sat down and let go and it was his. I've not chosen anything. It's all been chosen for me. A slate, a count, a cask, a road. I did what the count said and it came out where the count said. There's a man on the road who said please." He put his hand flat on the slab beside him. "I'm going to ask you to hold me. Now. Before the cage. Thirty days, forty, a hold with a crew that skims. You'll do it well, because you always do. I'll be matter. I'll come out the other end at forty-one settled with the fever gone and a letter on my chest. I'm telling you first that I'm not ready. So it's said."
 
 The hand with no hand.
 

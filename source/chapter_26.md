@@ -14,13 +14,21 @@ Jonah thought about it.
 
 "You've the look," Pell said, at the wall, at the change of shift.
 
-"What look?"
+"What look?" he said.
 
-"The one you had the night before Bricks. The night you took the haul." The old man from Marl cut his line. "You've counted something. I've watched you count for six years. Then you do it, and Corr goes to the post. I'm asking what it is this time. I've earned that."
+"The counting one." The old man from Marl cut his line without looking up. "You get a face when you're adding something up you haven't decided to tell anyone yet. You had it the night before Bricks. The night you took the haul. You've counted something. I've watched you count for six years. Then you do it, and Corr goes to the post. I'm asking what it is this time. I've earned that."
+
+"I didn't know I had a face for it," Jonah said.
+
+"You do. Everybody on this road knows it but you."
+
+Jonah said, "That's a comfort. Nothing like finding out what your own face is doing from somebody else."
+
+Pell waited. He did not laugh, and Jonah had not expected him to.
 
 Jonah looked at the wall.
 
-"I'm going up the Throat," he said.
+"I'm going up the Throat," Jonah said.
 
 Pell did not stop cutting.
 
@@ -52,7 +60,11 @@ Forty of them. Not barrels. They were the same dark glass as the reading slabs, 
 
 "Every one's a piece of the wall," Harrow said behind him. The deep foreman had followed him down with a lamp. Harrow was fair and afraid, and did not let a man into the loading gallery alone. Jonah had counted on that. "Cut and hollowed a hundred years back. You can't put the Vein in steel. It eats through anything but itself, so they made the casks out of it. Forty. They go up full and come back empty on the next transport. Nobody's ever made a forty-first."
 
-"How full?"
+Jonah said, "Forty. And nobody's ever asked why not. That's not a question a man who works down here gets to ask, is it."
+
+"No," Harrow said. "It isn't."
+
+"How full?" he said.
 
 "To the groove. A slab's a hand deep and an arm long. A cask takes a hundred and twelve if you pack right. I pack right. I've packed nine harvests." Harrow looked down the rows. "Four hundred shards' weight, near enough. Rennick weighs them on the surface. That's the manifest. Forty casks, four hundred each, sixteen thousand. The contractor's man signs for it and the freighter takes it. What they skim between here and the Interior is their business and the College's. The College never asks. It would rather have thirty-eight casks and a quiet Belt than forty and a loud one."
 
@@ -62,7 +74,7 @@ Forty of them. Not barrels. They were the same dark glass as the reading slabs, 
 
 Jonah walked down the first row and put his palm flat on a cask. Cold glass. The plate under his skin knew it for what it was, and kept still.
 
-"I like to know what I'm carrying," he said. "I flew a barge six years and read every manifest. Habit. Harrow."
+"I like to know what I'm carrying," Jonah said. "I flew a barge six years and read every manifest that came aboard her. It's a habit that outlived the barge. Harrow."
 
 "What."
 
@@ -78,17 +90,17 @@ He told Tacitus that night, on the road, after the names.
 
 Since the Chamber he had said the names and then the rest, in the old tongue, quietly, in the dark between the lamps. Tacitus listened. In a month he had learned to tell listening from settling. Settling was what an answer felt like from something with no words.
 
-"Thirty days," he said. "In a cask. Sealed. In the dark, with a hundred slabs of the wall round me, on a freighter with a crew that opens casks to skim. I don't know which casks or when. Thirty days without a bowl or a breath or a lamp." He was quiet a moment. "You were in a box four hundred years. I'm asking you how."
+Jonah said, "Thirty days. In a cask. Sealed. In the dark, with a hundred slabs of the wall round me, on a freighter with a crew that opens casks to skim. I don't know which casks or when. Thirty days without a bowl or a breath or a lamp." He was quiet a moment. "You were in a box four hundred years. I'm asking you how."
 
 It listened.
 
-"Not how you lived. You're not a man. How I do. A man in a sealed cask is dead in three days, unless something holds him. The wall held the old man's slabs from wearing. The box held you." He put his hand flat on his chest. "You held me once. On the deck. You went through me and stopped at my heart. My heart did something, and you were interested. Can you do that on purpose. Take a man and hold him so he's not a man for thirty days. He's matter. He's a slab. Then let go."
+"Not how you lived. You're not a man. How I do." Jonah said it plainly, the way he said the names, because it was the truest thing he had. "A man in a sealed cask is dead in three days, unless something holds him. The wall held the old man's slabs from wearing. The box held you." He put his hand flat on his chest. "You held me once. On the deck. You went through me and stopped at my heart. My heart did something, and you were interested. Can you do that on purpose. Take a man and hold him so he's not a man for thirty days. He's matter. He's a slab. Then let go. I'm asking a thing that's never once answered me to do the hardest thing I know how to ask for. I don't have a better plan than hoping you say yes."
 
 It did not answer. It could not.
 
 But it did not settle either. It did what it had done on the slab at the Throat when the word came. It stood in the doorway of him and looked through, and did not go. It hesitated. He stood in the dark and let it. After a while it stopped, and he did not know what it had decided.
 
-"All right," he said. "I'll ask again. Nearer the day."
+Jonah said, "All right. I'll ask again. Nearer the day. I talk to you more than I talk to anyone left alive, and you've never once told me I talk too much. I find that restful."
 
 The second thing was the seal.
 
@@ -128,13 +140,13 @@ Rennick looked at him. It was the first time since a hand had stopped a finger f
 
 "Four four seven one."
 
-"The slate says four hundred on every cask. But the Flamen's sealing casks he hasn't weighed. The surface weighs after the seal, and the freighter's men weigh again on the dock. They skim, deputy. Harrow says thirty-eight casks and a quiet Belt." Jonah kept his eyes on the stripe. "If the surface finds three ninety on cask twenty and the slate says four hundred, that's ten shards on your mark, in the College's book, in the year they're writing to the City. If the slate says three ninety, that's Harrow's packing. Nobody writes to anybody."
+Jonah said, "The slate says four hundred on every cask. But the Flamen's sealing casks he hasn't weighed. The surface weighs after the seal, and the freighter's men weigh again on the dock. They skim, deputy. Harrow says thirty-eight casks and a quiet Belt." He kept his eyes on the stripe. "If the surface finds three ninety on cask twenty and the slate says four hundred, that's ten shards on your mark, in the College's book, in the year they're writing to the City. If the slate says three ninety, that's Harrow's packing. Nobody writes to anybody."
 
 Rennick stood very still.
 
 "You're telling me to write the casks light."
 
-"I'm telling you a purser's pilot read manifests for six years. He knows what a contractor's clerk does with a number that's too round. He rounds it back, on the dock, in his own hand. Then it's your hand against his, and his has a stripe on it too." Jonah let his hands shake, once. "Write them what they'll weigh. Three ninety. Three ninety-five. Nobody's ever checked a harvest slate against a cask on this rock, because nobody's ever cared what a cask weighed until now."
+"I'm asking a man with nothing left to be afraid of to do the one thing that costs him nothing," Jonah said. He let his hands shake, once, so the deputy would have something in the room weaker than himself to look at. "A purser's pilot read manifests for six years. He knows what a contractor's clerk does with a number that's too round. He rounds it back, on the dock, in his own hand. Then it's your hand against his, and his has a stripe on it too. Write them what they'll weigh. Three ninety. Three ninety-five. Nobody's ever checked a harvest slate against a cask on this rock, because nobody's ever cared what a cask weighed until now."
 
 Rennick looked at the slate a long time.
 
@@ -146,7 +158,9 @@ Rennick took it. He took out the stylus. He stood in the loading gallery with th
 
 "Up the cage. Don't drop it."
 
-Jonah did not drop it.
+"I've carried heavier secrets, deputy," Jonah said. "That one didn't land either. I'm two for two today."
+
+Rennick said nothing. Jonah did not drop it.
 
 At the cage he stood for ten breaths and looked at the column. A clerk's hand that had had the voice since it was five. Cask thirty-one said three ninety. He put his thumb on it.
 
@@ -200,7 +214,7 @@ No, he would say. A dog doesn't stop.
 
 Ulli was at the end of the road on his bucket. Jonah stood in front of him with his hands still shaking.
 
-"I've got four," he said. "The cask. The seal. The slate. And it can hold me. I've felt it. I've got everything I need to be in cask thirty-one when the Flamen marks it, sealed, hoisted, on a freighter with a manifest that says thirty-one's light because Harrow packed it light." He breathed. "And there's one thing I can't do."
+Jonah said, "I've got four. The cask. The seal. The slate. And it can hold me. I've felt it. I've got everything I need to be in cask thirty-one when the Flamen marks it, sealed, hoisted, on a freighter with a manifest that says thirty-one's light because Harrow packed it light." He breathed. "And there's one thing I can't do, and I've been putting off telling you what it is because I don't like it either."
 
 Ulli did not open his eyes.
 

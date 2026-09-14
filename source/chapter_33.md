@@ -46,7 +46,7 @@ Pike, at the helm, did not turn round.
 
 "That's a bold thing to say to a captain on her own bridge," Yara said.
 
-"It's what I'd want said to me. Once. By somebody who knew what it cost." He put his hands behind his back, the stance the old man taught for a man who is not going to use them. "Stop doing it. To me. I can't read you; I've no glass. Tacitus doesn't read people, it reads loricae, and it's read yours already, on the ladder. You've a nine. Seal and Hush, and a Blade you've not drawn in anger in years. That's all it knows and all it wants. Let your heart go. You'll sleep."
+"It is. I get nervous around people who could have me thrown off a bridge, and nervous makes me talk," Jonah said. "It's the worst thing I do, and it's the only thing I've brought you today. It's what I'd want said to me, though. Once. By somebody who knew what it cost." He put his hands behind his back, the stance the old man taught for a man who is not going to use them. "Stop doing it. To me. I can't read you; I've no glass. Tacitus doesn't read people, it reads loricae, and it's read yours already, on the ladder. You've a nine. Seal and Hush, and a Blade you've not drawn in anger in years. That's all it knows and all it wants. Let your heart go. You'll sleep."
 
 Yara looked at him for a long time.
 
@@ -78,7 +78,7 @@ Pike went.
 
 ---
 
-"Anvil," Jonah said, when the hatch was shut.
+"Anvil," he said, when the hatch was shut.
 
 "You said the four were on Anvil."
 
@@ -152,7 +152,7 @@ He put his hand on the hatch. Steel, not glass; the mark went into steel slower,
 
 "A Flamen would read that as a Flamen's."
 
-"On a hatch that's shut. On a cask of skim he'd read a knot that came apart. He'd ask why, then who. He'd have your name off the slate before he'd finished asking." Jonah took his hand off the hatch. "I've told you the truth about what I can do. I'd have lied to you, if it would take. It won't."
+"On a hatch that's shut. On a cask of skim he'd read a knot that came apart. He'd ask why, then who. He'd have your name off the slate before he'd finished asking." Jonah took his hand off the hatch. "I told you the truth about what I can do," Jonah said. "I'd have lied to you, if it'd take. It won't."
 
 Yara stood with her hand on the mark on her own hatch.
 
@@ -186,7 +186,7 @@ Jonah stood beside her.
 
 He thought about a deep man on a bucket with his eyes shut, saying, I'm asking you, once, to take one.
 
-"Yes," he said.
+"Yes," Jonah said. "It's a Halyard ship. I've eaten a month off your table and slept in your hold, and I know exactly whose deck I'm standing on when I say it."
 
 "Say it properly. So it's said."
 
@@ -210,7 +210,7 @@ He went down.
 
 Kaspar was on a pallet between the casks, arm bare on a folded coat, Pike beside him on the stool. The mate watched the man from the cask come down the ladder with the face of someone who has been told what is coming and would rather it did not.
 
-"Captain sent me," Jonah said.
+"Captain sent me," he said.
 
 "I know what she sent you for."
 
@@ -250,7 +250,7 @@ Kaspar looked at him.
 
 "I don't speak the old tongue."
 
-"You speak one word of it. That's one more than a Blank's supposed to." He stood. His knees made a sound; he was twenty-five and they had been on a rock. "Say it at night. It'll come. It's got one thing left to do, and nobody's ever asked it in a way it understood. Now somebody has."
+"You speak one word of it. That's one more than a Blank's supposed to." He stood. His knees made a sound; he was twenty-five and they had been on a rock. "I'd say that's the least I've stolen off a man all week, but you'd have had to see the week." Neither of them laughed. Pike did not even lift his head off the stool. "That one didn't land either," Jonah said. "Say it at night. It'll come. It's got one thing left to do, and nobody's ever asked it in a way it understood. Now somebody has."
 
 He went up the ladder.
 
@@ -286,7 +286,7 @@ Jonah stood at the port and said nothing for a while.
 
 "And it's not on the slate."
 
-"No," Jonah said. "It's on mine. I'm asking you to carry it. That's all. Once, to take one."
+"No. It's on mine. I'm asking you to carry it, that's all. Once, to take one," Jonah said.
 
 Yara was quiet for a long time.
 

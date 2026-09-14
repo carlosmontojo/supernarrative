@@ -6,7 +6,7 @@ The rifles had gone. Jonah felt them go, thirty pairs of boots up the Deep road 
 
 Thirty rifles had come down the road with their hearts going. Tullus's had been steady because it had nowhere left to go. Sabinus had come down through them with the fang out and his heart slow, and it was slow now, walking a Collar up a road to kill him. He was not afraid. He had been afraid once, of a finger of steel in a seam. He had come down the Throat tonight to stop thinking about it.
 
-"Here," Jonah said, and stopped.
+"Here," he said, and stopped.
 
 The door was on his right. Steel, in the rock, with a lock that had one key, and the key was in the garrison. He put his hand on the lock.
 
@@ -22,15 +22,15 @@ Sabinus looked at it.
 
 "A stick."
 
-"He taught with it."
+"He taught with it," Jonah said.
 
 "The old Blank."
 
-"No. The old Blank was Auger. You killed him with a backhand because he made you hurry. This was the other one. The one in the room." Jonah let the door swing to behind him. "Twenty-three years behind that door with one key, and nine that I knew him. You never saw him, Centurion. Nobody did. A prefect doesn't show a Centurion what he does his arithmetic with."
+Jonah said, "No. The old Blank was Auger. You killed him with a backhand because he made you hurry. This was the other one. The one in the room." He let the door swing to behind him. "Twenty-three years behind that door with one key, and nine that I knew him. You never saw him, Centurion. Nobody did. A prefect doesn't show a Centurion what he does his arithmetic with."
 
 "And he saw me."
 
-"He'd read every page there was, before they cut him in the Forum. He read the road through a wall for twenty years after, and there was a page about you." Jonah put the stick on his shoulder. "A client of the Princeps' house who washed out of the Ludi because he could not bear to grind. Who went to the Belt with a licence and trimmed twice in a yard, against men who came out to trim a Centurion because it was cheap. The page said: the Claudian Form without the Wall. A wall that can shed is a man pretending. And a man pretending can be made to hurry."
+Jonah said, "He'd read every page there was, before they cut him in the Forum. He read the road through a wall for twenty years after, and there was a page about you." He put the stick on his shoulder. "A client of the Princeps' house who washed out of the Ludi because he could not bear to grind. Who went to the Belt with a licence and trimmed twice in a yard, against men who came out to trim a Centurion because it was cheap. The page said: the Claudian Form without the Wall. A wall that can shed is a man pretending. And a man pretending can be made to hurry."
 
 Sabinus's face did nothing.
 
@@ -38,7 +38,15 @@ Sabinus's face did nothing.
 
 "You've never won."
 
-"Once. The shoulder. In the spring."
+"Once. The shoulder. In the spring," Jonah said. "I'm hoping to make it two, Centurion, purely to keep my own average respectable."
+
+Sabinus did not laugh. Nobody had, in nine years.
+
+"That land?" he said.
+
+"No."
+
+"Worth trying anyway."
 
 He took the stick off his shoulder.
 
@@ -150,7 +158,7 @@ The man sat down. He breathed in, once, and Jonah knew the sound. He had heard i
 
 The number did not come.
 
-"Decimus," Jonah said.
+"Decimus," he said.
 
 The old guard sat on the rock with his back against the Vein and a Collar's hand on his shoulder and a fang in the seam of his neck. His heart was going slow. And it was going.
 
@@ -210,7 +218,7 @@ As long as it took Decimus to read the Deep at dusk, all the numbers. He said th
 
 Then he closed the old guard's eyes, by feel. He had done it for two boys at the road's end by lamplight. He did it for a man of sixty in the whole dark with the hand that had killed him. The lids went down and stayed.
 
-"I'm not going to say it's not personal," he said, aloud, in the road's tongue. "I've never once believed it."
+Jonah said, "I'm not going to say it's not personal. I've never once believed it, and I'm not going to start lying to a dead man." He said it aloud, in the road's tongue.
 
 He put the letter in his own shirt, on the left side, over the place under his ribs where the door was. He put the half stick beside it. He stood up with his hand on the wall. The fever was white behind his eyes. The plate on him was forty-one and unsettled and had holes in it where a fang had eaten. It was closing, slowly, and would take a day a grade. Nine days in the dark. He had until the cage came down for the harvest at dawn.
 

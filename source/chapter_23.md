@@ -140,7 +140,7 @@ He had not asked. He had come down the crack with his hands empty. He had put th
 
 Not as it gave at the face, with the genius eating and the wall turning all of itself toward the bite. This was the wall doing it. The pale surface moved under his palms, not the breathing, something else. The genius did not eat. It received. What came up his arms from the wound that had never closed was warm, and it was not a mouthful and it was not five sizes.
 
-He never did find a number for it. It was a piece of the first thing. The wall was giving a piece of the place where it had first been cut to the one piece of itself that had ever come back and said no. The genius took it and folded it away. The coat went over inside Jonah like a house of doors, one after another. He sat down on the floor of the Mouth with his back to the wound and his hands in his lap and shook.
+He never did find a number for it. It was a piece of the first thing. The wall was giving a piece of the place where it had first been cut to the one piece of itself that had ever come back and said no. The genius took it and folded it away. The coat went over inside Jonah, door after door, one after another. He sat down on the floor of the Mouth with his back to the wound and his hands in his lap and shook.
 
 It went on a long time.
 

@@ -4,7 +4,7 @@ The Flamen who sold readings kept his glass in a cutting shed on the north side,
 
 Jonah stood outside it on the third morning with the hood up and counted what was inside. Three hearts. One fast and thin, an old man's. Two slow and plated, Tiro, one either side of the door. And on a stand in the middle of the shed, a slab of the Vein, cracked. Tacitus felt the crack and was interested. It had never felt a broken piece of its mother before.
 
-"Not that," Jonah said under his breath, in the old tongue. "We're here to be read. Let it."
+"Not that," he said under his breath, in the old tongue. "We're here to be read. Let it," Jonah said.
 
 He knocked.
 
@@ -42,11 +42,17 @@ Jonah gave him the right one. He pushed the sleeve to the elbow and laid the for
 
 "I'm telling you what a reading costs. Not the shard. A struck man on my glass is a man I'm supposed to send to the garrison. If I read him and don't send him, that's my neck. So the price is the shard, and one question after. You'll answer it, because I'll have read you and I'll know if you're lying."
 
+"They tell me I'm dying too. Seven years now. Everybody says so," Jonah said.
+
+Nasso looked up from the arm. Whatever crossed his face was not quite a laugh. "That's not funny."
+
+"Wasn't trying to be. It's just old news," Jonah said.
+
 "You'll not know that."
 
 "I've read four thousand arms."
 
-"Then read this one," Jonah said, "and tell me what it's worth. That's what you sell. What a stripe's worth. What a man's worth on a glass. I'll pay what it costs."
+"Then read this one," he said, "and tell me what it's worth. That's what you sell. What a stripe's worth. What a man's worth on a glass. I'll pay what it costs," Jonah said.
 
 Nasso put his hands on the arm.
 
@@ -70,7 +76,7 @@ A man had walked into a room he had walked into four thousand times and found so
 
 The dry quick voice had gone. What was under it was old and careful, a Flamen's voice, the one they kept for the slab. He did not take his hands off the arm.
 
-"No," Jonah said.
+"No," he said.
 
 "There's no fuse. There's no mark. A cutting's got the College's mark on it, same as a coin's got a face. I've never once in four thousand arms put my hands on a lorica with no face on it." The hands did not move. "It's whole. Gods. It's whole and it's old and it's looking at me."
 
@@ -82,7 +88,7 @@ Jonah waited.
 
 "A grade's a line on the glass. It holds, and I read it. These don't. They go to forty and past it and come back. They go to something I've no line for and come back." The old man's hands were shaking. "Force nine. Speed ten. Hold seven. That's the plate, it's wrong-shaped, it's shut where it should be open. Sense nine. Wit." He stopped again. "Wit's not there. Not zero. Zero reads as a line. It's not reading at all. The glass is asking and it's not answering."
 
-"It doesn't answer," Jonah said. "It's got one word."
+"It doesn't answer. It's got the one word, and it's not letting go of it," Jonah said.
 
 Nasso looked up at the hood, then down again, because a Flamen finishes a reading.
 
@@ -132,7 +138,7 @@ Jonah let it come. The plate came up under it, a hand's width, at the seam only.
 
 Jonah took the arm behind the fang and turned it. The man went over his hip onto the floor. Jonah put a boot on the wrist and leaned. The man screamed. The fang went back into the cutting, because a screaming man's cutting will not hold a fang out.
 
-"Stop," Jonah said, in the road's tongue. "You're not dead. Neither of you. I decided that before I knocked. Sit there."
+"Stop," he said, in the road's tongue. "You're not dead. Neither of you. I decided that before I knocked. Sit there," Jonah said.
 
 They sat there.
 
@@ -158,7 +164,7 @@ He thought about what a stripe was worth.
 
 Nasso said nothing.
 
-"Two. On the slab. Beside the first. That's three. Three's more than the ring would give you for Morrow's slab in a year." He put them down. "That's for the reading, which I've had. For the bell, which you've not rung. And for what you'll not do, which is write it."
+"You knew what it was worth before you put your hand on my arm," Jonah said. "You knew before you touched the glass, and you haven't rung the bell. That's what I'm buying." He put two more shards down beside the first. "Three. More than the ring would give you for Morrow's slab in a year. For the reading, which I've had. For the bell, which you've not rung. And for what you'll not do, which is write it."
 
 "A Flamen finishes a reading."
 
@@ -208,6 +214,6 @@ It turned in the doorway of him and looked at itself. At the four gifts the Flam
 
 It had been told, by somebody with the right to say it, that it had no name in the book. And it had decided, standing in the smoke, that it would have one.
 
-"Yes," Jonah said. "All right. Yes. Tonight."
+"Yes," he said. "All right. Yes. Tonight," Jonah said.
 
 Behind him, in the shed, an old man sat for a long time with his hands beside three shards. Then he took a pen out of his robe, and did not use it. He put it back, and took it out again.

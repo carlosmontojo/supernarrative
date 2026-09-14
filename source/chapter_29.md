@@ -72,11 +72,11 @@ It was hard. His heart had come back and his hands had come back. The rest of hi
 
 "I read you. In the line, six weeks ago. I read you and I frowned and I wrote it down. She read you after me and said I was wrong, and the Master said I was wrong. I went up the Throat with it written down and I've thought about it every day since." His voice was high and steady. "What are you."
 
-"Dying," Jonah said. "Six years. Everybody says so."
+Jonah said, "Dying. Six years. Everybody says so." He looked at the rod still shaking in Pollio's hand. "You'd know better than most, Flamen. You're the one who keeps writing it down."
 
-He put his hands on the rim and stood up in the cask. He did it slowly, so they would see what he was: a Collar in a cask, unarmed, with his hands shaking. While he did it he said, in the road's tongue, loud enough for the four deep men and the two guards and the whole of the road's end:
+He put his hands on the rim and stood up in the cask. He did it slowly, so they would see what he was: a Collar in a cask, unarmed, with his hands shaking. While he did it he said it loud, in the road's tongue, so the four deep men and the two guards and the whole of the road's end would have it whether they wanted it or not.
 
-"He didn't know. Harrow. He packed a hundred and twelve on the seventeenth, the same as every cask. I came down on the sixteenth night with no lamp and moved forty-two of them. They're in twenty-nine and thirty, six deep, on top, under the lid. Count them. I'll wait." He looked at Harrow. "You packed right. I'm what was wrong with it."
+Jonah said, "He didn't know. Harrow. He packed a hundred and twelve on the seventeenth, the same as every cask. I came down on the sixteenth night with no lamp and moved forty-two of them. They're in twenty-nine and thirty, six deep, on top, under the lid. Count them. I'll wait." He looked at Harrow. "You packed right. I'm what was wrong with it. Say that part loud too, if anybody asks you later."
 
 Harrow did not look at him.
 
@@ -114,7 +114,7 @@ The plate came up.
 
 He did not bring it. He had stopped pretending he brought it. It came up everywhere, fitted, dark on dark, in the crack of the Flamen's lamp. The ring on his wrist went into him. He ate it. Not slowly. He was standing in a cask at thirty-two with eleven slabs in him and a rod pointed at his face. A College shackle that had been told no was a piece of the wall nobody was using. It went in through his wrist in one bite. The hunger had been polite six years. It was not polite now, and he let it not be. He stood in full plate with the crooked fang out of the back of his right wrist and looked at the Flamen.
 
-"Run," he said. "Up the road. Tell him."
+Jonah said, "Run. Up the road. Tell him what you saw. Tell him it isn't what you wrote down six weeks ago, either. He'll want the corrected version."
 
 Pollio ran.
 
@@ -144,7 +144,7 @@ The boy's plate came off. He sat down against the cask he had not been able to t
 
 Two cuttings in two dead arms lay three paces off. The hunger looked at them and said: those.
 
-"No," Jonah said, aloud. "Not yet. Not here."
+Jonah said, aloud, "No. Not yet. Not here."
 
 It did not argue. It settled. It did not stop leaning.
 
@@ -168,7 +168,7 @@ The deep men had not moved. Four of them at the casks with their gloves off, Har
 
 Harrow said nothing.
 
-"Pell. Then the rest of the six. Then you. At the post, one a day, at the turn, in the light, where I can see. That's what a man with nothing to lose spends." He put the plate away. It went. "Get your men back in the slab galleries. Lie down with your gloves off and be asleep when they come. You packed a hundred and twelve. You opened it when the Flamen said. You never saw anything after the lid came off, because you were behind it."
+Jonah said, "Pell. Then the rest of the six. Then you. At the post, one a day, at the turn, in the light, where I can see. That's what a man with nothing to lose spends." He put the plate away. It went. "Get your men back in the slab galleries. Lie down with your gloves off and be asleep when they come. You packed a hundred and twelve. You opened it when the Flamen said. You never saw anything after the lid came off, because you were behind it."
 
 "And you."
 
@@ -204,13 +204,13 @@ Tullus did not smile. He never had. He was a decent man running an atrocity by t
 
 "So you'll understand that I've nothing to lose, and that I'm going to spend it."
 
-"I'd counted that."
+Jonah said, "I'd counted that. I generally do, before I sit down somewhere with two dead men."
 
 "I know you had. You've been counting since the Throat. I read a slate for twenty-three years that said one line about you, and it was true. I struck you off the tenth the day the old man died. I should have struck you off the road." Tullus looked at the two boys. "What are you."
 
 Jonah thought about it. The old man on the rock saying, you are the thing that eats Stripes. A woman on a stool saying void. Pell saying, I've had the answer. He had not had a word for it in six years and did not have one now.
 
-"A purser's pilot," he said. "Off Anvil. Citizen, for a week."
+Jonah said, "A purser's pilot. Off Anvil. Citizen, for a week. It's the only answer I've got, prefect, and I've noticed nobody believes it twice."
 
 Tullus said nothing for a moment.
 
@@ -220,7 +220,7 @@ Tullus said nothing for a moment.
 
 "You can't hold that gallery."
 
-"I can hold it till the harvest's late. You counted it coming down." Jonah kept his hands on his knees. "And I know what you do then. You go up to the Shallows and start at decury six, at the post, one a day, at the turn, where I can see. Pell first. He's old and he's Marl and he sings. You'll have him sing while they do it." He looked at the prefect. "And I'll come out. That's the count. We've both done it. I'm sitting here because I'd rather you said it than did it. And because I've not decided which of you I'm going to kill on the way to the road, and I want a minute."
+Jonah said, "I can hold it till the harvest's late. You counted that coming down." He kept his hands on his knees. "And I know what you do then, because I've done the same sum. You go up to the Shallows and you start at decury six. At the post. One a day, at the turn, where I can see it happen. Pell first, because he's old and he's Marl and he sings, and you'll have him sing while they do it, because a man who's grieving works slower and the count matters more to you than the man." He looked at the prefect. "You won't say that out loud, prefect. I will. Pell. Then the rest of six. One a day. And then I come out. That's the count. We've both done it, sitting here, without moving our mouths, except I've just moved mine, because somebody in this has to say the numbers where the man they belong to can hear them. I'm sitting here because I'd rather you said it than did it, and because I've not decided which of you I'm going to kill on the way to the road, and I want a minute."
 
 Thirty men with rifles did not move.
 
