@@ -58,7 +58,7 @@ He didn't go, not in the third week, or the fourth.
 
 He went to the Deep instead, on the fourth week's second day. The cage came down with a new guard who was Vetch with a different face, and a paper saying the Deep's count needed a Shallows foreman who could cut a slab, by the Chamber's numbers. The old man had written that too. Jonah went.
 
-The face was different. The Vein had closed over the bitten place the way skin closes. Where the pale lines had run everywhere they now ran in a knot around a place the size of a table, drawn tight. The deep-diggers cut around it and didn't go near it. Harrow, fair and afraid, showed him where the slabs came from now. "Not there. Nobody cuts there."
+The face was different. The Vein had closed over the bitten place, the way skin closes. Where the pale lines had run everywhere, they now ran in a knot the size of a table, drawn tight. The deep-diggers cut around it. Harrow, fair and afraid, showed him where the slabs came from now. "Not there. Nobody cuts there."
 
 "Why?"
 
@@ -76,7 +76,7 @@ Ulli was at the end of the gallery on his bucket. He'd carried forty-two men out
 
 "He sold Corr."
 
-"He did. And he sold Tullus ten. He wrote the paper that put you at this face so you'd eat, because you're going, everybody on the road can see it. Nothing else in this Pit will feed it without killing a man. Only the wall. He'd rather you cut a slab beside Harrow than put your hand on it in the dark." Ulli closed his eyes again. "That's what he did. All of it. Carry the Corr part and not the rest, if you like. Most men would. I'd think less of you."
+"He did. And he sold Tullus ten. He wrote the paper that put you at this face so you'd eat, because you're going, everybody can see it. Nothing else in this Pit will feed it without killing a man. Only the wall. He'd rather you cut a slab beside Harrow than put your hand on it in the dark." Ulli closed his eyes. "That's what he did, all of it. Carry the Corr part and not the rest, if you like. Most men would. I'd think less of you."
 
 "Why do you care?"
 
@@ -136,7 +136,7 @@ Jonah looked at the stick on the rock.
 
 "Corr's name."
 
-"Written. The night of the line. Anvil, north yards, four years, said a month. Sixteenth slab, seventeenth column, beside Auger, who said his own name to Ulli in the Cradle before he went, which nobody knew he had." His voice was even. "And Hollen. Bricks, who was eleven years and had a name I didn't know till Pell told me through the wall. Marcus. He never used it. The boy from the transport, fifteen, called Tallow. The Deep man, whose name I don't have, and have written as such."
+"Written. The night of the line. Anvil, north yards, four years, said a month. Sixteenth slab, seventeenth column, beside Auger, who said his own name to Ulli in the Cradle before he went, which nobody knew he had. And Hollen. Bricks, who was eleven years and had a name I didn't know till Pell told me through the wall. Marcus. He never used it. The boy from the transport, fifteen, called Tallow. The Deep man, whose name I don't have, and have written as such."
 
 "I said I didn't know it."
 
@@ -152,7 +152,7 @@ He picked up the stick.
 
 He said them.
 
-"Your endings haven't been a disgrace in a year, and I haven't said so, because it didn't need saying. It's said." He set his feet. "The fifth is called Sertoria. The house of a man who lost a war against the Empire and won every battle in it. He made a Senate of his own on a rock at the edge of everything, and was murdered by his friends at dinner, which is what happens to men who win every battle. His house fought with a fang that wasn't there until it was. I'll show you what that means." He came off the wall fast, no warning, the stick already moving. "Get up."
+"Your endings haven't been a disgrace in a year, and I haven't said so, because it didn't need saying." He set his feet. "The fifth is called Sertoria. The house of a man who lost a war against the Empire and won every battle in it. He made a Senate of his own on a rock at the edge of everything, and was murdered by his friends at dinner, which is what happens to men who win every battle. His house fought with a fang that wasn't there until it was. I'll show you what that means." He came off the wall fast, no warning, the stick already moving. "Get up."
 
 "I'm standing."
 
@@ -160,7 +160,7 @@ He said them.
 
 ---
 
-He said the names that night on the road, after, with the buckets, in the dark between the lamps. All of them, out of order, the way he had them. Corr, and Auger, and Hollen. Bricks, Marcus, who never used it. Tallow, fifteen. The Deep man, whose name he didn't have, and said so. Decimus Alba, of Etruria, whom he'd put under a shelf.
+He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, out of order, same as he had them. Corr, Auger, Hollen. Bricks, Marcus, who never used it. Tallow, fifteen. The Deep man, whose name he didn't have, and said so. Decimus Alba, of Etruria, whom he'd put under a shelf.
 
 And at the end, standing in the dark with the genius fed on nothing but a stick and listening, the way it always listened, he said the first one. Three words in the old tongue, tapped once on a wall by a man who hadn't said it in twenty years and had wanted it said. He said it with the endings right. He didn't say it easily, and he didn't say it soft. He didn't say anything after it.
 
