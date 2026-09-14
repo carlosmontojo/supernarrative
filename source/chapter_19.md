@@ -32,8 +32,6 @@ Sabinus didn't come to the Shallows. Sabinus was in the Deep. The road heard him
 
 Jonah stood at the wall with his chisel and counted. Fifty-nine men on the road. A wall that gave ten and a number that said fourteen. A Centurion cutting throats in the Deep because a cut one had put his hand on the Vein and let it eat. He counted that too, and didn't put it away. He counted Auger, at the edge of the light, who'd held the road nineteen years by making it run, looking now at a road that couldn't run anymore, and thought about what a man like that did with that.
 
----
-
 "He's going to do something," Jonah told the old man that night, in the Cradle, the stick coming at him from the dark and the plate, after nine days, finally gone back into his arms.
 
 "Yes."
@@ -165,8 +163,6 @@ Jonah wasn't on it.
 He'd gone the moment Auger's second hand came up, sideways into the dark cut between the sleeping gallery and the seventh chamber, where the lamps didn't reach. A Centurion just made to hurry would want to put his fang through something, and the nearest something had been standing in the light with a chisel and a white line on his arm.
 
 And in the dark, two of the six guards came for him.
-
----
 
 They'd seen him go. Young, Tiro, grey plate, short fangs, and they'd watched their Centurion bleed. Two of them, with a lamp. The lamp found the cut, and the cut was empty.
 

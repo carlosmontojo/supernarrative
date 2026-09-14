@@ -4,7 +4,7 @@ The count went to ten on the ninth day after the riot, by the piece, and it was 
 
 Decimus read it off the list at the dawn count, flat, the voice for things that weren't personal, and stopped, and read it again. He hadn't read a number down in three years and didn't trust his mouth with it. "Ten. Every decury. By the piece. Prefect's order." He didn't look up. "The galleries, it says. The Deep's not pushed till it gives slabs again, and the Shallows is ten, because ten's what holds." He made a mark. "That's what it says."
 
-The road didn't make a sound. Forty-one men stood on it now. The eighteen had gone into the wall, and the five had gone in after the post that wasn't the post. Auger had gone in last, carried by Ulli, singing the length of the Deep road. Nobody had anything left to make a sound with.
+The road didn't make a sound. Forty-one men stood on it now. The eighteen had gone into the wall, the five after the post that wasn't the post. Auger went in last, carried by Ulli, singing. Nobody had anything left to make a sound with.
 
 Ten. The wall's number, the one Auger had taken a cage for and died on the rock for. It came down the Throat nine days later on a slate, in an old man's hand: the Shallows gave ten, and the men who cut it had to be alive to do it.
 
@@ -28,7 +28,7 @@ So it ate the old ones.
 
 He felt it start the second week. Not the arm; that had healed at the face, over a month of buckets. This was everywhere. Weight coming off him a little each day, from nowhere he could point to. Fever without a reason, every fourth night, then every third, the coat no bigger and the body inside it less. Hunger with a size, and the size going the wrong way, fast. It had learned what full was and wouldn't go back to not knowing.
 
-"You're going," Pell said, in the third week, to the wall. "I can see it. I said I'd say it the other way, and I'm saying it. Whatever you did in the Cradle, you've stopped, and the wall's got you."
+"You're going," Pell said, in the third week, to the wall. "I can see it. I said I'd say it the other way. Whatever you did in the Cradle, you've stopped, and the wall's got you."
 
 "The wall hasn't got me."
 
@@ -50,7 +50,7 @@ Jonah lay with his hands on his chest.
 
 "That's what Decimus said. About the Empire."
 
-"Decimus is a fool with a rifle who brought you a bandage. He's right about most things." Pell turned back to the wall. "Go down the road, cut one. Or don't, and I'll sing over you when they carry you. I'll get the words right. I'll have learned them from the wall. It's got a great many."
+"Decimus is a fool with a rifle who brought you a bandage. Right about most things, though." Pell turned back to the wall. "Go down the road, cut one. Or don't, and I'll sing over you when they carry you. I'll get the words right; I'll have learned them from the wall. It's got a great many."
 
 ---
 
@@ -64,7 +64,7 @@ The face was different. The Vein had closed over the bitten place, the way skin 
 
 "Doesn't come off. And it's warm. Warmer than the rest." He looked at the knot. "Like it's holding something."
 
-Jonah cut. It came off for him; it always would. He stood at the face and looked at the knot. The genius, hungry, smaller every day, leaned at it, and he thought: that's the shape. That's where it found out. He didn't touch it, and didn't want to, and that was new.
+Jonah cut. It came off for him; it always would. He stood at the face and looked at the knot. The genius, hungry, smaller every day, leaned at it. That's the shape, he thought. That's where it found out. He didn't touch it, and didn't want to. That was new.
 
 Ulli was at the end of the gallery on his bucket. He'd carried forty-two men out of the Cradle now, Auger last. He sat with his eyes closed, singing under his breath, and opened them when Jonah's boots stopped in front of him.
 
@@ -80,7 +80,7 @@ Ulli was at the end of the gallery on his bucket. He'd carried forty-two men out
 
 "Why do you care?"
 
-"Because I've carried forty-two men out of a room he drew," the deep man said, "and sung over every one of them. He heard it through a wall, every night, twenty years, and when you told him, he said tell Ulli I heard it. Nobody in this Pit has ever said that to me. Something I did was heard." He didn't open his eyes. "He drew the room. I sing in it. You turned around in it. That's the three of us, cut one. Go down the road."
+"Because I've carried forty-two men out of a room he drew," the deep man said, "and sung over every one. He heard it through a wall, twenty years, and when you told him, he said tell Ulli I heard it. Nobody in this Pit has ever said that to me. Something I did was heard." He didn't open his eyes. "He drew the room. I sing in it. You turned around in it. That's the three of us. Go down the road."
 
 ---
 
@@ -108,9 +108,7 @@ He was thinner. Six weeks on one bowl a day, at seventy. The straight back was s
 
 "Yes."
 
-He looked at Jonah a long moment.
-
-"Say it," he said. "Whatever you've carried down that road. Say it now, and then we'll see what's left."
+After a long moment: "Say it. Whatever you've carried down that road. Say it now, and we'll see what's left."
 
 Jonah stood with his back to the wall the old man had drawn.
 
