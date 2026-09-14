@@ -36,7 +36,7 @@ His vision doubled. Not blurred. Doubled, cleanly, two of everything and both of
 
 "Your face is doing something."
 
-"So's the cutter, Silas. Pick one to watch."
+Jonah said, "So's the cutter, Silas. Pick one to watch."
 
 The legion transport was ahead. Half a warship, broken across the middle four hundred years ago and still the largest single thing in the rings, tumbling so slowly it looked still. Its open end faced them. Inside was a cathedral of dead decks and drive housings. It was dark. It was the only place in the ring plane big enough to hide a barge.
 
@@ -70,7 +70,7 @@ Then it went. They heard it go up out of the ring plane and away, and after that
 
 "They'll be back," Marchand said.
 
-"Yes."
+Jonah said, "Yes. Not here. Not for a while."
 
 "They'll sit at the edge and wait. Ochoa said it. They can sit for a month."
 
@@ -90,11 +90,11 @@ Jonah didn't answer.
 
 "I saw it, Vale. I was in the hatch. I saw you go down on your knee. I saw him say the word and I saw you stop. Then I saw." Marchand stopped. His hands were folded on the manifest, which he'd picked up off the hold deck at some point and had not let go of since. They were very steady, which was how Jonah knew he was frightened. "What are you?"
 
-"I don't know."
+Jonah said, "I don't know. I'm nineteen, Silas. There's a dead man's feet in my legs and something behind my heart that wanted to eat him, and I'm making the rest of this up as fast as you are."
 
 "Don't."
 
-"I don't. I put my hand in the box because the captain told me not to let anybody touch it. The man who'd just killed him was about to touch it. That's all I decided. Then it decided the rest."
+"I'm not making up what happened. I put my hand in the box because the captain told me not to let anybody touch it. The man who'd just killed him was about to touch it. That's all I decided. Then it decided the rest."
 
 "It."
 
@@ -128,7 +128,7 @@ Jonah had been sitting with that question for nine hours. At some point he had s
 
 "Not from you."
 
-"Yes," Jonah said. "From me."
+Jonah said, "Yes. From me. Ochoa trusted me with the yoke for six years. He can trust me with a lie for one afternoon."
 
 He didn't know if it was true. He was about to find out.
 
@@ -207,6 +207,12 @@ Jonah brought the barge in.
 The reading was a Blank with a grade you could count on one hand and a wand he waved at each of them in turn on the dock, bored. The wand was the small reading. It found a lorica on a man or it did not. The big reading was the glass, a slab of dark stone in the Flamens' house that gave a number, the gifts, and the colour of the plate. The College wrote all of it down and kept it for ever. A Collar coming off a barge got the wand. Nobody had ever been on the wrong side of a wand. Jonah stood in the line with Bram on one side and Hollis on the other and thought, very hard, about nothing.
 
 He hadn't known that would work. He'd thought about it for eleven hours. In the hold, when Varro said the word to the collar, the genius had gone still. It had gone still because it was listening. Maybe it could be asked to be still now. So he asked. Not with words. He held it, and it held. It was the strangest feeling he'd ever had: a second heart, held still inside the first.
+
+"Service?" the Blank asked, not looking up from his slate, when the wand reached Jonah.
+
+Jonah said, "Six years, sir. Ten fingers. I count them every morning."
+
+The Blank didn't look up. Whatever the joke had been worth, it wasn't worth writing down. Jonah decided it had been for himself, and let it go.
 
 The wand came past his throat, his chest, his hands, and went on to Hollis.
 

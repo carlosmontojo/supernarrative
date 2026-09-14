@@ -56,6 +56,10 @@ The foreman of decury six was a Blank, or had been. White scar where the line ha
 
 "Seven, I pick a man." Bricks let that sit. "And Decimus doesn't come down for what happens after."
 
+"What happens to the count if the man you pick can't hold a chisel tomorrow?" Jonah said. "Nine and a hole in the decury isn't ten either."
+
+Bricks looked at him a moment. "Then I pick better next time. That's the whole of it, cut one."
+
 He looked along the line and stopped at Jonah.
 
 "You're the cut one."
@@ -80,7 +84,7 @@ That was the problem. He'd stood at the wall on the first day and pushed, and th
 
 "It's soft here."
 
-"It's not soft anywhere. I've been on this wall four years. It comes off for you, cut one." Corr looked at him, close, with the wall's dark on his face. "It does that. Before. When it wants a man. It gets easy for him. He cuts like a foreman for a month, and then he can't lift the chisel, and then he's on the far side with the deep ones." He went back to his own line. "Enjoy it."
+"It's not soft anywhere. I've been on this wall four years. It comes off for you, cut one." Corr looked at him, close, with the wall's dark on his face. "It does that. Before. When it wants a man. It gets easy for him. He cuts the way a foreman does for a month, and then he can't lift the chisel, and then he's on the far side with the deep ones." He went back to his own line. "Enjoy it."
 
 Jonah stood with the shard in his hand. The wall was not soft. It was polite. Something on the other side of it had turned to look at him on the first day, and looked at what he carried, and decided this one could cut. It let the chisel in.
 
@@ -112,9 +116,11 @@ The road went quiet.
 
 Sixty men, four decuries, eating with their backs to the walls. They all stopped. Jonah stood with his empty hands and looked at his bowl in the middle of the road, and at Bricks standing over it with the ground-down chisel in his belt. Of course it's him. He's the one who has to know.
 
-"You don't want it," Jonah said. "You eat first. You've eaten."
+What he wanted to say was that he could have Bricks on the rock in under a second and eating through a straw for a month. What he said was aimed at giving Bricks a way out, not at winning.
 
-"I want to see what the cut one does when a man takes his food." Bricks had not drawn the chisel. His eyes were on Jonah's hands. "Corr says you cut like a foreman and then shake like you didn't. Corr says a lot. I want to see. Come and get your bowl."
+"You don't want it," he said. "You eat first. You've eaten."
+
+"I want to see what the cut one does when a man takes his food." Bricks had not drawn the chisel. His eyes were on Jonah's hands. "Corr says you cut the way a foreman does and then shake the way a green one does. Corr says a lot. I want to see. Come and get your bowl."
 
 Somebody moved at the edge of the light.
 
@@ -160,7 +166,7 @@ It had been in the middle of the road the whole time and nobody had touched it.
 
 He picked it up. He carried it to Bricks, crouched, with the blood running off his arm, and set it down on the rock in front of the foreman's knee.
 
-"It's yours. You said mine. I heard you."
+"It's yours. You said mine. I heard you," Jonah said.
 
 The road did not breathe.
 
@@ -181,6 +187,14 @@ He walked back to his place at the wall and sat down with his back to the rock, 
 "Nobody died."
 
 "Four times nobody's understood you. I'm counting that now. It's easier."
+
+"You've got the face," Pell said.
+
+"What face?"
+
+"The adding one." He turned back toward the wall. "You've had it since the hold."
+
+"Somebody down here has to add," Jonah said.
 
 ---
 
@@ -225,6 +239,8 @@ Decimus came down the road at dusk count with his lamp and his list and the pale
 Jonah took it. You didn't say thank you. But he looked at the guard, and the guard looked back. Nobody hands a cut one a bandage on his third night. Nobody has one in his pocket ten kilometres down. He brought it.
 
 "Bricks says you gave the bowl back," Decimus said.
+
+What he wanted to say was that Bricks had just learned something expensive and precise, and it seemed a shame to waste a lesson like that on silence. What he said was shorter.
 
 "Bricks says a lot."
 

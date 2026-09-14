@@ -14,7 +14,7 @@ Morrow had looked at him for a long moment.
 
 "Then it says what's there," he'd said, "and I don't know what happens after, because I've never seen it. Jonah. I don't want to know what you're asking me. Do you understand? I want the boy who flew my barge home to walk out of that house with a line on his arm and a ship. I want to have known nothing, ever, about anything else. Can you give me that?"
 
-"I can try."
+Jonah said, "I can try. I've held it for four hours straight and my jaw still aches. I don't know yet what an hour on a Flamen's glass costs. I'm about to find out with you watching."
 
 "Then try," Morrow had said. He had put his hand on the back of Jonah's neck, briefly, and gone.
 
@@ -114,7 +114,9 @@ Priscus stood up. He came to the slab. This was the quaestor's part, the Empire'
 
 "Your ship is the Kestrel. Your yard is Morrow's. Your purser, I'm told, is a man named Marchand, who is precise." Something moved in the quaestor's face that might, on another man, have been the ghost of a joke. "Be precise with him. Go and be a captain."
 
-He took his hand away, went back to the bench, and sat. His sister stood up beside him with the book under her arm and looked at Jonah's arm once more, at the line, and then at his face. Then she said something to her brother that Jonah could not hear. Her brother nodded without looking at her, and they went.
+Jonah said, "I'll try, sir. Six years flying blind for a captain who never checked a chart taught me something about precision, even if I couldn't have named it this morning."
+
+Priscus looked at him a moment longer than the sentence needed. Then he took his hand away, went back to the bench, and sat. His sister stood up beside him with the book under her arm and looked at Jonah's arm once more, at the line, and then at his face. Then she said something to her brother that Jonah could not hear. Her brother nodded without looking at her, and they went.
 
 ---
 
@@ -150,7 +152,7 @@ Two of the vigiles had moved while the sergeant waited. One was behind Tom Vale'
 
 "That's odd," the sergeant said, quietly.
 
-"Old issue," Jonah said. "The Flamen said. They get sluggish."
+Jonah said, "Old issue. The Flamen said so himself this morning. They get sluggish."
 
 The sergeant looked at him. Jonah looked back, and thought, with a cold and total clarity he would come to know very well, that he could do it. The genius had come up when the word was said and had not been held, because he had not been holding it. He had been drinking and being a citizen and having a father. It was in his arms now, and his back. It was looking at the two grey fangs by his father and by Mara and it was not afraid of them at all. He could feel exactly where the plate would come out. He could feel the crooked fang on the wrong side of his wrist waiting to be asked. Five Blanks. Tiro plate. Grey. He had put a decurion on his back with fourteen years on him, and these were dock vigiles with a token on a chain.
 
@@ -172,7 +174,7 @@ They brought him. He went between two of them with his hands bound behind him an
 
 At the door he turned his head. Tom had stood up. The vigil had let him. He was standing in the wreck of his two rooms with the festival cup still in his hand. He said, "Son," and could not say anything else.
 
-"It's all right," Jonah said. "It's a mistake. I'll be back by morning. Tell Morrow."
+Jonah said, "It's all right. It's a mistake, that's all. I'll be back by morning. Tell Morrow I'll be at the yard by noon, whatever this is."
 
 He said it in an ordinary voice. It sounded exactly like himself. He thought, that's a lie, and I've never lied to him, and I'm going to have to get better at it. They took him out into the tenement road and the door closed on his father's face. Mara was the one he didn't look at. He had looked at his father because his father needed it. He didn't look at Mara because she didn't, and because she had understood, and because he could not have held still through it.
 

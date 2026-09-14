@@ -4,7 +4,7 @@ The derelict had been dead for four hundred years and it was still a better ship
 
 Jonah could see that from three kilometres out, which was as close as anyone sane brought a barge to the inner rings of Quirinus. Quirinus was the gas giant Anvil went round. The rings were where the Empire had thrown its dead ships for four hundred years. Cutters, haulers, one whole legion transport broken in half, all of it drifting and grinding in the ring plane. This one hull sat in the middle of it clean. Dark, thin, turning very slowly. No pitting. No frost. The rock and ice went around it.
 
-"That's not right," Jonah said.
+"That's not right," Jonah said. "Wrecks don't come in clean, Captain. That one's swept."
 
 "Fly," Captain Ochoa said.
 
@@ -16,9 +16,13 @@ The scale was the Empire. At the bottom were Collars: peregrines, people with no
 
 He had the drive at a whisper and the jets doing the work. A slab of hull plate the size of a tenement block came around on the left, tumbling end over end with a rhythm you could count. He counted it and took the Kestrel under it on the fourth beat with forty metres to spare. Forty metres was a lot. Marchand let out a breath behind him anyway.
 
+"You always count them," Ochoa said, without turning round. "Every piece of hull that comes past this window. Six years I've watched you do it."
+
+Jonah said, "Somebody should. They don't count themselves, and closing my eyes hasn't worked yet."
+
 "We're going to die," Marchand said, "and I want it noted that I said so."
 
-"Noted," Jonah said. "Do you want it in the log or just in your heart?"
+Jonah said, "Noted. Do you want that in the log, Silas, or just in your heart?"
 
 "Fuel's at thirty-one. If we're not on the return burn by twenty-two we don't make Anvil. I'm saying it so it's said."
 
@@ -27,6 +31,10 @@ He had the drive at a whisper and the jets doing the work. A slab of hull plate 
 "You're a peregrine, Vale. If this barge scrapes so much as paint, it's my name on the report and your neck on the block. You'll be dead before you're sorry, and I'll still be filling in forms."
 
 "That's a beautiful thought, Silas. Write it down. Somebody'll want it for a wedding."
+
+Marchand didn't laugh. Nobody did.
+
+Jonah said, "Nothing. That one didn't land. I'll bring back a better one from the wreck."
 
 Ochoa said nothing. He had said very little since the burn out of Anvil, which was normal, and had checked the chart exactly zero times, which was not. Jonah had flown for him six years. The man checked the chart in dock. He checked it in his sleep, probably. For eleven hours he had sat in the second seat with his hands folded and watched the ring plane. Every heading Jonah asked for he gave without looking at anything. Every heading had been right.
 
@@ -150,7 +158,7 @@ Jonah cut the drive.
 
 Ochoa unstrapped the box and stood up with it. For a moment Jonah thought he meant to hide it. Then he understood there was nowhere on the Kestrel to hide anything from a man with a lorica. A lorica could hear a heartbeat through a bulkhead, and the box was breathing.
 
-"Sir," Jonah said. "What are we going to tell him?"
+Jonah said, "What are we going to tell him, sir? Because 'we found a locked door that says seed on it and it started breathing' is not a sentence I want to test on a decurion."
 
 "The truth," Ochoa said. "That we were about to report it."
 
@@ -188,7 +196,11 @@ He didn't need it. He walked into the hold in a patrol uniform with the sleeve r
 
 "Yes, Decurion. We were about to report it."
 
-"Of course you were." Varro walked down the line without hurrying. He did not look at Bram or Hollis. He looked at Marchand's manifest for about as long as it takes to decide not to read something. He stopped in front of Jonah.
+"Of course you were." Varro walked down the line without hurrying. He did not look at Bram or Hollis. He looked at Marchand's manifest for about as long as it takes to decide not to read something.
+
+"You're welcome to read it properly, Decurion," Jonah said. "Silas checks his sums twice. It's usually right the first time too."
+
+Varro did not look up from the page, or at Jonah, or answer him at all. He finished not reading it and stopped in front of Jonah.
 
 "Name."
 
@@ -368,7 +380,7 @@ Inside him, something was waiting. It had come in. It had eaten his collar. It h
 
 It was hungry. He could feel that. It was very, very hungry, and it was looking at Varro.
 
-"No," Jonah said, out loud, to nobody.
+Out loud, to nobody, Jonah said, "No. Not him. I don't care what he did. Nobody eats anything else while I'm standing here."
 
 It did not argue. It didn't have anything to argue with. But it did not stop looking, either.
 
@@ -382,6 +394,6 @@ He looked at the ladder to the cabin. He looked at the man he'd killed, and the 
 
 "Twenty-two," the channel said. "Twenty-one."
 
-"Bram," Jonah said. "Strap in."
+Jonah said, "Strap in, Bram. We're not walking home from here."
 
 He went up the ladder.

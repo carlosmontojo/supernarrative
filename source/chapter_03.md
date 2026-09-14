@@ -22,6 +22,10 @@ He hadn't told Mara. He had told her the boarding, Ochoa, Varro, the fake strike
 
 "Standing like you're waiting to be hit." She was beside him at the rail, in her festival clothes, which were her yard clothes with the burns turned inward. "Nobody's going to hit you. It's Founding Day. They only hit us on the other three hundred and sixty-four."
 
+"And you're counting the dais," she said. "Every purple sleeve on it. I can see your eyes doing it."
+
+Jonah said, "Somebody should. Nobody up there's counting us."
+
 "That's a beautiful thought. Somebody should put it on a banner."
 
 "Somebody should put you on a banner. Look at you. Three weeks and you're standing like a Stripe."
@@ -88,11 +92,11 @@ Jonah hadn't seen her before. She had the quaestor's colouring and none of his s
 
 "Because she's a Broadstripe and they're not. Or because she doesn't like it. Nobody knows. She goes to the Flamens' house and reads. Every day, all day. A Broadstripe." Mara shook her head. "You'd think she'd have something better to do."
 
-"Like sit on a dais and watch children stab us."
+Jonah said, "Sitting on a dais watching children stab us for practice. That's a full day too."
 
 "Jonah."
 
-"I'm just saying it's a full day."
+"I'm just saying somebody up there's had a busier festival than she has."
 
 One of the cadets had stopped circling. A tall boy with a soft face and a stripe so new it still looked painted. He was looking straight at the rail where Jonah was. Jonah understood that he had said the last thing a little too loudly.
 
@@ -194,6 +198,10 @@ When he did turn, she was three paces away, alone, with her hands in the pockets
 
 "Yes, you do. You did one. Left and forward, off the line, on a low thrust. It's the first step they teach in House Fulvia and it's the only step that boy's instructor knows. You did it better than the instructor, and I want to know where a Collar barge pilot learned it."
 
+Jonah said, "Why does it matter where, if it worked?"
+
+"Because it worked, and Collar barge pilots don't get to have footwork. Where."
+
 "Watched it once. I'm quick."
 
 "Watched it where?"
@@ -208,7 +216,7 @@ She gave him a considering look. The look of somebody who fought people for a li
 
 "Because now he'll remember you. If you'd cut him he'd remember the cut. Now he'll remember your face. That's worse. For you, I mean. Not for him."
 
-"I'll try to be uglier next time."
+Jonah said, "I'll try to be uglier next time."
 
 That got something. Not a laugh. The corner of her mouth, which she seemed to notice and put back.
 
@@ -232,11 +240,9 @@ That got something. Not a laugh. The corner of her mouth, which she seemed to no
 
 She turned to go.
 
-"Why did you say it?" Jonah said.
+Jonah said, "Why did you say it? On the dais. He won. You said it before he did."
 
 She stopped.
-
-"On the dais. He won. You said it before he did."
 
 She looked at him over her shoulder. For a moment the boredom was gone from her face and there was something else there, something he couldn't name and would think about for a long time in a dark room under a planetoid. Then it was back.
 

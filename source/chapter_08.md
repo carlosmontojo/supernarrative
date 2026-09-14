@@ -26,11 +26,13 @@ Two Blanks had Aulus by the arms. They walked him to the slab, laid him down, an
 
 "Number," said the Blank with the list.
 
-"He's a citizen," Jonah said.
+What he wanted to say filled a paragraph about licences and a court that had never sat. What came out was short, aimed past the guard at the whole line.
+
+"He's a citizen," he said.
 
 "He's four four seven oh. Was. You're four four seven one. Say it."
 
-"He hasn't been asked anything."
+"He hasn't been asked anything. Not his name. Not why," Jonah said.
 
 "He's been asked everything he's going to be. Say it."
 
@@ -124,6 +126,14 @@ A lorica. Everything the Empire put on a man was. The collar had been stupid and
 
 "Top road. Nearest the cage. You'll like it. Everybody likes it for a month." He looked past Jonah. "Next."
 
+"A month," Jonah said. "That's specific, for a stranger."
+
+"Everybody's a stranger the first day."
+
+"Not for long, I hear."
+
+"No," the Blank said. "Next."
+
 Seven of the nine Blanks were alive to go in the cage. Two had died on the slab, Aulus and a boy who had not made a sound. The seven stood with their new white scars and new dark shackles and bare bodies. Then the thirty Collars were put in with them, and nobody said anything.
 
 Pell was beside him again. Shackle on, no scar, because there had been nothing in him to cut. He looked at the white line on Jonah's arm for a long moment.
@@ -144,9 +154,19 @@ Pell was beside him again. Shackle on, no scar, because there had been nothing i
 
 "No."
 
+What he wanted to say was that the Stripe's face, at the end, had finally believed something true, and that it was the worst thing Jonah had seen since the box. What he said was smaller, because Pell's brother was already in the ground somewhere and did not need the company.
+
+"His name was Aulus," Jonah said. "I don't know the rest of it."
+
+Pell nodded slowly, like that mattered, because to him it did.
+
 Pell looked at him a little longer. Then he turned to the cage door, which was closing, and the wind, which had gone from a breath to a push.
 
 "My brother had one. A line. Got it for the field, before the field went. They'll have cut it out of him at that table." He was silent a moment. "I'd like to think he lived. Long enough to hate them for it."
+
+"I hope he did," Jonah said.
+
+Pell didn't answer that. Some hopes don't want an answer, only a witness.
 
 The cage dropped.
 
@@ -226,6 +246,16 @@ The man looked. Something in his face shifted.
 
 "Cut one. Well." He crouched, close. His breath smelled of the wall. "They go fast, cut ones. Faster than a month. It knows there's a hole in you, see. Where the cutting was. It wants to fill it." He straightened. "Sorry, friend. Nothing personal. Three years if you're smart, two if you're strong. Cut ones, I've never seen one make a year."
 
+"What's your name?" he asked.
+
+The man blinked. Nobody had asked him that in longer than he could say. "Corr."
+
+"Corr. Thank you for telling me straight," Jonah said.
+
+Corr shrugged, still not looking away from the wall. "Don't thank me. I didn't do you a favour."
+
+"You told me true. That's enough of one down here."
+
 He went back to the wall, picked up his chisel, put it to the wet breathing place, and began, slowly, to cut.
 
 Jonah knelt with his hands flat on the tunnel wall. Its one word went through him over and over. He did not get up for a long time.
@@ -238,7 +268,7 @@ When he did, Decimus was still there. He had waited. He stood holding the lamp w
 
 "Good. Dawn count. Don't be late for it." He paused. "And don't listen to Corr. He says a month to all of them. It's just what he says."
 
-"How long does he say for himself?"
+"How long does he say for himself?" Jonah said.
 
 Decimus looked at him. Then he did something Jonah had not seen a Stripe or a Blank or a guard do since the ramp on Anvil. He almost smiled.
 

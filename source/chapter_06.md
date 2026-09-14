@@ -38,13 +38,23 @@ Priscus looked at him. The look went through his face, over his hands, and reste
 
 "You'll have heard of Pulse," Priscus said.
 
-"No, sir."
+"No, sir. Collars don't hear about a lot of things. That's the design."
+
+Priscus's eyes came up off his folded hands. It was the first time all evening he had looked at Jonah rather than through him.
 
 "That's true. Good. Things go faster when the other man knows the rules." He laid his hands flat. "My house's lorica has a gift. I can hear your heart from where I sit, as well as you can feel it. When a man lies, his heart skips. Most men never learn to stop it. I hear the skip. So don't. You'll be tempted. Everyone is. It wastes both our evenings, and I'm told you dislike waste."
 
-Jonah said nothing.
+"Who told you that?" Jonah heard it come out of his mouth and could do nothing about it. "Sorry, sir. It's been an hour since they took me out of my own engagement dinner, and you're the first person who's spoken to me since, and you already know what I dislike. I'm grateful, honestly. I'm nineteen. I didn't know I was a man who dislikes waste until an hour ago."
 
-"That's also permitted. Silence isn't a lie. It's not an answer either, and I'll draw my own conclusions from it, but it won't cost you anything you haven't already spent. Do you understand me?"
+The vigiles at the wall moved. Priscus did not.
+
+"Was that a joke?"
+
+"It was an attempt, sir. I'm nervous. I get talkative. It's the worst thing I do, and it's the only thing I brought."
+
+Priscus watched him for a moment that went on longer than the question needed.
+
+"That's permitted too," he said. "So is silence, when you'd rather have some. Silence isn't a lie. It's not an answer either, and I'll draw my own conclusions from it, but it won't cost you anything you haven't already spent. Do you understand me?"
 
 "Yes, sir."
 
@@ -220,7 +230,7 @@ Not the sergeant. A hand, with a cup in it. Above the hand, where the sleeve was
 
 He got up and took it. Her fingers were cold. She didn't let go at once.
 
-"You're the quaestor's sister."
+Jonah said, "You're the quaestor's sister."
 
 "I'm the quaestor's sister." The slot was narrow. One eye, her mouth, the stripe. "And you're the man with the Fulvian step who said the prayer. I watched you get a line on your arm this morning. I watched five vigiles take you out of a dinner tonight for a matter concerning the Flamens, which has never happened on this moon. So I asked what the matter was."
 
@@ -234,13 +244,13 @@ He got up and took it. Her fingers were cold. She didn't let go at once.
 
 Jonah drank. Best water he'd ever had. He was ashamed of noticing.
 
-"Why did you come down?"
+Jonah said, "Why did you come down, if he already told you it was nothing?"
 
 The eye in the slot considered him.
 
 "Because I saw something on the glass this morning and told my brother, and he said it was nothing. Then five vigiles went down the yard road. I've read for three years in a house that teaches that what's on the glass is always something." A pause. "And because it was true, that you'd be out by the fourth bell, and nobody had come down to say so. That's usually why."
 
-"You said that in the square."
+Jonah said, "You said that in the square, too. Word for word."
 
 "I say it a great deal. It's the only argument I have that works on him." The corner of a mouth, maybe. "What's your name?"
 
@@ -278,7 +288,7 @@ He did not say whose.
 
 Ad metalla. To the mines. Everybody on Anvil knew the words. The Empire had one mine that mattered, on a rock called Tessera at the far end of the Belt, and the Collars who went down it did not come back up. Metalla VII, the papers called it. The yards called it the Pit.
 
-"There's a mistake," Jonah said. "The quaestor said the fourth bell. He said it in front of his vigiles. Go up and ask him."
+Jonah said, "There's a mistake. The quaestor said the fourth bell. He said it in front of his vigiles. Go up and ask him."
 
 Nobody went up.
 

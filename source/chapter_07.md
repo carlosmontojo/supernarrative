@@ -120,7 +120,7 @@ It was the most frightening thing Jonah had felt since the box. Because he agree
 
 "You're a Collar with a line on your arm. Sit by the wall. Take your cup. Get counted. That's how you come out the other end of thirty-one days."
 
-"I know," Jonah said. "I've killed a man already."
+"I know," he said. "I've killed a man already."
 
 Pell was quiet a while.
 
@@ -154,6 +154,10 @@ The feet had already left. Left and a little forward, off the line, the step Liv
 
 He turned it. There was a way to turn a wrist when a man's weight was going past you and both your hands were on it. Varro had known it. Now Jonah's hands did. Hask's arm went where arms do not go. There was a sound. The steel dropped out of the slack fingers into Jonah's palms. Hask was on his knees, mouth open, arm at the wrong angle, and his face, finally, looking at something.
 
+What he wanted to say was longer, about counting and about ends. Hask would not have followed the rest of it.
+
+"Eleven days is enough. You don't get a twelfth," Jonah said.
+
 Jonah put the steel into him under the ear.
 
 He did not choose the place. The steel went in where his hands put it, easily. Hask made a sound that was mostly air. Jonah pulled the steel out and stepped back. The big man went over sideways among the Blanks by the barrel, and one of them shifted his legs aside.
@@ -170,7 +174,7 @@ He put the steel down on the barrel. He filled the cup with both hands and walke
 
 The old Collar looked at the cup. Then at him.
 
-"It's yours," Jonah said. "It was always yours."
+"It's yours," he said. "It was always yours. Please, before it's cold."
 
 The old man took it. His hands shook. He drank.
 
@@ -198,7 +202,19 @@ Pell was quiet a moment.
 
 "Then everybody can have it. I've got what I've got."
 
-Pell looked at him a while longer. Then he turned back to the floor and began to sing again, very quietly, a field song from Marl, and did not stop until the shift changed.
+What he did not say: that his hands had wanted to keep the knife for about four seconds, and then stopped wanting it. He kept that count to himself too.
+
+Pell shook his head. "You're a strange one, Vale."
+
+"I've been told. Usually by people with more days left than you," Jonah said.
+
+Pell made a sound that on another man might have been a laugh.
+
+"You count everything," Pell said. "I've watched you do it."
+
+"Somebody should," Jonah said.
+
+Then he turned back to the floor and began to sing again, very quietly, a field song from Marl, and did not stop until the shift changed.
 
 The crew came down on the count. They looked at Hask, logged him, and left. Jonah watched them go up the ladder and thought about the sergeant on Anvil, who had said please. These four had not, and did not need to. The law had been said once, out loud. After that it said itself.
 
@@ -242,7 +258,7 @@ Metalla Seven. Everybody on the Limes had heard the name. The mines. Ad metalla,
 
 Beside him, Pell had stopped singing.
 
-"You know it," Jonah said.
+"You know it," he said.
 
 "Everybody knows it." The old man's voice was flat. "My brother went. Thirty years back. A field, same as me."
 
