@@ -210,7 +210,7 @@ He went back to the wall.
 
 ---
 
-He said the names that night on the road, with the buckets, before the Cradle. Sixteen now. The lorica had come to expect them and did not wander. He got to the first one and stopped.
+He said the names that night on the road, with the buckets, before the Cradle. Sixteen now. Two minutes, and afterwards the lorica lay flat and quiet, the way it always did once it had a straight answer out of him. He got to the first one and stopped.
 
 "Tom Vale."
 

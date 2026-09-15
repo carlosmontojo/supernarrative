@@ -24,7 +24,7 @@ Decimus looked at him a moment, then made the mark anyway. It went to the far bu
 
 That man carried buckets past the Cradle every night for a month and never once heard the rock.
 
-Jonah slept. That was what he did with the hours. He lay on the shelf with the lamp at the end that never went out and Pell above him, singing to the wall some nights and not others. He said the names, because the lorica expected them, and something that expected didn't wander. Corr, and Auger, and the rest, out of order. He didn't say the first one. He slept.
+Jonah slept. That was what he did with the hours. He lay on the shelf with the lamp at the end that never went out and Pell above him, singing to the wall some nights and not others. He said the names, because it was the one thing that still made him legible to the thing under his ribs, and a legible man keeps his plate. Corr, and Auger, and the rest, out of order. He didn't say the first one. He slept.
 
 The lorica didn't like it.
 

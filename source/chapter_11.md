@@ -100,13 +100,21 @@ It did. Since the Cradle it had rested, and rest had made it stronger. At night 
 
 "I don't. I push it down. Holding breath."
 
-"*That is why it comes out. You cannot hold breath for six years. What did you do in the Cradle.*"
+"*That is why it comes out. You cannot hold breath for six years, and it is not trying to escape. It is checking. It comes up to read you, the way it read you in the Cradle. It finds a man clamped shut and pushing, and a man like that is about to do something, so it gets ready. Then nothing happens, and it stays ready, and it goes on staying ready until it is out on your face at the wrong moment and a guard sees it.*"
+
+"So what do I do, let it out?"
+
+"*You tell it what you are. Then it has nothing to check.*"
+
+"And how do I tell it anything? You said it can't hear me."
+
+"*It cannot. What did you do in the Cradle.*"
 
 "Said names."
 
 "*Do that.*"
 
-Nothing more. The rock said its piece and stopped, and left him to find the rest on the road with the buckets.
+Nothing more. The rock said its piece and stopped, and left him to work out the rest on the road with the buckets.
 
 He found it that night on the shelf. The plate was trying to come out on the backs of his hands. He did not push. He lay still and said, into the blanket, "Tom Vale."
 
@@ -128,19 +136,33 @@ The old farmer was quiet a moment. "Fourth after who?"
 
 "Huh," Pell said. He turned over. "Say the rest, then. I'm listening."
 
-Jonah said the rest, all fourteen, quietly, to the end.
+Jonah said the rest, all twelve, quietly, to the end.
 
 "You'll run out of nights before you run out of names," Pell said, from above.
 
 "I'm counting on it," Jonah said.
 
-The plate went in. Not because he had pushed. It had stayed for the names once, at a door, and it had learned something there. When the names were being said, it wanted to be in, listening. By the last name it was asleep, if it slept, and so was Pell.
+The plate went in. Not because he had pushed.
+
+He lay there afterward and worked out why, because he wanted it to be a thing he could do again and not a thing that had happened to him. It was this. Saying the names took him from a man clamped shut to a man who knew exactly what he was for, and it did it in about two minutes, and it did it every time. The lorica came up to read him, got a straight answer, and went back down.
+
+That was the whole of it. It was not a spell and there was nothing kind about it. It was closer to what his father did with a bad weld, which was stop guessing and go and look.
+
+By the last name it was asleep, if it slept, and so was Pell.
 
 "*How many,*" the rock tapped, the next night.
 
-"Fourteen."
+"Twelve."
 
-"*Say them every night. Add one when you get one. It is a thing that learns, and there is nothing left in that wall to learn. Keep handing it something new and it will keep choosing you over its mother. That is the whole trick. There is no other.*"
+"*Twelve. Say them every night. Add one when you get one, and never take one off.*"
+
+"Why every night? It worked."
+
+"*Because you change, and it reads you every night, and on the night the two do not match you will find out what that costs.*" A pause. "*A man who knows what he is can be read all day and it comes out the same. A man who is lying to himself comes out different every hour, and a lorica in a man like that cannot hold a shape. It is not a punishment. It is a hull with a crack in it. You cannot pressurise it.*"
+
+"That sounds like something you've watched happen."
+
+"*Nine times.*"
 
 "What are you, that you know that?"
 

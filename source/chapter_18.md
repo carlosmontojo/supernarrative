@@ -108,7 +108,7 @@ He did it on the fourth night.
 
 Harrow went up at the second bell, same as always. The deep decury sat down in the cut with their backs to the warm, gloves off, and ate. Jonah sat with them, then got up and walked to the far end, where the lamp didn't reach. He took his glove off and put his hand on the Vein.
 
-He'd thought about how. Not with arithmetic, same as he'd thought about Vetch. Same as he'd thought about the hook. Three nights on the deep shelf, the lorica turned toward the face, he'd held the thought out to it, same as he held out the names: not all of it. A mouthful. Same as he'd taken it in the Cradle. Then back. It had listened, flat and total, same as it always listened. All right, he'd thought. It expects the names. It'll expect this.
+He'd thought about how. Not with arithmetic, same as he'd thought about Vetch. Same as he'd thought about the hook. Three nights on the deep shelf, the lorica turned toward the face, he'd held the thought out to it, same as he held out the names: not all of it. A mouthful. Same as he'd taken it in the Cradle. Then back. It had listened, flat and total, same as it always listened. All right, he'd thought. It reads me every night and gets the truth. Tonight the truth is that I want to eat the wall.
 
 He put his hand flat. The wall was warm; it had always been warm. The lorica, which had leaned at it three years, went. He didn't stop it in the doorway this time. He said, in the old tongue, because that was the tongue for slow things: eat.
 
@@ -196,7 +196,7 @@ He'd felt the seam go twice before: in his father's room, and on the road four n
 
 "Yes."
 
-"You told him you wouldn't touch it, and you touched it. It ate. I heard the wall go loud. Everybody in the Deep heard it, thought it was a fall." He looked at the dead man. "Sorrel heard it too. Half in the wall a year, and it went loud, and he went the rest of it. That's on the wall, not you. But the plate's on you." He looked back up. "The old man said it, through the rock, the first month he was teaching you to hold it. A genius in a man lying to himself can't hold a shape. It's not a punishment. It's what happens. Like a hull with a crack in it. You can't pressurise it."
+"You told him you wouldn't touch it, and you touched it. It ate. I heard the wall go loud. Everybody in the Deep heard it, thought it was a fall." He looked at the dead man. "Sorrel heard it too. Half in the wall a year, and it went loud, and he went the rest of it. That's on the wall, not you. But the plate's on you." He looked back up. "The old man said it to you through the rock, the first month, and I've heard him say it to me. A lorica in a man lying to himself can't hold a shape. It's not a punishment. It's what happens. Like a hull with a crack in it. You can't pressurise it."
 
 Jonah looked at his hands, half plated, the fever going through him.
 

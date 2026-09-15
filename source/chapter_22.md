@@ -220,7 +220,7 @@ Ulli nodded slowly.
 
 Jonah walked down the road.
 
-He said the names. All of them, out of order and then in order, sixteen slabs, six hundred and forty-two, from the twentieth year to the first. When he came to the first slab, the first column, the first number, he said it. Three words in the old tongue, tapped once through a wall by a man who had wanted them said. The lorica heard the old man's name go by at the top of the list, and expected it, and did not wander.
+He said the names. All of them, out of order and then in order, sixteen slabs, six hundred and forty-two, from the twentieth year to the first. When he came to the first slab, the first column, the first number, he said it. Three words in the old tongue, tapped once through a wall by a man who had wanted them said. The lorica read him saying the old man's name at the top of the list, and got the truth, which was that it cost him, and lay flat anyway.
 
 Jonah stood in the dark between two lamps and thought about the fourth thing.
 

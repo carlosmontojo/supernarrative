@@ -258,4 +258,4 @@ He did not say it. Not on the road. A name was said once, and then it was said, 
 
 "I know it is."
 
-He picked up Ulli's empty bucket, because it was there and his hands wanted something in them, and walked up the road toward the count. The lorica listened, and expected, and did not wander. It had a name coming, and it knew.
+He picked up Ulli's empty bucket, because it was there and his hands wanted something in them, and walked up the road toward the count. The lorica lay flat and quiet the whole way up. It had a name coming, and somehow it knew.

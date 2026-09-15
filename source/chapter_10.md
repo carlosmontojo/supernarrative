@@ -156,37 +156,53 @@ Yes, Jonah tapped.
 
 I know.
 
-*Give it a name.*
+*It is not leaving. It is abandoning you.*
 
-He did not understand. The cold was at his shoulders now. He tapped back, slowly, because slow was all he had:
-
-I don't have one for it.
-
-*Not a name for it. Names. Yours. Say them out loud where it can hear.*
+He read that twice with his knuckles on the rock, because it was not the same thing and the rock had meant it.
 
 Why, he tapped.
 
-The answer came harder and faster, a man who had waited a long time to say something and could not get it short enough.
+*Because you are dying and it can tell. It lives in you. When the body it lives in stops, it goes back to the wall or it stops too. It is not betraying you. It is a rat going over the side of a ship that is going down, and it is right, and the ship is you.*
 
-*Because it is leaving and you have nothing to offer it that the wall cannot. Except that. Listen. The wall keeps every name it has ever taken. That is all it has: dead men off this rock. It has never had a living one. It cannot. Nobody walks out of here.*
+I can't stop dying, Jonah tapped.
 
-Jonah lay in the dark with his knuckles on the rock and got it, all at once, the way you get a number.
+*You can. That is the entire lesson and I have three minutes to teach it.*
+
+A pause. Then the taps came harder and faster, a man who had waited twenty years to say something and could not get it short enough.
+
+*Listen. It has no eyes. It has no ears. It cannot hear a word you say and it never will. It has one instrument and that instrument is pointed at you, from the inside, and it reads what you are. Not what you say. Not what you decide. What you are. You cannot lie to it. Nine men have tried it in this room and I listened to all nine.*
+
+Then what do I do.
+
+*Stop agreeing.*
+
+He lay in the dark with the cold at his shoulders and did not follow.
+
+*You are not dying of the wall, boy. You have been dying of agreeing with it for three days. It reads you as a man who is finished, because that is what you are, and so it is going. Be something else and it will read that instead. You have about a minute.*
 
 "What's it saying?" Ulli said, low.
 
-"It says say names."
+"That I've given up." Jonah's jaw was stiffening. "And it can feel me give up. It's in me."
 
-"Whose?"
+"Have you?"
 
-"Mine. People I know." His jaw was going stiff. "It's going home, Ulli. There's nothing on this side worth staying for. The wall's four hundred years of everybody it's killed, and that's the only thing it's ever had to show anyone."
+He went to say no, and stopped, because the thing behind the door had just told him he could not lie to a creature that read him from the inside, and it seemed a poor moment to start practising on Ulli.
 
-"And you've got what?"
+"Yeah," he said. "Three days ago. About four in the morning."
 
-"People who are still alive."
+He tapped, slowly, because slow was all he had:
 
-He heard himself say it and understood the size of it. That was the whole of the trade. The thing under his ribs had been in the world a month and had never once been given anything; everything it had, it had taken, off a dead decurion and a dead shackle and him. On the other side of that door was a mind the size of the planetoid that could say exactly one word, and had been saying it for four centuries.
+How do I want to live. I've been trying for three days.
 
-He was the only thing it had ever touched that could say more than one.
+*No. You have been trying not to die. That reads the same as quitting, because it is the same thing lying down.* A pause, and then the taps were careful, spaced, a man setting something on a table. *Wanting to live is not general. It is always about something in particular. Find the particular things. Say them out loud.*
+
+Out loud. It can't hear me.
+
+*It cannot. You can. A man believes his own mouth before he believes his own head, and the only thing in this room I need changed is what you are. Say them. Now.*
+
+Jonah lay on the floor of the Cradle with a mind the size of the planetoid pulling something out through his hands, and understood the instruction, and thought it was the stupidest thing anybody had ever told him to do.
+
+He did it anyway, because he was out of better ideas and had ninety seconds.
 
 He opened his mouth. His jaw was cold.
 
@@ -194,39 +210,45 @@ He opened his mouth. His jaw was cold.
 
 Nothing happened. Ulli did not move. The rock did not tap.
 
-"Tom Vale. My father. Nine fingers. He sold something once for a winter's food and never told me. He cried at the Flamens' house."
+He said it again, and this time he put the whole of it in, because half of it was a noise and a noise was not the point.
 
-His voice was a whisper. It was the loudest thing in the Cradle.
+"Tom Vale. My father. Nine fingers. He sold a set of numbers once for a winter's food and never told me, and I know what they were now, and he never will. He's sitting in a room on Anvil right now waiting for me to come home."
 
-"Mara Ansel. She measured my hand in my sleep. She gave me a piece of the Halcyon, and it's in my arm, and you put it there."
+Something moved in his chest. Not the lorica. His heart.
 
-He stopped for breath. The cold was at his throat.
+"Mara Ansel. She measured my hand while I was asleep and made me a ring out of a ship. It's in my arm. She thinks I'm dead."
 
-"Ochoa. Captain. He sat down carefully. He said don't touch it. I touched it."
+He was breathing faster. He noticed it from a long way off, the way you notice a gauge.
+
+"Ochoa. My captain. He sat down carefully because of his back, and he told me not to touch it, and I touched it."
 
 It had stopped going.
 
-He felt that. He'd felt it stop on the derelict when it found his heart. It had stopped now, half out, in the warm, with the wall saying come. It was listening. It always listened. And it did not know what a name was, and it was interested.
+He felt it stop. Half out, in the warm, with the whole wall saying come. It had not decided anything and it had not forgiven him. The needle had simply moved, and it was reading him again.
 
-"Pell. Sings to the floor; his brother's in your wall. Corr, who says a month to everybody. Bricks. I broke his hand and he still doesn't know why. Decimus, who carried a bandage ten kilometres down a shaft for a number."
+"Pell. Sings to the floor; his brother's in your wall. Corr, who tells everybody a month. Bricks. I broke his hand and he still doesn't know why. Decimus, who carried a bandage ten kilometres down a shaft for a number."
 
 "Cut one," Ulli said. "What are you doing?"
 
-Jonah kept going. Not fast. One at a time, everything he had on each one, because a name on its own was just a noise and the noise was not the point.
+"Arguing," Jonah said, and kept going.
 
 "Hask. I killed him in a corridor and he was nothing and I've still got him." His throat shut. He made it open. "A boy from Marl who said no once, and I don't know his name, and I'm sorry. He should have one anyway."
 
-He was shaking.
+He was shaking now, and the shaking was not the cold. The cold had stopped at his throat and was not going further.
 
 "Titus Varro. Killed him too. He's in my feet."
 
 Then the one he had not meant to say, which came out in the warm dark before he could stop it and could not be taken back.
 
-"Livia Vibia. Brought me water in a cup and asked what I was called. She's asleep on Anvil right now believing something her brother told her, and it isn't true, and nobody's ever going to tell her."
+"Livia Vibia. Brought me water in a cup and asked what I was called. She's asleep on Anvil right now believing something her brother told her, and it isn't true, and nobody is ever going to tell her."
 
-His whole body was shaking.
+His whole body was going.
 
-"Marcus Vibius Priscus. Burned the seal. Put his hand on my shoulder and told me to be precise." A breath. "I'm going to be precise."
+"Marcus Vibius Priscus." His voice had changed. He heard it change. "Burned the seal. Put his hand on my shoulder and told me to be precise."
+
+A breath.
+
+"I'm going to be precise."
 
 It turned around.
 
@@ -234,13 +256,15 @@ It turned around.
 
 He would never be able to say what that was like, either.
 
-It had been half out, in the warm, going home. It turned and looked back at the man on the floor saying names, and the wall said come with everything it had, and it did not go.
+It had been half out, in the warm, going home, and it turned and came back, and the wall said come with everything it had and it did not go.
 
-He was sure it did not know what a name was. It did not know what a father was, or a captain, or a girl with a cup. But it had been listening to all of them, and it had spent a month reading Jonah from the inside, and it worked out on that floor the thing the wall could never show it: that on this side of the door there were other people, and they were not a count, and every one of them was different.
+It had not understood a word. He was certain of that, then and for six years after. It did not know what a father was, or a captain, or a girl with a cup. It had understood the only thing it was built to understand, which was the state of the animal it lived in, and the animal had changed while it was reading.
 
-The wall had four hundred years of one word. Jonah had fourteen names and no two of them alike.
+A minute ago the reading had been: finished.
 
-It was not loyalty. It was not love. It was the first interesting thing that had ever happened to it.
+Now it was: not yet, and here is a list of the reasons, and the list is long.
+
+That was all. There was no bargain in it and no kindness. The old man would spend five years making sure Jonah never once forgot how little had happened on that floor, and how much it turned out to be worth: a thing with no eyes had taken a second reading, and the second reading was different.
 
 It came back.
 
