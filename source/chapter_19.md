@@ -174,11 +174,11 @@ The fang went through the throat seam. Not by accident, unlike Varro. The old ma
 
 The second one was quicker, came in low. Jonah did the half step. Late and ugly, half of Sabinus's. The grey fang skidded past his hip on plate. The crooked fang went into the armpit seam, to the hilt. The guard dropped the lamp.
 
-It didn't go out. It lay on the rock and threw light up the wall. Jonah stood in it, full plate, two dead Blanks at his feet, a Centurion twenty paces off on a road that was screaming. The genius, fed, plated, unafraid, looked at the two cuttings in the two dead arms, and leaned.
+It didn't go out. It lay on the rock and threw light up the wall. Jonah stood in it, full plate, two dead Blanks at his feet, a Centurion twenty paces off on a road that was screaming. The lorica, fed, plated, unafraid, looked at the two cuttings in the two dead arms, and leaned.
 
 "No. Not here, not with him twenty paces off. He'd smell it," Jonah said, aloud, in the old tongue.
 
-It didn't argue. It never argued. But it didn't stop leaning either. He held it off with the whole count. A Centurion with a licence could feel a genius eat the way a man feels a draught, and Sabinus had just learned fear and would want something to do about it.
+It didn't argue. It never argued. But it didn't stop leaning either. He held it off with the whole count. A Centurion with a licence could feel a lorica eat the way a man feels a draught, and Sabinus had just learned fear and would want something to do about it.
 
 He put the plate away.
 

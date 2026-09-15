@@ -4,7 +4,7 @@ The Flamens' house on Anvil was the only building on the moon that had been buil
 
 Everything else was rock. The tenements were rock, the yard office was rock with a door in it, the quaestor's house was rock with better doors. The Flamens' house stood at the top of the yard road on its own square of levelled ground, white, with columns, with a roof, with steps. It had been lifted whole off a core world and set down on Anvil to remind everyone what a building was. Collars were not permitted past the steps. Jonah had walked past it every day of his life and never wondered what was inside. You didn't wonder about places you would never go.
 
-He went up the steps on the last day of Founding Week with his father on one side and Morrow on the other. He did not look up at the columns, because he was busy. He was holding still. He had practised it for six days. He had lain in the back room with the blanket over the vent and held the genius quiet for one hour, then two, then, on the fourth night, for four. He held it until his jaw ached and his vision went grey at the edges. Then he had to let go and lie there shaking while it moved again, restless, pacing through his arms and back. Four hours. He'd thought that would be enough. Then he'd found out, from Morrow, what an investiture actually took, and had gone home and done it again.
+He went up the steps on the last day of Founding Week with his father on one side and Morrow on the other. He did not look up at the columns, because he was busy. He was holding still. He had practised it for six days. He had lain in the back room with the blanket over the vent and held the lorica quiet for one hour, then two, then, on the fourth night, for four. He held it until his jaw ached and his vision went grey at the edges. Then he had to let go and lie there shaking while it moved again, restless, pacing through his arms and back. Four hours. He'd thought that would be enough. Then he'd found out, from Morrow, what an investiture actually took, and had gone home and done it again.
 
 "It's a reading," Morrow had said. "A real one. Not a wand. They put your arm on the glass and the Flamen reads what's there. There's nothing there, so it says nothing. Then they put the cutting on. Then they read again, and it says one. He fuses it at nine, and you say the words, and it's done. An hour. Less. I've seen forty of them."
 
@@ -18,7 +18,7 @@ Jonah said, "I can try. I've held it for four hours straight and my jaw still ac
 
 "Then try," Morrow had said. He had put his hand on the back of Jonah's neck, briefly, and gone.
 
-So Jonah went up the steps holding still, with the genius quiet and listening behind his heart, and the ring on his finger. The seal was under the floorboard in his father's back room where he had put it on the first night and not touched since. The letter was in the quaestor's pocket, and he did not know about it. He walked into the Flamens' house.
+So Jonah went up the steps holding still, with the lorica quiet and listening behind his heart, and the ring on his finger. The seal was under the floorboard in his father's back room where he had put it on the first night and not touched since. The letter was in the quaestor's pocket, and he did not know about it. He walked into the Flamens' house.
 
 ---
 
@@ -32,7 +32,7 @@ Beside him, his sister was looking at Jonah. She had a book on her knee, closed,
 
 He went. The slab was the height of a table. Its surface was black and had depth to it, the same depth as the ice in the rings. The Flamen took his right arm and laid it flat on the surface, forearm up. It was neither warm nor cold. It was nothing. It was putting his arm on a hole.
 
-The genius went from still to something past still. He had been holding it, a second heart held quiet inside the first. When his arm went on the glass it stopped needing to be held. It went down, on its own, deeper than he had ever pushed it, deeper than the four hours, into some place under his ribs where he could barely feel it. It went there fast. A man goes flat in a ditch that fast when he hears a rifle.
+The lorica went from still to something past still. He had been holding it, a second heart held quiet inside the first. When his arm went on the glass it stopped needing to be held. It went down, on its own, deeper than he had ever pushed it, deeper than the four hours, into some place under his ribs where he could barely feel it. It went there fast. A man goes flat in a ditch that fast when he hears a rifle.
 
 It was hiding. Not because he'd asked. Because it had felt the glass, and knew what the glass was, and had been on the wrong side of a glass before. He stood with his arm on the slab and his face doing nothing and thought, very clearly, you've done this before. Under his ribs, hiding, listening, it gave no sign that it had heard. That was an answer too.
 
@@ -54,11 +54,11 @@ The Flamen took the lentil out of the dish with two fingers and set it on the in
 
 He had known it would. It goes in, Morrow had said, and it's cold, and then it's a friend. But he had not been ready for the feel of it. It went through his skin with no pain, just a pressure. Then it was under, and it was moving, and it was stupid. That was the first thing he knew about it. A wasp's kind of mind. It came into his arm knowing exactly three things: hold, strike, obey. It began at once to look for the one who would tell it which. It went up his arm looking. It was so happy to be in an arm.
 
-And down under his ribs, in the place where it had been hiding, the genius opened one eye.
+And down under his ribs, in the place where it had been hiding, the lorica opened one eye.
 
-Jonah felt the whole of what happened next. It took less than the time the Flamen took to pick up his stylus. He would never be able to describe it to anyone, not even the old man, without leaving most of it out. The genius did not come up. It did not have to. It reached, from where it was, up the inside of his arm, and it took the cutting. There was no sound. There was no plate. Nothing showed on the skin of his arm, on the glass, in the hall. The stupid happy cutting that had been looking for its master was simply taken, all of it, and pulled down. Jonah felt it go, the three small wants, hold, strike and obey, going down past his ribs one at a time and being folded away. The last of them, obey, went with something close to relief.
+Jonah felt the whole of what happened next. It took less than the time the Flamen took to pick up his stylus. He would never be able to describe it to anyone, not even the old man, without leaving most of it out. The lorica did not come up. It did not have to. It reached, from where it was, up the inside of his arm, and it took the cutting. There was no sound. There was no plate. Nothing showed on the skin of his arm, on the glass, in the hall. The stupid happy cutting that had been looking for its master was simply taken, all of it, and pulled down. Jonah felt it go, the three small wants, hold, strike and obey, going down past his ribs one at a time and being folded away. The last of them, obey, went with something close to relief.
 
-Then something came back up. It settled into his forearm exactly where the cutting had gone in, and it lay there. It was a piece of the genius, a finger of it, and it was wearing the cutting. He didn't have another word for it. It had taken the cutting apart and put the pieces on. A dead man's coat. It lay in his forearm in the shape of a Blank's cutting, thinking three small thoughts very loudly on purpose. Under the three small thoughts it was itself, and it was listening.
+Then something came back up. It settled into his forearm exactly where the cutting had gone in, and it lay there. It was a piece of the lorica, a finger of it, and it was wearing the cutting. He didn't have another word for it. It had taken the cutting apart and put the pieces on. A dead man's coat. It lay in his forearm in the shape of a Blank's cutting, thinking three small thoughts very loudly on purpose. Under the three small thoughts it was itself, and it was listening.
 
 "Read," the Flamen said, and laid his hands on the slab.
 
@@ -80,7 +80,7 @@ He put his thumb on Jonah's forearm where the cutting had gone in, pressed, and 
 
 "Fused," he said. "Mark."
 
-A line came up on Jonah's arm. Everybody watched it. It came up through the skin of his forearm where the thumb had been, thin as a scratch and black, running a hand's length along the inside of the arm, as it did on every Blank on Anvil. The mark, the line that said citizen. Jonah watched it come and knew that it was not a mark. It was the genius, drawing. It had looked at the Flamen's arm, Morrow's, the dock clerks', and it had learned what the line was for. It was drawing one, carefully.
+A line came up on Jonah's arm. Everybody watched it. It came up through the skin of his forearm where the thumb had been, thin as a scratch and black, running a hand's length along the inside of the arm, as it did on every Blank on Anvil. The mark, the line that said citizen. Jonah watched it come and knew that it was not a mark. It was the lorica, drawing. It had looked at the Flamen's arm, Morrow's, the dock clerks', and it had learned what the line was for. It was drawing one, carefully.
 
 On the bench, a page did not turn. Jonah didn't look. He could feel her looking. She had seen something, when the cutting went in, or when the mark came, or when the Flamen said dark. He kept his face doing nothing and his eyes on the Flamen, and after a moment, the page turned.
 
@@ -126,7 +126,7 @@ Eleven of them in a space for four. Tom, and Mara and Wren. Bram and Hollis, who
 
 Tom made a speech. It was not a good speech. It was about the ladder, how it was real, how he'd always said, and how Jonah's mother would have. He got that far and stopped. He stood with his cup in both hands and his mouth working. Mara got up and put her arm around him and said the rest for him. It was to Jonah, and it was short, and everyone drank.
 
-Jonah drank too. He drank with the genius held quiet under his ribs and the line on his arm itching in a way a line should not, and Mara's hand on the back of his neck. He thought, this is it. This is what it's for. And under the thought was what he did not say. He was a citizen with a ship and a line on his arm, and the line was a drawing. The citizenship was on a fused cutting that was not there. Every piece of the best night of his father's life was something a man with a stripe could look at and see through, and one of them had. He put it away. He was good at that now.
+Jonah drank too. He drank with the lorica held quiet under his ribs and the line on his arm itching in a way a line should not, and Mara's hand on the back of his neck. He thought, this is it. This is what it's for. And under the thought was what he did not say. He was a citizen with a ship and a line on his arm, and the line was a drawing. The citizenship was on a fused cutting that was not there. Every piece of the best night of his father's life was something a man with a stripe could look at and see through, and one of them had. He put it away. He was good at that now.
 
 The knock came at the second hour. It was not a knock. It was the flat of a hand, three times. Then the door, which had not been locked because Tom did not own a lock, came open. A Blank in the grey of the vigiles came through it with four more behind him, and the room went from eleven people to a wall.
 
@@ -146,7 +146,7 @@ Not to a collar. Jonah had no collar. To the line on his arm, to the cutting, to
 
 Nothing happened. Jonah stood in the middle of his father's room with his arms at his sides and his knees straight. The sergeant waited the two seconds, and then a third. Jonah watched him understand.
 
-He had known this was coming. He'd seen it on the Kestrel, eleven hours out from Anvil with his hand on the dead ring at his throat. He had thought he had time. He had thought, when it came, that he would run, or fight, or do something with the genius that would leave a mark on the world. What he had not thought about was his father.
+He had known this was coming. He'd seen it on the Kestrel, eleven hours out from Anvil with his hand on the dead ring at his throat. He had thought he had time. He had thought, when it came, that he would run, or fight, or do something with the lorica that would leave a mark on the world. What he had not thought about was his father.
 
 Two of the vigiles had moved while the sergeant waited. One was behind Tom Vale's chair with a hand on the old man's shoulder. The other was beside Mara. Neither had done anything yet. Both had plate on their forearms, the pale grey plate of a Blank's cutting, come up over the skin without a sound. At the wrist of each, short, a hand's length, dull, a fang.
 
@@ -154,13 +154,13 @@ Two of the vigiles had moved while the sergeant waited. One was behind Tom Vale'
 
 Jonah said, "Old issue. The Flamen said so himself this morning. They get sluggish."
 
-The sergeant looked at him. Jonah looked back, and thought, with a cold and total clarity he would come to know very well, that he could do it. The genius had come up when the word was said and had not been held, because he had not been holding it. He had been drinking and being a citizen and having a father. It was in his arms now, and his back. It was looking at the two grey fangs by his father and by Mara and it was not afraid of them at all. He could feel exactly where the plate would come out. He could feel the crooked fang on the wrong side of his wrist waiting to be asked. Five Blanks. Tiro plate. Grey. He had put a decurion on his back with fourteen years on him, and these were dock vigiles with a token on a chain.
+The sergeant looked at him. Jonah looked back, and thought, with a cold and total clarity he would come to know very well, that he could do it. The lorica had come up when the word was said and had not been held, because he had not been holding it. He had been drinking and being a citizen and having a father. It was in his arms now, and his back. It was looking at the two grey fangs by his father and by Mara and it was not afraid of them at all. He could feel exactly where the plate would come out. He could feel the crooked fang on the wrong side of his wrist waiting to be asked. Five Blanks. Tiro plate. Grey. He had put a decurion on his back with fourteen years on him, and these were dock vigiles with a token on a chain.
 
 And there was a fang at his father's throat. Not at it. Near it. Close enough. And one near Mara, who was looking at him. She had seen the sergeant say the word and had seen nothing happen. She had understood, faster than the sergeant had, everything he had not told her.
 
 He knelt.
 
-He did it slowly, as a locked man does it, as he'd seen Gaspar do it in Founding Square, the knees going and the hands going flat and the head going down. He held the genius still by main force while he did it. It was the hardest thing he had ever done. Harder than the glass. Harder than the hold. Every piece of him that had come out of a stone box wanted to stand. He put it on its knees in front of five Blanks in his father's room and held it there. He felt, as he did it, a small clean tearing inside him. A seam going.
+He did it slowly, as a locked man does it, as he'd seen Gaspar do it in Founding Square, the knees going and the hands going flat and the head going down. He held the lorica still by main force while he did it. It was the hardest thing he had ever done. Harder than the glass. Harder than the hold. Every piece of him that had come out of a stone box wanted to stand. He put it on its knees in front of five Blanks in his father's room and held it there. He felt, as he did it, a small clean tearing inside him. A seam going.
 
 "Sluggish," the sergeant said, after a moment, in a voice that had decided to believe it. "Right. Bind him. Search the rooms."
 
@@ -180,6 +180,6 @@ He said it in an ordinary voice. It sounded exactly like himself. He thought, th
 
 They walked him up the yard road in the dark. The sun-lamps were at their night setting and the square was empty. The Flamens' house stood white at the top of the road with its columns. They went past it, and on, to the quaestor's house, which was rock with better doors. In through the smallest of them, and down.
 
-Under his ribs, all the way down, the genius that had knelt when he told it to was quiet. It had not liked it. It had done it, and it had not understood why. It was lying in the dark now, pressed flat, not hungry, not listening, turning the not understanding over, as it had turned over the old break in his wrist. Interested. Patient.
+Under his ribs, all the way down, the lorica that had knelt when he told it to was quiet. It had not liked it. It had done it, and it had not understood why. It was lying in the dark now, pressed flat, not hungry, not listening, turning the not understanding over, as it had turned over the old break in his wrist. Interested. Patient.
 
 Waiting to see what he was going to do about it.

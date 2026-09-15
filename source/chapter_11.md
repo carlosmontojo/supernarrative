@@ -58,7 +58,7 @@ The first night he carried and did not stop. There was a Deep foreman at the buc
 
 On the way back past the Cradle, his right hand went to the wall on its own.
 
-He had not asked it to. The genius under his ribs leaned toward the warm rock, and his arm went with it, and plate came up on his palm before he knew. The Vein took his hand. It was warm and it was kind and it wanted him. He tore the hand off it. Skin came away from two knuckles and stayed on the rock. The plate went back in, and he stood in the dark, shaking, with a bucket tipped at his feet.
+He had not asked it to. The lorica under his ribs leaned toward the warm rock, and his arm went with it, and plate came up on his palm before he knew. The Vein took his hand. It was warm and it was kind and it wanted him. He tore the hand off it. Skin came away from two knuckles and stayed on the rock. The plate went back in, and he stood in the dark, shaking, with a bucket tipped at his feet.
 
 "Not yet," he said to it, out loud. "Not you. Not yet."
 
@@ -150,7 +150,7 @@ The plate went in. Not because he had pushed. It had stayed for the names once, 
 
 The fever came on the ninth night.
 
-It had come after Varro, after the shackle, and worst after the Cradle, three days sweating on the shelf. Every time it came because the genius had eaten.
+It had come after Varro, after the shackle, and worst after the Cradle, three days sweating on the shelf. Every time it came because the lorica had eaten.
 
 This time he had not fed it. He was halfway past the Cradle with the road empty when the heat started from the middle out. He put the buckets down and got his knuckles on the rock. His hands shook and the taps came out wrong.
 
@@ -244,7 +244,7 @@ The rock was quiet for a moment.
 
 "THEN SHE CHOSE WELL. YOU HAVE BEEN VERY BAD LUCK FOR AT LEAST ONE SHIP." Then, quicker: "HOLD OUT YOUR HAND. THE RIGHT. BRING THE PLATE UP ON THE BACK OF IT. ONLY THE BACK. ONLY THE HAND. THEN PUT IT AWAY. DO IT UNTIL THE LAMP COMES."
 
-He held out his right hand in the dark and brought the plate up on the back of it. A patch of dark glass the size of a palm. Nothing else. He put it away. He brought it up. He put it away. The genius had never in its life been asked for so little. It did it, interested, and did it again. By the thirtieth time it was doing it before he finished asking. The fever came, small and warm. He counted it down in the old tongue and kept going.
+He held out his right hand in the dark and brought the plate up on the back of it. A patch of dark glass the size of a palm. Nothing else. He put it away. He brought it up. He put it away. The lorica had never in its life been asked for so little. It did it, interested, and did it again. By the thirtieth time it was doing it before he finished asking. The fever came, small and warm. He counted it down in the old tongue and kept going.
 
 Something clicked. Small. A lock going over.
 

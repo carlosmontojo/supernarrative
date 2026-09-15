@@ -100,7 +100,7 @@ He nodded at the chisel.
 
 Jonah picked up the chisel left-handed and brought the fang out of the back of his right wrist.
 
-It came crooked. It always did. A hand's length of dark glass, bent and ugly, out of the wrong side of the arm. The genius, never once asked for it before, brought it up with something close to eagerness, and held it, and waited.
+It came crooked. It always did. A hand's length of dark glass, bent and ugly, out of the wrong side of the arm. The lorica, never once asked for it before, brought it up with something close to eagerness, and held it, and waited.
 
 "Every fang in the Empire comes out of the inside of the forearm, straight. That's the shape cut into every piece of the wall before the Flamens give it away. A Vibian fang's a spike. A Claudian's a cleaver. A Fulvian's a whip's length of edge. Shapes cut into the genius, same as the ceiling. It can no more make another shape than it can grow past nine." He looked at the crooked glass on the back of Jonah's wrist. "Yours wasn't cut. It came out of the wrong arm because nobody told it which arm, and crooked because nobody told it straight. It can come out anywhere, in any shape, and the only reason it hasn't is you've never asked." He paused. "Ask it for a hook."
 
@@ -112,11 +112,11 @@ Jonah looked at the fang.
 
 He didn't know how to ask. He'd asked it for plate, for stillness, for the names it now expected, and it had learned all of that. He'd never asked it to be something different.
 
-He thought, a hook. He thought of the bucket handle biting into his fingers, and what would take the handle instead of his hand. He held the thought out to the genius the way you'd hold out a bowl.
+He thought, a hook. He thought of the bucket handle biting into his fingers, and what would take the handle instead of his hand. He held the thought out to the lorica the way you'd hold out a bowl.
 
 The fang moved.
 
-It didn't go in and come out. It bent. He watched it on the back of his own wrist, curling slowly back toward the arm until it wasn't a point anymore. A hook, a hand long. It stopped, and held. The genius sat behind his heart with its flat total interest and looked at what it had made. He'd swear to this: it was pleased with itself.
+It didn't go in and come out. It bent. He watched it on the back of his own wrist, curling slowly back toward the arm until it wasn't a point anymore. A hook, a hand long. It stopped, and held. The lorica sat behind his heart with its flat total interest and looked at what it had made. He'd swear to this: it was pleased with itself.
 
 Jonah looked at the hook on his wrist and laughed.
 
@@ -158,7 +158,7 @@ He looked at Jonah.
 
 Jonah put his right hand flat on the steel, where the old man had touched it.
 
-He felt the lock. He hadn't known he could. The genius went out through his palm, reading, same as it had into Varro's arm. It found the steel: dead, nothing. Under the steel, a mechanism, pins and a bar. It went through the shape of it all at once, same as the transport in the rings, and knew where the furniture was.
+He felt the lock. He hadn't known he could. The lorica went out through his palm, reading, same as it had into Varro's arm. It found the steel: dead, nothing. Under the steel, a mechanism, pins and a bar. It went through the shape of it all at once, same as the transport in the rings, and knew where the furniture was.
 
 The fang came out of his palm.
 

@@ -80,13 +80,13 @@ On the third night Jonah stood at the back of the Cradle in the whole dark with 
 
 The rock had tapped that morning: TONIGHT. THE CRADLE. STAND AT THE BACK. DO NOT BRING A LIGHT. The steel door was two hundred paces down the road, with a foreman at the buckets and a guard at the cage. And he did not know the rock was old. He knew it tapped old. He did not know what tapped back.
 
-He stood with his hands open. The genius leaned toward the rock on his left, where the tapping had come from.
+He stood with his hands open. The lorica leaned toward the rock on his left, where the tapping had come from.
 
 The wall moved.
 
 Not the Vein. The rock. A piece the size of a door, low, where a man would have to stoop, slid back and to one side, silent. Behind it was a hole, and in the hole was a light.
 
-The genius came up all at once. He had not asked it. The fang was out of the back of his right wrist, crooked, before the light had cleared the hole. Then a hand came out of the dark and took his wrist.
+The lorica came up all at once. He had not asked it. The fang was out of the back of his right wrist, crooked, before the light had cleared the hole. Then a hand came out of the dark and took his wrist.
 
 It was fast. He never saw it move. Thin fingers closed on his forearm below the fang. They turned the wrist so the point went at the floor and held it there. The grip did not shake. He tried to turn it back and could not.
 

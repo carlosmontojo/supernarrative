@@ -2,7 +2,7 @@
 
 "Triginta unus," the Censor said, and the haft came out of the dark and took Jonah across the back of the knee.
 
-He went down on the rock of the Cradle for the thirty-first time. He lay there. The stick was a pick haft, ash, a metre long, worn pale where a hand had held it for years. In the first hour it had found his knee, his ribs, his ear, his mouth. He tasted blood. The genius had come up in the first minute, ready to put plate on every place the stick touched, and had been told no thirty-one times. It lay under his heart and did not understand any of it.
+He went down on the rock of the Cradle for the thirty-first time. He lay there. The stick was a pick haft, ash, a metre long, worn pale where a hand had held it for years. In the first hour it had found his knee, his ribs, his ear, his mouth. He tasted blood. The lorica had come up in the first minute, ready to put plate on every place the stick touched, and had been told no thirty-one times. It lay under his heart and did not understand any of it.
 
 "Get up."
 
@@ -102,7 +102,7 @@ And then, in the old tongue: "Your endings are a disgrace. Again."
 
 He was growing.
 
-Not from eating. The genius had not eaten since the mouthful, had not been let near the wall in front of a man, had not been given so much as a shard. It was eating him instead. Not his flesh; that came later, the old man said, when the hunger got past a certain mark. This was growth. The body used hard, three hours a night on the rock with a stick finding every place Varro had left in him. Every night after, the genius went through the body, reading the new bruises and the new torn muscle. It learned from what it found, and it got bigger.
+Not from eating. The lorica had not eaten since the mouthful, had not been let near the wall in front of a man, had not been given so much as a shard. It was eating him instead. Not his flesh; that came later, the old man said, when the hunger got past a certain mark. This was growth. The body used hard, three hours a night on the rock with a stick finding every place Varro had left in him. Every night after, the lorica went through the body, reading the new bruises and the new torn muscle. It learned from what it found, and it got bigger.
 
 The fever came every six or seven nights. He counted it down in the old tongue, on the road, with the buckets, and by the second month he did not need to sit.
 
@@ -210,11 +210,11 @@ He went back to the wall.
 
 ---
 
-He said the names that night on the road, with the buckets, before the Cradle. Sixteen now. The genius had come to expect them and did not wander. He got to the first one and stopped.
+He said the names that night on the road, with the buckets, before the Cradle. Sixteen now. The lorica had come to expect them and did not wander. He got to the first one and stopped.
 
 "Tom Vale."
 
-The genius listened.
+The lorica listened.
 
 "My father. Nine fingers. He sold something once for a winter's food and never told me. I know what it was now. He never knew. He sat in a chair with the door open." He kept his voice level. "He's in the wall now. Not this one. Anvil's. The melt. Somebody said his name, Hollen says. I don't know who. I'm going to find out."
 

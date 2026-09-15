@@ -156,7 +156,7 @@ He put his hand on Varro's arm.
 
 He hadn't meant to. He would tell the old man with the stick that, years later, and the old man would nod. He'd meant to argue with himself a while longer. But the hand went down on the stripe before the deciding was done, the same as it had gone into the box. The thing behind his heart went out through his palm and into the dead man's arm, and Jonah felt it begin to eat.
 
-It was not fast. It went into the stripe and found the lorica there, the cutting, the dog-brained loyal thing that had lived in Varro for fourteen years and put a blade in his hand on command. It had watched its man die and had nothing to do about it. Jonah's genius did not tear it. It took it apart. The pieces came up his arm one at a time. Each was a small dead want: a wish to stand, a wish to strike, a wish to be told what to do. Each came into him and was folded away, and the folding felt like being fed.
+It was not fast. It went into the stripe and found the lorica there, the cutting, the dog-brained loyal thing that had lived in Varro for fourteen years and put a blade in his hand on command. It had watched its man die and had nothing to do about it. Jonah's lorica did not tear it. It took it apart. The pieces came up his arm one at a time. Each was a small dead want: a wish to stand, a wish to strike, a wish to be told what to do. Each came into him and was folded away, and the folding felt like being fed.
 
 Something else came with it.
 
@@ -206,7 +206,7 @@ Jonah brought the barge in.
 
 The reading was a Blank with a grade you could count on one hand and a wand he waved at each of them in turn on the dock, bored. The wand was the small reading. It found a lorica on a man or it did not. The big reading was the glass, a slab of dark stone in the Flamens' house that gave a number, the gifts, and the colour of the plate. The College wrote all of it down and kept it for ever. A Collar coming off a barge got the wand. Nobody had ever been on the wrong side of a wand. Jonah stood in the line with Bram on one side and Hollis on the other and thought, very hard, about nothing.
 
-He hadn't known that would work. He'd thought about it for eleven hours. In the hold, when Varro said the word to the collar, the genius had gone still. It had gone still because it was listening. Maybe it could be asked to be still now. So he asked. Not with words. He held it, and it held. It was the strangest feeling he'd ever had: a second heart, held still inside the first.
+He hadn't known that would work. He'd thought about it for eleven hours. In the hold, when Varro said the word to the collar, the lorica had gone still. It had gone still because it was listening. Maybe it could be asked to be still now. So he asked. Not with words. He held it, and it held. It was the strangest feeling he'd ever had: a second heart, held still inside the first.
 
 "Service?" the Blank asked, not looking up from his slate, when the wand reached Jonah.
 

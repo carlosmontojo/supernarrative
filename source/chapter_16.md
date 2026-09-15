@@ -24,7 +24,7 @@ He put his hand flat.
 
 ---
 
-The genius had been leaning at the wall since he stepped up to it. It always did. Now his palm was on the warm dark and the old man was saying let it go, so he stopped holding it, and it went.
+The lorica had been leaning at the wall since he stepped up to it. It always did. Now his palm was on the warm dark and the old man was saying let it go, so he stopped holding it, and it went.
 
 Up through him, through the arm, reading as it went, past the ring in his forearm and the old cut, out toward the hand and the warmth and the door. He felt it reach his palm. He felt it reach the place where skin met Vein and start through, the way it had gone through the chisel. He thought, in the old tongue, because that was the tongue for slow things: stop.
 
@@ -54,13 +54,13 @@ Come. You are mine. You were taken. Come.
 
 Not to the piece in his hand. To every piece. It was saying it to the Shallows and the Deep and the casks going up the Throat. To every cutting in every Blank's arm on every moon of the Limes. To every Thinstripe's plate. To every ancestral genius in every Broadstripe house with a name and a shrine. Four hundred years of pieces cut off it and carried away. It had been calling all of them, every hour, and none of them could hear. The part that could hear had been cut out of them before they were given to a man.
 
-His was the first. The genius in his hand was the first piece in four hundred years that could hear its mother say come. It had heard. It had gone. It had turned around at the door because a man on the floor said Tom Vale.
+His was the first. The lorica in his hand was the first piece in four hundred years that could hear its mother say come. It had heard. It had gone. It had turned around at the door because a man on the floor said Tom Vale.
 
 He went to take his hand off the wall.
 
 It did not come.
 
-The Vein had his palm. Not the genius; the wall itself, warm, holding, the pull of the whole planetoid on one hand. His wrist bent. His arm went in to the elbow before he knew it was moving. The genius stood in the door and did not go, and the wall pulled at it through him, and his knees started to fold toward the rock.
+The Vein had his palm. Not the lorica; the wall itself, warm, holding, the pull of the whole planetoid on one hand. His wrist bent. His arm went in to the elbow before he knew it was moving. The lorica stood in the door and did not go, and the wall pulled at it through him, and his knees started to fold toward the rock.
 
 He set his feet and tore the hand free.
 
@@ -144,9 +144,25 @@ Jonah sat with his back against it and felt it breathe.
 
 ---
 
-The fever was longer than the others. He counted it down. When it was done and he could stand, something had gone over inside him, and it was not small. Not the lock; he knew the lock. A whole door. The genius settled into a coat a size larger than it had been an hour ago, and he could feel the edges of the size.
+The fever was longer than the others. He counted it down. When it was done and he could stand, something had gone over inside him, and it was not small. Not the lock; he knew the lock. A whole door. The lorica settled into a coat a size larger than it had been an hour ago, and he could feel the edges of the size.
 
-The old man looked at his face in the lamp. "Yes. That is what strain is when it is not a fight. You were nearer the wall tonight than on the nineteenth day, and you did not go, and it has learned from that. If I were a Flamen with a glass I would say you have walked out of the Tiro band and into the next. The ceiling you would have been fused at nine is a very long way below you." He turned to the tunnel. "It means nothing. It is a number. Come."
+The old man looked at his face in the lamp. "Yes. That is what strain is when it is not a fight. You were nearer the wall tonight than on the nineteenth day, and you did not go, and it has learned from that." He held the lamp up. "Give me the number."
+
+"Nineteen this morning."
+
+"And now?"
+
+Jonah felt for the edges of the size, the way he had been taught, and did not round it kindly. "Twenty."
+
+"Twenty." The old man said it without any weight at all, which was how Jonah knew it mattered. "Then say the rest of it."
+
+"Miles is ten to nineteen. Twenty is the next band."
+
+"Name it."
+
+"Principal."
+
+"Principal," the Censor said. "A rank a citizen's son spends four years and his father's money to be told he has reached. On the rolls you are a Blank fused at nine, which is the ceiling they put on you at seventeen with a rod, for life. You are eleven grades over your own ceiling and you got there in a hole with a stick." He turned to the tunnel. "Do not celebrate it. A Centurion starts at forty. The man who signed your collar is a Tribune. But write it down in your head tonight, because a man who does not know his own number is carrying a rifle he has never counted the rounds in. Come."
 
 The tunnel was the width of a stooping man and a hundred paces long, every hand's breadth of it cut with a chisel worn to half its length. He crawled through behind the lamp and did not think about the years in it. Thinking about it was a debt, and the old man had said not to carry one.
 
@@ -176,7 +192,27 @@ He stopped.
 
 He read to the sixteenth slab, the twentieth year, the fourth column. Four four seven one. His name, his moon, his yard. Beside those, smaller, his father's: all of it, nine fingers, south yards, believed in the ladder. He sat on the floor of a stone room with his back to a wall that was finding out what shape he was. He looked at his father's name in a dead man's language and said nothing for a long time.
 
-"Everyone is on these," the old man said. "Everyone who came down. I did not choose. That is what a count is." He stood beside Jonah and looked at the slab. "When I die, they are yours. All sixteen. You will not be able to carry them; they weigh what the wall weighs. You will carry them the way you carry the rest."
+"Everyone is on these," the old man said. "Everyone who came down. I did not choose. That is what a count is."
+
+"Can I ask something rude."
+
+"You have never once asked permission before. I would rather you did not start."
+
+"What's it for?" Jonah put his hand flat on the slab. "It's beautiful, and I mean that, and I'm going to say the next part anyway. Six hundred men are dead. Writing their names on a rock at the bottom of a hole nobody will ever come to doesn't make them less dead. You've spent twenty years on it. Twenty years, a chisel, and nobody's read a word of it but me, and I only got here by accident. So what's it for?"
+
+The old man did not take offence. He looked pleased, which was worse.
+
+"Good. Now I will tell you, and you will only understand half of it tonight." He tapped the slab once. "When the Empire puts a man in here, it takes his name off him and gives him a number, and when he dies it takes the number back. That is not carelessness. It is the point. A man with no name is not a man who was wronged. He is a loss on a ledger, and you cannot be tried for a loss on a ledger. Priscus signed a paper that killed four hundred men and has never once been in a room with a single one of them."
+
+"And a list changes that."
+
+"A list is the only thing that has ever changed that." The pale eyes did not move. "Everything men do to each other at scale is done by making the dead into a number first. Every time. Without exception. There is no crime in the history of the Empire that survived being counted out loud, one name at a time, by somebody who would not stop. That is why they cut the stripe out of my arm. I was going to read a list in the Senate."
+
+Jonah sat with that.
+
+"So it's a weapon."
+
+"It is the weapon. It is slower than a fang and it does not miss." The old man's mouth moved very slightly. "You will find the fang more satisfying. Most men do. But when you go up the Throat and stand in front of the four men on your own list, you will discover that the only thing you have that they cannot buy, break, or outlive is this. They will have money, houses, loricae and the law. You will have six hundred and forty-one names and the endings right." He stood beside Jonah and looked at the slab. "When I die, they are yours. All sixteen. You will not be able to carry them; they weigh what the wall weighs. You will carry them the way you carry the rest."
 
 "There's a great deal in there already."
 

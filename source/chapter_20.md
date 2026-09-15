@@ -24,11 +24,11 @@ Decimus looked at him a moment, then made the mark anyway. It went to the far bu
 
 That man carried buckets past the Cradle every night for a month and never once heard the rock.
 
-Jonah slept. That was what he did with the hours. He lay on the shelf with the lamp at the end that never went out and Pell above him, singing to the wall some nights and not others. He said the names, because the genius expected them, and something that expected didn't wander. Corr, and Auger, and the rest, out of order. He didn't say the first one. He slept.
+Jonah slept. That was what he did with the hours. He lay on the shelf with the lamp at the end that never went out and Pell above him, singing to the wall some nights and not others. He said the names, because the lorica expected them, and something that expected didn't wander. Corr, and Auger, and the rest, out of order. He didn't say the first one. He slept.
 
-The genius didn't like it.
+The lorica didn't like it.
 
-It had been fed at the face and grown five sizes. It had stood in a cut in full plate, unafraid. It expected a body with a stick coming at it most nights. Now the body lay on a shelf. Nobody hit it. It cut one shard, ate one bowl, and lay down. The genius went through him every night, looking for new bruises, new torn places, and found none.
+It had been fed at the face and grown five sizes. It had stood in a cut in full plate, unafraid. It expected a body with a stick coming at it most nights. Now the body lay on a shelf. Nobody hit it. It cut one shard, ate one bowl, and lay down. The lorica went through him every night, looking for new bruises, new torn places, and found none.
 
 So it ate the old ones.
 
@@ -72,7 +72,7 @@ The face was different. The Vein had closed over the bitten place, the way skin 
 
 "Doesn't come off. And it's warm. Warmer than the rest." He looked at the knot. "Like it's holding something."
 
-Jonah cut. It came off for him; it always would. He stood at the face and looked at the knot. The genius, hungry, smaller every day, leaned at it. That's the shape, he thought. That's where it found out. He didn't touch it, and didn't want to. That was new.
+Jonah cut. It came off for him; it always would. He stood at the face and looked at the knot. The lorica, hungry, smaller every day, leaned at it. That's the shape, he thought. That's where it found out. He didn't touch it, and didn't want to. That was new.
 
 Ulli was at the end of the gallery on his bucket. He'd carried forty-two men out of the Cradle now, Auger last. He sat with his eyes closed, singing under his breath, and opened them when Jonah's boots stopped in front of him.
 
@@ -96,7 +96,7 @@ He went on the forty-second night.
 
 He counted it. He'd stopped counting nights, and counted these, because they were something he'd done, not something done to him. He picked up the buckets the Deep man had left at the cage, glad to be rid of them, and walked down the road, past Ulli, who didn't open his eyes, and into the Cradle.
 
-He put the buckets down. He didn't tap. He stood at the back, where the rock met the Vein, and waited. The genius, which had leaned at every wall in the Pit and hadn't, for six weeks, leaned at this one, leaned.
+He put the buckets down. He didn't tap. He stood at the back, where the rock met the Vein, and waited. The lorica, which had leaned at every wall in the Pit and hadn't, for six weeks, leaned at this one, leaned.
 
 The rock opened.
 
@@ -170,6 +170,6 @@ He had a reply ready about a man who kept getting up for people who'd already de
 
 He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, out of order, same as he had them. Corr, Auger, Hollen. Bricks, Marcus, who never used it. Tallow, fifteen. The Deep man, whose name he didn't have, and said so. Decimus Alba, of Etruria, whom he'd put under a shelf.
 
-And at the end, standing in the dark with the genius fed on nothing but a stick, listening, he said the first one. Three words in the old tongue, tapped once on a wall by a man who hadn't said it in twenty years and had wanted it said. He said it with the endings right. He didn't say it easily, or soft. He didn't say anything after it.
+And at the end, standing in the dark with the lorica fed on nothing but a stick, listening, he said the first one. Three words in the old tongue, tapped once on a wall by a man who hadn't said it in twenty years and had wanted it said. He said it with the endings right. He didn't say it easily, or soft. He didn't say anything after it.
 
 It was on the list again, at the top, where it had been. It would stay there.

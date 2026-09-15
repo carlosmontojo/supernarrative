@@ -2,17 +2,21 @@
 
 "Fourth slab," the Censor said from the shelf. "Ninth column. Begin."
 
-Jonah began. Three fifty-seven. Marl. A field. Pell. Three fifty-seven. Anvil. The yards. A number and nothing. Three fifty-seven, three fifty-seven, three fifty-eight, a Halyard sailor, a ship, a name, a father, nine fingers, a boy, a boy, a number and nothing.
+Jonah looked at the slab and did not need to. That was the point of the year.
+
+The columns were laid out the same on all sixteen. The year a man came down the Throat, then his number, then whatever he had said in the Cradle before he went into the wall, if he had said anything at all. Most had not. Most of the sixteen slabs was numbers with nothing after them.
+
+"Three fifty-seven," Jonah said. "Two two nine. Marl, the east fields; brother called Pell. Three fifty-seven, four one six, Anvil, the yards, nothing after. Three fifty-seven, four one nine, nothing after. Three fifty-eight, one one two, Halyard sailor off the Kestrel—"
 
 "Wrong."
 
 "Where?"
 
-"Three fifty-eight. The Halyard sailor. His ship was the Kite, not the Kestrel. You are putting your own ship in a dead man's column. Again."
+"His ship was the Kite. You have put your own ship into a dead man's column, which is the mistake every man makes, and the only one I will not let you keep. Again."
 
-He said it again.
+He said it again, with the Kite in it.
 
-It took the rest of the year. Three hours a night on the floor of the Chamber now, not the Cradle. The sixteen slabs leaned against the rock. The old man sat on the shelf with the stick across his knees, coughing, and Jonah said the columns out of order and then in order.
+It took the rest of the year to learn all sixteen. Three hours a night on the floor of the Chamber now, not the Cradle. The old man sat on the shelf with the stick across his knees, coughing, and made him say the columns backwards, then out of order, then straight through.
 
 Six hundred and forty-one. That was the count by the autumn. Six hundred and forty-one men down the Throat in twenty-two years and into the wall. Four hundred of them with nothing beside the number. Two hundred and forty-one with a name. Eighty with a father or a field or a ship. One with a tree, which was Corr's. Corr had said once, in the Cradle, that there had been a tree in the north yards on Anvil he had climbed as a boy. The old man had written it, because a man who counts writes what is said.
 
@@ -48,7 +52,7 @@ The Master's seal he taught from the slab. He drew it on the sixteenth, in the m
 
 "It is four hundred years old. Drill it." Something that might have been amusement moved behind the old man's eyes and went nowhere else, because coughing took the rest of it.
 
-Jonah drilled it. Thirty times a night, the plate coming up on his palm in a shape that had opened a door in the City for four centuries. The genius learned it as it learned everything, interested. By the autumn it came before he had finished asking.
+Jonah drilled it. Thirty times a night, the plate coming up on his palm in a shape that had opened a door in the City for four centuries. The lorica learned it as it learned everything, interested. By the autumn it came before he had finished asking.
 
 Tremor went to a heart in the summer.
 
@@ -188,7 +192,7 @@ And then, from very far down, through the rock, through the plate, Jonah felt th
 
 Counted.
 
-He stayed until it was done. Then he went back through the tunnel and closed the slab behind him from the Chamber side. He put his hand on it and asked. The genius went into the rock, found where the slab met the wall, and did what it had done to the collar and the shackle. Quietly. The seam was rock and would stay rock. Nine years of tunnel, and nobody would find it. He took the chisel worn to half its length. He left the stick where it lay, across an empty shelf.
+He stayed until it was done. Then he went back through the tunnel and closed the slab behind him from the Chamber side. He put his hand on it and asked. The lorica went into the rock, found where the slab met the wall, and did what it had done to the collar and the shackle. Quietly. The seam was rock and would stay rock. Nine years of tunnel, and nobody would find it. He took the chisel worn to half its length. He left the stick where it lay, across an empty shelf.
 
 He wrote the name.
 
@@ -216,7 +220,7 @@ Ulli nodded slowly.
 
 Jonah walked down the road.
 
-He said the names. All of them, out of order and then in order, sixteen slabs, six hundred and forty-two, from the twentieth year to the first. When he came to the first slab, the first column, the first number, he said it. Three words in the old tongue, tapped once through a wall by a man who had wanted them said. The genius heard the old man's name go by at the top of the list, and expected it, and did not wander.
+He said the names. All of them, out of order and then in order, sixteen slabs, six hundred and forty-two, from the twentieth year to the first. When he came to the first slab, the first column, the first number, he said it. Three words in the old tongue, tapped once through a wall by a man who had wanted them said. The lorica heard the old man's name go by at the top of the list, and expected it, and did not wander.
 
 Jonah stood in the dark between two lamps and thought about the fourth thing.
 
@@ -224,7 +228,7 @@ He did not ask it. Not here. The old man had said, somewhere you can hear the an
 
 I know you're someone. I'm sorry I didn't ask.
 
-The genius listened. It always had.
+The lorica listened. It always had.
 
 And then, for the first time in five years, it did something that was not listening, not leaning, not hunger, not interest. It turned, as it had turned in the Cradle when he said Tom Vale, and it looked at him.
 

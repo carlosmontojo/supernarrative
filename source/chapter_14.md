@@ -144,9 +144,9 @@ Pell had not moved. He stood at the wall with the chisel in both hands and a lin
 
 "They'll count him."
 
-"Yes." Jonah crouched and put his hand on Vetch's arm, on the line. The genius had come up in the first second and had not been told no this time. It went down through his palm into the boy's arm and found the cutting there.
+"Yes." Jonah crouched and put his hand on Vetch's arm, on the line. The lorica had come up in the first second and had not been told no this time. It went down through his palm into the boy's arm and found the cutting there.
 
-It was small. Grey, thin, stupid. Two years in Vetch. It had watched its man die with a chisel in his neck and it did not understand. It went into Jonah in pieces, hold, strike, obey, faster than Varro's, because there was so much less of it and because the genius had learned in the hold how to take a thing apart without tasting every piece. Twenty counts. Jonah felt it go down and be folded, and felt the coat get bigger by a size he could almost name. The fever started, warm, from the middle. He did not count it.
+It was small. Grey, thin, stupid. Two years in Vetch. It had watched its man die with a chisel in his neck and it did not understand. It went into Jonah in pieces, hold, strike, obey, faster than Varro's, because there was so much less of it and because the lorica had learned in the hold how to take a thing apart without tasting every piece. Twenty counts. Jonah felt it go down and be folded, and felt the coat get bigger by a size he could almost name. The fever started, warm, from the middle. He did not count it.
 
 Something came with it. It always did. A way of standing with the weight forward. A way of holding a lamp in the left hand so the right was free. And under those, faint, the feeling of walking into a chamber with a fang out and two men in it and being, for the first time in your life, what the room was afraid of.
 
@@ -168,7 +168,7 @@ Pell looked at the cut place. The size of a table, wet, moving, where decury six
 
 "He's meat, Pell. The wall doesn't know what a coat is."
 
-They carried him. He was not heavy. Jonah put the boy's arm against the cut place, the arm with the line, the way he had once put his own hand in a box. The wall was warm, and it did what it did. Not fast. Not the mouthful; that had been the genius, hungry, taking. This was the wall, kind, wanting. It took Vetch the way it took the sick in the Cradle, from the arm in. Jonah watched with Pell beside him and did not look away. You do not look away from a thing you have done, the old man had said. That is the whole of what separates you from a Stripe.
+They carried him. He was not heavy. Jonah put the boy's arm against the cut place, the arm with the line, the way he had once put his own hand in a box. The wall was warm, and it did what it did. Not fast. Not the mouthful; that had been the lorica, hungry, taking. This was the wall, kind, wanting. It took Vetch the way it took the sick in the Cradle, from the arm in. Jonah watched with Pell beside him and did not look away. You do not look away from a thing you have done, the old man had said. That is the whole of what separates you from a Stripe.
 
 By the second bell there was a grey coat on the rock, a lamp, a chisel, and nothing else.
 
@@ -198,7 +198,7 @@ Jonah had never seen him. Everybody in the Pit had heard the name and nobody in 
 
 He came down the road with four guards behind him and did not hurry.
 
-He was not big. Jonah had built him big, from the name. He was a man of middle height with a narrow face and grey at the temples and a coat that fitted. The stripe on his forearm was narrow and old, the purple gone almost brown. Above it and below it, where a stripe was not, were two thin white lines. Scars. Jonah looked at them and did not know what they were. The genius looked at them and went very still.
+He was not big. Jonah had built him big, from the name. He was a man of middle height with a narrow face and grey at the temples and a coat that fitted. The stripe on his forearm was narrow and old, the purple gone almost brown. Above it and below it, where a stripe was not, were two thin white lines. Scars. Jonah looked at them and did not know what they were. The lorica looked at them and went very still.
 
 Sabinus walked the road and looked at every man on it. Not the way Auger looked, or Decimus, or the Flamen with the glass. He looked with an opinion already formed about where the weight was, and the opinion was that none of it mattered. He was bored. He had been sent down a road to look at sixty Collars for a missing Blank, and he had done it before, and it was beneath him.
 
@@ -210,7 +210,7 @@ He stopped at decury six. He looked at Bricks's hand. He looked at Hollen's back
 
 What he did not say to Sabinus was the only true sentence in the chamber: the guard he wanted was already in the wall, and Jonah had put him there. What he let Sabinus see instead was a dying Collar, shaking on cue.
 
-Sabinus looked at Jonah's face. Jonah let it shake. He let the fever from the night show, which was not hard, and let his eyes go to the floor as Pell's had. He held the genius as still as he had ever held anything. Sabinus looked at a dying Collar with a white line on his arm and found nothing in it that was not beneath him.
+Sabinus looked at Jonah's face. Jonah let it shake. He let the fever from the night show, which was not hard, and let his eyes go to the floor as Pell's had. He held the lorica as still as he had ever held anything. Sabinus looked at a dying Collar with a white line on his arm and found nothing in it that was not beneath him.
 
 "He'll be in the Cradle by summer," Sabinus said. "Waste of a count."
 
@@ -324,6 +324,6 @@ Corr came off the post. He walked back down the road past sixty men and sat down
 
 "Just so it's said."
 
-Jonah sat beside him with the strap's weight still in his hand and last night's fever still in his teeth. The genius lay behind his heart, fed, folded, a young guard's way of holding a lamp put away where it could not look through his eyes. That was the other thing. That was the second thing they would recognise. He had made it.
+Jonah sat beside him with the strap's weight still in his hand and last night's fever still in his teeth. The lorica lay behind his heart, fed, folded, a young guard's way of holding a lamp put away where it could not look through his eyes. That was the other thing. That was the second thing they would recognise. He had made it.
 
 Auger, at the edge of the light, unfolded his arms and looked at him for a long moment. He folded them again and said nothing. The lamp at the end of the road did not go out.

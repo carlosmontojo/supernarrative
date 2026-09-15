@@ -66,7 +66,7 @@ He thought, in the old tongue: here.
 
 The fang came out of his palm.
 
-Not thin, as it had for the lock. A hand's length of dark glass, straight, out of the middle of his hand, and his hand was already flat on an old man's chest. It stopped a finger from the rag of the robe. The genius had learned in four years exactly what a finger was. The Censor looked down at it. He did not step back.
+Not thin, as it had for the lock. A hand's length of dark glass, straight, out of the middle of his hand, and his hand was already flat on an old man's chest. It stopped a finger from the rag of the robe. The lorica had learned in four years exactly what a finger was. The Censor looked down at it. He did not step back.
 
 "Yes. That."
 

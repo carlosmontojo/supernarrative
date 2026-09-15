@@ -50,13 +50,13 @@ Jonah sat with his hands on his knees and did not answer.
 
 He was looking at the plate.
 
-He sat three paces from a man of forty-five with a line on his arm and a Tiro cutting fused at seven, never once drilled past. Pale grey plate on the forearms, so old the man did not notice it. The genius looked at that plate and had an opinion. The opinion was that it was nothing. A chisel through the hip seam, same as Vetch, a count of twenty, folded away. The stool empty. Rennick would carry fifteen up the Throat and nobody the wiser, because Decimus had sat down on a post that was not his. Old guards went into the Deep and touched the wall. Decimus had said so himself.
+He sat three paces from a man of forty-five with a line on his arm and a Tiro cutting fused at seven, never once drilled past. Pale grey plate on the forearms, so old the man did not notice it. The lorica looked at that plate and had an opinion. The opinion was that it was nothing. A chisel through the hip seam, same as Vetch, a count of twenty, folded away. The stool empty. Rennick would carry fifteen up the Throat and nobody the wiser, because Decimus had sat down on a post that was not his. Old guards went into the Deep and touched the wall. Decimus had said so himself.
 
 He saw it all at once. The way he saw debris.
 
 His right hand came up off his knee.
 
-He had not lifted it. It went toward the chisel at his belt, and the genius went with it, hungry, leaning across three paces of rock at a cutting nobody would count. The two echoes in him, the decurion and the boy, had one opinion about guards on stools. Jonah put the hand down flat on the rock and held it there. He thought, in the old tongue, stop, as he had held the door of the wall in the Cradle.
+He had not lifted it. It went toward the chisel at his belt, and the lorica went with it, hungry, leaning across three paces of rock at a cutting nobody would count. The two echoes in him, the decurion and the boy, had one opinion about guards on stools. Jonah put the hand down flat on the rock and held it there. He thought, in the old tongue, stop, as he had held the door of the wall in the Cradle.
 
 It stopped. His hand stayed on the rock. He let the old man talk.
 
@@ -162,7 +162,7 @@ The Censor stood with the stick on his shoulder a moment.
 
 The stick came out of the dark before he had finished standing. It took him across the left forearm, hard, and he went down on the rock and got up. The second came for the knee. He stepped, late and ugly, and it caught his hip instead of the joint. The third he took on the back of the hand. The plate came up to meet it, and the old man grunted, and hit him again.
 
-He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, in the order he had them, out of order. At the end he said the new one. The genius, which an hour ago had wanted a guard's cutting off him through the hip seam in a count of twenty, listened to the name of the man on the stool. It added it to the names it expected, and did not wander.
+He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, in the order he had them, out of order. At the end he said the new one. The lorica, which an hour ago had wanted a guard's cutting off him through the hip seam in a count of twenty, listened to the name of the man on the stool. It added it to the names it expected, and did not wander.
 
 "Decimus Alba. Of Etruria. Sula's father. Two winters," Jonah said, to the dark.
 

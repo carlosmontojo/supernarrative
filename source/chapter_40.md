@@ -38,53 +38,39 @@ That was a year off, and he did not know it yet. He stood in the Heron's hold wi
 
 ---
 
-He said them from the top, the way Decimus had read the Deep, in the voice for things that were not personal, except that every one of them was.
+He said them from the top, the way Decimus had read the Deep: flat, in the voice for things that were not personal, except that every one of them was.
 
-"Tacitus," he said.
+"Tacitus," he said, because that was the top and had been since the Mouth.
 
 It listened.
 
-"Aulus Terentius Pharus. Censor. Master of the Flamens. Read every page, drew the Pit, could not draw a way out of it. Taught a Collar on a rock with a stick for five years, and beat him. Laughed once, coughed blood, said the name of a house so it had been said. Wanted to save the Empire. Got me instead, and knew it. It's on the slab in my hand."
+Most of it was a number and a line, because a number and a line was all anybody had ever got. Three fifty-seven, four one nine, nothing after. He walked through those the way you walk a road you know in the dark, six hundred and eighty of them, and did not stumble and did not hurry.
 
-"Tom Vale. Anvil. Morrow's yard. Nine fingers. South yards. Believed in the ladder. Sold a set of numbers for a winter's food and knew, and never told me. Was happy the night I answered in Latin. Sat in a chair with the door open. Paid by the yard, the melt says. Paid by the man who wrote the letter, out of his own purse, because a good man made him. Mara said his name at the fire where you don't."
+Then the ones that were his, and those he said slowly.
 
-"Captain Ochoa. The Kestrel. Said nothing, the highest thing. Carried a seal for a senator, died on a decurion's fang over the fish course. Said Vibius with the last of it. Morrow said his name right, once, at the melt, and didn't look at me," Jonah said.
+"Aulus Terentius Pharus. Censor. Master of the Flamens. Read every page in the Empire, drew this Pit, and could not draw a way out of it. Taught a Collar with a stick for five years and lost to him once at the end, and never would say whether he'd meant to. Wanted to save the Empire. Got me instead, and knew it."
 
-"Decurion Varro. The Vigilant. Killed a man without breaking conversation. The first. His feet are in my legs and his contempt is not, anymore, and that took the old man a year," Jonah said.
+"Tom Vale. Anvil. Morrow's yard. Nine fingers. Believed in the ladder right to the end of it. Sold a set of numbers for a winter's food and knew what he'd done and never told me. Was happy one night because his son answered him in Latin."
 
-He said the road. Corr, north yards, four years, said a month, a tree. Bricks. Hollen. Aulus of Marl. Tallow, fifteen. Marcus, who never used it. The Deep man written as unknown. Auger, who said his name to Ulli and made a Centurion hurry with a second chisel. Vetch, a guard, not written before, and was now. Sorrel. The boy from the last transport whose name he did not know, and said so.
+"Ullan of Marl. Two l's; they always get it wrong. Nine years in a two-year Deep. Carried forty-four men out of the Cradle on his own back. Chose his own day, which nobody else on that rock ever got to do, and stopped singing on the fourth verse with me on one side of him and Pell on the other."
 
-"Ullan of Marl. The east fields. Two l's; they always get it wrong. Nine years in a two-year Deep because he sang, and the wall listened and never finished. Carried forty-three. Forty-four. Chose the day. Sat down with his back to it on the eighteenth and stopped singing on the fourth verse of the fallow song, Pell on one side and me on the other. It was his. There was something he did on Marl, and it was his, and he kept it. He asked me, once, to take one. I took it."
+"Decimus Alba. Of Etruria. Sula's father." He said that one slower than the rest. "Said my number for seven years and said please, and was the only one who ever did. Signed for five more years so a tree wouldn't die. Came down the road with his rifle pointed at the floor, to say the number first, and got as far as taking the breath for it." He stopped. "That one isn't on him. He said write it right. This is me writing it right."
 
-"Decimus Alba. Of Etruria. Sula's father." He said that first, as he'd been told to. "Then the rest. Guard on the Kestrel. Guard on the Throat. Said my number seven years and said please, the only one who did. It was never personal, and I never once believed him. Signed for five more so a tree wouldn't die. Wrote me into the wall in the morning, so the road would say so, whichever way the night went. Came down slow, rifle down, to say the number first, and got as far as the breath. It's not on him. It's on me. He said write it right. This is right."
+Then the four, which he had said every night for six years and never once standing up, off the rock, going where they were.
 
-He said Gnaeus Sabinus, client of the Princeps' house, who said oh. The two boys at the road's end who did not run, their bands a week old. Pollio, who frowned and wrote it down and was right. Rennick, who wrote them light. Harrow, in, with less, and a girl on Marl named Ada, her message on a Halyard ship going the wrong way with a sister who owes Pike. Pell, north forty, never made quota, who sang the last verse to the wall with his chin up so it would know he was there. Tullus, who counted casks, not the men who packed them, and was a decent man; he'd be a prefect with a letter beside his name. He did not know yet what he would do about Tullus, and said so.
+Gaspar Roake, who did nothing, and said you've got his hands, and had a bottle. Corin Aldane, Collar to Thinstripe in four years, who had a boy of three and had called him friend on the first sand and meant it then. Silas Marchand, purser, precise, a bank with a man round it.
 
-He said Kaspar, half a cutting, one word of the old tongue. Dace, and the boy who said what.
+And Marcus Vibius Priscus, said plainly and in order, the way the old man had taught him to name a man he was going to lie to. At the end of that one he stopped, because there was a thing that belonged in the entry and he did not say it. Tacitus put the heart where it kept things, under the name it had just heard him not say, and did not say it either.
 
-"Bram. A liar, everybody says. Knew me from six, looked into a hood from a hand's width, shut his mouth and said, bloody Halyards. Carried Corin home once. Said my father's name in the road to two boys with fangs."
+"Mara Ansel," he said. "Not dead. Written down anyway. I've stopped assuming I'll get a second chance to say a thing out loud."
 
-"Ezra Morrow. Blank. Paid Collars like citizens and was poor. Made a purser pay for a fire to his face in a clean office, put it on his ledger as a gift to the yard, the only line he's not ashamed of. Told Mara I was alive. Has a daughter with a face that says what something is, out loud, in a room. Has a yard, for a while longer."
+Then his own.
 
-He said Gaspar Roake: what he did, which was nothing; what he said, which was you've got his hands; what he had, a bottle, and not much.
-
-He said Corin Aldane: the stripe, the quota, the word friend. A boy of three, and the face from the first sand.
-
-He said Silas Marchand: purser, precise, a bank.
-
-He said Marcus Vibius Priscus, with what he had done, plainly and in order, as the old man said to name a man you're going to lie to. At the end of it he stopped, and did not say the other thing. Tacitus put the heart where it kept it, under the name it had heard him not say, and did not say it either.
-
-He said Mara Ansel. He said the Halcyon.
-
-He said the six hundred and forty-two from the slabs, every one, as he had said them at the bottom of a well without a mouth.
-
-Then he said his own.
-
-"Jonah Vale. Anvil. Morrow's yard. Purser's pilot. Citizen for a week. Four four seven one. Went into the wall on the nineteenth night of the harvest, in a guard's hand. Died in the Throat five years before that, in a quaestor's. That's in the book, a name like the rest of them, and it stays, because names stay." He put his hand flat on the open cask. "And the one who carries it is called something else now. Not in the book; not a name, a stripe. The old man said a stripe is something you wear, and a name is something you are. I've got both, and I know which is which."
+"Jonah Vale. Anvil. Morrow's yard. Purser's pilot. Citizen for a week. Four four seven one. Went into the wall on the nineteenth night of the harvest, in a guard's hand." He put his hand flat on the open cask. "That's in the book, a name like the rest of them, and it stays, because names stay. The one carrying it is called something else now. Not a name. A stripe. The old man said a stripe is what you wear and a name is what you are. I've got one of each and I know which is which."
 
 He stopped.
 
-"That's the count," he said. "It starts with you and it ends with me and there's room. There's always room. It's the only thing about a count that's kind," Jonah said.
+"That's the count," he said. "It starts with you and it ends with me and there's still room. There's always room. It's the only kind thing about a count."
 
 ---
 

@@ -6,7 +6,7 @@ The second was the muscle in his left forearm, above the ring. He noticed that. 
 
 Third year. He knew it by the count now, not the seasons. Twelve stood, by weight, and Rennick carried fifteen. The Deep gave slabs; the Shallows gave what it gave. Decury six had a foreman who'd chosen Corr four times, Hollen three, Bricks once, for the one-handed count. He'd chosen himself twice, when the arithmetic said so, and stood at the post with the road watching while ten came down on Bricks's good hand without a sound. The old man had said: that's not the count, that's you wanting to be seen paying. Don't do it again. He hadn't.
 
-And the genius hadn't eaten since Vetch.
+And the lorica hadn't eaten since Vetch.
 
 It had grown anyway. On the haul, the stick, the wall. On the door of the Vein held open in the Cradle an hour every third night. Twenty on the glass, by the old man's guess, hungry with a size that had been going the wrong way for a season.
 
@@ -66,7 +66,7 @@ He put it away.
 
 The Deep was not the Shallows with more dark. He'd known that from the haul and the road and the Cradle. Standing at the face was another thing.
 
-The slab galleries went off the Deep road, same as the seventh chamber went off the Shallows, but they didn't open out. They went in for two hundred paces, then down. At the bottom the Vein was not a wall. It was everything: floor, roof, both sides, breathing, warm, pale lines running through it all at once. The deep-diggers stood inside the cut and took it off in slabs. Jonah stood at the bottom on the first day with a chisel in his hands and the genius moving through him. This is what Ulli carries the sick out of, he thought.
+The slab galleries went off the Deep road, same as the seventh chamber went off the Shallows, but they didn't open out. They went in for two hundred paces, then down. At the bottom the Vein was not a wall. It was everything: floor, roof, both sides, breathing, warm, pale lines running through it all at once. The deep-diggers stood inside the cut and took it off in slabs. Jonah stood at the bottom on the first day with a chisel in his hands and the lorica moving through him. This is what Ulli carries the sick out of, he thought.
 
 "Cut," said the deep foreman. Harrow. Fair and afraid, Ulli had called him. "Slab's a hand deep, two hands wide, long as your arm. Score it, three sides, then in under, and it comes. Don't touch it with the skin. Gloves."
 
@@ -108,17 +108,17 @@ He did it on the fourth night.
 
 Harrow went up at the second bell, same as always. The deep decury sat down in the cut with their backs to the warm, gloves off, and ate. Jonah sat with them, then got up and walked to the far end, where the lamp didn't reach. He took his glove off and put his hand on the Vein.
 
-He'd thought about how. Not with arithmetic, same as he'd thought about Vetch. Same as he'd thought about the hook. Three nights on the deep shelf, the genius turned toward the face, he'd held the thought out to it, same as he held out the names: not all of it. A mouthful. Same as he'd taken it in the Cradle. Then back. It had listened, flat and total, same as it always listened. All right, he'd thought. It expects the names. It'll expect this.
+He'd thought about how. Not with arithmetic, same as he'd thought about Vetch. Same as he'd thought about the hook. Three nights on the deep shelf, the lorica turned toward the face, he'd held the thought out to it, same as he held out the names: not all of it. A mouthful. Same as he'd taken it in the Cradle. Then back. It had listened, flat and total, same as it always listened. All right, he'd thought. It expects the names. It'll expect this.
 
-He put his hand flat. The wall was warm; it had always been warm. The genius, which had leaned at it three years, went. He didn't stop it in the doorway this time. He said, in the old tongue, because that was the tongue for slow things: eat.
+He put his hand flat. The wall was warm; it had always been warm. The lorica, which had leaned at it three years, went. He didn't stop it in the doorway this time. He said, in the old tongue, because that was the tongue for slow things: eat.
 
 It ate.
 
-Not as it had in the Cradle, going home and biting on his way out. This was told it could. It went through his palm, same as it had gone into Varro's arm, reading, hungry. The Vein said come, same as it always did. The genius said no, and ate.
+Not as it had in the Cradle, going home and biting on his way out. This was told it could. It went through his palm, same as it had gone into Varro's arm, reading, hungry. The Vein said come, same as it always did. The lorica said no, and ate.
 
 He felt it take. He felt the Vein feel it, felt something the size of the planetoid turn, all of it, toward a place on its own skin where a piece of itself stood with its mouth open. It didn't stop him. It didn't know how. It didn't want to, either. It was finding out what shape he was, and this was a shape.
 
-The coat got bigger. Not a size he could almost name. A size. He felt it go over inside him, whole, and then another. He stood at the bottom of the Deep with his hand flat on the wall that had made the Empire and felt his genius eat its mother on purpose. It was, he'd tell the woman with the broad stripe years later, because she'd ask and because he didn't lie to her, the best thing he'd ever felt.
+The coat got bigger. Not a size he could almost name. A size. He felt it go over inside him, whole, and then another. He stood at the bottom of the Deep with his hand flat on the wall that had made the Empire and felt his lorica eat its mother on purpose. It was, he'd tell the woman with the broad stripe years later, because she'd ask and because he didn't lie to her, the best thing he'd ever felt.
 
 Not the growing. The eating. He'd been hungry three years with a size going the wrong way. Now it went the right way, fast. Every piece that came through his palm was folded away, and the folding was fed. Being fed was a feeling he'd forgotten existed, after three years on one bowl a day and a stick.
 
@@ -126,11 +126,11 @@ Enough, he thought.
 
 It didn't stop.
 
-He thought it again, in the old tongue. Enough. Stop. The genius, which had stood in a doorway for stop a hundred times, which expected the names, which had made a hook because he asked, heard him and kept eating. It had just learned the size could be filled, and that he'd let it. The old man had said it wouldn't stop asking. It wasn't asking.
+He thought it again, in the old tongue. Enough. Stop. The lorica, which had stood in a doorway for stop a hundred times, which expected the names, which had made a hook because he asked, heard him and kept eating. It had just learned the size could be filled, and that he'd let it. The old man had said it wouldn't stop asking. It wasn't asking.
 
 He took his hand off the wall.
 
-It took everything he had. Not the eating; the taking off. His hand was on the Vein and the genius was in the Vein, and pulling it away was pulling a hand out of a hull breach with the vacuum on the other side. He did it. He stood in the dark with his hand against his chest, his heart going, the coat gone big by four sizes, five, more than Vetch and Varro together, and the fever coming up through him from the middle like nothing he'd ever counted.
+It took everything he had. Not the eating; the taking off. His hand was on the Vein and the lorica was in the Vein, and pulling it away was pulling a hand out of a hull breach with the vacuum on the other side. He did it. He stood in the dark with his hand against his chest, his heart going, the coat gone big by four sizes, five, more than Vetch and Varro together, and the fever coming up through him from the middle like nothing he'd ever counted.
 
 He got as far as the lamp before it took him.
 
@@ -144,7 +144,7 @@ Not Ulli.
 
 He knew that much. A deep-digger, thin, gone-faced, whom Jonah had cut beside four days and never spoken to, because the man didn't speak. Ulli sang to keep the wall out. This man sang under his breath because the wall was already in. He'd been carried out of the Cradle once, the only man Ulli had ever carried out who wasn't dead, and sent back to the face because Harrow was afraid and the Deep needed hands. A year at it, singing, with the Vein half in him.
 
-And the Vein was singing now. Jonah could hear it through the fever, same as he'd heard it in the Cradle with the old man's hand on his chest. Come. It was saying it to the genius, which had just eaten five sizes of it, and it was loud, louder than it had ever been, because it had just been bitten and turned all of itself toward the biting. The thin man stood in the loudest place in the Pit with the wall half in him, and the wall said come, and he was doing what it said.
+And the Vein was singing now. Jonah could hear it through the fever, same as he'd heard it in the Cradle with the old man's hand on his chest. Come. It was saying it to the lorica, which had just eaten five sizes of it, and it was loud, louder than it had ever been, because it had just been bitten and turned all of itself toward the biting. The thin man stood in the loudest place in the Pit with the wall half in him, and the wall said come, and he was doing what it said.
 
 The chisel came down.
 
@@ -154,7 +154,7 @@ All of it. Not a hand, not a hook, not a thin thing from the palm. It came out e
 
 There was no seam to find; the man had no plate. It went in under the ribs. The digger sat down on the floor with the chisel still in his hands, mouth open, and the song stopped, and Jonah stood up.
 
-He stood in full plate at the bottom of the Deep, the wall singing, a man dying at his feet, the fever in every part of him. The genius looked out through his eyes at what it had done, and he looked with it.
+He stood in full plate at the bottom of the Deep, the wall singing, a man dying at his feet, the fever in every part of him. The lorica looked out through his eyes at what it had done, and he looked with it.
 
 And it was good.
 
