@@ -18,7 +18,7 @@ Jonah looked at him.
 
 "It nearly took me. Through a chisel. You were on the other side of the rock," Jonah said.
 
-"You were nineteen days into something you did not understand, with a lorica that had never once had a straight reading off you. It is eighteen months now. You have said the names five hundred times. It knows exactly what you are. That is the only reason this is worth trying." The pale eyes did not move. "If I am wrong you go into the wall. I will tap to you until you do. I will have been wrong about one more thing, and at my age that is no great burden. Flat."
+"You were nineteen days old in it then, and you fought it, and it nearly killed you both. It is eighteen months now and you have not fought it once since. That is the only reason this is worth trying." The pale eyes did not move. "If I am wrong you go into the wall. I will tap to you until you do. I will have been wrong about one more thing, and at my age that is no great burden. Flat."
 
 He put his hand flat.
 

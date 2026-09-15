@@ -100,69 +100,35 @@ It did. Since the Cradle it had rested, and rest had made it stronger. At night 
 
 "I don't. I push it down. Holding breath."
 
-"*That is why it comes out. You cannot hold breath for six years, and it is not trying to escape. It is checking. It comes up to read you, the way it read you in the Cradle. It finds a man clamped shut and pushing, and a man like that is about to do something, so it gets ready. Then nothing happens, and it stays ready, and it goes on staying ready until it is out on your face at the wrong moment and a guard sees it.*"
+"*Then it will come out on your face in front of a guard inside a month, and that will be the end of you and of me.*" A pause. "*You cannot hold breath for six years. What did you do in the Cradle.*"
 
-"So what do I do, let it out?"
-
-"*You tell it what you are. Then it has nothing to check.*"
-
-"And how do I tell it anything? You said it can't hear me."
-
-"*It cannot. What did you do in the Cradle.*"
-
-"Said names."
+"Let go of it."
 
 "*Do that.*"
 
-Nothing more. The rock said its piece and stopped, and left him to work out the rest on the road with the buckets.
+He waited for the rest. There was no rest. The rock said its piece and stopped, and left him to work it out on the road with the buckets, which he did, slowly, over about four nights.
 
-He found it that night on the shelf. The plate was trying to come out on the backs of his hands. He did not push. He lay still and said, into the blanket, "Tom Vale."
+It came out at night because he spent all day clamped shut. That was all. A man holding his breath from the first bell to the last is a man about to do something, and the thing under his ribs had been reading him for a month and got ready every time, and then nothing happened, and it stayed ready. By the dark it had been ready for fourteen hours and had nowhere to put it.
 
-The plate stopped.
+So on the fifth night he lay on the shelf with the plate coming up on the backs of his hands, and did not push.
 
-"Mara Ansel. Ochoa. Pell."
+He let it come. All the way out, both hands, dark glass to the wrist, in the dark where nobody could see. He lay there with his heart going and let the worst thing on the road sit on his own hands for the length of a hundred breaths.
 
-"What," Pell said, from the shelf above.
+Nothing happened.
 
-"Nothing. Go to sleep."
+It sat there. Then, when nothing went on happening, it got bored and went back in on its own.
 
-"You said my name."
+"You all right?" Pell said, from the shelf above.
 
-"I say it every night. You're fourth."
+"Yeah."
 
-The old farmer was quiet a moment. "Fourth after who?"
+"You were breathing like a man on a ladder."
 
-"My father. A woman. My captain."
+"I was thinking about a ladder," Jonah said.
 
-"Huh," Pell said. He turned over. "Say the rest, then. I'm listening."
+Pell grunted and turned over, and Jonah lay in the dark with his hands shaking and understood that he had just been given the whole of it in four words by a man behind a steel door. Don't fight it. It isn't your enemy and it never was. It's a dog that has never once been let off the rope, and a dog like that goes mad on a rope.
 
-Jonah said the rest, all twelve, quietly, to the end.
-
-"You'll run out of nights before you run out of names," Pell said, from above.
-
-"I'm counting on it," Jonah said.
-
-The plate went in. Not because he had pushed.
-
-He lay there afterward and worked out why, because he wanted it to be a thing he could do again and not a thing that had happened to him. It was this. Saying the names took him from a man clamped shut to a man who knew exactly what he was for, and it did it in about two minutes, and it did it every time. The lorica came up to read him, got a straight answer, and went back down.
-
-That was the whole of it. It was not a spell and there was nothing kind about it. It was closer to what his father did with a bad weld, which was stop guessing and go and look.
-
-By the last name it was asleep, if it slept, and so was Pell.
-
-"*How many,*" the rock tapped, the next night.
-
-"Twelve."
-
-"*Twelve. Say them every night. Add one when you get one, and never take one off.*"
-
-"Why every night? It worked."
-
-"*Because you change, and it reads you every night, and on the night the two do not match you will find out what that costs.*" A pause. "*A man who knows what he is can be read all day and it comes out the same. A man who is lying to himself comes out different every hour, and a lorica in a man like that cannot hold a shape. It is not a punishment. It is a hull with a crack in it. You cannot pressurise it.*"
-
-"That sounds like something you've watched happen."
-
-"*Nine times.*"
+He did it every night after. By the end of the week it was coming out and going in like something breathing, and it had stopped ambushing him at midday.
 
 "What are you, that you know that?"
 
@@ -290,13 +256,13 @@ The rock said nothing for a long time. Long enough that he thought it had gone, 
 
 "That's not an answer."
 
-"*It is the only one there is.*" A pause. When the taps came again they were slower, and he knew the rock well enough now to hear that the slowness was not tiredness. "*I have been behind this door twenty years. I have heard every man they laid in that Cradle go into the wall. I have tapped to some. None heard. The wall had them before they could listen. And then a cut one lay down in it and started saying names. He said mine.*"
+"*It is the only one there is.*" A pause. When the taps came again they were slower, and he knew the rock well enough now to hear that the slowness was not tiredness. "*I have been behind this door twenty years. I have tapped to every man they laid in that Cradle. Not one has ever tapped back. They cannot hear it; the wall has them before they can listen. Then a cut one came down, and heard me, and answered in a code he learned in a shipyard at nine years old.*" A pause. "*And before he answered, while he was dying, he talked. Men do. He said a great deal and most of it was to nobody. I listened to all of it, because I have nothing else to listen to. He said a name I know.*"
 
 Jonah stood very still.
 
 "I didn't say your name. I don't know it."
 
-"*You said Vibius.*"
+"*Not mine. You said Vibius.*"
 
 The Vein breathed. The road was empty. Far up the shaft a bell rang for the change of shift and he did not hear it.
 

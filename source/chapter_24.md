@@ -76,7 +76,7 @@ The lock did what locks do. He went out onto the road.
 
 ---
 
-He said it there too, that night, in the dark between two lamps. All of them: six hundred and forty-two, and one at the top, three words. It heard its name said on the road, where the old man had wanted, and it would expect that every night after. It would not wander again. It had somewhere to be.
+He said it again that night on the road, in the dark between two lamps, once, because he wanted it said somewhere ordinary as well as somewhere holy. Then he picked up the buckets and went to the count, and felt faintly ridiculous, and did not care.
 
 Decimus was at the cage.
 

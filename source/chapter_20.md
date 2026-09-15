@@ -24,7 +24,7 @@ Decimus looked at him a moment, then made the mark anyway. It went to the far bu
 
 That man carried buckets past the Cradle every night for a month and never once heard the rock.
 
-Jonah slept. That was what he did with the hours. He lay on the shelf with the lamp at the end that never went out and Pell above him, singing to the wall some nights and not others. He said the names, because it was the one thing that still made him legible to the thing under his ribs, and a legible man keeps his plate. Corr, and Auger, and the rest, out of order. He didn't say the first one. He slept.
+Jonah slept. That was what he did with the hours. He lay on the shelf with the lamp at the end that never went out and Pell above him, singing to the wall some nights and not others. He went through the list some nights and not others. Corr, and Auger, and the rest, out of order. He didn't say the first one. He slept.
 
 The lorica didn't like it.
 
@@ -168,8 +168,8 @@ He had a reply ready about a man who kept getting up for people who'd already de
 
 ---
 
-He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, out of order, same as he had them. Corr, Auger, Hollen. Bricks, Marcus, who never used it. Tallow, fifteen. The Deep man, whose name he didn't have, and said so. Decimus Alba, of Etruria, whom he'd put under a shelf.
+He went down the road that night with the buckets and did the list in the dark between the lamps, out of order, same as he always had it. Corr, Auger, Hollen. Bricks, Marcus, who never used it. Tallow, fifteen. The Deep man, whose name he didn't have, and said so. Decimus Alba, of Etruria, whom he'd put under a shelf.
 
-And at the end, standing in the dark with the lorica fed on nothing but a stick, listening, he said the first one. Three words in the old tongue, tapped once on a wall by a man who hadn't said it in twenty years and had wanted it said. He said it with the endings right. He didn't say it easily, or soft. He didn't say anything after it.
+And at the end, standing in the dark with nothing in him but bruises, he said the first one. Three words in the old tongue, tapped once on a wall by a man who hadn't said it in twenty years and had wanted it said. He said it with the endings right. He didn't say it easily, or soft. He didn't say anything after it.
 
 It was on the list again, at the top, where it had been. It would stay there.

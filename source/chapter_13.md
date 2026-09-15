@@ -210,11 +210,11 @@ He went back to the wall.
 
 ---
 
-He said the names that night on the road, with the buckets, before the Cradle. Sixteen now. Two minutes, and afterwards the lorica lay flat and quiet, the way it always did once it had a straight answer out of him. He got to the first one and stopped.
+He walked the road that night with the buckets and went through them in his head, the way he had every night since the Cradle. It was not a ritual and he would have been embarrassed to be caught at it. It was a list of people he owed, and he was nineteen, and there was nobody to say them to.
+
+He got to the first one and stopped, and said it out loud, which he did not usually do.
 
 "Tom Vale."
-
-The lorica listened.
 
 "My father. Nine fingers. He sold something once for a winter's food and never told me. I know what it was now. He never knew. He sat in a chair with the door open." He kept his voice level. "He's in the wall now. Not this one. Anvil's. The melt. Somebody said his name, Hollen says. I don't know who. I'm going to find out."
 

@@ -56,21 +56,15 @@ He lay in the dark and did not ask yet.
 
 He had until dawn, and no way to count it. No lamps. No bells in the loading gallery. Only his heart, going fast and wrong, with a white fever behind it where his eyes had been. Forty-one. Nine grades he had not slept in. The old man had said they would come a day at a time. He had nine days of them standing in him at once. It was not pain. It was a coat nine sizes too big, pulled on over everything he was. It did not fit yet.
 
-He said the names.
-
-In the old tongue, in order, every night, and tonight there were two more. The old man had said a name said twice on the first night stayed. He wanted them to stay, so he said each twice.
+There were two more tonight, and he had killed both of them himself about three hours ago, and he found he could not go to sleep without saying so out loud.
 
 "Gnaeus Sabinus. Client of the Princeps' house. Washed out because he couldn't bear to grind. Went to the Belt with a licence and harvested men on a road for nine years. Came down the Throat alone with the fang out, because a Blank had put steel in his seam once and he'd thought about it every night since. Sent thirty rifles away so he could have a fight instead of a harvest. He got one. He said oh."
 
-He said it again.
-
 "Decimus Alba. Of Etruria. Sula's father. Said my number seven years and it was never personal. Said please. Came down the road slow with his rifle down to say the number first, and got as far as the breath."
-
-Again.
 
 Jonah said, to the dark, "That's the count. It starts with you and it goes through him and it ends there. For tonight." He was quiet a moment. "You'd think a man who talks as much as I do would have more to say to the one thing that's listened to all of it. I don't. Just that."
 
-Then the last thing he had to say. This was the Vein, and the wall knew what a name was for. He said what Ulli had said with his eyes shut against the warm dark of the Cradle, and what Jonah had never once said to it. His throat had had a fang in it three hours ago. It came out rough.
+Then the last thing, which he had not said to anyone in six years. His throat had had a fang through it at dusk. It came out rough.
 
 "I'm not ready."
 
@@ -152,13 +146,11 @@ It knew the guard's name. He had said it on the road with his hand on the should
 
 He had no word for that either.
 
-He had not had one in six years. He had put it away every time, with the rest, and never once taken it out to see what it was called. Held, as matter, with its hands on his heart, he thought: it wants a name for grief. It's asked me, and I've given it a man's, because that's all I've got. Names. Nobody gave me the other one.
+He had not had one in six years. He had put it away every time, with everything else, and never once got it out to see what it was called.
 
-So he gave it what he had.
+So he told it the truth, which was all he had.
 
-The count. All of it, from the top, in the old tongue. Tacitus first, then the old man, then the rest, in order. Every name he knew, and every line that said there was a man here and it was his. Six hundred and forty-two from the slabs. The ones from the road. The two from tonight. He said them without a mouth to something that had asked him one word, and it listened to all of them. When he came to the end he said his own number, and answered it, and stopped.
-
-"That's the name," he said. "That's the only one I've got for it. It's called that. It's called all of them."
+It's called grief, he thought, and I don't know any more about it than you do. It doesn't go. You don't put it down. You carry it and you get stronger, and one day you notice it weighs the same and you've stopped noticing, and that's as good as it gets. I'm sorry. Nobody told me either.
 
 Tacitus said nothing.
 

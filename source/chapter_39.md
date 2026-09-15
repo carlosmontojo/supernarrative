@@ -178,15 +178,13 @@ Yara almost smiled. It was the Halyard's almost, and this time it reached someth
 
 ---
 
-He said the names first.
+He went through the list first, with his hand flat on the cold glass of the port. Yara stood beside him and did not ask.
 
-Hand flat on the cold glass of the port, in the old tongue, in order. Yara stood beside him and did not understand a word and listened to all of them. Pike did not turn round.
+It did not take long. His father. Ochoa. Ullan of Marl. Decimus Alba, of Etruria, Sula's father. The old man, last, which was where he had ended up after two years of trying him in other places.
 
-He said Tacitus first, above the old man, because it had been in the box before the old man was in the room. He said Aulus Terentius Pharus, Censor, who read every page, who drew the Pit and could not draw the way out of it. He said his father. He said Ochoa, who said nothing, which was the highest thing. He said Ullan of Marl, the east fields, two l's. He said Decimus Alba, of Etruria, Sula's father, first, before the rest. He said the boys at the road's end and the mate with half an arm and the Centurion who said oh. He said Dace and the boy who said what. He said the six hundred and forty-two from the slabs, all of them. He said the ones from the road, and the ones whose line said something was theirs.
+Then the four, with what each of them had done, which was the part he never got through without his voice changing.
 
-He said Mara Ansel, and the Halcyon. He stopped, and went on.
-
-He said the fourth name with what he had done, and did not say the other. Tacitus put the heart under it anyway.
+He said Mara Ansel, and the Halcyon, and stopped, and went on.
 
 Then he said his own.
 

@@ -86,15 +86,15 @@ Jonah walked down the first row and put his palm flat on a cask. Cold glass. The
 
 ---
 
-He told Tacitus that night, on the road, after the names.
+He told Tacitus that night, on the road.
 
-Since the Chamber he had said the names and then the rest, in the old tongue, quietly, in the dark between the lamps. Tacitus listened. In a month he had learned to tell listening from settling. Settling was what an answer felt like from something with no words.
+He had got into the habit of talking to it out loud in the dark between the lamps, which he knew perfectly well was the behaviour of a man who had been underground too long. He did it anyway. It was the only thing on that rock that had never once wanted anything from him.
 
 Jonah said, "Thirty days. In a cask. Sealed. In the dark, with a hundred slabs of the wall round me, on a freighter with a crew that opens casks to skim. I don't know which casks or when. Thirty days without a bowl or a breath or a lamp." He was quiet a moment. "You were in a box four hundred years. I'm asking you how."
 
 It listened.
 
-"Not how you lived. You're not a man. How I do." Jonah said it plainly, the way he said the names, because it was the truest thing he had. "A man in a sealed cask is dead in three days, unless something holds him. The wall held the old man's slabs from wearing. The box held you." He put his hand flat on his chest. "You held me once. On the deck. You went through me and stopped at my heart. My heart did something, and you were interested. Can you do that on purpose. Take a man and hold him so he's not a man for thirty days. He's matter. He's a slab. Then let go. I'm asking a thing that's never once answered me to do the hardest thing I know how to ask for. I don't have a better plan than hoping you say yes."
+"Not how you lived. You're not a man. How I do." Jonah said it plainly, because it was the truest thing he had. "A man in a sealed cask is dead in three days, unless something holds him. The wall held the old man's slabs from wearing. The box held you." He put his hand flat on his chest. "You held me once. On the deck. You went through me and stopped at my heart. My heart did something, and you were interested. Can you do that on purpose. Take a man and hold him so he's not a man for thirty days. He's matter. He's a slab. Then let go. I'm asking a thing that's never once answered me to do the hardest thing I know how to ask for. I don't have a better plan than hoping you say yes."
 
 It did not answer. It could not.
 

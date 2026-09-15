@@ -1,34 +1,24 @@
-# Chapter 22: Names
+# Chapter 22: The Four Things
 
-"Fourth slab," the Censor said from the shelf. "Ninth column. Begin."
+"Slower," the Censor said from the shelf. "You are twenty-eight and you are still fighting like a man who expects to be hit. Again."
 
-Jonah looked at the slab and did not need to. That was the point of the year.
+Jonah did it again.
 
-The columns were laid out the same on all sixteen. The year a man came down the Throat, then his number, then whatever he had said in the Cradle before he went into the wall, if he had said anything at all. Most had not. Most of the sixteen slabs was numbers with nothing after them.
+That was the last year. Three hours a night on the floor of the Chamber, the Form against the air with nobody to touch it, the Master's seal off his palm thirty times until it came before he had finished asking.
 
-"Three fifty-seven," Jonah said. "Two two nine. Marl, the east fields; brother called Pell. Three fifty-seven, four one six, Anvil, the yards, nothing after. Three fifty-seven, four one nine, nothing after. Three fifty-eight, one one two, Halyard sailor off the Kestrel—"
+The sixteen slabs leaned against the rock behind him the whole time, and most nights neither of them looked at them.
 
-"Wrong."
+He had read them all by then. It had taken four nights. Six hundred and forty-one men down the Throat in twenty-two years, and four hundred of them were a number and nothing else, because a number and nothing else was all they had given anybody. Two hundred and forty-one had said a name. Eighty had said a father or a field or a ship. One had said a tree, and that was Corr.
 
-"Where?"
+"Why write it," Jonah had asked, the first night. "Nobody's ever going to read it."
 
-"His ship was the Kite. You have put your own ship into a dead man's column, which is the mistake every man makes, and the only one I will not let you keep. Again."
+"You are reading it."
 
-He said it again, with the Kite in it.
+"That's not what I meant and you know it."
 
-It took the rest of the year to learn all sixteen. Three hours a night on the floor of the Chamber now, not the Cradle. The old man sat on the shelf with the stick across his knees, coughing, and made him say the columns backwards, then out of order, then straight through.
+"I do." The old man had not looked up. "Because when they put a man in here they take his name and give him a number, and when he dies they give the number to the next one. That is not carelessness, boy. That is the system working. You cannot be tried for a number. Priscus has signed away four hundred men and has never once been in a room with any of them." A cough. "I could not stop it. I could write it down. A man does the job that is in front of him with the tools that are in the room, and there was a chisel in the room."
 
-Six hundred and forty-one. That was the count by the autumn. Six hundred and forty-one men down the Throat in twenty-two years and into the wall. Four hundred of them with nothing beside the number. Two hundred and forty-one with a name. Eighty with a father or a field or a ship. One with a tree, which was Corr's. Corr had said once, in the Cradle, that there had been a tree in the north yards on Anvil he had climbed as a boy. The old man had written it, because a man who counts writes what is said.
-
-"You are carrying a great many dead men," the Censor said, on a night near the end. "Does it weigh?"
-
-"No."
-
-"It should."
-
-"It does. I said no because it doesn't weigh, it's not a bucket," Jonah said. He looked at the slabs. "It's got bigger, that's all. You said there was always room."
-
-"There is." The old man coughed. It went on. "That is the only kind thing about it. I am saying it again because I will not have many more chances. It is the one thing I would like you to have heard twice."
+That was the whole of it, and it had taken about a minute, and neither of them had brought it up again for a year.
 
 ---
 
@@ -220,7 +210,9 @@ Ulli nodded slowly.
 
 Jonah walked down the road.
 
-He said the names. All of them, out of order and then in order, sixteen slabs, six hundred and forty-two, from the twentieth year to the first. When he came to the first slab, the first column, the first number, he said it. Three words in the old tongue, tapped once through a wall by a man who had wanted them said. The lorica read him saying the old man's name at the top of the list, and got the truth, which was that it cost him, and lay flat anyway.
+He went through the list, which was longer than it had been and would go on getting longer. At the end of it he said the old man's name out loud: three words in the old tongue, tapped once through a wall years ago by a man who had wanted them said and had nobody to say them to.
+
+It cost him more than he had expected, and he said it anyway, and then he stood there for a while.
 
 Jonah stood in the dark between two lamps and thought about the fourth thing.
 

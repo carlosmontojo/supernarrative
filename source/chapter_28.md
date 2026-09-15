@@ -178,7 +178,7 @@ He did not sing. He had no song; he had names. He said them under the singing, i
 
 It stood between.
 
-He felt it go into the doorway of him and stop there. It turned, and put its back to the room. The wall was beginning to finish what it had been too polite to finish for nine years. He felt the start of it through the rock: the reach, the taking hold, the count starting. Then he did not feel it. It was there. It was on the other side of Tacitus, and Tacitus let none of it through. He sat with his hand on the rock and said the names. He was in the room, and the count did not go through him.
+He felt it go into the doorway of him and stop there. It turned, and put its back to the room. The wall was beginning to finish what it had been too polite to finish for nine years. He felt the start of it through the rock: the reach, the taking hold, the count starting. Then he did not feel it. It was there. It was on the other side of Tacitus, and Tacitus let none of it through. He sat with his hand on the rock and named the men in that room to himself, the living one and the dying one, because it was the only thing left he could do for either. He was in the room, and what took Ulli did not come through him.
 
 Ulli stopped singing on the fourth verse.
 
@@ -268,9 +268,9 @@ The ring took him. It was cold, as the Vein was not cold anywhere else. It did n
 
 The lid came down. He heard it find the groove. He heard the foreman's knuckle on the side of the cask, once, low. He did not know if it was the right sound. Then he heard nothing, because the cask was the wall and the wall did not carry sound. He was in the whole dark with his hands flat against the slabs on either side.
 
-He said the names.
+He went through the list once, in the dark, the way a man checks his pockets before a door shuts.
 
-Then he said, in the old tongue, to Tacitus, what he had not said on the floor of the Cradle, and said now:
+Then he said, in the old tongue, to Tacitus, the thing he had not been able to say on the floor of the Cradle at nineteen:
 
 "Now."
 

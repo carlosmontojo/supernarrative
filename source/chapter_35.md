@@ -148,13 +148,11 @@ He was asleep before Jonah stood up.
 
 ---
 
-He said the names that night at the rail of the lower docks, where he had once said he would come and had not. The hull ring of Anvil hung above him, catching the sun-lamps at their night setting. The Heron's ramp was behind him, Pike on it, not sleeping.
+He stood at the rail of the lower docks that night, where he had told her once he would come and had not. The hull ring of Anvil hung above him, catching the sun-lamps at their night setting. The Heron's ramp was behind him, Pike on it, not sleeping.
 
-He said them in order. Tacitus and the old man and the rest. When he came to his father he said the whole of it: nine fingers, south yards, believed in the ladder, sat in a chair with the door open. Then what a drunk had given him: the melt paid out of a purser's purse through a good man's yard, and a man in a good coat at the back checking the sum. He said Ullan. Decimus, Sula's father first. The two boys at the road's end, the mate with half an arm, the Centurion who said oh.
+He had spent the day finding out what his father's death had actually cost and who had paid for it, and he had four names, and tonight every one of them had something new written under it.
 
-Then he said the four.
-
-He said them to Tacitus, in the old tongue, the way he had said its name in the only room in the Pit that knew what a name was for. One at a time, with what each had done.
+He went through them out loud, in order, with what each had done.
 
 "Silas Marchand. Purser. Saw the plate through a hatch and was afraid, and wrote it down. Made a frightened man sign it, and took it to a door himself. Was seen to. Has a house on the upper ring and a bank with a good man's yard by the throat. Paid my father's melt out of his own purse so the ledger would say somebody else. Checking the sum."
 

@@ -183,11 +183,19 @@ nearly killed it), by spolia (sometimes passed along), or by lineage.
   the echoes are a chorus and quieting them costs Wit.
 - Reading. Until Quiet, any Flamen scan is a coin toss. Hush turned inward buys hours,
   not days.
-- Integrity. A genius bonded to a divided host cannot hold plate. Not punishment.
-  Symptom. When Jonah lies to himself the fang comes out wrong. The book of names is how
-  he keeps whole. Chapter 30: he kills Decimus cleanly, says his name, the plate holds.
-- Names. Tacitus learns the world through names and forgets none. By Book 6 it is the
-  book of names.
+- Integrity. A lorica bonded to a divided host cannot hold plate. Not punishment.
+  Symptom. When Jonah lies to himself the fang comes out wrong. Chapter 18: he lies to
+  the Censor, the plate sticks half-formed for a week. Chapter 30: he kills Decimus and
+  does not pretend otherwise, and the plate holds.
+- NOT a mechanic: the names. Jonah keeps a private list of people he owes and four men
+  he is going to find. It is characterisation and it is the revenge spine. It has no
+  effect on the lorica, it is not a drill, it is not a ritual, and nothing in the system
+  depends on it. Cut from the draft in revision; do not reintroduce.
+- Day nineteen (ch. 10) is not mystical. Jonah has fought the lorica for nineteen days
+  and the fighting is what is killing him: it tears on the way out and takes him with it.
+  The Censor tells him to let go. He lets go. The wall will not take the lorica back,
+  because a month in a man has changed its shape and it no longer fits the hole it was
+  cut from. Having nowhere else, it returns, and bites the wall on the way out.
 
 ### Stolen gifts
 Wit plus one, and Wit has no cap. Stolen gifts arrive wrong-shaped and must be

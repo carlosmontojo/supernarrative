@@ -34,43 +34,31 @@ Jonah would learn that a year on, from the man himself, over the fish. He would 
 
 And he would think: I'd do it again. That's what I'll not tell the old man, on the road, at night, when I say his name. That's the line I keep.
 
-That was a year off, and he did not know it yet. He stood in the Heron's hold with the lid of thirty-one open, and said the names.
+That was a year off, and he did not know it yet. He stood in the Heron's hold with the lid of thirty-one open, and went through the four.
 
 ---
 
-He said them from the top, the way Decimus had read the Deep: flat, in the voice for things that were not personal, except that every one of them was.
+There were four of them and there had been four of them for six years, and he could have done it in his sleep. He did it anyway, out loud, once, with the rock going small behind him.
 
-"Tacitus," he said, because that was the top and had been since the Mouth.
+"Gaspar Roake. Did nothing. Said, you've got his hands. Has a bottle."
 
-It listened.
+"Corin Aldane. Signed because I won a bout he couldn't. Has a stripe and a boy of three and her, and called me friend on the first sand and meant it then."
 
-Most of it was a number and a line, because a number and a line was all anybody had ever got. Three fifty-seven, four one nine, nothing after. He walked through those the way you walk a road you know in the dark, six hundred and eighty of them, and did not stumble and did not hurry.
+"Silas Marchand. Purser. Precise. A bank with a man round it."
 
-Then the ones that were his, and those he said slowly.
+"Marcus Vibius Priscus."
 
-"Aulus Terentius Pharus. Censor. Master of the Flamens. Read every page in the Empire, drew this Pit, and could not draw a way out of it. Taught a Collar with a stick for five years and lost to him once at the end, and never would say whether he'd meant to. Wanted to save the Empire. Got me instead, and knew it."
+He stopped on the fourth one, the way he always did, because there was a thing that belonged in that entry and he had not said it out loud in four years and was not going to start tonight.
 
-"Tom Vale. Anvil. Morrow's yard. Nine fingers. Believed in the ladder right to the end of it. Sold a set of numbers for a winter's food and knew what he'd done and never told me. Was happy one night because his son answered him in Latin."
+Then he said the part he had never said at all.
 
-"Ullan of Marl. Two l's; they always get it wrong. Nine years in a two-year Deep. Carried forty-four men out of the Cradle on his own back. Chose his own day, which nobody else on that rock ever got to do, and stopped singing on the fourth verse with me on one side of him and Pell on the other."
+"And here's what I've worked out, and I'd rather say it now than find out I'd been lying to myself about it in about a year." He kept his hand on the glass. "I'm going to the City to be somebody I'm not, in front of people who'll be hanged for knowing me. I'm going to be very good at it. I'm going to lie to a woman who asked me my name once, when nobody else on that ring could be bothered, and I'm going to do it for as long as it takes, and I already know I'm going to be sorry.
 
-"Decimus Alba. Of Etruria. Sula's father." He said that one slower than the rest. "Said my number for seven years and said please, and was the only one who ever did. Signed for five more years so a tree wouldn't die. Came down the road with his rifle pointed at the floor, to say the number first, and got as far as taking the breath for it." He stopped. "That one isn't on him. He said write it right. This is me writing it right."
+"And I'm going anyway."
 
-Then the four, which he had said every night for six years and never once standing up, off the rock, going where they were.
+He let that stand a moment in the hold.
 
-Gaspar Roake, who did nothing, and said you've got his hands, and had a bottle. Corin Aldane, Collar to Thinstripe in four years, who had a boy of three and had called him friend on the first sand and meant it then. Silas Marchand, purser, precise, a bank with a man round it.
-
-And Marcus Vibius Priscus, said plainly and in order, the way the old man had taught him to name a man he was going to lie to. At the end of that one he stopped, because there was a thing that belonged in the entry and he did not say it. Tacitus put the heart where it kept things, under the name it had just heard him not say, and did not say it either.
-
-"Mara Ansel," he said. "Not dead. Written down anyway. I've stopped assuming I'll get a second chance to say a thing out loud."
-
-Then his own.
-
-"Jonah Vale. Anvil. Morrow's yard. Purser's pilot. Citizen for a week. Four four seven one. Went into the wall on the nineteenth night of the harvest, in a guard's hand." He put his hand flat on the open cask. "That's in the book, a name like the rest of them, and it stays, because names stay. The one carrying it is called something else now. Not a name. A stripe. The old man said a stripe is what you wear and a name is what you are. I've got one of each and I know which is which."
-
-He stopped.
-
-"That's the count," he said. "It starts with you and it ends with me and there's still room. There's always room. It's the only kind thing about a count."
+"That's the whole of it. That's what I am now. Four men, a false name, and a list of things I've decided I'll do." He breathed out. "I'd like it on the record that I know what that makes me. I'd hate to get there and find out I'd stopped noticing."
 
 ---
 
@@ -80,25 +68,25 @@ He waited for it, the way a man waits for a hand on his arm. It did not come. He
 
 Then it spoke.
 
-Not one word. He would keep that, the same as he kept the water step done right, and a laugh on a rock that went on till it coughed. It was the second time it had spoken in four hundred years, and it did not say the word it had. It said something it had heard, in the old tongue, in the voice that was very old and had been used once and knew it. What it said was something it had heard him say, on a rock and on a road, more times than any other, said to it when it did the hand with no hand and had no hand.
+Not one word. He would keep that, the same as he kept the water step done right, and a laugh on a rock that went on till it coughed. It was the second time it had spoken in four hundred years, and it did not say the word it had. It said something it had heard, in the old tongue, in a voice that was very old and had been used exactly once before and knew it. What it said was the thing it had heard him say more than anything else in six years: the two words he used when it pressed on the middle of him and he had no way to answer.
 
 It said: I know.
 
 Jonah stood very still.
 
-Then he laughed. Once, out loud, at the beam, as he had laughed on the Cradle floor when it had learned to hold him from its mother and stopped when he said when. It had learned to speak from him. The old man had said it would: it has no tongue but yours. The first sentence it made was the one he had given it, every time, for something that could not be answered. It had given it back.
+Then he laughed. Once, out loud, at the beam, the way he had laughed on the floor of the Cradle at nineteen with his hands still shaking. It had learned to talk off him. The old man had told him it would: it has no tongue but yours. The first sentence it ever made was the one he had given it a thousand times for things that could not be answered, and it had picked its moment and handed it straight back.
 
 "Yes. All right. Yes. You do," Jonah said.
 
 Pike, at the foot of the ladder, said, to the lamp: "He's talking to it."
 
-"He always has," Yara said, from the top of the ladder, where she had been standing as long as it took a man to say six hundred and ninety names. "Pike. Come up. Leave him the lamp."
+"He always has," Yara said, from the top of the ladder, where she had been standing a good while longer than either of them had known. "Pike. Come up. Leave him the lamp."
 
 Pike came up.
 
 Yara stood a moment longer, hand on the rail, looking down at a man with a stripe nobody could see yet, beside an open cask, his hand on the Vein. She did not say the obvious; she had said it once, and a Halyard doesn't repeat itself.
 
-"Thirty days to the College dock, Sertorius," she said. "Learn your plate. Sleep in the cask. And say them somewhere I can hear, next time. I'd like to know what they sound like from the top."
+"Thirty days to the College dock, Sertorius," she said. "Learn your plate. Sleep in the cask." She was quiet a moment. "And whatever that was, you can do it where I can hear it next time. I've carried a lot of men off a lot of rocks. Not many of them said that part out loud."
 
 She went up. The hatch shut.
 
@@ -120,8 +108,14 @@ And under that, because he was a man who decided what was true before he asked, 
 
 He did not go into the wall.
 
-Jonah would hear that from the man's own mouth, with the woman across the table. He would say it in the old tongue, with the endings right, what he had said to a Halyard bosun in a hold with a bowl of fish going cold in his hands. He would go on saying it, on every road, at night, until the book was full and he was the last page:
+Jonah would hear that a year on, from the man's own mouth, over the fish, with the woman with the grey book sitting across the table from him under a name that was not his.
 
-That's the count. It's not much. It's what a man has.
+He would think about it for a long time afterward. Not the four days, and not the file. That line. A small, frightened, greedy man, who had sold him for a robe and a house he never lived in, had sat down with the paper in front of him and written the one true thing on it, because he could not help himself:
+
+He did not go into the wall.
+
+No, Jonah would think. I did not.
+
+I came out of it, and I am sitting at your table, and you have just told me so yourself, and you have no idea.
 
 END OF BOOK ONE

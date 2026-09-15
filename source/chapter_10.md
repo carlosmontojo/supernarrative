@@ -156,125 +156,71 @@ Yes, Jonah tapped.
 
 I know.
 
-*It is not leaving. It is abandoning you.*
+*Stop pulling.*
 
-He read that twice with his knuckles on the rock, because it was not the same thing and the rock had meant it.
+He read that twice with his knuckles on the rock. The cold was at his shoulders.
 
-Why, he tapped.
+I'm not pulling, he tapped. I'm holding it. It's going.
 
-*Because you are dying and it can tell. It lives in you. When the body it lives in stops, it goes back to the wall or it stops too. It is not betraying you. It is a rat going over the side of a ship that is going down, and it is right, and the ship is you.*
+*You are pulling. You have been pulling for three days and it is killing you, and if you do it another hour it will finish. Listen to me. It is not a rope and you are not stronger than it. Every time you haul on it, it tears, and what tears is you. That is why the cold is in your arms. That is why it is in your chest. You are not being taken. You are being torn, by your own hands, out of your own body.*
 
-I can't stop dying, Jonah tapped.
+Jonah lay in the dark and did not want it to be true.
 
-*You can. That is the entire lesson and I have three minutes to teach it.*
+*Let go.*
 
-A pause. Then the taps came harder and faster, a man who had waited twenty years to say something and could not get it short enough.
+Then it kills me, he tapped.
 
-*Listen. It has no eyes. It has no ears. It cannot hear a word you say and it never will. It has one instrument and that instrument is pointed at you, from the inside, and it reads what you are. Not what you say. Not what you decide. What you are. You cannot lie to it. Nine men have tried it in this room and I listened to all nine.*
-
-Then what do I do.
-
-*Stop agreeing.*
-
-He lay in the dark with the cold at his shoulders and did not follow.
-
-*You are not dying of the wall, boy. You have been dying of agreeing with it for three days. It reads you as a man who is finished, because that is what you are, and so it is going. Be something else and it will read that instead. You have about a minute.*
+*It may. Then you will have died in about four minutes instead of nine hours, and I will have been wrong, and I have been wrong before.* A pause. Then the taps came harder and faster, a man who had waited twenty years to say something and had three minutes left to say it in. *But I have listened to nine men die in that room and every one of them died holding on. I have never once heard a man let go. I would like to hear what it sounds like before I die myself, and you are the only one who has ever been able to hear me ask.*
 
 "What's it saying?" Ulli said, low.
 
-"That I've given up." Jonah's jaw was stiffening. "And it can feel me give up. It's in me."
+"That I should stop fighting it."
 
-"Have you?"
+"And?"
 
-He went to say no, and stopped, because the thing behind the door had just told him he could not lie to a creature that read him from the inside, and it seemed a poor moment to start practising on Ulli.
+"And I don't want to." Jonah's jaw was stiffening and he made it work. "Ulli, it's the only thing I've got. It's the only thing that's ever been on my side. If I open my hands it goes into that wall and I'm a Collar on a floor with a number, and that's it, that's the whole of me."
 
-"Yeah," he said. "Three days ago. About four in the morning."
+Ulli was quiet a moment.
 
-He tapped, slowly, because slow was all he had:
+"That's the first honest thing you've said since I carried you down," he said. "Now do it anyway. You're grey, cut one. I know grey."
 
-How do I want to live. I've been trying for three days.
+Jonah lay there and did the arithmetic, which was all he had ever been any good at. Holding on: nine hours, and dead at the end of them, certain. Letting go: dead in four minutes, probably.
 
-*No. You have been trying not to die. That reads the same as quitting, because it is the same thing lying down.* A pause, and then the taps were careful, spaced, a man setting something on a table. *Wanting to live is not general. It is always about something in particular. Find the particular things. Say them out loud.*
+Probably was better than certain. It was not much better. It was what there was.
 
-Out loud. It can't hear me.
+He stopped holding.
 
-*It cannot. You can. A man believes his own mouth before he believes his own head, and the only thing in this room I need changed is what you are. Say them. Now.*
+It was not a decision he made once. He had to make it about six times in a row, because his hands kept taking it back, and each time he had to open them again in the dark with nothing to open them against. Then, somewhere in the middle of the sixth time, it stopped being a thing he was doing and became a thing that was done.
 
-Jonah lay on the floor of the Cradle with a mind the size of the planetoid pulling something out through his hands, and understood the instruction, and thought it was the stupidest thing anybody had ever told him to do.
-
-He did it anyway, because he was out of better ideas and had ninety seconds.
-
-He opened his mouth. His jaw was cold.
-
-"Tom Vale."
-
-Nothing happened. Ulli did not move. The rock did not tap.
-
-He said it again, and this time he put the whole of it in, because half of it was a noise and a noise was not the point.
-
-"Tom Vale. My father. Nine fingers. He sold a set of numbers once for a winter's food and never told me, and I know what they were now, and he never will. He's sitting in a room on Anvil right now waiting for me to come home."
-
-Something moved in his chest. Not the lorica. His heart.
-
-"Mara Ansel. She measured my hand while I was asleep and made me a ring out of a ship. It's in my arm. She thinks I'm dead."
-
-He was breathing faster. He noticed it from a long way off, the way you notice a gauge.
-
-"Ochoa. My captain. He sat down carefully because of his back, and he told me not to touch it, and I touched it."
-
-It had stopped going.
-
-He felt it stop. Half out, in the warm, with the whole wall saying come. It had not decided anything and it had not forgiven him. The needle had simply moved, and it was reading him again.
-
-"Pell. Sings to the floor; his brother's in your wall. Corr, who tells everybody a month. Bricks. I broke his hand and he still doesn't know why. Decimus, who carried a bandage ten kilometres down a shaft for a number."
-
-"Cut one," Ulli said. "What are you doing?"
-
-"Arguing," Jonah said, and kept going.
-
-"Hask. I killed him in a corridor and he was nothing and I've still got him." His throat shut. He made it open. "A boy from Marl who said no once, and I don't know his name, and I'm sorry. He should have one anyway."
-
-He was shaking now, and the shaking was not the cold. The cold had stopped at his throat and was not going further.
-
-"Titus Varro. Killed him too. He's in my feet."
-
-Then the one he had not meant to say, which came out in the warm dark before he could stop it and could not be taken back.
-
-"Livia Vibia. Brought me water in a cup and asked what I was called. She's asleep on Anvil right now believing something her brother told her, and it isn't true, and nobody is ever going to tell her."
-
-His whole body was going.
-
-"Marcus Vibius Priscus." His voice had changed. He heard it change. "Burned the seal. Put his hand on my shoulder and told me to be precise."
-
-A breath.
-
-"I'm going to be precise."
-
-It turned around.
+Everything went out of him at once.
 
 ---
 
 He would never be able to say what that was like, either.
 
-It had been half out, in the warm, going home, and it turned and came back, and the wall said come with everything it had and it did not go.
+It went. It went the way water goes out of a holed tank, all of it, out through his hands and into the warm, and the cold went with it, and he lay on the floor of the Cradle emptied out with the wall saying come where a month of his life had been.
 
-It had not understood a word. He was certain of that, then and for six years after. It did not know what a father was, or a captain, or a girl with a cup. It had understood the only thing it was built to understand, which was the state of the animal it lived in, and the animal had changed while it was reading.
+He did not die. He noticed that from a long way off and could not think what to do about it.
 
-A minute ago the reading had been: finished.
+Then, out in the wall, something happened that he felt and did not understand for five more years.
 
-Now it was: not yet, and here is a list of the reasons, and the list is long.
+The wall did not take it back.
 
-That was all. There was no bargain in it and no kindness. The old man would spend five years making sure Jonah never once forgot how little had happened on that floor, and how much it turned out to be worth: a thing with no eyes had taken a second reading, and the second reading was different.
+He felt the size of that. A mind as big as the planetoid had spent nineteen days calling one small thing home, and the small thing came home, and there was nowhere for it to go. It had been in a man a month. It had eaten a decurion and a shackle and read a body from the inside and got a shape doing it, and the shape did not fit the hole it had been cut out of, any more than a man fits back into his mother.
+
+It had gone home and found that it did not have one.
+
+And because it was a month old and did not know what else to do, it turned round and came back to the only other place it had ever been.
 
 It came back.
 
-Back through his hands, reading, the same as it had come in on the derelict, except now it was reading its own road home. It found the cold and went through it, and the cold went out where it went. It found his heart and stopped there, again, interested. His heart went from the nameless speed to very fast, to fast. He breathed.
+Back through his hands, reading as it came, the same as it had come in on the derelict. It found the cold and went through it, and the cold went out where it went. It found his heart and stopped there, the way it had the first time. His heart went from the nameless speed to very fast, to fast. He breathed.
 
-And on its way back through the wall, it took something.
+And on the way out of the wall, it took something.
 
-He felt it pass through the pale wet place going the wrong direction. The wall was still saying come. It said, in whatever way it said things, no. And as it said it, it opened its mouth.
+He felt it happen. The wall was still saying come, and it said no, and as it said no it opened its mouth. Not a mouth. But that. It bit the doorway on its way through: a mouthful of the warm, of the thing it had been cut out of. A child taking bread off the table on the way out of the house. The wall did not stop it. The wall did not know how to stop a piece of itself. The mouthful came back down through Jonah's hands with the rest of it and was folded away.
 
-Not a mouth. But that. It went through the door and took a bite of the door going out. A mouthful of the wall, of the warm, of what counted. A child taking bread off the table on its way out. The wall did not stop it. The wall did not know how to stop a piece of itself. The piece came back through Jonah's hands with the rest, went down into him, and was folded away. It was not small.
+It was not small.
 
 He felt it settle. And he felt, for the first time since the box, what the old man would later call the number, the figure a Flamen wrote on a glass, except from the inside. A change in the shape of what he could hold. He had been a man carrying something. He was, all at once, a man carrying something bigger, and it fit. Fever came up through him from the middle out, the cold going the other way. He lay on the floor of the Cradle with his back to the warm and shook with it and laughed.
 
@@ -284,7 +230,7 @@ It was not a good laugh. Ulli made a sound.
 
 "No."
 
-"You were going. I've sat with forty. I know the sound. You were going and you started saying names at the wall and now you're." Ulli stopped. "What are you?"
+"You were going. I've sat with forty; I know the sound. You were going, and then you opened your hands, and now you're." Ulli stopped. "What are you?"
 
 "Cold," he said. "Hungry."
 
@@ -292,7 +238,21 @@ That was the other thing. He felt it as he said it. It had come back with a mout
 
 Right then, not far. It had eaten well. It lay behind his heart, fed, folded, the raw place from the Throat gone smooth. And it was doing something he had never felt it do.
 
-It was resting. It had listened since the box, every hour, with that flat total attention, and it had stopped. It had gone home, and turned around at the door, and come back with bread. For the first time, it was not listening to anything at all.
+It was resting. It had listened since the box, every hour, with that flat total attention, and it had stopped. For the first time, it was not listening to anything at all.
+
+He lay in the warm dark and thought, and got as far as this: it didn't come back for me. It came back because there was nowhere else. That's not the same thing and I'd be a fool to mix them up.
+
+Then he thought: it came back anyway.
+
+He talked, after that. He was never able to account for it later and stopped trying. He had been three days on a rock floor going out like a lamp, and then he was not going out, and everything he had been holding down for a month came up through him and out of his mouth in the dark, to nobody, in no order.
+
+He told Ulli about his father's hands. He told him about a girl who had measured him for a ring while he slept. He said Ochoa's name twice and could not remember the second time. He told the ceiling, at some length, what he thought of a man called Marcus Vibius Priscus, who had put a hand on his shoulder in a clean room and told him to be precise, and then burned a seal and written him into a rock for six years.
+
+"I'm going to be precise," he said, to the dark. "That's the bit he's going to regret. Not the rest of it. That."
+
+"Go to sleep, cut one," Ulli said.
+
+He went to sleep.
 
 The rock tapped.
 

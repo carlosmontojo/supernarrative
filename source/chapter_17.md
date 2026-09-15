@@ -162,8 +162,10 @@ The Censor stood with the stick on his shoulder a moment.
 
 The stick came out of the dark before he had finished standing. It took him across the left forearm, hard, and he went down on the rock and got up. The second came for the knee. He stepped, late and ugly, and it caught his hip instead of the joint. The third he took on the back of the hand. The plate came up to meet it, and the old man grunted, and hit him again.
 
-He said the names that night on the road, with the buckets, in the dark between the lamps. All of them, in the order he had them, out of order. At the end he said the new one. An hour ago it had wanted the guard's cutting off him through the hip seam in a count of twenty. Now the man on the stool had a name and a daughter and a tree, and was on the list with the rest, and that was the answer, and the lorica took it and lay flat.
+He went down the road that night with the buckets and added one to the list.
 
-"Decimus Alba. Of Etruria. Sula's father. Two winters," Jonah said, to the dark.
+An hour before, he had stood three paces off the man and worked out how to take the cutting out of him through the hip seam in a count of twenty. Now the man had a daughter of nine and a tree in a school garden, and Jonah was never going to be able to unknow that.
+
+"Decimus Alba. Of Etruria. Sula's father. Two winters," he said, to the dark, because there was nobody on the road to hear it and it seemed worth saying once.
 
 He did not know, saying it, that he would say it again on the same road with the old man's stick broken and the old man dead and a Centurion's fang in his hand. That it would be the only thing holding the plate on him. He was glad, later, that he had not known. It had been, whatever came after, a good hour.

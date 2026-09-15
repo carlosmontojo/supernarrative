@@ -110,7 +110,7 @@ It came crooked. It always did. A hand's length of dark glass, bent and ugly, ou
 
 Jonah looked at the fang.
 
-He didn't know how to ask. He'd asked it for plate, for stillness, for a straight answer every night, and it had learned all of that. He'd never asked it to be something different.
+He didn't know how to ask. He'd asked it for plate, and for stillness, and it had learned both. He'd never asked it to be something different.
 
 He thought, a hook. He thought of the bucket handle biting into his fingers, and what would take the handle instead of his hand. He held the thought out to the lorica the way you'd hold out a bowl.
 

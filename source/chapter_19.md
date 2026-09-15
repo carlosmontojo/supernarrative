@@ -276,6 +276,6 @@ He had a sentence ready that would have taken the old man's confession and used 
 
 Jonah went out onto the Deep road.
 
-He didn't pick up the buckets. He stood in the dark between two lamps with the Vein warm through the rock beside him and the fever going through him, unus, duo, tres. He said the names, all of them, out of order, same as he always had them. Corr. Auger. Hollen. Bricks. A boy from the last transport whose name he didn't know. A Deep man whose name he didn't know, and he said, I'm sorry, I don't know it. Decimus Alba, of Etruria.
+He didn't pick up the buckets. He stood in the dark between two lamps with the Vein warm through the rock beside him and the fever going through him, unus, duo, tres. He went through the list, out of order, same as he always had it. Corr. Auger. Hollen. Bricks. A boy from the last transport whose name he didn't know. A Deep man whose name he didn't know, and he said, I'm sorry, I don't know it. Decimus Alba, of Etruria.
 
 He didn't say the last one. He'd said it at the top of the list every night for two years, three words in the old tongue, tapped once. He stood in the dark and couldn't, and didn't. He picked up the buckets, and didn't go back to the Cradle for six weeks.
