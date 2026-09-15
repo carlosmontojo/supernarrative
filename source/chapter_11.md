@@ -194,7 +194,7 @@ He tried to get one past it and could not. "I saw a Flamen once who couldn't rea
 
 He had to lean on the wall for that one.
 
-Under the jokes, every night, a lesson. Say the names. Count the breaths. Do not push it, ask it.
+Under the jokes, every night, a lesson. Let it out in the dark. Count the breaths. Do not push it, ask it.
 
 "*When it comes out on your hands in the day, and it will, put your hands in the bucket. The shards hide the plate from a lamp for one breath. That is all you need.*"
 
@@ -270,7 +270,7 @@ The Vein breathed. The road was empty. Far up the shaft a bell rang for the chan
 
 "*No. You do not. You have a thing in you that should not exist and a senator's seal burned in a brazier on a moon you will never see again. You understand none of it. That is not your fault. It is the only thing about you that is not.*"
 
-Then harder, faster, the way it had tapped *Give it a name* in the Cradle:
+Then harder, faster, the way it had tapped *let go* in the Cradle:
 
 "*Tomorrow is thirty. The haul ends. You will not pass this door again unless you find a reason. Find one.*"
 

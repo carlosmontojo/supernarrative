@@ -200,7 +200,15 @@ Then it was quiet.
 
 Jonah sat.
 
-He sat till the fourth bell beside a man the wall had taken. The wall took him slowly, because it was polite and it had listened nine years. Jonah felt none of it, because Tacitus stood with its back to the room. He felt the other thing instead. The hand with no hand. It pressed, once, in the middle of him, at the second bell, and again at the third. Both times he said, out loud, "I know," and it was true.
+He sat till the fourth bell beside a man the wall had taken. The wall took him slowly, because it was polite and it had listened nine years. Jonah felt none of it, because Tacitus stood with its back to the room.
+
+He felt the other thing instead.
+
+It had started doing it about a year ago and he had never found a word for it that was not stupid. A pressure, in the middle of him, under the breastbone. Not a warning; it had a different one of those and he knew it well. This one only ever came when something was wrong in a way that could not be fixed, and it came the way a man puts a hand on your arm at a funeral, and Tacitus had no hands and had never been to a funeral.
+
+He had settled on calling it the hand with no hand, privately, and had never said it out loud to anybody.
+
+It pressed once at the second bell and again at the third. Both times he said, "I know," out loud, to a room with a dying man in it, and both times it was true.
 
 At the fourth bell he took the blanket.
 

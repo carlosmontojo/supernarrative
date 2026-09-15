@@ -44,7 +44,7 @@ By the sixth night he had the back of the hand. By the seventh, the seal. On the
 
 "I told you I'd find one," he said, in the old tongue, to the doorway of him, where it stood, listening differently than it ever had. The Chamber was whole dark. Tullus's men had not brought a lamp since month's end, and month's end was tomorrow. The shelf sat empty with a stick across it. The slabs leaned on the rock.
 
-"I had to be somewhere you could hear it," he said. "He told me that once. Somewhere you can hear the answer. I thought he meant me hearing yours. He meant this too. A name's something you say once, and then it's said. I wanted it said where it would stay." He put his hand flat on the floor. "This room's got six hundred and forty-two names in it, and one at the top I couldn't say for six weeks. It's the only room in this Pit that knows what a name is for. So."
+"I wanted to do it here," he said. "Not on the road with a bucket in each hand. Here, where he sat, because he'd have had something to say about the ending and I'd like to have got it right in front of him." He put his hand flat on the floor. "So."
 
 It listened.
 
@@ -64,13 +64,17 @@ He felt it hear. He would try to describe that once, later, to a woman with a br
 
 "Tacitus," he said again, quietly, to be sure.
 
-It answered. Not in words; it had none. He felt it in the place where it had stopped, and it was not hunger, not interest, not the want from the Mouth. It settled into the coat, into the scar at the seam, into every part of him at once. The plate that had been a size too big for a week stopped being too big. It fit. He put his hand on his chest. It was Tacitus, and it was staying.
+It answered. Not in words; it had none. What came back was not hunger and not interest, and it was the first thing in six years he had ever got from it that was not a report on the state of something.
+
+He sat on the floor of a dead man's room in the whole dark and found, to his considerable irritation, that his eyes had gone.
+
+"Right," he said. "Yes. All right."
 
 "All right," he said. "That's said."
 
 He got up.
 
-"Tacitus," he said again, at the door, palm on the steel, the fang finding the pins. "You go at the top. Above him. He put himself first so the rest would know he hadn't exempted himself, and you were in the box before he was in this room. Tacitus. Aulus Terentius Pharus. Then the rest." He turned the bar. "That's the count. It starts with you now."
+"Tacitus," he said again, at the door, palm on the steel, the fang finding the pins. "It's not going to change anything. I know that. You'll eat the same and hold the same and I'll still be a Collar with six years on a rock." He turned the bar. "It changes something for me, though. So we'll both have to live with it."
 
 The lock did what locks do. He went out onto the road.
 

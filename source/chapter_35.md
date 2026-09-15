@@ -6,7 +6,7 @@ Yara gave him a slab at the hatch and did not say what it was for.
 
 "I know how."
 
-"Hood up. Dock gate's got auxiliaries on it now, not vigiles. They read arms." She looked at his. "Three days. Then I've a College dock to lie to, and I'll not have you on my slate when I do it." She stepped back from the hatch. "Go on. Say the names somewhere else for three days. Pike's not slept."
+"Hood up. Dock gate's got auxiliaries on it now, not vigiles. They read arms." She looked at his. "Three days. Then I've a College dock to lie to, and I'll not have you on my slate when I do it." She stepped back from the hatch. "Go on. Talk to yourself somewhere else for three days. Pike's not slept."
 
 He went down the ramp with the hood up and the slab under his coat, and did not look at her; she would not have wanted him to. The ramp ended on the rock of Anvil's lower docks.
 

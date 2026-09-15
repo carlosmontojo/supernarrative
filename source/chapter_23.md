@@ -86,7 +86,7 @@ Four hundred years ago, one piece went out and stopped answering. That was the f
 
 Then the men. Six hundred and forty-two of them laid against it in the Cradle, warm, with holes in them where cuttings had been cut out. It had reached into every one, looking for somewhere to be, and killed all of them by reaching. It had not meant to. It had never once been told what a man was.
 
-But a man had names in him. It had noticed that. The names stayed after the man stopped, and keeping was the only thing the wall had ever done that had not been done to it, so it kept them.
+It kept them anyway. Not their names; it had no words. Their shapes. Keeping was the only thing the wall had ever done that had not been done to it first, so it kept every man it had ever killed, and had been going through them, in order, for four hundred years.
 
 Then nine.
 
@@ -104,17 +104,29 @@ And not fighting.
 
 That was what the wall had brought him down here to show him. Eight pieces had gone into eight men and torn them open. The ninth had gone into a Collar on a deck, read him from the skin inward, stopped at his heart, and stayed. Six years, and the man was still alive.
 
-On the nineteenth day the wall had said come, because come was the only word it had. The piece had come. Then the man had said a name into the rock, and the piece had turned round in the wall's own body and gone back to him, and taken a mouthful on the way out.
+On the nineteenth day the wall had said come, because come was the only word it had, and the piece had come.
 
-The wall had let it.
+And then the part Jonah had been carrying wrong for five years.
 
-Jonah stood with both hands on the first cut and worked out what that meant, and his arms went cold.
+He had always assumed the wall let it go. Everyone would assume that; the wall is the biggest thing on the rock and a cutting is the size of a fist. He stood in the Mouth with his hands on the first cut and found out that the wall had not let go of anything.
 
-"You let it go," he said. "You had it. You could have kept it. You let it go."
+It could not take it back.
 
-It had not been mercy. It had been arithmetic. For four hundred years the wall had been trying to find out what shape he was, the way a man turns a lock over in his hands. And on the nineteenth day it had got its answer: here, at last, was a man a piece of it could live inside without having to kill him first.
+He felt the moment from the inside, the way it had felt to something with no words: a piece of itself arriving home after a month away, and no hole anywhere in four hundred years of its own body that was the right shape for what had come back. It had been inside a man. It had eaten a decurion and a shackle and read a body from the skin in, and it had grown a shape doing it, and the shape did not fit. The wall pulled. The wall pulled with the whole of itself, the way it had pulled at every cask and every cutting since the drill, and the thing sat in the wound and would not go down.
 
-That was what it had wanted since the drill. It had never had a word for wanting. It had one now, and the word was his name.
+So it went back to the man. There was nowhere else. And on the way out it bit the doorway, and the wall could not stop that either, because you cannot get hold of a piece of yourself that no longer fits you.
+
+Jonah stood there and worked out what it meant, and his arms went cold.
+
+"You couldn't keep it," he said. "All this time I thought you let it go, and you couldn't hold it. It didn't fit you anymore."
+
+Nothing answered. The room breathed.
+
+"And you liked that." He said it slowly, because he was getting there while he said it. "That's why I'm not dead. You've been drilling into your own skin for four hundred years to make something that could live in a man, and every one you made came out too small to hear you or too big to leave him alive. And then one came home that had done a month in a man and come out the wrong shape for you and the right shape for him." He breathed. "You didn't build it. You couldn't have. It happened in a hold on a ship you've never heard of, to a Collar who was bleeding out. And when it came back to show you, all you could do was let go of it and watch where it went."
+
+He put his forehead against the warm.
+
+"That's the worst thing I've heard in my life," he said. "Four hundred years and you got it by accident, off a man you were trying to kill at the time."
 
 ---
 
@@ -142,39 +154,27 @@ When it stopped, and he could feel his hands, he understood something else. He h
 
 Then he sat in the dark with the wall breathing at his back and got to the thing he had actually come down for, which was not the feed and never had been.
 
-He had come to ask the other one.
+"Right," he said. "Your turn. You can't answer and I'm going to do it anyway, so bear with me."
 
-"Right," he said. "Your turn."
+The lorica listened, which was what it did.
 
-The lorica listened.
+"I've been calling you *the thing* since I was seventeen." He said it to the dark. "Six years. The old man pulled me up on it about a hundred times and I never once changed it, and I've just worked out why, sitting here, and it isn't flattering."
 
-"That's its count, not yours. You're not a piece of it anymore, any more than I'm a piece of Anvil." He put his palm on the rock beside him. "It says come and it keeps names, because those are the only two things it's got. You've been inside a man six years and said no to it every single night. That's not a piece of a wall. I don't know what that is."
+He rubbed his face with both hands.
 
-He breathed.
+"It's because a thing doesn't get owed anything. You can use a thing. You can feed it and drill it and put it in a guard's hip seam and never once ask what that was like for it, and none of that is rude, because it's a thing." He let out a breath. "You've been in me six years. You've never asked me for anything. Not once. Everybody else on this rock wants something off me, including the dead ones, and you've wanted nothing, and I've paid you back by calling you *it* for six years so I wouldn't have to think about it."
 
-"Nobody's ever asked it what it wanted. Nobody's ever asked you either. So I'm asking. You, not it."
+The room breathed. Nothing answered, because nothing could.
 
-He said it in the old tongue, plainly, the way you would say it to a man on the shelf beside you.
+"And the wall's just told me the rest of it, which is that you didn't even come back for me. You came back because you'd grown the wrong shape and there was nowhere else to go." He laughed once, with no sound in it. "Six years I've been quietly assuming I was special. Turns out I was the only door that was open."
 
-"What do you want."
+He put his hand flat on his chest, over the place where a mind had stopped on a deck.
 
-It had no words. It could not answer.
+"Doesn't change anything, though. That's the part I've just got to. You could have torn out through me any night of the last six years the way the other eight did, and you'd have been within your rights, and you never have." He was quiet a moment. "So you're getting a name. Not because it does anything. I've checked; it doesn't do anything. You're getting one because I've been rude to the only thing in my life that's never asked me for a single thing, and I've noticed, and I'd like to stop."
 
-But it did what it had done on the road. It turned round inside him and looked at him, and for the first time in six years he felt something come back that was not listening, not leaning, not hunger. It was a want, and it had a shape, and he could feel the edges of it the way he could feel the size of the hunger.
+It turned round inside him and looked at him. He felt it do it. He had felt that twice before in six years and both times something enormous had happened afterwards, and he sat very still.
 
-He worked the edges out sitting there in the dark, and it took him about a minute, and then he laughed once with no sound in it, because of course.
-
-Six years it had lain under his ribs while a man said names into the dark. Every night. Corr. Tom Vale. Mara. Six hundred and forty-two on a road with the endings right. It had worked out what a name was for, in the only way it worked anything out, which was by watching: a thing with a name stayed. The man had a place in him where he kept them, and it was the only room in him that was not a debt.
-
-Everything in his life had a name in it except the thing that had saved it.
-
-He put his hand flat on his chest, over the place where a mind had stopped on a deck six years ago.
-
-"You want one," he said. "That's it, isn't it. That's the whole of it." He shut his eyes. "I've been calling you the thing since I was seventeen. The old man told me that was wrong and I didn't listen, because I was busy, and because it's easier to owe a thing than to owe somebody." He breathed out. "So, no. I haven't got one. Not tonight. But I'll find it, and when I've got it I'll say it on the road with the rest, at the top, above his. You were here first."
-
-It could not answer. But it turned back from looking at him and settled, and listened, and something in the listening was different. He did not have a word for that one either.
-
-"I'm going to have to get good at names," he said. "Fast."
+"I haven't got one yet," he said. "Give me a week."
 
 ---
 
@@ -216,11 +216,11 @@ Ulli looked at him a long moment and didn't say it would pass, because he didn't
 
 "What?"
 
-"It's got one more name than it had," Ulli said. "And it didn't take it. It was given."
+"It gave you something," Ulli said. "And you didn't take it. It was given."
 
 "Given."
 
-"By something that's been in that room longer than the Empire, to a man who walked all the way down to ask it a question instead of taking what he wanted. That's not nothing, cut one."
+"Nobody down here has ever been given anything by that wall, cut one. It takes. That's the whole of what it does; I've watched it do it forty-three times." He shook his head slowly. "You walked all the way to the bottom to ask it a question instead of putting a chisel in it, and it gave you something. I don't know what that is. I'd like to."
 
 "It's not nothing to me either."
 

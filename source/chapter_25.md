@@ -182,7 +182,7 @@ Jonah said, "There's not two. I'd know. I've been counting things on this road f
 
 Pell said nothing more. After a while he sang the song from the north forty, the one with the drainage in it. Jonah lay under it and thought about a woman with a book that was not the College's. She had read six hundred and forty-two names all night, and looked up from the last line to say, mark him void.
 
-She had the book of names in her lap now. Not a copy. The slabs, going up the Throat tomorrow in the arms of the only Stripe who had ever asked his name.
+She had the old man's slabs in her lap now. Not a copy. The sixteen of them, going up the Throat tomorrow in the arms of the only Stripe who had ever asked his name.
 
 He did not know what she would do with it. He knew her heart had been fast and steady. He knew she had told a Master he was wrong, before the whole line.
 

@@ -134,7 +134,7 @@ Jonah did not move.
 
 "Polite."
 
-"It went home through your hands and turned around because you asked. It stood still for six hours because you asked. It gave a piece of itself to a Flamen's rod so that the rest could stay. You did not ask for that. It did it, and it made a sound. You have never once since then said to it, what did that cost you. It has been polite for five years to a man who calls it a thing."
+"It came back to you out of a wall the size of a moon and has never once tried to leave since. It stood still for six hours because you asked. It gave a piece of itself to a Flamen's rod so that the rest could stay. You did not ask for that. It did it, and it made a sound. You have never once since then said to it, what did that cost you. It has been polite for five years to a man who calls it a thing."
 
 "What do I do?"
 

@@ -54,7 +54,7 @@ Come. You are mine. You were taken. Come.
 
 Not to the piece in his hand. To every piece. It was saying it to the Shallows and the Deep and the casks going up the Throat. To every cutting in every Blank's arm on every moon of the Limes. To every Thinstripe's plate. To every ancestral genius in every Broadstripe house with a name and a shrine. Four hundred years of pieces cut off it and carried away. It had been calling all of them, every hour, and none of them could hear. The part that could hear had been cut out of them before they were given to a man.
 
-His was the first. The lorica in his hand was the first piece in four hundred years that could hear its mother say come. It had heard. It had gone. It had turned around at the door because a man on the floor said Tom Vale.
+His was the first. The lorica in his hand was the first piece in four hundred years that could hear its mother say come. It had heard. It had gone. And it had come back, which nothing in the Empire had ever done, and Jonah still did not know why.
 
 He went to take his hand off the wall.
 
@@ -122,11 +122,11 @@ Jonah had a comparison ready, about a man who chose fear and called it caution, 
 
 ---
 
-"So what does it want from me," Jonah said. "Not from the pieces. Me. It let go on the nineteenth day. It let go tonight. Twice it's had me and twice I've walked off with a mouthful of it. You say it can't stop a piece of itself, but it's the size of the Pit. It could have kept the door shut. It didn't. Why?"
+"So what does it want from me," Jonah said. "Not from the pieces. Me. Twice now it's had me, on the nineteenth day and again tonight, and twice I've walked off with a mouthful of it. It's the size of the Pit. It could have kept the door shut both times. It didn't. Why?"
 
 The Censor did not answer at once.
 
-"I have thought about that every night since you tapped four four seven one on my wall. Remember that I have been wrong about the wall before." He folded his hands. "I think it does not know what you are either. It reached for you on the nineteenth day and found a piece of itself already there, whole, that could hear it. The first in four hundred years. It said come, because that is all it knows how to say. The piece went, and turned around, and came back with a mouthful. I think the wall felt that. For four hundred years it has had nothing to think about but come. Now it has this."
+"I have thought about that every night since you tapped four four seven one on my wall. Remember that I have been wrong about the wall before." He folded his hands. "Here is my guess, and it is only that. I do not think it could have kept the door shut. I think it had hold of your lorica on the nineteenth day, with the whole of itself, and could not put it anywhere. A piece that has been a month in a man is not the piece that was cut out. It has grown a shape. There was no hole in that wall the shape of what came back to it." A cough. "So it let go, the way a man lets go of a thing too hot to hold, and told itself afterwards that it had chosen to. I have watched the Senate do the same. Then the piece bit it on the way out and it could not stop that either, and for four hundred years it has had nothing to think about but come, and now it has this to think about instead."
 
 "This."
 

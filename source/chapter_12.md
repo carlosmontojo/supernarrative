@@ -12,7 +12,11 @@ Bricks looked at him.
 
 "Nobody likes the walk."
 
-"I do. It's quiet. There's nobody on it asking me what I am." "You've got a hand that doesn't work and a bucket to carry, and a decury a man short at the wall because I'm cut. Everyone knows I'll be back in the Cradle by spring. Put me on the haul. I'm no use at the wall. Corr'll tell you."
+"I do. It's quiet. There's nobody on it asking me what I am."
+
+Bricks said nothing, so he kept going.
+
+"You've got a hand that doesn't work and a bucket to carry, and a decury a man short at the wall because I'm cut. Everyone knows I'll be back in the Cradle by spring. Put me on the haul. I'm no use at the wall. Corr'll tell you."
 
 He had counted, to get here. Two nights on the shelf, counting as the rock said. Who owed. Who feared. Bricks owed him the bowl: a foreman given his soup back in front of sixty men has a debt he cannot pay and cannot forget. Decimus brought things down, a bandage, a warning, and could be asked for one small thing that cost him a mark on a list. And nobody in the history of the Pit had ever asked for the haul.
 
@@ -54,7 +58,11 @@ What he wanted to say was that he was sorry to be spending the one kindness in t
 
 Ulli looked at him for a while.
 
-"It talks to you," he said. "Not taps. Talks. I've heard it. Every night for a month, you and it, on the road. I sit here and I don't tap, because I don't know what taps back." "What does it want?"
+"It talks to you," he said. "Not taps. Talks. I've heard it. Every night for a month, you and it, on the road. I sit here and I don't tap, because I don't know what taps back."
+
+He looked up.
+
+"What does it want?"
 
 "To come out."
 
@@ -78,7 +86,7 @@ He went up the road.
 
 On the third night Jonah stood at the back of the Cradle in the whole dark with the Vein warm behind him and waited for a rock to open.
 
-The rock had tapped that morning: *Tonight. The Cradle. Stand at the back. Do not bring a light. T*he steel door was two hundred paces down the road, with a foreman at the buckets and a guard at the cage. And he did not know the rock was old. He knew it tapped old. He did not know what tapped back.
+The rock had tapped that morning: *Tonight. The Cradle. Stand at the back. Do not bring a light.* The steel door was two hundred paces down the road, with a foreman at the buckets and a guard at the cage. And he did not know the rock was old. He knew it tapped old. He did not know what tapped back.
 
 He stood with his hands open. The lorica leaned toward the rock on his left, where the tapping had come from.
 
@@ -190,11 +198,13 @@ Jonah sat very still.
 
 "And in the seventh chamber it went home."
 
-"The wall called it. Any man in the Empire would tell you that is the end, that is what the Cradle is for. You lay in the dark saying the names of everyone you had ever loved or killed, and it turned around at the door and came back."
+"The wall called it, and it went. Any man in the Empire would tell you that is the end; that is what the Cradle is for." The old man leaned forward. "And then it came back."
 
-"You told me to."
+"You told me to let go."
 
-"I told you to give it a name. I did not tell you to give it forty. I did not know that was possible. I have read every page the College has on the Matter and there is no page for a seed that turns around." "And it took a mouthful going out. It bit its mother on the way back through the door, and she could not stop it, because she is one thing and does not know how to stop a piece of herself. Do you understand what that means?"
+"I told you to let go so that you would stop tearing yourself in half, and because a man who dies in nine hours bores me and a man who dies in four minutes at least does it having tried something. I expected you to die." He said it without apology. "What I did not expect, and what no page in the College has ever recorded, is that the wall would not take it. I have read everything ever written on the Matter. A piece goes home and the wall receives it. That is the one thing the whole Empire is sure of, because it is what makes a cask worth loading." A cough. "Yours went home and did not fit. It had been a month inside a man and it had changed shape, and there was no hole in that wall the shape of what it had become. So it came back to the only other place it had ever been, and on the way out it bit its mother, and she could not stop it, because she is one thing and does not know how to stop a piece of herself.
+
+"Do you understand what that means?"
 
 "No."
 

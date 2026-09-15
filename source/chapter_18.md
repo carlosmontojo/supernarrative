@@ -126,7 +126,7 @@ Enough, he thought.
 
 It didn't stop.
 
-He thought it again, in the old tongue. Enough. Stop. The lorica, which had stood in a doorway for stop a hundred times, which expected the names, which had made a hook because he asked, heard him and kept eating. It had just learned the size could be filled, and that he'd let it. The old man had said it wouldn't stop asking. It wasn't asking.
+He thought it again, in the old tongue. Enough. Stop. The lorica, which had stood in a doorway for stop a hundred times, which had never once disobeyed him, which had made a hook because he asked, heard him and kept eating. It had just learned the size could be filled, and that he'd let it. The old man had said it wouldn't stop asking. It wasn't asking.
 
 He took his hand off the wall.
 

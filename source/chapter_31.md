@@ -122,7 +122,7 @@ It was not a sound. He was matter; there was no sound in him. It was not the old
 
 Name.
 
-He could not answer. A slab does not speak. He lay held and felt it wait, polite, listening, as it had waited under the glass. He understood, from a long way off, that it was not asking for its own name. It had that. He had said it in the only room in the Pit that knew what a name was for, and it had turned all the way round and stayed.
+He could not answer. A slab does not speak. He lay held and felt it wait, polite, listening, as it had waited under the glass. He understood, from a long way off, that it was not asking for its own name. It had that; he had given it that in a stone room a year ago and had been using it every day since.
 
 It was asking about the road. It had felt a man go through it there, all of him, a guard with his rifle down, because it had not been asked to stand between. It had carried that for thirty days, turning it over, interested. It had no word for it. It had used the only word it had.
 
@@ -134,7 +134,9 @@ Decimus Alba. Of Etruria. Sula's father.
 
 Tacitus took it.
 
-He felt it take the name with its whole attention, and turn it over, and put it somewhere. It had never put anything anywhere before that was not matter, or a shape, or a want. This was a man. It had let a man go through it, and now it had a man in it, and the man's name was the first word it had ever said. It would learn the world through names. He had given it the wall's name, the old man's, its own. It had never said one word back. Now it had said one, and the word was a request, and he had answered it.
+He felt it take the name with its whole attention, turn it over, and put it somewhere. It had never put anything anywhere before that was not matter, or a shape, or a want. This was a man.
+
+Six years he had talked at it in the dark, on roads and shelves and floors, mostly because there was nobody else, and it had never once given him anything back. Now it had asked him a question, in one word, and he had answered it, and he lay at the bottom of a well as a slab and could not even say how that felt.
 
 It was quiet a long time.
 
