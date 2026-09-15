@@ -120,7 +120,7 @@ It didn't go in and come out. It bent. He watched it on the back of his own wris
 
 Jonah looked at the hook on his wrist and laughed.
 
-It wasn't the laugh from the Cradle. It was the other one, from the Deep road, the night the rock said LATE. The Censor heard it. Something crossed the old man's face in the lamp, the grief with something else under it.
+It wasn't the laugh from the Cradle. It was the other one, from the Deep road, the night the rock said *Late*. The Censor heard it. Something crossed the old man's face in the lamp, the grief with something else under it.
 
 "Yes," the Censor said, very quietly. "That's what I hid in a box."
 

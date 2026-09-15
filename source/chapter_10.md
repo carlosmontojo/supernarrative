@@ -140,51 +140,53 @@ He had grown up in the yards. Cutter's boy at nine, cutter at twelve, pilot at f
 
 This was not yard-tap. It was slower, and the gaps were wrong. But it was close. Close enough that if you knew the one you could feel the shape of the other. He lay with his head against the rock and felt the shape, and it said:
 
-CUT ONE.
+*Cut one.*
 
 He did not move. The cold had his body, and he was listening.
 
-CUT ONE. HEAR ME.
+*Cut one. Hear me.*
 
 He got his hand up. It took a long time. He got the knuckles onto the rock beside his head and tapped, in yard-tap, because it was what he had. Four and a pause. Four and a pause. Seven and one. The rock was silent. Then it tapped back, slow, in his own code, badly. A man speaking a language he had only ever read.
 
-FOUR FOUR SEVEN ONE. GOOD. LISTEN. IT IS GOING.
+*Four four seven one. Good. Listen. It is going.*
 
 Yes, Jonah tapped.
 
-YOU CANNOT HOLD IT. NO ONE CAN. DO NOT TRY.
+*You cannot hold it. No one can. Do not try.*
 
 I know.
 
-GIVE IT A NAME.
+*Give it a name.*
 
-He lay with his knuckles on the rock and did not understand. The cold had reached his shoulders. He tapped, slowly, because slow was what he had:
+He did not understand. The cold was at his shoulders now. He tapped back, slowly, because slow was all he had:
 
-It has one.
+I don't have one for it.
 
-NOT FOR IT. TO IT. A pause. Then harder, faster, a man who has waited a long time to say something and found the words wrong. THINGS WITH NAMES STAY. IT DOES NOT KNOW WHAT A NAME IS. IT KNOWS WHAT THE WALL IS. THE WALL HAS EVERY NAME IT EVER TOOK. GIVE IT ONE THE WALL DOES NOT HAVE.
+*Not a name for it. Names. Yours. Say them out loud where it can hear.*
 
-Jonah lay in the dark.
+Why, he tapped.
 
-Ulli had gone very quiet. Ulli, who did not answer the rock, was listening to a dying man tap on a wall with his knuckles and get tapping back, and saying nothing. Jonah was grateful for that, from the middle of the cold.
+The answer came harder and faster, a man who had waited a long time to say something and could not get it short enough.
+
+*Because it is leaving and you have nothing to offer it that the wall cannot. Except that. Listen. The wall keeps every name it has ever taken. That is all it has: dead men off this rock. It has never had a living one. It cannot. Nobody walks out of here.*
+
+Jonah lay in the dark with his knuckles on the rock and got it, all at once, the way you get a number.
 
 "What's it saying?" Ulli said, low.
 
-"Give it a name."
+"It says say names."
 
-"Give what a name?"
+"Whose?"
 
-"What I've got."
+"Mine. People I know." His jaw was going stiff. "It's going home, Ulli. There's nothing on this side worth staying for. The wall's four hundred years of everybody it's killed, and that's the only thing it's ever had to show anyone."
 
-Give it a name. The wall sang names, Ulli said. Everybody it had taken. It had them all and went through them. It counted. And what was half out of him, going home, was going back to be counted. One more in the count.
+"And you've got what?"
 
-Unless it had something the count did not.
+"People who are still alive."
 
-He had no name for it. He'd tried, on his back in the tenements with a blanket over the vent. It had listened, and had no name. It had come out of a box.
+He heard himself say it and understood the size of it. That was the whole of the trade. The thing under his ribs had been in the world a month and had never once been given anything; everything it had, it had taken, off a dead decurion and a dead shackle and him. On the other side of that door was a mind the size of the planetoid that could say exactly one word, and had been saying it for four centuries.
 
-But he had names.
-
-He had a great many. He'd been keeping them. He had never once thought of them as something he could give.
+He was the only thing it had ever touched that could say more than one.
 
 He opened his mouth. His jaw was cold.
 
@@ -206,25 +208,25 @@ It had stopped going.
 
 He felt that. He'd felt it stop on the derelict when it found his heart. It had stopped now, half out, in the warm, with the wall saying come. It was listening. It always listened. And it did not know what a name was, and it was interested.
 
-"Pell. Sings to the floor. His brother's in your wall. Corr. Says a month. Bricks. I broke his hand and he didn't understand. Decimus. He brought a bandage down ten kilometres for a number."
+"Pell. Sings to the floor; his brother's in your wall. Corr, who says a month to everybody. Bricks. I broke his hand and he still doesn't know why. Decimus, who carried a bandage ten kilometres down a shaft for a number."
 
 "Cut one," Ulli said. "What are you doing?"
 
-What he did not say was the boy's name, because he had never had it. What he gave instead was everything else he did have, and it suddenly seemed a very small thing to offer a dead stranger.
+Jonah kept going. Not fast. One at a time, everything he had on each one, because a name on its own was just a noise and the noise was not the point.
 
-"Hask." His throat closed and he made it open. "Hask. I killed him. He was nothing, and I killed him, and I've got him. A boy from Marl who said no once. I don't know his name. I'm sorry. I don't know it. He should have one anyway," Jonah said. "Even if I have to make it up."
+"Hask. I killed him in a corridor and he was nothing and I've still got him." His throat shut. He made it open. "A boy from Marl who said no once, and I don't know his name, and I'm sorry. He should have one anyway."
 
 He was shaking.
 
-"Varro. Titus Varro. I killed him too. He's in my feet. He laughed at you. Morrow. Livia."
+"Titus Varro. Killed him too. He's in my feet."
 
-He stopped on that one. He hadn't meant to say it. It was out in the warm dark now and he could not take it back.
+Then the one he had not meant to say, which came out in the warm dark before he could stop it and could not be taken back.
 
-"Livia Vibia. She brought me water in a cup. She asked my name. She's asleep on Anvil believing something her brother said. It wasn't true, and she doesn't know, and nobody's going to tell her. I said hers to the dark on the transport because it was the last true thing."
+"Livia Vibia. Brought me water in a cup and asked what I was called. She's asleep on Anvil right now believing something her brother told her, and it isn't true, and nobody's ever going to tell her."
 
-His whole body was shaking now.
+His whole body was shaking.
 
-"Priscus. Marcus Vibius Priscus. He burned it. He put his hand on my shoulder and told me to be precise." A breath. "I'm going to be precise."
+"Marcus Vibius Priscus. Burned the seal. Put his hand on my shoulder and told me to be precise." A breath. "I'm going to be precise."
 
 It turned around.
 
@@ -232,11 +234,13 @@ It turned around.
 
 He would never be able to say what that was like, either.
 
-It had been half out, in the wall, in the warm, going home to be counted. It turned and looked back at the man on the floor saying names. The wall said come, with everything it had. It did not go.
+It had been half out, in the warm, going home. It turned and looked back at the man on the floor saying names, and the wall said come with everything it had, and it did not go.
 
-It did not know what a name was. He was sure of that. It did not know what a father was, or a captain, or a sister, or a boy who said no. But it had listened to every one of them, and heard something in them the wall did not have. The wall had every name it had ever taken. It had just heard a man give it all of his.
+He was sure it did not know what a name was. It did not know what a father was, or a captain, or a girl with a cup. But it had been listening to all of them, and it had spent a month reading Jonah from the inside, and it worked out on that floor the thing the wall could never show it: that on this side of the door there were other people, and they were not a count, and every one of them was different.
 
-Not to keep. He was giving them the way you give something to a man who is leaving, so he'll have it where he's going.
+The wall had four hundred years of one word. Jonah had fourteen names and no two of them alike.
+
+It was not loyalty. It was not love. It was the first interesting thing that had ever happened to it.
 
 It came back.
 
@@ -270,13 +274,13 @@ The rock tapped.
 
 He got his knuckles up. Easier now. The cold was gone from his arms.
 
-NUMBER, the rock said.
+*Number,* the rock said.
 
 Four four seven one, he tapped.
 
 A long pause. Ulli had stopped breathing beside him, or gone so quiet it was the same. Then the rock tapped, slowly, in his own yard code, done badly, by someone who had waited a long time to say it to a man who could hear:
 
-COUNTED.
+*Counted.*
 
 Then nothing. The rock was rock. The Vein breathed against his back, warm, kind, wanting him. Behind his heart, it rested and said nothing, because it had never said anything. Ulli sat in the dark and did not sing.
 

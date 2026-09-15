@@ -68,7 +68,7 @@ The third night the same.
 
 The fourth night, halfway through his count, the rock tapped.
 
-"LATE."
+"*Late.*"
 
 ---
 
@@ -78,11 +78,11 @@ Something behind a steel door had told him, in his own code, done badly, that he
 
 "I had buckets," he tapped.
 
-"EVERYONE HAS BUCKETS. YOU HAVE THIRTY NIGHTS. I HAVE COUNTED THREE. DO NOT WASTE THEM."
+"*Everyone has buckets. You have thirty nights. I have counted three. Do not waste them.*"
 
 "Who are you?"
 
-"THE ROCK."
+"*The rock.*"
 
 He laughed again. Down the road a lamp swung: the Deep foreman coming back for a count. He picked up the buckets and went. The rock said nothing else that night.
 
@@ -90,21 +90,21 @@ He laughed again. Down the road a lamp swung: the Deep foreman coming back for a
 
 The lessons started on the fifth night. He did not know they were lessons until the seventh.
 
-"DOES IT COME OUT AT NIGHT," the rock tapped.
+"*Does it come out at night,*" the rock tapped.
 
 It did. Since the Cradle it had rested, and rest had made it stronger. At night on the shelf it came up into his arms and back, ready, and did not always wait to be asked. Twice it had put plate on his hands in his sleep. Once on his face. He had woken with dark glass over his mouth and lain still until it went back in.
 
 "Yes," he tapped.
 
-"HOW DO YOU HOLD IT."
+"*How do you hold it.*"
 
 "I don't. I push it down. Holding breath."
 
-"THAT IS WHY IT COMES OUT. YOU CANNOT HOLD BREATH FOR SIX YEARS. WHAT DID YOU DO IN THE CRADLE."
+"*That is why it comes out. You cannot hold breath for six years. What did you do in the Cradle.*"
 
 "Said names."
 
-"DO THAT."
+"*Do that.*"
 
 Nothing more. The rock said its piece and stopped, and left him to find the rest on the road with the buckets.
 
@@ -136,15 +136,15 @@ Jonah said the rest, all fourteen, quietly, to the end.
 
 The plate went in. Not because he had pushed. It had stayed for the names once, at a door, and it had learned something there. When the names were being said, it wanted to be in, listening. By the last name it was asleep, if it slept, and so was Pell.
 
-"HOW MANY," the rock tapped, the next night.
+"*How many,*" the rock tapped, the next night.
 
 "Fourteen."
 
-"SAY THEM EVERY NIGHT. ADD ONE WHEN YOU HAVE ONE. IT WILL COME TO EXPECT THEM. THINGS THAT EXPECT DO NOT WANDER."
+"*Say them every night. Add one when you get one. It is a thing that learns, and there is nothing left in that wall to learn. Keep handing it something new and it will keep choosing you over its mother. That is the whole trick. There is no other.*"
 
 "What are you, that you know that?"
 
-"OLD."
+"*Old.*"
 
 ---
 
@@ -156,25 +156,25 @@ This time he had not fed it. He was halfway past the Cradle with the road empty 
 
 "It's happening again. The fever. I didn't feed it."
 
-"YOU DID. YOU CARRIED. IT LEARNS FROM THE BODY WHEN THE BODY IS USED HARD. THAT IS WHAT THE FEVER IS. NOT SICKNESS. GROWTH. IT WILL HAPPEN FOR THE REST OF YOUR LIFE. SIT DOWN."
+"*You did. You carried. It learns from the body when the body is used hard. That is what the fever is. Not sickness. Growth. It will happen for the rest of your life. Sit down.*"
 
 He sat with his back to the warm rock. So it had been eating him. All day at the wall, quietly, some small part of the standing and the carrying. It was bigger, and not from the Vein. From him.
 
-"BREATHE. COUNT THE BREATHS. IN THE OLD TONGUE."
+"*Breathe. Count the breaths. In the old tongue.*"
 
 "I don't know the old tongue."
 
-"YOU SAID THE PRAYER TO MARS IN IT IN FRONT OF A PROVINCE WITH THE ENDINGS RIGHT. I HEARD."
+"*You said the prayer to Mars in it in front of a province with the endings right. I heard.*"
 
 He sat very still. He had said it, in the Cradle. He had said, Livia Vibia, she asked my name. He had said Priscus. He had said everything, all of it, to a thing in a doorway, with a rock behind his head. The rock had been listening.
 
 "You heard all of it," he tapped.
 
-"EVERY NAME. I AM THE ROCK. IT IS WHAT I DO." A pause. "UNUS. THAT IS ONE. DUO. TRES. QUATTUOR. BREATHE ON EACH. SLOWLY. THE FEVER GOES FASTER IF THE BODY IS BUSY WITH SOMETHING THAT IS NOT THE FEVER."
+"*Every name. I am the rock. It is what I do.*" A pause. "*Unus. That is one. Duo. Tres. Quattuor. Breathe on each. Slowly. The fever goes faster if the body is busy with something that is not the fever.*"
 
 He breathed. Unus. Duo. Tres. At twenty the rock taught him twenty. At fifty it taught him fifty. The heat went out of him a little on each number. By the time the Deep foreman's lamp came down the road he was on his feet with the buckets. He could count to a hundred in the language of the men who had put him here.
 
-"QUICK," the rock tapped, before the lamp reached him. "YOU WILL DO."
+"*Quick,*" the rock tapped, before the lamp reached him. "*You will do.*"
 
 ---
 
@@ -182,7 +182,7 @@ The rock was a man. He worked that out by paying attention.
 
 It was tired some nights and sharp on others. It made mistakes in the code and corrected them. On the fourteenth night it did not answer at all. On the fifteenth it tapped first, before he had said his number.
 
-"VISITORS."
+"*Visitors.*"
 
 Nothing else. Tullus's men had been down with their lamp, then. The rock had a door, and men who came to it.
 
@@ -192,31 +192,31 @@ And it was funny. He had not expected that, and it was what kept his legs moving
 
 "Deep foreman says the buckets are lighter if you think about the Princeps," he tapped, on the eleventh night.
 
-"THE PRINCEPS THINKS ABOUT BUCKETS EVERY DAY. HE HAS A GREAT MANY."
+"*The Princeps thinks about buckets every day. He has a great many.*"
 
 He laughed until he had to put the buckets down.
 
 He tried to get one past it and could not. "I saw a Flamen once who couldn't read his own glass."
 
-"ONLY ONCE. THEY PROMOTE THOSE."
+"*Only once. They promote those.*"
 
 "Corr used to say a month."
 
-"CORR HAS SAID A MONTH TO SIX HUNDRED MEN. HE IS THE MOST OPTIMISTIC MAN IN THE PIT. HE HAS BEEN RIGHT ABOUT NONE OF THEM."
+"*Corr has said a month to six hundred men. He is the most optimistic man in the Pit. He has been right about none of them.*"
 
 He had to lean on the wall for that one.
 
 Under the jokes, every night, a lesson. Say the names. Count the breaths. Do not push it, ask it.
 
-"WHEN IT COMES OUT ON YOUR HANDS IN THE DAY, AND IT WILL, PUT YOUR HANDS IN THE BUCKET. THE SHARDS HIDE THE PLATE FROM A LAMP FOR ONE BREATH. THAT IS ALL YOU NEED."
+"*When it comes out on your hands in the day, and it will, put your hands in the bucket. The shards hide the plate from a lamp for one breath. That is all you need.*"
 
 "And my face?"
 
-"TURN TO THE WALL. NEVER LET IT EAT AT THE WALL IN FRONT OF A MAN. THE WALL GOES DARK WHERE IT EATS. CORR IS A FOOL. HE IS NOT BLIND."
+"*Turn to the wall. Never let it eat at the wall in front of a man. The wall goes dark where it eats. Corr is a fool. He is not blind.*"
 
 "Corr's not a fool."
 
-"NO. HE IS NOT. DO NOT TELL HIM I SAID SO."
+"*No. He is not. Do not tell him I said so.*"
 
 He tried the bucket two days later, at the wall, when the plate came up on his knuckles at midday. Hands in among the shards, for one breath. Bricks looked at the bucket and then at him.
 
@@ -228,21 +228,21 @@ He tried the bucket two days later, at the wall, when the plate came up on his k
 
 ---
 
-"WHAT DO THEY CALL YOU ON THE ROAD," the rock tapped, on the twenty-first night.
+"*What do they call you on the road,*" the rock tapped, on the twenty-first night.
 
 "Cut one. Four four seven one. Ghost, sometimes. The one who turned around."
 
-"AND BEFORE."
+"*And before.*"
 
 "Vale."
 
-"I KNOW THAT. BEFORE THAT. IN THE YARDS."
+"*I know that. Before that. In the yards.*"
 
 It was a long way back. "Jonah. My mother chose it. My father says it's a sailor's word. A man who's bad luck for a ship."
 
 The rock was quiet for a moment.
 
-"THEN SHE CHOSE WELL. YOU HAVE BEEN VERY BAD LUCK FOR AT LEAST ONE SHIP." Then, quicker: "HOLD OUT YOUR HAND. THE RIGHT. BRING THE PLATE UP ON THE BACK OF IT. ONLY THE BACK. ONLY THE HAND. THEN PUT IT AWAY. DO IT UNTIL THE LAMP COMES."
+"*Then she chose well. You have been very bad luck for at least one ship.*" Then, quicker: "*Hold out your hand. The right. Bring the plate up on the back of it. Only the back. Only the hand. Then put it away. Do it until the lamp comes.*"
 
 He held out his right hand in the dark and brought the plate up on the back of it. A patch of dark glass the size of a palm. Nothing else. He put it away. He brought it up. He put it away. The lorica had never in its life been asked for so little. It did it, interested, and did it again. By the thirtieth time it was doing it before he finished asking. The fever came, small and warm. He counted it down in the old tongue and kept going.
 
@@ -250,7 +250,7 @@ Something clicked. Small. A lock going over.
 
 He had felt it in the sand, in the hold, in the Cradle. The coat got bigger. From nothing. From a hand. From doing one thing thirty times in the dark because a rock said to.
 
-"GOOD," the rock tapped. "THAT IS DRILL. IT IS SLOW. IT IS THE ONLY ONE OF THE THREE YOU CAN DO WITHOUT ANYONE DYING. LEARN TO LIKE IT."
+"*Good,*" the rock tapped. "*That is drill. It is slow. It is the only one of the three you can do without anyone dying. Learn to like it.*"
 
 "What are the other two?"
 
@@ -264,43 +264,43 @@ On the twenty-ninth night he asked the question he had carried since the fourth.
 
 The rock said nothing for a long time. Long enough that he thought it had gone, or the men had been down, or he had tapped it wrong.
 
-"BECAUSE YOU TURNED AROUND."
+"*Because you turned around.*"
 
 "That's not an answer."
 
-"IT IS THE ONLY ONE THERE IS." A pause. When the taps came again they were slower, and he knew the rock well enough now to hear that the slowness was not tiredness. "I HAVE BEEN BEHIND THIS DOOR TWENTY YEARS. I HAVE HEARD EVERY MAN THEY LAID IN THAT CRADLE GO INTO THE WALL. I HAVE TAPPED TO SOME. NONE HEARD. THE WALL HAD THEM BEFORE THEY COULD LISTEN. AND THEN A CUT ONE LAY DOWN IN IT AND STARTED SAYING NAMES. HE SAID MINE."
+"*It is the only one there is.*" A pause. When the taps came again they were slower, and he knew the rock well enough now to hear that the slowness was not tiredness. "*I have been behind this door twenty years. I have heard every man they laid in that Cradle go into the wall. I have tapped to some. None heard. The wall had them before they could listen. And then a cut one lay down in it and started saying names. He said mine.*"
 
 Jonah stood very still.
 
 "I didn't say your name. I don't know it."
 
-"YOU SAID VIBIUS."
+"*You said Vibius.*"
 
 The Vein breathed. The road was empty. Far up the shaft a bell rang for the change of shift and he did not hear it.
 
 "I don't understand," he tapped.
 
-"NO. YOU DO NOT. YOU HAVE A THING IN YOU THAT SHOULD NOT EXIST AND A SENATOR'S SEAL BURNED IN A BRAZIER ON A MOON YOU WILL NEVER SEE AGAIN. YOU UNDERSTAND NONE OF IT. THAT IS NOT YOUR FAULT. IT IS THE ONLY THING ABOUT YOU THAT IS NOT."
+"*No. You do not. You have a thing in you that should not exist and a senator's seal burned in a brazier on a moon you will never see again. You understand none of it. That is not your fault. It is the only thing about you that is not.*"
 
-Then harder, faster, the way it had tapped GIVE IT A NAME in the Cradle:
+Then harder, faster, the way it had tapped *Give it a name* in the Cradle:
 
-"TOMORROW IS THIRTY. THE HAUL ENDS. YOU WILL NOT PASS THIS DOOR AGAIN UNLESS YOU FIND A REASON. FIND ONE."
+"*Tomorrow is thirty. The haul ends. You will not pass this door again unless you find a reason. Find one.*"
 
 "How?"
 
-"YOU ARE QUICK. YOU HAVE A MOUTH. YOU HAVE A FOREMAN WITH A BROKEN HAND WHO OWES YOU AND A GUARD WHO BRINGS BANDAGES DOWN THE THROAT. YOU HAVE MORE THAN I HAD. FIND ONE."
+"*You are quick. You have a mouth. You have a foreman with a broken hand who owes you and a guard who brings bandages down the Throat. You have more than I had. Find one.*"
 
 "And then?"
 
-"AND THEN, IF YOU WANT OUT OF HERE, YOU WILL FIRST LEARN TO COUNT."
+"*And then, if you want out of here, you will first learn to count.*"
 
 "I can count. You taught me. Centum."
 
-"NOT BREATHS."
+"*Not breaths.*"
 
 He waited. The lamp was coming.
 
-"MEN. YOU WILL LEARN TO COUNT MEN. WHO OWES. WHO FEARS. WHO HAS A HAND ON WHOM AND WHY. ALL AT ONCE, WITHOUT LOOKING, AS YOU COUNT DEBRIS IN A RING, AND KNOW WHERE THE GAP IS. THAT IS THE FIRST THING. THE REST IS ONLY BLADES."
+"*Men. You will learn to count men. Who owes. Who fears. Who has a hand on whom and why. All at once, without looking, as you count debris in a ring, and know where the gap is. That is the first thing. The rest is only blades.*"
 
 The lamp reached him. He picked up the buckets.
 

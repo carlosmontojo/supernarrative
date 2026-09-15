@@ -28,17 +28,17 @@ Decimus looked at his list. Then he made a mark with the stub of a stylus and sa
 
 The rock, that night, tapped one word when he put his knuckles to it.
 
-"GOOD."
+"*Good.*"
 
-And then: "ULLI."
+And then: "*Ulli.*"
 
 He waited.
 
-"THE ONE WHO SINGS. HE HEARD ME IN THE CRADLE. HE HEARS ME NOW. HE SITS IN THE DEEP ROAD AND LISTENS TO US TAP AND SAYS NOTHING. I HAVE LISTENED TO HIM SIX YEARS. HE IS THE ONLY MAN IN THIS PIT WHO KNOWS WHAT THE WALL IS. GO AND FIND HIM. TELL HIM THE ROCK ASKS HIM TO SIT SOMEWHERE ELSE FOR THREE NIGHTS."
+"*The one who sings. He heard me in the Cradle. He hears me now. He sits in the Deep road and listens to us tap and says nothing. I have listened to him six years. He is the only man in this Pit who knows what the wall is. Go and find him. Tell him the rock asks him to sit somewhere else for three nights.*"
 
 "Why?"
 
-"BECAUSE ON THE THIRD NIGHT I AM GOING TO COME OUT, AND I WOULD RATHER HE DID NOT SEE THE DOOR."
+"*Because on the third night I am going to come out, and I would rather he did not see the door.*"
 
 ---
 
@@ -78,7 +78,7 @@ He went up the road.
 
 On the third night Jonah stood at the back of the Cradle in the whole dark with the Vein warm behind him and waited for a rock to open.
 
-The rock had tapped that morning: TONIGHT. THE CRADLE. STAND AT THE BACK. DO NOT BRING A LIGHT. The steel door was two hundred paces down the road, with a foreman at the buckets and a guard at the cage. And he did not know the rock was old. He knew it tapped old. He did not know what tapped back.
+The rock had tapped that morning: *Tonight. The Cradle. Stand at the back. Do not bring a light. T*he steel door was two hundred paces down the road, with a foreman at the buckets and a guard at the cage. And he did not know the rock was old. He knew it tapped old. He did not know what tapped back.
 
 He stood with his hands open. The lorica leaned toward the rock on his left, where the tapping had come from.
 
@@ -200,7 +200,7 @@ Jonah sat very still.
 
 "Good. Neither do I. That is where we will begin."
 
-Jonah looked at him. A thin straight old man with a white line across his arm, who had designed nothing that Jonah knew of yet and had told him everything else. What Jonah had carried since LATE was not gratitude and not trust. It was a question.
+Jonah looked at him. A thin straight old man with a white line across his arm, who had designed nothing that Jonah knew of yet and had told him everything else. What Jonah had carried since the fourth night of the haul was not gratitude and not trust. It was a question.
 
 "What do you want?" he said. "From me. You didn't tap to a dying man for twenty years to tell him a story. Everybody down here wants something. Auger wants the road to run. Bricks wants a shard. Decimus wants to go home. What do you want?"
 
@@ -216,7 +216,7 @@ Then he laughed. One breath through the nose, dry.
 
 "To learn what?"
 
-"Everything." The old man stood. His knees made no sound at all. "The words on the wall of that ship. MATER. LAMINA. SEMEN. You could read them and did not know what they meant. Tomorrow you will. The old tongue, all of it, so that when you stand in front of a Broadstripe you think in his language and he cannot tell. The law, every page, so that you know which pages you are not on. The Senate. The College. The houses, their fangs, their Forms, what each one is afraid of. How to stand. How to eat. How to be bored." He looked down. "And that."
+"Everything." The old man stood. His knees made no sound at all. "The words on the wall of that ship. *Mater. Lamina. Semen. Y*ou could read them and did not know what they meant. Tomorrow you will. The old tongue, all of it, so that when you stand in front of a Broadstripe you think in his language and he cannot tell. The law, every page, so that you know which pages you are not on. The Senate. The College. The houses, their fangs, their Forms, what each one is afraid of. How to stand. How to eat. How to be bored." He looked down. "And that."
 
 He nodded at Jonah's right hand.
 
@@ -248,6 +248,6 @@ The Censor stood with his back to Jonah and the lamp in his hand, and did not tu
 
 He stooped and went into the hole. The rock moved back across it without a sound.
 
-Jonah stood alone in the Cradle with the Vein warm at his back. Eleven months. Tom Vale had sold him the door. MATER, LAMINA, SEMEN. Mother, blade, seed. He had read it on a dead ship and had not known.
+Jonah stood alone in the Cradle with the Vein warm at his back. Eleven months. Tom Vale had sold him the door. *Mater, Lamina, Semen. M*other, blade, seed. He had read it on a dead ship and had not known.
 
 Then he went out to the road and picked up the buckets, because it was the haul, and he had asked for it.
