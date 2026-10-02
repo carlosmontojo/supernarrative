@@ -56,12 +56,19 @@ LY_STOPLIST = {
 
 UMBRALES = {
     "std_frase_min": 6.0,        # desviación típica de longitud de frase (palabras)
-    "mente_por_1000_max": 6.0,   # adverbios de manera (-mente / -ly) por 1000 palabras
+    "mente_por_1000_max": 16.0,  # adverbios de manera (-mente / -ly) por 1000 palabras (HWFWM ~14)
     "simil_por_1000_max": 3.0,   # "como" comparativo por 1000 palabras (aprox)
     "slop_por_1000_max": 1.0,
     "no_sino_por_1000_max": 0.8,
     "arranque_repetido_max": 0.18,  # fracción de frases que arrancan con la misma palabra
     "fragmento_final_parrafo_max": 0.30,  # párrafos que cierran con frase < 6 palabras
+    # Métricas page-turner (calibradas sobre 15k palabras de HWFWM: media 13.6, std 7.2,
+    # 1.3% frases >30 palabras, 27 palabras/párrafo, 0 guiones largos, 'said' casi único)
+    "media_frase_max": 16.0,          # media de palabras por frase
+    "frases_largas_pct_max": 4.0,     # % de frases con más de 30 palabras
+    "palabras_parrafo_media_max": 40.0,
+    "guion_largo_por_1000_max": 1.0,  # guiones largos (— –) por 1000 palabras
+    "said_ratio_min": 0.75,           # proporción de atribuciones que son said/asked
 }
 
 
@@ -101,6 +108,13 @@ def analyze_text(text, prev_texts=None):
         if last and len(last[-1].split()) < 6:
             frag_endings += 1
 
+    # Page-turner: guiones largos, tamaño de párrafo, atribuciones de diálogo
+    em_dashes = text.count("—") + text.count("–")
+    para_words = [len(p.split()) for p in paragraphs] or [0]
+    tag_said = len(re.findall(r"\b(said|asked)\b", low))
+    tag_other = len(re.findall(r"\b(replied|muttered|exclaimed|grinned|chuckled|smirked|murmured|snapped|hissed|breathed|drawled|quipped|retorted|deadpanned|intoned|declared|observed|remarked|whispered|growled|sighed|offered|managed|added|noted)\b", low))
+    said_ratio = round(tag_said / max(1, tag_said + tag_other), 2)
+
     # Muletillas: 4-gramas repetidos dentro del texto
     tokens = [w.lower().strip(".,;:!?…—«»\"'()") for w in words]
     grams = Counter(" ".join(tokens[i:i + 4]) for i in range(len(tokens) - 3))
@@ -132,6 +146,9 @@ def analyze_text(text, prev_texts=None):
         "slop_hits": slop_hits,
         "top_sentence_opener": {"word": top_opener, "fraction": round(top_count / n_sent, 2)},
         "fragment_paragraph_endings_pct": round(100 * frag_endings / max(1, len(paragraphs)), 1),
+        "em_dash_per_1000": round(1000 * em_dashes / n_words, 2),
+        "paragraph_words_mean": round(sum(para_words) / len(para_words), 1),
+        "said_ratio": said_ratio,
         "repeated_4grams": internal_rep,
         "pet_phrases_from_previous_chapters": cross_rep,
     }
@@ -157,6 +174,16 @@ def evaluate(metrics, anchor_metrics=None):
     if m["fragment_paragraph_endings_pct"] > UMBRALES["fragmento_final_parrafo_max"] * 100:
         warnings.append(f"El {m['fragment_paragraph_endings_pct']}% de los párrafos cierran con fragmento efectista. "
                         "Usado en exceso, pierde el efecto.")
+    if m["sentence_length_mean"] > UMBRALES["media_frase_max"]:
+        warnings.append(f"FRASE LARGA DE MEDIA: {m['sentence_length_mean']} palabras (page-turner ~13-15). Acortar.")
+    if m["long_sentences_pct"] > UMBRALES["frases_largas_pct_max"]:
+        warnings.append(f"Frases de más de 30 palabras: {m['long_sentences_pct']}% (máximo sano ~{UMBRALES['frases_largas_pct_max']}%).")
+    if m["paragraph_words_mean"] > UMBRALES["palabras_parrafo_media_max"]:
+        warnings.append(f"PÁRRAFOS LARGOS: media {m['paragraph_words_mean']} palabras (page-turner ~25-30). Partir.")
+    if m["em_dash_per_1000"] > UMBRALES["guion_largo_por_1000_max"]:
+        warnings.append(f"GUIONES LARGOS: {m['em_dash_per_1000']}/1000 (la prosa de referencia tiene 0). Sustituir por punto o coma.")
+    if m["said_ratio"] < UMBRALES["said_ratio_min"] and (m["dialogue_paragraph_pct"] > 10):
+        warnings.append(f"Atribuciones de diálogo rebuscadas: solo {int(m['said_ratio']*100)}% son said/asked. Usar 'said'.")
     for gram, count in m["repeated_4grams"][:3]:
         warnings.append(f"Muletilla interna: '{gram}' aparece {count} veces en el capítulo.")
     for gram, _ in m["pet_phrases_from_previous_chapters"][:3]:
