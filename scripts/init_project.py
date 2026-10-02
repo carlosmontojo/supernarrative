@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 """
-Narratium — Inicializar proyecto nuevo
-Crea un proyecto en la DB y opcionalmente carga reglas narrativas por defecto.
+SuperNarrative — Inicializar proyecto nuevo
+Crea la base de datos si no existe (aplicando db/schema.sql automáticamente),
+crea el proyecto y carga reglas narrativas por defecto.
 """
 
 import argparse
 import json
-import sqlite3
 import os
+import sqlite3
 import sys
-from datetime import datetime
 
+from _common import connect, fail, gen_id
+
+SCHEMA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                           "..", "db", "schema.sql")
 
 DEFAULT_RULES = [
     ("forbidden", "Nunca forzar exposición a través de diálogo inverosímil. Ningún personaje revela información clave a un desconocido sin motivación fuerte.", 10),
@@ -26,50 +30,60 @@ DEFAULT_RULES = [
 ]
 
 
-def create_project(db_path: str, name: str, genre: str = None, description: str = None,
-                   target_words: int = None, voice: str = "third_person",
-                   skip_defaults: bool = False) -> str:
-    """Crea un proyecto nuevo y retorna su ID."""
-    
+def ensure_database(db_path: str):
+    """Crea la DB desde el schema si no existe (en v0.1 había que ejecutar
+    sqlite3 a mano antes de poder hacer nada)."""
+    if os.path.exists(db_path):
+        return False
+    schema_file = os.path.normpath(SCHEMA_PATH)
+    if not os.path.exists(schema_file):
+        fail(f"No se encontró el schema: {schema_file}")
+    os.makedirs(os.path.dirname(os.path.abspath(db_path)), exist_ok=True)
     conn = sqlite3.connect(db_path)
-    conn.execute("PRAGMA journal_mode=WAL")
-    conn.execute("PRAGMA foreign_keys=ON")
-    cursor = conn.cursor()
-    
-    # Crear proyecto
-    cursor.execute("""
-        INSERT INTO projects (name, description, genre, target_word_count, narrative_voice)
-        VALUES (?, ?, ?, ?, ?)
-    """, (name, description, genre, target_words, voice))
-    
-    project_id = cursor.execute("SELECT id FROM projects ORDER BY created_at DESC LIMIT 1").fetchone()[0]
-    
-    # Cargar reglas por defecto
+    with open(schema_file, encoding="utf-8") as f:
+        conn.executescript(f.read())
+    conn.commit()
+    conn.close()
+    return True
+
+
+def create_project(db_path, name, genre=None, description=None,
+                   target_words=None, voice="third_person", skip_defaults=False):
+    db_created = ensure_database(db_path)
+
+    conn = connect(db_path)
+    project_id = gen_id()
+    conn.execute("""
+        INSERT INTO projects (id, name, description, genre, target_word_count, narrative_voice)
+        VALUES (?, ?, ?, ?, ?, ?)
+    """, (project_id, name, description, genre, target_words, voice))
+
     if not skip_defaults:
         for category, rule, priority in DEFAULT_RULES:
-            cursor.execute("""
-                INSERT INTO narrative_rules (project_id, category, rule, priority)
-                VALUES (?, ?, ?, ?)
-            """, (project_id, category, rule, priority))
-    
+            conn.execute("""
+                INSERT INTO narrative_rules (id, project_id, category, rule, priority)
+                VALUES (?, ?, ?, ?, ?)
+            """, (gen_id(), project_id, category, rule, priority))
+
     conn.commit()
-    
+    conn.close()
+
     result = {
         "status": "success",
         "project_id": project_id,
         "name": name,
         "genre": genre,
-        "rules_loaded": len(DEFAULT_RULES) if not skip_defaults else 0,
-        "message": f"Proyecto '{name}' creado con ID {project_id}"
+        "database": db_path,
+        "database_created": db_created,
+        "rules_loaded": 0 if skip_defaults else len(DEFAULT_RULES),
+        "message": f"Proyecto '{name}' creado con ID {project_id}",
     }
-    
-    conn.close()
     print(json.dumps(result, ensure_ascii=False, indent=2))
     return project_id
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Crear proyecto Narratium")
+    parser = argparse.ArgumentParser(description="Crear proyecto SuperNarrative")
     parser.add_argument("--name", required=True, help="Nombre de la novela")
     parser.add_argument("--genre", default=None, help="Género: thriller, fantasy, scifi, literary, horror, mystery, romance")
     parser.add_argument("--description", default=None, help="Descripción general de la novela")
@@ -77,22 +91,11 @@ def main():
     parser.add_argument("--voice", default="third_person", help="Voz narrativa: first_person, third_person, third_omniscient")
     parser.add_argument("--skip-defaults", action="store_true", help="No cargar reglas narrativas por defecto")
     parser.add_argument("--db", required=True, help="Ruta a la base de datos SQLite")
-    
     args = parser.parse_args()
-    
-    if not os.path.exists(args.db):
-        print(json.dumps({"status": "error", "message": f"DB no encontrada: {args.db}. Ejecuta primero: sqlite3 {args.db} < db/schema.sql"}))
-        sys.exit(1)
-    
-    create_project(
-        db_path=args.db,
-        name=args.name,
-        genre=args.genre,
-        description=args.description,
-        target_words=args.target_words,
-        voice=args.voice,
-        skip_defaults=args.skip_defaults
-    )
+
+    create_project(db_path=args.db, name=args.name, genre=args.genre,
+                   description=args.description, target_words=args.target_words,
+                   voice=args.voice, skip_defaults=args.skip_defaults)
 
 
 if __name__ == "__main__":

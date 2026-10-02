@@ -106,14 +106,22 @@ class ContextGenerator:
         """
         rows = self.conn.execute(query, (self.project_id,)).fetchall()
         
-        # Agrupar por personaje
+        # Agrupar por personaje (todos los niveles: en v0.1 se perdían
+        # "partial" y "forgot", y cualquier knower huérfano se etiquetaba
+        # como LECTOR)
         by_knower = {}
         for row in rows:
             row = dict(row)
-            knower = row["knower_name"] if row["knower_name"] else "LECTOR"
+            if row["knower_name"]:
+                knower = row["knower_name"]
+            elif row["knower_id"] == "__reader__":
+                knower = "LECTOR"
+            else:
+                knower = f"DESCONOCIDO({row['knower_id']})"
             if knower not in by_knower:
-                by_knower[knower] = {"knows": [], "suspects": [], "wrong_beliefs": [], "unaware": []}
-            
+                by_knower[knower] = {"knows": [], "suspects": [], "partial": [],
+                                     "wrong_beliefs": [], "forgot": [], "unaware": []}
+
             level = row["knowledge_level"]
             entry = {
                 "fact": row["fact_description"],
@@ -122,17 +130,13 @@ class ContextGenerator:
                 "how_learned": row["how_learned"],
                 "confidence": row["confidence"]
             }
-            
-            if level == "knows":
-                by_knower[knower]["knows"].append(entry)
-            elif level == "suspects":
-                by_knower[knower]["suspects"].append(entry)
-            elif level == "wrong_belief":
+
+            if level == "wrong_belief":
                 entry["believes_instead"] = row["wrong_belief_detail"]
                 by_knower[knower]["wrong_beliefs"].append(entry)
-            elif level == "unaware":
-                by_knower[knower]["unaware"].append(entry)
-        
+            elif level in by_knower[knower]:
+                by_knower[knower][level].append(entry)
+
         return by_knower
     
     def get_active_threads(self) -> list:
@@ -165,8 +169,34 @@ class ContextGenerator:
             FROM clues cl
             LEFT JOIN plot_threads pt ON cl.thread_id = pt.id
             WHERE cl.project_id = ? AND cl.status IN ('active', 'reinforced')
-            ORDER BY cl.planted_in_chapter ASC
+            ORDER BY CAST(cl.planted_in_chapter AS INTEGER) ASC
         """, (self.project_id,)).fetchall()
+        return [dict(r) for r in rows]
+
+    def get_character_sheets(self) -> list:
+        """Fichas breves de los personajes principales, para que el prompt
+        de generación tenga voz, motivación y secretos a mano."""
+        rows = self.conn.execute("""
+            SELECT name, full_name, role, status, motivation, secret, flaw,
+                   voice_notes, speech_patterns, emotional_state, arc_summary
+            FROM characters
+            WHERE project_id = ? AND role IN ('protagonist', 'antagonist', 'secondary')
+            ORDER BY CASE role WHEN 'protagonist' THEN 1 WHEN 'antagonist' THEN 2 ELSE 3 END
+        """, (self.project_id,)).fetchall()
+        return [dict(r) for r in rows]
+
+    def get_recent_events(self, up_to_chapter: int, lookback: int = 3) -> list:
+        """Eventos del mundo de los últimos capítulos (en v0.1 el context
+        package no incluía ningún evento: el escritor iba a ciegas)."""
+        rows = self.conn.execute("""
+            SELECT we.event_type, we.description, we.story_timestamp,
+                   ch.chapter_number
+            FROM world_events we
+            JOIN chapters ch ON we.chapter_id = ch.id
+            WHERE we.project_id = ? AND ch.chapter_number < ?
+              AND ch.chapter_number >= ?
+            ORDER BY ch.chapter_number, we.created_at
+        """, (self.project_id, up_to_chapter, max(1, up_to_chapter - lookback))).fetchall()
         return [dict(r) for r in rows]
     
     def get_pacing_analysis(self, up_to_chapter: int, lookback: int = 5) -> dict:
@@ -240,22 +270,41 @@ class ContextGenerator:
         return [dict(r) for r in rows]
     
     def get_stale_clues(self, current_chapter: int, stale_threshold: int = 10) -> list:
-        """Pistas que llevan demasiados capítulos sin refuerzo."""
+        """Pistas que llevan demasiados capítulos sin refuerzo. (En v0.1 la
+        columna guardaba IDs hex, el CAST daba 0 y TODAS las pistas parecían
+        rancias a partir del capítulo 10.)"""
         rows = self.conn.execute("""
-            SELECT description, planted_in_chapter, clue_type, thread_id
+            SELECT description, planted_in_chapter, reinforced_in_chapters,
+                   clue_type, thread_id
             FROM clues
-            WHERE project_id = ? AND status = 'active'
-              AND CAST(planted_in_chapter AS INTEGER) <= ?
-        """, (self.project_id, current_chapter - stale_threshold)).fetchall()
-        return [dict(r) for r in rows]
+            WHERE project_id = ? AND status IN ('active', 'reinforced')
+        """, (self.project_id,)).fetchall()
+        stale = []
+        for r in rows:
+            r = dict(r)
+            try:
+                last = int(r["planted_in_chapter"])
+            except (TypeError, ValueError):
+                continue
+            try:
+                import json as _json
+                nums = [int(x) for x in _json.loads(r["reinforced_in_chapters"] or "[]")
+                        if str(x).isdigit()]
+                if nums:
+                    last = max(last, max(nums))
+            except ValueError:
+                pass
+            if current_chapter - last >= stale_threshold:
+                r["last_activity_chapter"] = last
+                stale.append(r)
+        return stale
     
     def get_dormant_characters(self, current_chapter: int, threshold: int = 5) -> list:
         """Personajes que no aparecen hace muchos capítulos."""
         rows = self.conn.execute("""
-            SELECT c.name, c.role, MAX(s.scene_number) as last_scene,
-                   ch.chapter_number as last_chapter
+            SELECT c.name, c.role, MAX(ch.chapter_number) as last_chapter
             FROM characters c
-            LEFT JOIN scenes s ON s.characters_present LIKE '%' || c.id || '%'
+            LEFT JOIN scenes s ON s.characters_present LIKE '%"' || c.id || '"%'
             LEFT JOIN chapters ch ON s.chapter_id = ch.id
             WHERE c.project_id = ? AND c.status = 'alive' AND c.role IN ('protagonist', 'antagonist', 'secondary')
             GROUP BY c.id
@@ -279,6 +328,8 @@ class ContextGenerator:
             "narrative_rules": self.get_narrative_rules(),
             "style_references": self.get_style_references(),
             "world_state": self.get_world_state(chapter_number),
+            "character_sheets": self.get_character_sheets(),
+            "recent_events": self.get_recent_events(chapter_number),
             "epistemic_matrix": self.get_epistemic_state(),
             "active_threads": self.get_active_threads(),
             "active_clues": self.get_active_clues(),

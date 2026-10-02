@@ -1,6 +1,13 @@
 -- ============================================================
--- NARRATIUM — Schema de Memoria Narrativa
+-- SUPERNARRATIVE — Schema de Memoria Narrativa (v2)
 -- ============================================================
+-- Convención de referencias a capítulos:
+--   chapter_id        → chapters.id (clave interna)
+--   *_in_chapter      → NÚMERO de capítulo (entero, legible y estable)
+-- Bases de datos v1: ejecutar scripts/migrate.py
+-- ============================================================
+
+PRAGMA user_version = 2;
 
 -- ============================================================
 -- PROYECTO Y CONFIGURACIÓN
@@ -58,10 +65,10 @@ CREATE TABLE IF NOT EXISTS objects (
     name TEXT NOT NULL,
     description TEXT,
     current_location_id TEXT REFERENCES locations(id),
-    current_holder_id TEXT,              -- character id
+    current_holder_id TEXT REFERENCES characters(id),
     status TEXT DEFAULT 'active',        -- "active", "destroyed", "hidden", "lost", "unknown"
     significance TEXT,                   -- por qué importa narrativamente
-    introduced_in_chapter TEXT,
+    introduced_in_chapter INTEGER,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
@@ -69,7 +76,7 @@ CREATE TABLE IF NOT EXISTS objects (
 CREATE TABLE IF NOT EXISTS world_events (
     id TEXT PRIMARY KEY DEFAULT (lower(hex(randomblob(8)))),
     project_id TEXT NOT NULL REFERENCES projects(id) ON DELETE CASCADE,
-    chapter_id TEXT NOT NULL,
+    chapter_id TEXT NOT NULL REFERENCES chapters(id) ON DELETE CASCADE,
     event_type TEXT NOT NULL,            -- "movement", "death", "discovery", "destruction", "transformation", "revelation", "encounter"
     description TEXT NOT NULL,
     story_timestamp TEXT,                -- "14 marzo, 22:30" (tiempo diegético)
@@ -98,7 +105,7 @@ CREATE TABLE IF NOT EXISTS characters (
     voice_notes TEXT,                    -- Cómo habla: registro, muletillas, nivel cultural
     speech_patterns TEXT,                -- Ejemplos de cómo se expresa
     status TEXT DEFAULT 'alive',         -- "alive", "dead", "unknown", "missing", "presumed_dead"
-    introduced_in_chapter TEXT,
+    introduced_in_chapter INTEGER,
     current_location_id TEXT REFERENCES locations(id),
     emotional_state TEXT,                -- Estado emocional actual
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
@@ -115,7 +122,7 @@ CREATE TABLE IF NOT EXISTS character_relationships (
     public_perception TEXT,              -- Cómo se percibe públicamente
     private_reality TEXT,                -- La verdad
     status TEXT DEFAULT 'active',        -- "active", "broken", "secret", "evolving", "dormant"
-    established_in_chapter TEXT,
+    established_in_chapter INTEGER,
     evolution_notes TEXT,                -- Cómo ha cambiado
     updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     UNIQUE(character_a_id, character_b_id, relationship_type)
@@ -129,8 +136,8 @@ CREATE TABLE IF NOT EXISTS story_facts (
     description TEXT NOT NULL,           -- "Benedetta es la madre biológica de Lucrezia"
     is_true BOOLEAN DEFAULT 1,          -- Permite hechos falsos que personajes creen verdaderos
     contradiction_of TEXT REFERENCES story_facts(id), -- Si es falso, qué hecho verdadero contradice
-    established_in_chapter TEXT,
-    revealed_to_reader_in TEXT,          -- NULL si el lector aún no lo sabe
+    established_in_chapter INTEGER,
+    revealed_to_reader_in INTEGER,       -- NULL si el lector aún no lo sabe
     significance INTEGER DEFAULT 5,     -- 1-10
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
@@ -144,7 +151,7 @@ CREATE TABLE IF NOT EXISTS knowledge_states (
     knowledge_level TEXT NOT NULL,       -- "knows", "suspects", "unaware", "wrong_belief", "partial", "forgot"
     wrong_belief_detail TEXT,            -- Si wrong_belief, qué cree erróneamente
     how_learned TEXT,                    -- "witnessed", "told_by:character_id", "deduced", "read", "overheard", "reader_inference"
-    learned_in_chapter TEXT,
+    learned_in_chapter INTEGER,
     confidence TEXT DEFAULT 'certain',   -- "certain", "probable", "speculative"
     notes TEXT,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
@@ -163,9 +170,9 @@ CREATE TABLE IF NOT EXISTS plot_threads (
     description TEXT,
     thread_type TEXT NOT NULL,           -- "main_plot", "subplot", "mystery", "romance", "character_arc", "thematic", "red_herring"
     status TEXT DEFAULT 'planned',       -- "planned", "planted", "developing", "climax", "resolved", "abandoned"
-    planted_in_chapter TEXT,
-    target_resolution_chapter TEXT,      -- Capítulo estimado de resolución
-    resolved_in_chapter TEXT,
+    planted_in_chapter INTEGER,
+    target_resolution_chapter INTEGER,   -- Capítulo estimado de resolución
+    resolved_in_chapter INTEGER,
     priority INTEGER DEFAULT 5,
     notes TEXT,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
@@ -175,7 +182,7 @@ CREATE TABLE IF NOT EXISTS plot_threads (
 CREATE TABLE IF NOT EXISTS thread_beats (
     id TEXT PRIMARY KEY DEFAULT (lower(hex(randomblob(8)))),
     thread_id TEXT NOT NULL REFERENCES plot_threads(id) ON DELETE CASCADE,
-    chapter_id TEXT NOT NULL,
+    chapter_id TEXT NOT NULL REFERENCES chapters(id) ON DELETE CASCADE,
     beat_type TEXT NOT NULL,             -- "plant", "reinforce", "complicate", "twist", "escalate", "near_reveal", "reveal", "resolve", "subvert"
     description TEXT NOT NULL,
     impact_level INTEGER DEFAULT 5,     -- 1-10
@@ -197,13 +204,13 @@ CREATE TABLE IF NOT EXISTS clues (
     project_id TEXT NOT NULL REFERENCES projects(id) ON DELETE CASCADE,
     thread_id TEXT REFERENCES plot_threads(id),
     description TEXT NOT NULL,
-    planted_in_chapter TEXT NOT NULL,
+    planted_in_chapter INTEGER NOT NULL,
     clue_type TEXT NOT NULL,             -- "verbal", "visual", "object", "behavioral", "environmental", "structural", "intertextual"
     subtlety INTEGER NOT NULL,           -- 1-10 (10 = invisible en primera lectura)
     mechanism TEXT,                      -- Cómo funciona la pista narrativamente
     intended_resolution TEXT,            -- Cuándo/cómo cobra sentido
-    resolved_in_chapter TEXT,
-    reinforced_in_chapters TEXT,         -- JSON array de chapter IDs donde se refuerza
+    resolved_in_chapter INTEGER,
+    reinforced_in_chapters TEXT,         -- JSON array de NÚMEROS de capítulo donde se refuerza
     status TEXT DEFAULT 'active',        -- "active", "reinforced", "resolved", "red_herring", "abandoned"
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     updated_at DATETIME DEFAULT CURRENT_TIMESTAMP

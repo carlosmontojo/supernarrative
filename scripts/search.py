@@ -159,14 +159,12 @@ def active_clues(conn, project_id, query=None):
     clues = conn.execute("""
         SELECT cl.description, cl.clue_type, cl.subtlety, cl.mechanism,
                cl.intended_resolution, cl.status,
-               cl.planted_in_chapter,
-               pt.name as thread_name,
-               ch.chapter_number as planted_chapter_num
+               cl.planted_in_chapter, cl.reinforced_in_chapters,
+               pt.name as thread_name
         FROM clues cl
         LEFT JOIN plot_threads pt ON cl.thread_id = pt.id
-        LEFT JOIN chapters ch ON cl.planted_in_chapter = ch.id
         WHERE cl.project_id = ? AND cl.status IN ('active', 'reinforced')
-        ORDER BY cl.subtlety DESC
+        ORDER BY CAST(cl.planted_in_chapter AS INTEGER) ASC
     """, (project_id,)).fetchall()
 
     results = [dict(c) for c in clues]
@@ -225,11 +223,11 @@ def timeline(conn, project_id, query=None):
             FROM world_events we
             JOIN chapters ch ON we.chapter_id = ch.id
             WHERE we.project_id = ? AND (
-                ch.id LIKE ? OR CAST(ch.chapter_number AS TEXT) = ?
+                CAST(ch.chapter_number AS TEXT) = ?
                 OR we.description LIKE ?
             )
             ORDER BY ch.chapter_number, we.story_timestamp
-        """, (project_id, f"%{query}%", query, f"%{query}%")).fetchall()
+        """, (project_id, query, f"%{query}%")).fetchall()
     else:
         events = conn.execute("""
             SELECT we.event_type, we.description, we.story_timestamp,

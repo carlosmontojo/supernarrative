@@ -7,9 +7,21 @@ Crea copias con timestamp, lista y restaura snapshots.
 import argparse
 import json
 import os
-import shutil
+import sqlite3
 import sys
 from datetime import datetime
+
+
+def safe_copy_db(src: str, dst: str):
+    """Copia consistente usando la API de backup de SQLite — a diferencia de
+    copiar el fichero, es segura con modo WAL (incluye escrituras aún no
+    consolidadas en el .db principal)."""
+    src_conn = sqlite3.connect(src)
+    dst_conn = sqlite3.connect(dst)
+    with dst_conn:
+        src_conn.backup(dst_conn)
+    src_conn.close()
+    dst_conn.close()
 
 
 def get_snapshots_dir(db_path):
@@ -26,7 +38,7 @@ def create_snapshot(db_path):
     snapshot_name = f"{db_name}_{timestamp}.db"
     snapshot_path = os.path.join(snapshots_dir, snapshot_name)
 
-    shutil.copy2(db_path, snapshot_path)
+    safe_copy_db(db_path, snapshot_path)
 
     size_bytes = os.path.getsize(snapshot_path)
     size_kb = round(size_bytes / 1024, 1)
@@ -88,10 +100,10 @@ def restore_snapshot(db_path, timestamp):
     # Backup del actual antes de restaurar
     bak_timestamp = datetime.now().strftime("%Y-%m-%d_%H%M%S")
     bak_path = f"{db_path}.pre_restore_{bak_timestamp}.bak"
-    shutil.copy2(db_path, bak_path)
+    safe_copy_db(db_path, bak_path)
 
-    # Restaurar
-    shutil.copy2(snapshot_path, db_path)
+    # Restaurar (vía backup API: también limpia el WAL pendiente)
+    safe_copy_db(snapshot_path, db_path)
 
     return {
         "status": "success",

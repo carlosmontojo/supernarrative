@@ -24,8 +24,11 @@ ANALYSIS_SCHEMA = {
     "required_fields": ["summary", "events", "knowledge_changes", "reader_knowledge_changes",
                         "thread_beats", "clues", "character_locations_end",
                         "tension_level", "scene_type", "pacing", "emotional_tone"],
+    "optional_fields": ["character_emotional_states", "scenes", "clue_reinforcements",
+                        "clue_resolutions", "opening_hook", "closing_hook",
+                        "word_count", "story_date", "notes"],
     "event_types": ["movement", "death", "discovery", "destruction", "transformation", "revelation", "encounter"],
-    "knowledge_levels": ["knows", "suspects", "partial", "wrong_belief", "unaware"],
+    "knowledge_levels": ["knows", "suspects", "partial", "wrong_belief", "unaware", "forgot"],
     "beat_types": ["plant", "reinforce", "complicate", "twist", "escalate", "near_reveal", "reveal", "resolve", "subvert"],
     "clue_types": ["verbal", "visual", "object", "behavioral", "environmental", "structural", "intertextual"],
     "scene_types": ["action", "dialogue", "reflection", "revelation", "transition", "flashback", "confrontation", "investigation"],
@@ -46,7 +49,15 @@ def validate_analysis(analysis: dict) -> dict:
         for i, event in enumerate(analysis["events"]):
             if event.get("type") not in ANALYSIS_SCHEMA["event_types"]:
                 warnings.append(f"Evento {i}: tipo '{event.get('type')}' no reconocido")
-    
+
+    for i, kc in enumerate(analysis.get("knowledge_changes", [])):
+        if kc.get("new_knowledge_level") not in ANALYSIS_SCHEMA["knowledge_levels"]:
+            warnings.append(f"knowledge_change {i}: nivel '{kc.get('new_knowledge_level')}' no reconocido")
+
+    for i, tb in enumerate(analysis.get("thread_beats", [])):
+        if tb.get("beat_type") not in ANALYSIS_SCHEMA["beat_types"]:
+            warnings.append(f"thread_beat {i}: tipo '{tb.get('beat_type')}' no reconocido")
+
     if "tension_level" in analysis:
         t = analysis["tension_level"]
         if not isinstance(t, (int, float)) or t < 1 or t > 10:
@@ -66,34 +77,19 @@ def validate_analysis(analysis: dict) -> dict:
 def store_pending_analysis(db_path: str, project_id: str, chapter_number: int,
                            analysis: dict, chapter_file: str = None) -> dict:
     """Almacena el análisis como propuesta pendiente de confirmación."""
-    
-    conn = sqlite3.connect(db_path)
-    conn.execute("PRAGMA foreign_keys=ON")
-    
-    # Verificar que el capítulo existe o crearlo
-    chapter = conn.execute(
-        "SELECT id FROM chapters WHERE project_id = ? AND chapter_number = ?",
-        (project_id, chapter_number)
-    ).fetchone()
-    
-    if not chapter:
-        conn.execute("""
-            INSERT INTO chapters (project_id, chapter_number, chapter_order, status, file_path)
-            VALUES (?, ?, ?, 'draft', ?)
-        """, (project_id, chapter_number, chapter_number, chapter_file))
-        chapter_id = conn.execute(
-            "SELECT id FROM chapters WHERE project_id = ? AND chapter_number = ?",
-            (project_id, chapter_number)
-        ).fetchone()[0]
-    else:
-        chapter_id = chapter[0]
-    
-    # Guardar análisis pendiente como nota del autor para revisión
+    from _common import connect, gen_id, get_or_create_chapter
+
+    conn = connect(db_path)
+    chapter_id = get_or_create_chapter(conn, project_id, chapter_number, chapter_file)
+    if chapter_file:
+        conn.execute("UPDATE chapters SET file_path = COALESCE(file_path, ?) WHERE id = ?",
+                     (chapter_file, chapter_id))
+
     conn.execute("""
-        INSERT INTO author_notes (project_id, chapter_id, note_type, content)
-        VALUES (?, ?, 'pending_analysis', ?)
-    """, (project_id, chapter_id, json.dumps(analysis, ensure_ascii=False)))
-    
+        INSERT INTO author_notes (id, project_id, chapter_id, note_type, content)
+        VALUES (?, ?, ?, 'pending_analysis', ?)
+    """, (gen_id(), project_id, chapter_id, json.dumps(analysis, ensure_ascii=False)))
+
     conn.commit()
     conn.close()
     
@@ -129,30 +125,23 @@ def main():
         sys.exit(1)
     
     # Cargar análisis
-    with open(args.analysis_json, 'r') as f:
+    with open(args.analysis_json, 'r', encoding='utf-8') as f:
         analysis = json.load(f)
-    
+
     # Validar
     validation = validate_analysis(analysis)
     if not validation["valid"]:
         print(json.dumps({"status": "error", "validation": validation}))
         sys.exit(1)
-    
+
     if validation["warnings"]:
         print(json.dumps({"status": "warning", "warnings": validation["warnings"]}), file=sys.stderr)
-    
+
     # Obtener project_id
-    conn = sqlite3.connect(args.db)
-    if args.project:
-        project_id = args.project
-    else:
-        row = conn.execute("SELECT id FROM projects ORDER BY updated_at DESC LIMIT 1").fetchone()
-        project_id = row[0] if row else None
+    from _common import connect, get_project_id
+    conn = connect(args.db)
+    project_id = get_project_id(conn, args.project)
     conn.close()
-    
-    if not project_id:
-        print(json.dumps({"status": "error", "message": "No hay proyectos en la DB"}))
-        sys.exit(1)
     
     # Almacenar
     result = store_pending_analysis(args.db, project_id, args.chapter, analysis, args.chapter_file)

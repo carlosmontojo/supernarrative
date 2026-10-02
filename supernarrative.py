@@ -11,7 +11,7 @@ import os
 import subprocess
 import sys
 
-VERSION = "0.1.0"
+VERSION = "0.2.0"
 SCRIPTS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scripts")
 DEFAULT_DB = os.path.join(os.path.dirname(os.path.abspath(__file__)), "db", "supernarrative.db")
 
@@ -75,9 +75,19 @@ COMMANDS = {
         "help": "Create/list/restore database backups",
         "example": "supernarrative snapshot",
     },
+    "export": {
+        "script": "export.py",
+        "help": "Assemble the full manuscript into a single Markdown file",
+        "example": "supernarrative export --output novel.md",
+    },
+    "migrate": {
+        "script": "migrate.py",
+        "help": "Migrate a v0.1 database to the v0.2 format (chapter numbers)",
+        "example": "supernarrative migrate",
+    },
     "ops": {
         "script": "db_ops.py",
-        "help": "Direct database operations (add characters, facts, threads, etc.)",
+        "help": "Direct database operations (add characters, facts, threads, dependencies, etc.)",
         "example": "supernarrative ops --action add_character --data '{...}'",
     },
 }
@@ -101,7 +111,7 @@ def print_help():
         ("Setup", ["init", "import"]),
         ("Writing", ["context", "analyze", "update", "verify"]),
         ("Monitoring", ["dashboard", "search"]),
-        ("Maintenance", ["snapshot", "ops"]),
+        ("Maintenance", ["snapshot", "export", "migrate", "ops"]),
     ]
 
     for phase_name, cmds in phases:

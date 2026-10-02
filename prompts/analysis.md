@@ -39,7 +39,8 @@ Responde EXCLUSIVAMENTE en JSON válido, sin markdown ni texto adicional. Usa es
     {
       "character_name": "Nombre del personaje",
       "fact": "Descripción del hecho que ahora sabe/sospecha",
-      "new_knowledge_level": "knows|suspects|partial|wrong_belief",
+      "new_knowledge_level": "knows|suspects|partial|wrong_belief|forgot",
+      "wrong_belief_detail": "Solo si wrong_belief: qué cree erróneamente",
       "how_learned": "witnessed|told_by:nombre|deduced|read|overheard"
     }
   ],
@@ -63,6 +64,25 @@ Responde EXCLUSIVAMENTE en JSON válido, sin markdown ni texto adicional. Usa es
       "subtlety": 8,
       "mechanism": "Cómo funciona la pista",
       "related_thread": "Nombre del hilo relacionado o null"
+    }
+  ],
+  "clue_reinforcements": [
+    {
+      "clue_description": "Fragmento inequívoco de la descripción de una pista YA PLANTADA que este capítulo refuerza"
+    }
+  ],
+  "clue_resolutions": [
+    {
+      "clue_description": "Fragmento inequívoco de la descripción de una pista YA PLANTADA que este capítulo resuelve (cobra sentido)"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "Dónde ocurre la escena",
+      "characters_present": ["nombre_personaje"],
+      "summary": "Qué pasa en la escena (1 frase)",
+      "purpose": "advance_plot|develop_character|plant_clue|build_tension|provide_relief|worldbuilding"
     }
   ],
   "character_locations_end": [
@@ -95,3 +115,9 @@ Responde EXCLUSIVAMENTE en JSON válido, sin markdown ni texto adicional. Usa es
 4. Para thread_beats, solo incluir hilos que REALMENTE avanzaron en este capítulo.
 5. El subtlety de pistas debe ser honesto — si es obvia, puntuar bajo.
 6. Incluir SIEMPRE las ubicaciones de personajes al final del capítulo.
+7. Usar EXACTAMENTE los nombres de personajes e hilos de las listas de arriba —
+   un nombre que no coincida no se aplicará y aparecerá en "unmatched".
+8. Desglosar el capítulo en "scenes" con sus personajes presentes: alimenta
+   los chequeos de personajes dormidos y de muertos que reaparecen.
+9. Si el capítulo refuerza o resuelve pistas YA plantadas, usar
+   clue_reinforcements / clue_resolutions (no volver a plantarlas en "clues").

@@ -1,32 +1,31 @@
-# NARRATIUM — Skill de Memoria Narrativa Profunda para Claude Code
+# SUPERNARRATIVE — Skill de Memoria Narrativa Profunda para Claude Code
 
-## Qué es Narratium
+## Qué es SuperNarrative
 
-Narratium es un sistema de memoria narrativa persistente para escritura de ficción compleja. Trata una novela como un programa de software: con estado, dependencias, verificación y consistencia. La memoria vive en una base de datos SQLite que persiste entre conversaciones.
+SuperNarrative es un sistema de memoria narrativa persistente para escritura de ficción compleja. Trata una novela como un programa de software: con estado, dependencias, verificación y consistencia. La memoria vive en una base de datos SQLite que persiste entre conversaciones.
 
-**Analogía fundamental**: Así como un proyecto de software grande necesita Git, tests, CI/CD y gestión de dependencias para no colapsar, una novela compleja necesita un sistema equivalente. Narratium es esa infraestructura.
+**Analogía fundamental**: Así como un proyecto de software grande necesita Git, tests, CI/CD y gestión de dependencias para no colapsar, una novela compleja necesita un sistema equivalente. SuperNarrative es esa infraestructura.
 
 ---
 
 ## Setup inicial
 
-Si la DB no existe, crearla:
+Crear el proyecto (la base de datos se crea sola si no existe):
 
 ```bash
-cd /path/to/narratium
-sqlite3 db/narratium.db < db/schema.sql
-```
-
-Si es un proyecto nuevo, inicializar:
-
-```bash
-python scripts/init_project.py --name "Nombre de la novela" --genre "thriller" --db db/narratium.db
+python3 supernarrative.py init --name "Nombre de la novela" --genre "thriller"
 ```
 
 Si el usuario ya tiene una novela en progreso (biblia, continuidad, capítulos escritos), importar:
 
 ```bash
-python scripts/import_existing.py --bible archivo_biblia.docx --continuity archivo_continuidad.md --db db/narratium.db
+python3 supernarrative.py import --bible archivo_biblia.docx --continuity archivo_continuidad.md --chapters-dir capitulos/
+```
+
+Si la base de datos viene de una versión anterior (v0.1), migrarla una vez:
+
+```bash
+python3 supernarrative.py migrate
 ```
 
 ---
@@ -35,12 +34,14 @@ python scripts/import_existing.py --bible archivo_biblia.docx --continuity archi
 
 ### Antes de escribir un capítulo
 
-1. **Ejecutar context.py** para obtener el context package:
+1. **Ejecutar context** para obtener el context package:
 ```bash
-python scripts/context.py --chapter N --db db/narratium.db
+python3 supernarrative.py context --chapter N
 ```
 Esto genera un informe con:
 - Estado del mundo (ubicaciones de personajes, objetos, fecha/hora en la historia)
+- Fichas de los personajes principales (motivación, secreto, defecto, voz)
+- Eventos recientes de los últimos capítulos
 - Matriz epistémica de los personajes que participarán (qué sabe cada uno)
 - Hilos activos que deben considerarse
 - Pistas que deben reforzarse o plantarse
@@ -62,7 +63,7 @@ Esto genera un informe con:
 
 5. **Ejecutar analyze.py** para análisis automático:
 ```bash
-python scripts/analyze.py --chapter N --db db/narratium.db --file exports/chapters/capitulo_XX.md
+python3 supernarrative.py analyze --chapter N --analysis-json analisis.json --chapter-file exports/chapters/capitulo_XX.md
 ```
 Esto extrae automáticamente:
 - Eventos ocurridos (movimientos, descubrimientos, revelaciones)
@@ -75,12 +76,13 @@ Esto extrae automáticamente:
 
 7. **Ejecutar update.py** para confirmar los cambios:
 ```bash
-python scripts/update.py --chapter N --db db/narratium.db --confirm
+python3 supernarrative.py update --chapter N --confirm
+# Si devuelve "unmatched", corregir los nombres y reaplicar con --replace
 ```
 
 8. **Ejecutar verify.py** para verificación de consistencia:
 ```bash
-python scripts/verify.py --chapter N --db db/narratium.db
+python3 supernarrative.py verify --chapter N
 ```
 Reporta:
 - Errores de continuidad física
@@ -94,7 +96,7 @@ Reporta:
 
 9. **Ejecutar dashboard.py** para estado general:
 ```bash
-python scripts/dashboard.py --db db/narratium.db
+python3 supernarrative.py dashboard --format terminal
 ```
 Muestra:
 - Progreso general
@@ -158,4 +160,4 @@ Todos los scripts devuelven JSON para que Claude Code pueda procesarlos e integr
 - **La DB es la fuente de verdad** — Todo lo que importa está en SQLite. No confiar en la memoria de la conversación para datos narrativos.
 - **El autor siempre confirma** — Nunca actualizar la DB sin que el autor revise los cambios propuestos.
 - **Offline first** — El sistema de memoria funciona sin LLM. El LLM es un asistente, la memoria es obligatoria.
-- **Backups** — Antes de cada sesión larga, copiar `narratium.db` con timestamp.
+- **Backups** — Antes de cada sesión larga: `python3 supernarrative.py snapshot` (usa la API de backup de SQLite, segura con WAL).

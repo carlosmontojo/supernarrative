@@ -1,5 +1,7 @@
 # SuperNarrative
 
+[![CI](https://github.com/carlosmontojo/supernarrative/actions/workflows/ci.yml/badge.svg)](https://github.com/carlosmontojo/supernarrative/actions/workflows/ci.yml)
+
 **Persistent narrative memory for long-form fiction. Treats your novel like software.**
 
 > Everything Sudowrite, NovelCrafter, and Novelium charge you for — but free, local, and yours. Like SuperMemory, but for fiction.
@@ -56,15 +58,17 @@ verify.py = your test suite
 git clone https://github.com/carlosmontojo/supernarrative.git
 cd supernarrative
 
-# Initialize a project
-sqlite3 db/supernarrative.db < db/schema.sql
+# Initialize a project (the database is created automatically)
 python3 supernarrative.py init --name "My Novel" --genre thriller
 
 # See your dashboard
 python3 supernarrative.py dashboard --format terminal
 
-# Run the full demo
+# Run the full demo (characters, epistemic matrix, a full chapter cycle)
 bash examples/quickstart.sh
+
+# Run the test suite
+python3 tests/test_pipeline.py
 ```
 
 ---
@@ -117,16 +121,18 @@ python3 supernarrative.py snapshot  # backup before big changes
 
 | Command | Description |
 |---------|-------------|
-| `init` | Create a new novel project |
+| `init` | Create a new novel project (auto-creates the database) |
 | `import` | Import existing novel (bible, chapters, continuity docs) |
 | `context` | Generate context package before writing |
 | `analyze` | Extract narrative data from a written chapter |
-| `update` | Apply confirmed analysis to database |
+| `update` | Apply confirmed analysis to database (reports unmatched names; `--replace` for re-analysis) |
 | `verify` | Check for consistency issues |
 | `dashboard` | Project overview (terminal or JSON) |
 | `search` | Query the narrative database |
-| `snapshot` | Create/list/restore database backups |
-| `ops` | Direct database operations |
+| `snapshot` | Create/list/restore database backups (WAL-safe) |
+| `export` | Assemble the full manuscript into one Markdown file |
+| `migrate` | Upgrade a v0.1 database to the v0.2 format |
+| `ops` | Direct database operations (characters, facts, threads, dependencies, clues…) |
 
 ### Search Actions
 
@@ -149,22 +155,27 @@ supernarrative search --action search_all --query "poison"     # Global text sea
 supernarrative/
 ├── supernarrative.py          # Unified CLI entry point
 ├── db/
-│   └── schema.sql             # 18-table narrative schema
+│   └── schema.sql             # 18-table narrative schema (v2)
 ├── scripts/
-│   ├── init_project.py        # Project initialization
+│   ├── _common.py             # Shared helpers (IDs, name resolution)
+│   ├── init_project.py        # Project initialization (auto-creates DB)
 │   ├── import_existing.py     # Novel import
 │   ├── context.py             # Pre-chapter context generator
 │   ├── analyze.py             # Post-chapter analysis
-│   ├── update.py              # Database updater
+│   ├── update.py              # Database updater (reports unmatched names)
 │   ├── verify.py              # Consistency checker
 │   ├── dashboard.py           # Project dashboard
 │   ├── search.py              # Narrative search
-│   ├── snapshot.py            # Database backup/restore
+│   ├── snapshot.py            # WAL-safe database backup/restore
+│   ├── export.py              # Manuscript assembly
+│   ├── migrate.py             # v0.1 → v0.2 database migration
 │   └── db_ops.py              # CRUD operations
 ├── prompts/
 │   ├── generation.md          # Chapter writing prompt template
 │   ├── analysis.md            # Post-chapter analysis prompt
 │   └── verification.md        # Consistency check prompt
+├── tests/
+│   └── test_pipeline.py       # End-to-end test suite (no dependencies)
 ├── source/                    # Your novel files (gitignored)
 └── SKILL.md                   # Full system documentation
 ```
