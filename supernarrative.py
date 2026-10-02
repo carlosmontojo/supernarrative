@@ -60,6 +60,11 @@ COMMANDS = {
         "help": "Check for consistency issues (epistemic violations, plot holes, timeline errors)",
         "example": "supernarrative verify --chapter 5",
     },
+    "prose": {
+        "script": "prose.py",
+        "help": "Prose linter: rhythm, overused devices, AI tics, pet phrases, style-anchor drift",
+        "example": "supernarrative prose --chapter 5",
+    },
     "dashboard": {
         "script": "dashboard.py",
         "help": "Show project status (threads, clues, tension curve, characters)",
@@ -109,7 +114,7 @@ def print_help():
     # Group commands by workflow phase
     phases = [
         ("Setup", ["init", "import"]),
-        ("Writing", ["context", "analyze", "update", "verify"]),
+        ("Writing", ["context", "analyze", "update", "verify", "prose"]),
         ("Monitoring", ["dashboard", "search"]),
         ("Maintenance", ["snapshot", "export", "migrate", "ops"]),
     ]

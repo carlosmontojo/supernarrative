@@ -322,7 +322,8 @@ class ContextGenerator:
                 "name": project.get("name"),
                 "genre": project.get("genre"),
                 "voice": project.get("narrative_voice"),
-                "current_word_count": project.get("current_word_count")
+                "current_word_count": project.get("current_word_count"),
+                "style_anchor": project.get("style_anchor"),
             },
             "chapter_number": chapter_number,
             "narrative_rules": self.get_narrative_rules(),

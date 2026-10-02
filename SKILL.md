@@ -28,6 +28,34 @@ Si la base de datos viene de una versión anterior (v0.1), migrarla una vez:
 python3 supernarrative.py migrate
 ```
 
+
+---
+
+## Protocolo de estilo — SE ASIENTA UNA VEZ, GOBIERNA SIEMPRE
+
+El estilo NO se decide capítulo a capítulo: se calibra al arrancar el
+proyecto y se mantiene. Es la contramedida a la regresión a la "voz por
+defecto" de los LLMs.
+
+1. **Calibrar** (una vez): seguir `prompts/style_calibration.md` —
+   entrevista breve al autor, tres muestras de prosa en competencia sobre la
+   misma escena, el autor elige.
+2. **Asentar el ancla**: `python3 supernarrative.py prose --set-anchor muestra.md`.
+   El ancla viaja en cada context package y se cita íntegra en cada prompt
+   de generación: la prosa de cada capítulo debe poder intercalarse en ella
+   sin costura.
+3. **Fichas de voz por contraste**: cada personaje principal con registro,
+   sintaxis, muletillas y 2-3 RÉPLICAS DE EJEMPLO literales en
+   `speech_patterns` (se imitan los ejemplos, no las descripciones). Si dos
+   fichas suenan parecidas, una está mal.
+4. **Medir cada capítulo**: `python3 supernarrative.py prose --chapter N` —
+   el linter detecta ritmo uniforme (voz robot), exceso de símiles y
+   adverbios, léxico quemado de IA, muletillas internas y ENTRE capítulos,
+   y la deriva respecto al ancla. Sus avisos alimentan la pasada de revisión.
+5. **Revisar siempre** (`prompts/revision.md`): la buena prosa de IA se
+   consigue en segunda pasada dirigida — matar tics, romper ritmo uniforme,
+   test de la línea en los diálogos. El borrador nunca es la entrega.
+
 ---
 
 ## Protocolo de escritura — SEGUIR SIEMPRE
@@ -80,7 +108,13 @@ python3 supernarrative.py update --chapter N --confirm
 # Si devuelve "unmatched", corregir los nombres y reaplicar con --replace
 ```
 
-8. **Ejecutar verify.py** para verificación de consistencia:
+8. **Pasar el linter de prosa** y aplicar la revisión dirigida:
+```bash
+python3 supernarrative.py prose --chapter N
+```
+Con sus avisos, ejecutar la pasada de `prompts/revision.md` (tics de IA, ritmo, test de la línea) y actualizar el fichero del capítulo.
+
+9. **Ejecutar verify.py** para verificación de consistencia:
 ```bash
 python3 supernarrative.py verify --chapter N
 ```

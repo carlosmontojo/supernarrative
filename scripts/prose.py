@@ -1,0 +1,241 @@
+#!/usr/bin/env python3
+"""
+SuperNarrative — Linter de prosa
+Mide lo que los LLMs (y los humanos cansados) hacen mal al escribir ficción,
+con números en vez de opiniones:
+
+  - Regresión a la voz robot: varianza de longitud de frase baja, ritmo uniforme
+  - Densidad de recursos: símiles, adverbios en -mente, construcciones "no X, sino Y"
+  - Léxico quemado ("slop"): frases hechas de la ficción generada por IA
+  - Muletillas propias: n-gramas repetidos dentro del capítulo y ENTRE capítulos
+  - Arranques de frase repetidos, frases-fragmento efectistas en exceso
+  - Deriva respecto al ancla de estilo del proyecto (si está fijada)
+
+Uso:
+  python3 supernarrative.py prose --file cap05.md                  # analizar un fichero
+  python3 supernarrative.py prose --chapter 5                      # vía file_path de la DB
+  python3 supernarrative.py prose --set-anchor pasaje_ejemplar.md  # fijar el ancla de estilo
+"""
+
+import argparse
+import json
+import re
+import sys
+import os
+from collections import Counter
+
+from _common import connect, fail, get_project_id, require_db
+
+# Frases quemadas de la ficción LLM (ampliable; español + inglés)
+SLOP_LEXICON = [
+    "una oleada de", "no pudo evitar", "se le encogió el", "una mezcla de",
+    "respiró hondo", "soltó el aire que no sabía", "el silencio se hizo",
+    "esbozó una sonrisa", "en ese momento supo", "nada volvería a ser",
+    "un escalofrío le recorrió", "el corazón le dio un vuelco",
+    "los ojos se le llenaron", "apretó los puños", "tragó saliva",
+    "el aire olía a", "como si el mundo", "sintió un nudo en",
+    "a wave of", "couldn't help but", "a mix of", "took a deep breath",
+    "let out a breath", "heart skipped", "sent shivers down",
+]
+
+UMBRALES = {
+    "std_frase_min": 6.0,        # desviación típica de longitud de frase (palabras)
+    "mente_por_1000_max": 4.0,   # adverbios en -mente por 1000 palabras
+    "simil_por_1000_max": 3.0,   # "como" comparativo por 1000 palabras (aprox)
+    "slop_por_1000_max": 1.0,
+    "no_sino_por_1000_max": 0.8,
+    "arranque_repetido_max": 0.18,  # fracción de frases que arrancan con la misma palabra
+    "fragmento_final_parrafo_max": 0.30,  # párrafos que cierran con frase < 6 palabras
+}
+
+
+def split_sentences(text):
+    text = re.sub(r"\s+", " ", text)
+    parts = re.split(r"(?<=[.!?…])\s+", text)
+    return [p.strip() for p in parts if len(p.strip().split()) >= 1]
+
+
+def analyze_text(text, prev_texts=None):
+    words = text.split()
+    n_words = max(1, len(words))
+    sentences = split_sentences(text)
+    n_sent = max(1, len(sentences))
+    lengths = [len(s.split()) for s in sentences]
+    mean_len = sum(lengths) / n_sent
+    std_len = (sum((l - mean_len) ** 2 for l in lengths) / n_sent) ** 0.5
+
+    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+    dialogue_paras = [p for p in paragraphs if p.lstrip().startswith(("—", "–", "«", '"', "-"))]
+
+    low = text.lower()
+    mente = len(re.findall(r"\b\w{4,}mente\b", low))
+    similes = len(re.findall(r"\bcomo (?:si |un |una |el |la )", low))
+    no_sino = len(re.findall(r"\bno \b[^,.;]{2,40}, sino\b", low))
+    slop_hits = {p: low.count(p) for p in SLOP_LEXICON if p in low}
+
+    openers = Counter(s.split()[0].lower().strip("—–«\"'¿¡") for s in sentences if s.split())
+    top_opener, top_count = (openers.most_common(1)[0] if openers else ("", 0))
+
+    frag_endings = 0
+    for p in paragraphs:
+        last = split_sentences(p)
+        if last and len(last[-1].split()) < 6:
+            frag_endings += 1
+
+    # Muletillas: 4-gramas repetidos dentro del texto
+    tokens = [w.lower().strip(".,;:!?…—«»\"'()") for w in words]
+    grams = Counter(" ".join(tokens[i:i + 4]) for i in range(len(tokens) - 3))
+    internal_rep = [(g, c) for g, c in grams.most_common(50) if c >= 3][:8]
+
+    # Muletillas entre capítulos: 5-gramas compartidos con capítulos previos
+    cross_rep = []
+    if prev_texts:
+        prev_grams = Counter()
+        for pt in prev_texts:
+            ptoks = [w.lower().strip(".,;:!?…—«»\"'()") for w in pt.split()]
+            prev_grams.update(set(" ".join(ptoks[i:i + 5]) for i in range(len(ptoks) - 4)))
+        this_grams = set(" ".join(tokens[i:i + 5]) for i in range(len(tokens) - 4))
+        shared = [(g, prev_grams[g]) for g in this_grams if prev_grams[g] >= 1]
+        cross_rep = sorted(shared, key=lambda x: -x[1])[:8]
+
+    return {
+        "words": n_words,
+        "sentences": n_sent,
+        "sentence_length_mean": round(mean_len, 1),
+        "sentence_length_std": round(std_len, 1),
+        "short_sentences_pct": round(100 * sum(1 for l in lengths if l < 8) / n_sent, 1),
+        "long_sentences_pct": round(100 * sum(1 for l in lengths if l > 30) / n_sent, 1),
+        "dialogue_paragraph_pct": round(100 * len(dialogue_paras) / max(1, len(paragraphs)), 1),
+        "mente_per_1000": round(1000 * mente / n_words, 2),
+        "simile_per_1000": round(1000 * similes / n_words, 2),
+        "no_sino_per_1000": round(1000 * no_sino / n_words, 2),
+        "slop_per_1000": round(1000 * sum(slop_hits.values()) / n_words, 2),
+        "slop_hits": slop_hits,
+        "top_sentence_opener": {"word": top_opener, "fraction": round(top_count / n_sent, 2)},
+        "fragment_paragraph_endings_pct": round(100 * frag_endings / max(1, len(paragraphs)), 1),
+        "repeated_4grams": internal_rep,
+        "pet_phrases_from_previous_chapters": cross_rep,
+    }
+
+
+def evaluate(metrics, anchor_metrics=None):
+    warnings = []
+    m = metrics
+    if m["sentence_length_std"] < UMBRALES["std_frase_min"] and m["sentences"] > 20:
+        warnings.append(f"RITMO UNIFORME (voz robot): desviación de longitud de frase {m['sentence_length_std']} "
+                        f"(mínimo sano ~{UMBRALES['std_frase_min']}). Alternar frases cortas y largas.")
+    if m["mente_per_1000"] > UMBRALES["mente_por_1000_max"]:
+        warnings.append(f"Adverbios en -mente: {m['mente_per_1000']}/1000 palabras (máximo sano ~{UMBRALES['mente_por_1000_max']}).")
+    if m["simile_per_1000"] > UMBRALES["simil_por_1000_max"]:
+        warnings.append(f"Densidad de símiles: {m['simile_per_1000']}/1000 (máximo sano ~{UMBRALES['simil_por_1000_max']}). La lectura se vuelve pesada.")
+    if m["slop_per_1000"] > UMBRALES["slop_por_1000_max"]:
+        warnings.append(f"Léxico quemado: {m['slop_per_1000']}/1000. Frases detectadas: {list(m['slop_hits'])[:5]}")
+    if m["no_sino_per_1000"] > UMBRALES["no_sino_por_1000_max"]:
+        warnings.append(f"Tic 'no X, sino Y': {m['no_sino_per_1000']}/1000. Es una muletilla de IA reconocible.")
+    if m["top_sentence_opener"]["fraction"] > UMBRALES["arranque_repetido_max"] and m["sentences"] > 20:
+        warnings.append(f"El {int(m['top_sentence_opener']['fraction']*100)}% de las frases arrancan con "
+                        f"'{m['top_sentence_opener']['word']}'. Variar los arranques.")
+    if m["fragment_paragraph_endings_pct"] > UMBRALES["fragmento_final_parrafo_max"] * 100:
+        warnings.append(f"El {m['fragment_paragraph_endings_pct']}% de los párrafos cierran con fragmento efectista. "
+                        "Usado en exceso, pierde el efecto.")
+    for gram, count in m["repeated_4grams"][:3]:
+        warnings.append(f"Muletilla interna: '{gram}' aparece {count} veces en el capítulo.")
+    for gram, _ in m["pet_phrases_from_previous_chapters"][:3]:
+        warnings.append(f"Muletilla ENTRE capítulos: '{gram}' ya apareció en capítulos anteriores.")
+
+    drift = []
+    if anchor_metrics:
+        for key, label in [("sentence_length_mean", "longitud media de frase"),
+                           ("sentence_length_std", "variación de ritmo"),
+                           ("dialogue_paragraph_pct", "proporción de diálogo"),
+                           ("mente_per_1000", "adverbios en -mente"),
+                           ("simile_per_1000", "densidad de símiles")]:
+            a, c = anchor_metrics.get(key), m.get(key)
+            if a and c is not None and a > 0:
+                ratio = c / a
+                if ratio < 0.6 or ratio > 1.67:
+                    drift.append(f"DERIVA del ancla en {label}: ancla {a} → capítulo {c}.")
+    return warnings, drift
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Linter de prosa SuperNarrative")
+    parser.add_argument("--file", default=None, help="Fichero de texto a analizar")
+    parser.add_argument("--chapter", type=int, default=None, help="Capítulo (usa su file_path de la DB)")
+    parser.add_argument("--set-anchor", default=None, metavar="FILE",
+                        help="Fijar el pasaje de este fichero como ancla de estilo del proyecto")
+    parser.add_argument("--project", default=None, help="ID del proyecto")
+    parser.add_argument("--db", required=True, help="Ruta a la base de datos SQLite")
+    args = parser.parse_args()
+
+    require_db(args.db)
+    conn = connect(args.db)
+    project_id = get_project_id(conn, args.project)
+
+    if args.set_anchor:
+        if not os.path.exists(args.set_anchor):
+            fail(f"Fichero no encontrado: {args.set_anchor}")
+        with open(args.set_anchor, encoding="utf-8") as f:
+            anchor_text = f.read()
+        metrics = analyze_text(anchor_text)
+        conn.execute("UPDATE projects SET style_anchor = ?, style_anchor_metrics = ?, "
+                     "updated_at = CURRENT_TIMESTAMP WHERE id = ?",
+                     (anchor_text, json.dumps(metrics), project_id))
+        conn.commit()
+        print(json.dumps({"status": "success", "action": "set_anchor",
+                          "anchor_words": metrics["words"], "anchor_metrics": metrics,
+                          "message": "Ancla de estilo fijada. Cada capítulo se comparará contra ella."},
+                         ensure_ascii=False, indent=2))
+        return
+
+    if args.chapter is not None:
+        row = conn.execute(
+            "SELECT file_path FROM chapters WHERE project_id = ? AND chapter_number = ?",
+            (project_id, args.chapter)).fetchone()
+        if not row or not row["file_path"] or not os.path.exists(row["file_path"]):
+            fail(f"El capítulo {args.chapter} no tiene file_path válido. Usa --file o asigna el fichero al analizar.")
+        path = row["file_path"]
+    elif args.file:
+        if not os.path.exists(args.file):
+            fail(f"Fichero no encontrado: {args.file}")
+        path = args.file
+    else:
+        fail("Indica --file, --chapter o --set-anchor")
+
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+
+    # Capítulos previos para detectar muletillas recurrentes
+    prev_texts = []
+    current_num = args.chapter if args.chapter is not None else 10 ** 9
+    for row in conn.execute(
+            "SELECT file_path FROM chapters WHERE project_id = ? AND chapter_number < ? "
+            "AND file_path IS NOT NULL ORDER BY chapter_number DESC LIMIT 5",
+            (project_id, current_num)):
+        if row["file_path"] and os.path.exists(row["file_path"]) and row["file_path"] != path:
+            with open(row["file_path"], encoding="utf-8") as f:
+                prev_texts.append(f.read())
+
+    anchor_row = conn.execute(
+        "SELECT style_anchor_metrics FROM projects WHERE id = ?", (project_id,)).fetchone()
+    anchor_metrics = json.loads(anchor_row["style_anchor_metrics"]) \
+        if anchor_row and anchor_row["style_anchor_metrics"] else None
+    conn.close()
+
+    metrics = analyze_text(text, prev_texts)
+    warnings, drift = evaluate(metrics, anchor_metrics)
+
+    print(json.dumps({
+        "status": "success",
+        "file": path,
+        "metrics": metrics,
+        "warnings": warnings,
+        "anchor_drift": drift,
+        "clean": not warnings and not drift,
+        "note": None if anchor_metrics else
+                "Sin ancla de estilo fijada: usa --set-anchor para activar la detección de deriva.",
+    }, ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()

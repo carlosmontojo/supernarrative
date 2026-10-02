@@ -21,6 +21,8 @@ CREATE TABLE IF NOT EXISTS projects (
     target_word_count INTEGER,
     current_word_count INTEGER DEFAULT 0,
     narrative_voice TEXT DEFAULT 'third_person',   -- "first_person", "third_person", "third_omniscient"
+    style_anchor TEXT,                   -- Pasaje ejemplar que define la prosa del proyecto
+    style_anchor_metrics TEXT,           -- JSON: métricas del ancla (las calcula prose.py)
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );

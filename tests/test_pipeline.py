@@ -245,5 +245,42 @@ class TestPipeline(unittest.TestCase):
             self.assertTrue(str(row["planted_in_chapter"]).isdigit(), row)
 
 
+    def test_12_prose_linter(self):
+        """El linter detecta los tics de la ficción generada por IA."""
+        sloppy = os.path.join(self.tmp.name, "sloppy.md")
+        sentence = ("Ella sintió una oleada de tristeza y no pudo evitar pensar "
+                    "que nada volvería a ser igual aquella tarde gris. ")
+        with open(sloppy, "w", encoding="utf-8") as f:
+            f.write("Respiró hondo lentamente.\n\n" + (sentence * 30))
+        out = run(["prose", "--db", self.db, "--file", sloppy])
+        self.assertFalse(out["clean"], out)
+        text = json.dumps(out["warnings"], ensure_ascii=False)
+        self.assertIn("quemado", text, "Debe detectar el léxico quemado")
+        self.assertIn("RITMO UNIFORME", text, "Debe detectar la voz robot")
+        self.assertTrue(any("Muletilla" in w for w in out["warnings"]),
+                        "Debe detectar los 4-gramas repetidos")
+
+        # Ancla de estilo: fijarla y detectar deriva
+        anchor = os.path.join(self.tmp.name, "anchor.md")
+        with open(anchor, "w", encoding="utf-8") as f:
+            f.write("Llueve. La ciudad entera parece haberse rendido a ese gris "
+                    "que no promete nada y sin embargo lo empapa todo, los toldos, "
+                    "los portales, la paciencia. Cole cruza sin mirar. Un coche "
+                    "frena. Ella ni se vuelve: lleva tres noches sin dormir y el "
+                    "cansancio es lo único que la mantiene concentrada en lo que "
+                    "importa, que es la página arrancada del registro y el hueco "
+                    "de cuarenta minutos que alguien quiso borrar del mundo. "
+                    "¿Quién arranca una página a mano, pudiendo borrar un archivo? "
+                    "Alguien con prisa. Alguien de otra época. O alguien que "
+                    "quería que el hueco se notara.")
+        out = run(["prose", "--db", self.db, "--set-anchor", anchor])
+        self.assertEqual(out["action"], "set_anchor")
+        out = run(["prose", "--db", self.db, "--file", sloppy])
+        self.assertTrue(out["anchor_drift"], f"Debe detectar deriva del ancla: {out}")
+        # Y el ancla llega al context package
+        ctx = run(["context", "--db", self.db, "--chapter", "6"])
+        self.assertTrue(ctx["project"]["style_anchor"], "El ancla debe viajar en el contexto")
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

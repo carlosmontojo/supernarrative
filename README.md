@@ -37,6 +37,8 @@ verify.py = your test suite
 
 ## Key Features
 
+**Style Anchoring + Prose Linter** — The style is calibrated once (author interview + competing samples), stored as an *anchor passage*, and injected into every generation prompt. A zero-dependency prose linter then measures every chapter: sentence-rhythm uniformity (the robot-voice signature), simile/adverb density, AI stock phrases, pet phrases repeated across chapters, and drift from the anchor. Regression to default LLM voice stops being a feeling and becomes a number.
+
 **Epistemic Matrix** — Tracks what every character knows, suspects, or wrongly believes at every point in the story. No other tool does this. When your character acts on information they don't have, `verify` catches it.
 
 **Consistency Verification** — Automated checks for continuity errors, epistemic violations, timeline impossibilities, abandoned clues, pacing monotony, and plot dependency violations.
@@ -127,6 +129,7 @@ python3 supernarrative.py snapshot  # backup before big changes
 | `analyze` | Extract narrative data from a written chapter |
 | `update` | Apply confirmed analysis to database (reports unmatched names; `--replace` for re-analysis) |
 | `verify` | Check for consistency issues |
+| `prose` | Prose linter: rhythm, AI tics, pet phrases, style-anchor drift (`--set-anchor` to calibrate) |
 | `dashboard` | Project overview (terminal or JSON) |
 | `search` | Query the narrative database |
 | `snapshot` | Create/list/restore database backups (WAL-safe) |

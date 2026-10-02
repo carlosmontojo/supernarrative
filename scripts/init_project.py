@@ -27,6 +27,15 @@ DEFAULT_RULES = [
     ("structure", "Cada pregunta respondida debe abrir al menos una nueva. No resolver sin abrir.", 8),
     ("style", "Monólogo interno profundo del protagonista. El lector debe sentir lo que siente el personaje.", 7),
     ("forbidden", "No usar coincidencias convenientes para avanzar la trama. Si algo parece demasiado conveniente, lo es.", 9),
+    # — Reglas de prosa (contramedidas a los tics de la ficción generada por IA) —
+    ("prose", "Presupuesto de recursos: máximo UN símil o metáfora por página. Si dudas, córtalo. La imagen que sobrevive vale más que diez.", 10),
+    ("prose", "Variar el ritmo de la frase: alternar cortas y largas dentro de cada párrafo. Prohibido el ritmo uniforme (es la firma de la voz robot).", 10),
+    ("prose", "Prohibido explicar la emoción después de mostrarla ('sintió una oleada de...', 'no pudo evitar...'). Mostrar y callar.", 10),
+    ("prose", "Prohibidas las construcciones-tic: 'no X, sino Y', enumeraciones de tres como muletilla, y cerrar cada párrafo con fragmento efectista.", 9),
+    ("prose", "Adverbios en -mente: máximo 3-4 por cada mil palabras. El verbo preciso mata al adverbio.", 8),
+    ("dialogue", "Los personajes no responden a la pregunta que se les hace: responden a lo que quieren decir. Subtexto, evasivas, interrupciones, mentiras.", 10),
+    ("dialogue", "Cada personaje tiene registro, sintaxis y muletillas propios (ver su ficha). TEST DE LA LÍNEA antes de dar un diálogo por bueno: sin atribuciones, ¿se distingue quién habla? Si no, reescribir.", 10),
+    ("dialogue", "El diálogo no es un canal de exposición. Si una réplica existe solo para informar al lector, eliminarla y ganar esa información en escena.", 9),
 ]
 
 

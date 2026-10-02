@@ -107,6 +107,13 @@ def migrate(db_path):
     except sqlite3.OperationalError:
         pass
 
+    # Columnas nuevas de v0.3 (sistema de estilo)
+    existing = {r[1] for r in conn.execute("PRAGMA table_info(projects)")}
+    for col in ("style_anchor", "style_anchor_metrics"):
+        if col not in existing:
+            conn.execute(f"ALTER TABLE projects ADD COLUMN {col} TEXT")
+            report["fixes"].append(f"projects.{col}: columna añadida")
+
     conn.execute("PRAGMA user_version = 2")
     conn.commit()
     conn.close()
