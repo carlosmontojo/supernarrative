@@ -36,11 +36,27 @@ SLOP_LEXICON = [
     "el aire olía a", "como si el mundo", "sintió un nudo en",
     "a wave of", "couldn't help but", "a mix of", "took a deep breath",
     "let out a breath", "heart skipped", "sent shivers down",
+    "a mixture of", "breath he didn't know", "breath she didn't know",
+    "eyes widened", "knuckles whitened", "unreadable expression",
+    "the ghost of a smile", "heart hammered", "stomach dropped",
+    "time seemed to slow", "the world narrowed", "in that moment",
+    "little did", "despite himself", "despite herself", "if he was being honest",
+    "something flickered", "a beat passed", "couldn't shake the feeling",
+    "white-knuckled", "released a breath", "let out a long breath",
 ]
+
+# Palabras en -ly que NO son adverbios de manera (no cuentan para el tic)
+LY_STOPLIST = {
+    "only", "family", "early", "reply", "supply", "apply", "belly", "bully",
+    "rally", "jelly", "holy", "ugly", "assembly", "likely", "unlikely",
+    "friendly", "lovely", "lonely", "elderly", "silly", "fly", "ally",
+    "tally", "daily", "deadly", "orderly", "costly", "italy", "july",
+    "monopoly", "anomaly", "melancholy", "butterfly", "multiply", "imply",
+}
 
 UMBRALES = {
     "std_frase_min": 6.0,        # desviación típica de longitud de frase (palabras)
-    "mente_por_1000_max": 4.0,   # adverbios en -mente por 1000 palabras
+    "mente_por_1000_max": 6.0,   # adverbios de manera (-mente / -ly) por 1000 palabras
     "simil_por_1000_max": 3.0,   # "como" comparativo por 1000 palabras (aprox)
     "slop_por_1000_max": 1.0,
     "no_sino_por_1000_max": 0.8,
@@ -65,12 +81,15 @@ def analyze_text(text, prev_texts=None):
     std_len = (sum((l - mean_len) ** 2 for l in lengths) / n_sent) ** 0.5
 
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-    dialogue_paras = [p for p in paragraphs if p.lstrip().startswith(("—", "–", "«", '"', "-"))]
+    dialogue_paras = [p for p in paragraphs if p.lstrip().startswith(("—", "–", "«", '"', "-", "“"))]
 
     low = text.lower()
     mente = len(re.findall(r"\b\w{4,}mente\b", low))
+    mente += sum(1 for w in re.findall(r"\b[a-z]{3,}ly\b", low) if w not in LY_STOPLIST)
     similes = len(re.findall(r"\bcomo (?:si |un |una |el |la )", low))
+    similes += len(re.findall(r"\blike (?:a |an |the |some )|\bas (?:if |though )", low))
     no_sino = len(re.findall(r"\bno \b[^,.;]{2,40}, sino\b", low))
+    no_sino += len(re.findall(r"\bnot \b[^,.;]{2,40}, but\b", low))
     slop_hits = {p: low.count(p) for p in SLOP_LEXICON if p in low}
 
     openers = Counter(s.split()[0].lower().strip("—–«\"'¿¡") for s in sentences if s.split())
