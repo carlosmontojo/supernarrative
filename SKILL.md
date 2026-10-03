@@ -65,6 +65,12 @@ defecto" de los LLMs.
    `poet_lexicon_hits`, `dialogue_epigrams`, con extractos) y un capítulo con
    ese aviso no está terminado. Es la regresión más típica del modelo: vigilar
    en CADA pasada.
+7. **Presupuesto de ingenio**: una réplica ingeniosa por intercambio y una
+   observación ligera por página de narración, como máximo, siempre literal.
+   Nada de chistes con metáfora dentro, remates "which was X",
+   personificaciones, hipérboles ni resúmenes-sentencia. Los secundarios hablan
+   como su oficio. La densidad se juzga leyendo: más de una frase ingeniosa por
+   página es demasiado.
 
 ---
 

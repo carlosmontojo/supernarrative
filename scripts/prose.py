@@ -121,6 +121,33 @@ def epigram_report(text):
                 break
     return hits_d, hits_n, examples
 
+# Marcadores de ingenio de narrador (v2.3): remates "which was X", "For X that was a lot",
+# "That was the Horno for you", hipérboles y resúmenes-sentencia. No mide la densidad real
+# (eso lo juzga la lectura) pero delata el tic.
+WIT_PATTERNS = [
+    r", which (?:from|showed|counted as|in the \w+ (?:was|meant)) [^.]{2,60}\.",
+    r", which was (?:what (?:he|she|they)'d wanted|rare for|a lot for|more than|her way of|his way of|the point|the trouble|the problem)\b",
+    r"\bfor \w+,? that was (?:a lot|something|a speech|a parade|a wreath|a medal)\b",
+    r"\bthat was the \w+ for you\b", r"\bit was that or\b", r"\bwhich was (?:the whole|most of|its own|how)\b",
+    r"\bdoing what \w+ do, which\b", r"\bsame as it did everything\b", r"\bthe only free\b",
+    r"\bwhich (?:he|she|they) (?:thought|found|considered) was\b", r"\bin that order\b",
+    r"\b(?:so|too) \w+ (?:that|you could) [^.]{0,40}\b(?:complained|see your thumb|two streets)\b",
+]
+
+def wit_report(text):
+    low = text.lower(); spans = dialogue_spans(text); hits = []
+    for pat in WIT_PATTERNS:
+        for m in re.finditer(pat, low):
+            where = "dialogue" if any(a <= m.start() < b for a, b in spans) else "narration"
+            a = max(0, m.start() - 50); b = min(len(text), m.end() + 40)
+            hits.append({"where": where, "hit": m.group(0).strip()[:60], "text": re.sub(r"\s+", " ", text[a:b]).strip()})
+    # párrafos-remate de narración: una sola frase de 6 palabras o menos, sin comillas
+    for para in text.split("\n\n"):
+        t = para.strip()
+        if t and '"' not in t and not t.startswith(("#", ">", "-")) and 1 <= len(t.split()) <= 6 and t[-1] in ".!" and not t.isupper():
+            hits.append({"where": "narration", "hit": "one-line zinger", "text": t})
+    return hits
+
 def dialogue_spans(text):
     """Tramos entre comillas dobles (rectas o tipográficas) en una misma línea."""
     spans = []
@@ -183,6 +210,7 @@ UMBRALES = {
     "simil_narracion_por_1000_max": 1.5,  # símiles del narrador por 1000 palabras
     "poeta_lexico_max": 0,            # léxico de poeta-matemático: cero
     "epigrama_dialogo_max": 3,        # frases redondas en boca de personajes por capítulo
+    "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
 }
 
 
@@ -247,6 +275,7 @@ def analyze_text(text, prev_texts=None):
 
     sim_d, sim_n, poet_hits, fig_examples = figurative_report(text)
     epi_d, epi_n, epi_examples = epigram_report(text)
+    wit_hits = wit_report(text)
 
     return {
         "words": n_words,
@@ -254,6 +283,8 @@ def analyze_text(text, prev_texts=None):
         "narration_similes_per_1000": round(1000 * sim_n / n_words, 2),
         "poet_lexicon_hits": poet_hits,
         "figurative_examples": fig_examples,
+        "wit_markers": len(wit_hits),
+        "wit_examples": wit_hits[:40],
         "dialogue_epigrams": epi_d,
         "narration_epigrams": epi_n,
         "epigram_examples": epi_examples,
@@ -318,6 +349,9 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
                         f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
                         "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
+    if m["wit_markers"] > UMBRALES["ingenio_marcadores_max"]:
+        warnings.append(f"INGENIO DE NARRADOR: {m['wit_markers']} marcadores (remates 'which was X', párrafos-remate de una línea, "
+                        f"hipérboles; máximo {UMBRALES['ingenio_marcadores_max']}). Una observación ligera por página. Ver wit_examples.")
     if sum(m["poet_lexicon_hits"].values()) > UMBRALES["poeta_lexico_max"]:
         warnings.append(f"LÉXICO DE POETA-MATEMÁTICO ({sum(m['poet_lexicon_hits'].values())} usos): "
                         f"{dict(list(m['poet_lexicon_hits'].items())[:8])}. Prohibido: nadie describe una pelea o un sentimiento con aritmética, gramática o geometría.")
