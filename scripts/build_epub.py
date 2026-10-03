@@ -5,6 +5,7 @@ from xml.etree import ElementTree as ET
 
 ROOT='source'; OUT=sys.argv[1] if len(sys.argv)>1 else 'source/CORVUS_Book_One.epub'
 COVER=sys.argv[2] if len(sys.argv)>2 else 'source/cover/var_01_michroma.png'
+FONTS={'OEBPS/fonts/michroma.woff2':'source/cover/fonts/michroma.woff2','OEBPS/fonts/spacegrotesk.woff2':'source/cover/fonts/spacegrotesk.woff2'}  # both SIL Open Font License
 TITLE='CORVUS'; AUTHOR='Pseudonim'; SERIES='Corvus Saga'; SUBTITLE='A Sci-Fi Progression Novel'
 BOOK_ID='urn:uuid:'+str(uuid.uuid5(uuid.NAMESPACE_URL,'corvus-saga-book-one'))
 MOD=datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -78,12 +79,14 @@ for f in files:
 acts=[('Act I','The Reading',1,10),('Act II','The Bidding',11,33),('Act III','Saturnalia',34,44)]
 
 css='''
+@font-face { font-family: "Michroma"; font-style: normal; font-weight: 400; src: url(fonts/michroma.woff2) format("woff2"); }
+@font-face { font-family: "Space Grotesk"; font-style: normal; font-weight: 400; src: url(fonts/spacegrotesk.woff2) format("woff2"); }
 @page { margin: 1em; }
 body { font-family: Georgia, "Times New Roman", serif; line-height: 1.5; margin: 0; padding: 0 0.6em; }
 p { margin: 0; text-indent: 1.3em; text-align: justify; }
 header.chap + p, hr.scene + p, blockquote + p, p.log + p, p.lines + p { text-indent: 0; }
 header.chap { text-align: center; margin: 3em 0 2.2em 0; }
-header.chap .label { text-indent: 0; text-align: center; font-size: 0.8em; letter-spacing: 0.35em; text-transform: uppercase; color: #8a6a1f; margin-bottom: 0.4em; }
+header.chap .label { font-family: "Space Grotesk", "Helvetica Neue", Arial, sans-serif; text-indent: 0; text-align: center; font-size: 0.75em; letter-spacing: 0.25em; white-space: nowrap; text-transform: uppercase; color: #8a6a1f; margin-bottom: 0.4em; }
 header.chap h1 { font-size: 1.7em; font-weight: normal; letter-spacing: 0.08em; margin: 0; }
 header.chap .mark { text-indent: 0; text-align: center; color: #b8902a; font-size: 0.7em; margin-top: 0.8em; }
 hr.scene { border: 0; text-align: center; margin: 1.6em auto; width: 30%; height: 1px; background: #b8902a; }
@@ -92,15 +95,16 @@ p.lines { text-indent: 0; margin: 0.6em 0; }
 blockquote.letter { margin: 1.2em 1.6em; font-style: italic; }
 blockquote.letter p { text-indent: 0; margin-bottom: 0.7em; }
 p.end { text-indent: 0; text-align: center; letter-spacing: 0.35em; margin-top: 3em; color: #8a6a1f; font-size: 0.85em; }
-.titlepage { text-align: center; margin-top: 18%; }
-.titlepage .series { letter-spacing: 0.4em; font-size: 0.8em; text-transform: uppercase; color: #8a6a1f; }
-.titlepage h1 { font-size: 3em; letter-spacing: 0.3em; font-weight: normal; margin: 0.4em 0 0.2em 0; }
-.titlepage .sub { letter-spacing: 0.3em; font-size: 0.85em; text-transform: uppercase; margin-bottom: 3em; }
-.titlepage .author { letter-spacing: 0.35em; font-size: 1.1em; text-transform: uppercase; }
-.titlepage svg { width: 60%; max-width: 420px; height: auto; margin: 1.5em auto; display: block; }
+.titlepage { text-align: center; margin: 14% 0 0 0; padding: 0; }
+.titlepage p, .titlepage h1 { text-indent: 0; text-align: center; white-space: nowrap; margin: 0; }
+.titlepage .series { font-family: "Space Grotesk", "Helvetica Neue", Arial, sans-serif; font-size: 0.7em; letter-spacing: 0.22em; text-transform: uppercase; color: #a8832a; }
+.titlepage .mark { width: 72%; max-width: 440px; height: auto; margin: 1.6em auto 1.2em auto; display: block; }
+.titlepage h1 { font-family: "Michroma", "Helvetica Neue", Arial, sans-serif; font-size: 2.1em; font-weight: normal; letter-spacing: 0.16em; line-height: 1.2; margin: 0.1em 0 0.5em 0; color: #c9a23c; }
+.titlepage .sub { font-family: "Space Grotesk", "Helvetica Neue", Arial, sans-serif; font-size: 0.72em; letter-spacing: 0.16em; text-transform: uppercase; }
+.titlepage .author { font-family: "Space Grotesk", "Helvetica Neue", Arial, sans-serif; font-size: 0.95em; letter-spacing: 0.26em; text-transform: uppercase; margin-top: 3.2em; color: #a8832a; }
 .part { text-align: center; margin-top: 35%; }
-.part .label { letter-spacing: 0.4em; text-transform: uppercase; color: #8a6a1f; font-size: 0.9em; }
-.part h1 { font-size: 2em; font-weight: normal; letter-spacing: 0.15em; margin: 0.4em 0; }
+.part .label { font-family: "Space Grotesk", "Helvetica Neue", Arial, sans-serif; letter-spacing: 0.25em; text-transform: uppercase; color: #a8832a; font-size: 0.8em; text-indent: 0; text-align: center; white-space: nowrap; }
+.part h1 { font-family: "Michroma", "Helvetica Neue", Arial, sans-serif; font-size: 1.5em; font-weight: normal; letter-spacing: 0.1em; margin: 0.5em 0; color: #c9a23c; white-space: nowrap; }
 .cover { text-align: center; margin: 0; padding: 0; }
 .cover img { max-width: 100%; max-height: 100%; }
 .colophon { font-size: 0.85em; margin-top: 30%; text-align: center; }
@@ -109,12 +113,12 @@ nav ol { list-style: none; padding-left: 0; } nav li { margin: 0.35em 0; } nav o
 '''
 
 # the ten-stroke mark as static SVG (gold, no filters) for the title page
-mark_svg='''<svg xmlns="http://www.w3.org/2000/svg" viewBox="120 500 1360 960"><g fill="none" stroke="#b8902a" stroke-linecap="square" stroke-linejoin="miter">
-<polygon points="758,834 800,780 860,786 950,844 860,880 788,886" stroke-width="12"/><polyline points="800,886 800,998" stroke-width="12"/>
-<polyline points="844,1000 1440,556" stroke-width="14"/><polyline points="756,1000 160,556" stroke-width="14"/>
-<polyline points="912,1092 1304,800" stroke-width="9"/><polyline points="688,1092 296,800" stroke-width="9"/>
-<polyline points="758,1004 800,1300" stroke-width="12"/><polyline points="842,1004 800,1300" stroke-width="12"/>
-<polyline points="800,1300 736,1396" stroke-width="12"/><polyline points="800,1300 864,1396" stroke-width="12"/></g></svg>'''
+mark_svg='''<svg xmlns="http://www.w3.org/2000/svg" class="mark" viewBox="120 520 1360 920" preserveAspectRatio="xMidYMid meet"><g fill="none" stroke="#c9a23c" stroke-linecap="square" stroke-linejoin="miter">
+<polygon points="758,834 800,780 860,786 950,844 860,880 788,886" stroke-width="18"/><polyline points="800,886 800,998" stroke-width="18"/>
+<polyline points="844,1000 1440,556" stroke-width="22"/><polyline points="756,1000 160,556" stroke-width="22"/>
+<polyline points="912,1092 1304,800" stroke-width="14"/><polyline points="688,1092 296,800" stroke-width="14"/>
+<polyline points="758,1004 800,1300" stroke-width="18"/><polyline points="842,1004 800,1300" stroke-width="18"/>
+<polyline points="800,1300 736,1396" stroke-width="18"/><polyline points="800,1300 864,1396" stroke-width="18"/></g></svg>'''
 
 def page(title, body, extra_head=''):
     return f'''<?xml version="1.0" encoding="utf-8"?>
@@ -123,7 +127,7 @@ def page(title, body, extra_head=''):
 <body>{body}</body></html>'''
 
 cover_x=page('Cover','<section epub:type="cover" class="cover"><img src="images/cover.png" alt="CORVUS"/></section>')
-title_x=page('Title page',f'<section epub:type="titlepage" class="titlepage"><p class="series">{SERIES} · Book One</p>{mark_svg}<h1>{TITLE}</h1><p class="sub">{SUBTITLE}</p><p class="author">{AUTHOR}</p></section>')
+title_x=page('Title page',f'<section epub:type="titlepage" class="titlepage"><p class="series">{SERIES}&#160;&#183;&#160;Book One</p>{mark_svg}<h1>{TITLE}</h1><p class="sub">{SUBTITLE}</p><p class="author">{AUTHOR}</p></section>')
 colophon_x=page('Copyright',f'<section epub:type="copyright-page" class="colophon"><p>{TITLE}<br/>{SERIES}, Book One</p><p>Copyright © {datetime.date.today().year} {AUTHOR}. All rights reserved.</p><p>This is a work of fiction. Names, characters, places and incidents are products of the author’s imagination or are used fictitiously.</p><p>First edition.</p></section>')
 parts=[]
 for i,(lab,name,a,b) in enumerate(acts,1):
@@ -165,6 +169,8 @@ ncx=f'''<?xml version="1.0" encoding="utf-8"?>
 manifest=['<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>',
           '<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>',
           '<item id="css" href="style.css" media-type="text/css"/>',
+          '<item id="font-michroma" href="fonts/michroma.woff2" media-type="font/woff2"/>',
+          '<item id="font-grotesk" href="fonts/spacegrotesk.woff2" media-type="font/woff2"/>',
           '<item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>',
           '<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>',
           '<item id="title" href="title.xhtml" media-type="application/xhtml+xml" properties="svg"/>',
@@ -214,5 +220,6 @@ with zipfile.ZipFile(OUT,'w') as z:
     z.writestr('META-INF/container.xml',container,compress_type=zipfile.ZIP_DEFLATED)
     for k,v in files_out.items(): z.writestr(k,v,compress_type=zipfile.ZIP_DEFLATED)
     z.write(COVER,'OEBPS/images/cover.png',compress_type=zipfile.ZIP_STORED)
+    for dst,src in FONTS.items(): z.write(src,dst,compress_type=zipfile.ZIP_STORED)
 words=sum(len(re.sub(r'<[^>]+>',' ',c['xhtml']).split()) for c in chapters)
 print('wrote',OUT,'chapters',len(chapters),'approx words',words,'size',os.path.getsize(OUT))
