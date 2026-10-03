@@ -134,6 +134,21 @@ WIT_PATTERNS = [
     r"\b(?:so|too) \w+ (?:that|you could) [^.]{0,40}\b(?:complained|see your thumb|two streets)\b",
 ]
 
+# Las instituciones y los objetos no tienen ojos (cuarta corrección del autor): "the levy didn't
+# look at medical notes", "the room looked at Dex", "the machine had looked", "the office was lying".
+# Sujeto institucional/colectivo/objeto + verbo de percepción, pensamiento, sentimiento o habla.
+PERSON_SUBJECTS = r"(?:levy|empire|school|collegium|censo|censorate|office|house|senate|company|genetrix|drusa|valerii|physici|tabularium|record|file|annex|catalogue|rules?|form|order|paper|letter|strip|slate|board|machine|bracelet|armilla|tree|numbers?|chart|book|post room|council|district|horno|orb|room|hall|yard|block|mess|arena|sand|wall|line|tunnel|ladder|bracket|draw|clock|lamp|oven|dough|bunk|tanks?|pit|chair|door|gate|stone|water|dark|cold|quiet|silence|loud feeling|bird|oak|arrow|fever|warning|view|crowd|benches|stands)"
+PERSON_VERBS = r"(?:look(?:s|ed)?|see(?:s)?|saw|seen|think(?:s)?|thought|care(?:s|d)?|know(?:s)?|knew|known|want(?:s|ed)?|remember(?:s|ed)?|like(?:s|d)?|hate(?:s|d)?|forgive(?:s)?|forgave|forgiven|believe(?:s|d)?|notice(?:s|d)?|expect(?:s|ed)?|learn(?:s|ed)?|mean(?:s|t)?|need(?:s|ed)?|watch(?:es|ed)?|listen(?:s|ed)?|understand(?:s)?|understood|allow(?:s|ed)?|refuse(?:s|d)?|apologi[sz]e(?:s|d)?|ask(?:s|ed)?|answer(?:s|ed)?|agree(?:s|d)?|argue(?:s|d)?|lie(?:s|d)?|lying|wait(?:s|ed)?|prefer(?:s|red)?|mind(?:s|ed)?|worr(?:y|ies|ied)|hope(?:s|d)?|forg(?:et|ets|ot|otten)|decide(?:s|d)?|tell(?:s)?|told|complain(?:s|ed)?|sleep(?:s)?|slept|breathe(?:s|d)?|flinch(?:es|ed)?|trust(?:s|ed)?|respect(?:s|ed)?|love(?:s|d)?|enjoy(?:s|ed)?|pretend(?:s|ed)?|insist(?:s|ed)?|promise(?:s|d)?|intend(?:s|ed)?|try|tries|tried|feel(?:s)?|felt|had opinions|has opinions|have opinions|wasn't interested|isn't interested|didn't mind|doesn't mind|went quiet|go quiet|held its breath|stopped breathing)"
+PERSON_PATTERN = re.compile(r"\bthe " + PERSON_SUBJECTS + r"(?:'s \w+)? (?:(?:didn't|doesn't|don't|never|always|had|has|have|would|wouldn't|could|couldn't|still|just|only|also|hadn't|hasn't|was|were|is|are|wasn't|weren't) )?(?:not )?" + PERSON_VERBS + r"\b", re.I)
+
+def personification_report(text):
+    spans = dialogue_spans(text); hits = []
+    for m in PERSON_PATTERN.finditer(text):
+        where = "dialogue" if any(a <= m.start() < b for a, b in spans) else "narration"
+        a = max(0, m.start() - 50); b = min(len(text), m.end() + 50)
+        hits.append({"where": where, "hit": m.group(0), "text": re.sub(r"\s+", " ", text[a:b]).strip()})
+    return hits
+
 def wit_report(text):
     low = text.lower(); spans = dialogue_spans(text); hits = []
     for pat in WIT_PATTERNS:
@@ -211,6 +226,7 @@ UMBRALES = {
     "poeta_lexico_max": 0,            # léxico de poeta-matemático: cero
     "epigrama_dialogo_max": 3,        # frases redondas en boca de personajes por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
+    "personificacion_narracion_max": 2,  # instituciones/objetos con verbos de persona, en narración
 }
 
 
@@ -276,6 +292,7 @@ def analyze_text(text, prev_texts=None):
     sim_d, sim_n, poet_hits, fig_examples = figurative_report(text)
     epi_d, epi_n, epi_examples = epigram_report(text)
     wit_hits = wit_report(text)
+    person_hits = personification_report(text)
 
     return {
         "words": n_words,
@@ -283,6 +300,9 @@ def analyze_text(text, prev_texts=None):
         "narration_similes_per_1000": round(1000 * sim_n / n_words, 2),
         "poet_lexicon_hits": poet_hits,
         "figurative_examples": fig_examples,
+        "personification_hits": len(person_hits),
+        "personification_narration": sum(1 for h in person_hits if h["where"] == "narration"),
+        "personification_examples": person_hits[:60],
         "wit_markers": len(wit_hits),
         "wit_examples": wit_hits[:40],
         "dialogue_epigrams": epi_d,
@@ -349,6 +369,10 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
                         f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
                         "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
+    if m["personification_narration"] > UMBRALES["personificacion_narracion_max"]:
+        warnings.append(f"LAS INSTITUCIONES NO TIENEN OJOS: {m['personification_narration']} sujetos institucionales, colectivos u objetos "
+                        f"con verbos de persona en narración (máximo {UMBRALES['personificacion_narracion_max']}). 'The levy didn't look at medical notes': "
+                        "las levas no miran, los médicos de la leva sí. Ver personification_examples.")
     if m["wit_markers"] > UMBRALES["ingenio_marcadores_max"]:
         warnings.append(f"INGENIO DE NARRADOR: {m['wit_markers']} marcadores (remates 'which was X', párrafos-remate de una línea, "
                         f"hipérboles; máximo {UMBRALES['ingenio_marcadores_max']}). Una observación ligera por página. Ver wit_examples.")
