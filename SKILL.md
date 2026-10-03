@@ -55,6 +55,13 @@ defecto" de los LLMs.
 5. **Revisar siempre** (`prompts/revision.md`): la buena prosa de IA se
    consigue en segunda pasada dirigida — matar tics, romper ritmo uniforme,
    test de la línea en los diálogos. El borrador nunca es la entrega.
+6. **Los personajes no son poetas ni matemáticos** (regla fija, corrección del
+   autor): la gente habla NORMAL. Cero símiles literarios en diálogo, cero
+   léxico de poeta-matemático (arithmetic, geometry, grammar, ledger, "a kind
+   of", "the shape of"...) en diálogo y en narración. El ingenio es literal y
+   se entiende a la primera. El linter lo mide por separado (`dialogue_similes`,
+   `poet_lexicon_hits`, `figurative_examples`) y un capítulo con ese aviso no
+   está terminado. Es la regresión más típica del modelo: vigilar en CADA pasada.
 
 ---
 

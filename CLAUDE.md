@@ -11,3 +11,4 @@
 - Si update devuelve "unmatched", muéstramelo y corrige los nombres antes de reaplicar con --replace
 - Los archivos de la novela están en source/
 - Antes de sesiones largas, crea un snapshot: `python3 supernarrative.py snapshot`
+- Los personajes NO son poetas ni matemáticos: hablan normal. Cero símiles y comparaciones poéticas en diálogo, cero léxico abstracto de oficio (arithmetic, geometry, grammar, ledger, "a kind of", "the shape of"...). Si el linter avisa de POETAS o LÉXICO DE POETA-MATEMÁTICO, el capítulo no está terminado. Es mi regresión más típica: revisarla en cada pasada

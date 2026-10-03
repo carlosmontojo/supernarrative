@@ -27,6 +27,11 @@ en revisión dirigida, no en el primer intento.
 - Reducir símiles hasta el presupuesto (1 por página). Conservar SOLO los que
   el personaje POV podría pensar — la imagen pertenece al personaje, no al autor.
 - Adverbios en -mente: sustituir por verbo preciso o borrar.
+- **Los personajes no son poetas ni matemáticos**: cada símil o comparación en
+  boca de un personaje se sustituye por el hecho concreto que quería decir
+  (ver `figurative_examples` del linter). Cero léxico de poeta-matemático
+  (arithmetic, geometry, grammar, ledger, "a kind of", "the shape of"...).
+  El ingenio permitido es literal y se entiende a la primera.
 - Emoción explicada ("sintió que...", "una oleada de..."): borrar la
   explicación; dejar el gesto, el objeto, el silencio.
 

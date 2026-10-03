@@ -10,6 +10,8 @@ con números en vez de opiniones:
   - Muletillas propias: n-gramas repetidos dentro del capítulo y ENTRE capítulos
   - Arranques de frase repetidos, frases-fragmento efectistas en exceso
   - Deriva respecto al ancla de estilo del proyecto (si está fijada)
+  - Anti-poeta: símiles en boca de personajes (aparte de los del narrador) y léxico de
+    poeta-matemático (arithmetic, geometry, grammar, ledger, "a kind of"...), con extractos
 
 Uso:
   python3 supernarrative.py prose --file cap05.md                  # analizar un fichero
@@ -45,6 +47,67 @@ SLOP_LEXICON = [
     "white-knuckled", "released a breath", "let out a long breath",
 ]
 
+# Léxico de "poeta-matemático": abstracciones y metáforas de oficio que los personajes
+# (y el narrador cercano) NO usan. Un chaval de dieciséis años no habla de aritmética,
+# geometría ni gramática para describir una pelea o un sentimiento. Cero tolerancia.
+POET_LEXICON = [
+    "arithmetic", "geometry", "geometric", "geometrical", "equation", "algebra", "calculus",
+    "mathematics", "mathematical", "theorem", "formula", "the sum", "did the sum", "do the sum",
+    "does the sum", "doing the sum", "a sum", "the maths", "the math",
+    "ledger", "liturgy", "liturgical", "currency", "economy of", "the economy", "economics",
+    "grammar", "syntax", "vocabulary", "punctuation", "a sentence that", "the sentence",
+    "the physics", "the logic of", "the language of", "the music of", "the architecture of",
+    "the shape of", "the weight of", "the colour of", "the color of", "the texture of",
+    "a kind of", "kind of thing", "the kind of thing", "which is to say", "the particular",
+    "a thing that", "a thing with", "a thing the", "is a place", "not a time", "is a time",
+    "the opposite of", "a version of", "the version of",
+    "a question with", "the answer to a", "a word for", "the word for", "what it costs", "the cost of",
+    "a tax", "a tithe", "the price of", "a debt to", "in the currency",
+    "aritmética", "geometría", "ecuación", "gramática", "sintaxis", "liturgia", "la suma de",
+    "una especie de", "la forma de", "el peso de", "el color de", "lo que cuesta",
+]
+
+# Patrones de símil/comparación (inglés + español). Se cuentan aparte en diálogo y en narración.
+SIMILE_PATTERNS = [
+    r"\blike (?:a|an|the|some|something|someone|somebody) \b", r"\bas (?:if|though)\b",
+    r"\bthe way (?:a|an|the|you|he|she|they|we|it|somebody|someone) \b",
+    r"\b(?:is|was|are|were|'s) a kind of\b", r"\bthe sound of (?:a|an|the)\b",
+    r"\bcomo (?:si|un|una|el|la|los|las) \b", r"\ba la manera de\b",
+]
+
+def dialogue_spans(text):
+    """Tramos entre comillas dobles (rectas o tipográficas) en una misma línea."""
+    spans = []
+    for m in re.finditer(r'"[^"\n]{2,}"|“[^”\n]{2,}”|«[^»\n]{2,}»', text):
+        spans.append((m.start(), m.end()))
+    return spans
+
+def figurative_report(text):
+    """Símiles en boca de personajes vs. en narración, y léxico de poeta-matemático, con extractos."""
+    low = text.lower()
+    spans = dialogue_spans(text)
+    def in_dialogue(i):
+        return any(a <= i < b for a, b in spans)
+    def excerpt(i, j):
+        a = max(0, i - 60); b = min(len(text), j + 60)
+        return re.sub(r"\s+", " ", text[a:b]).strip()
+    sim_d, sim_n, examples = 0, 0, []
+    for pat in SIMILE_PATTERNS:
+        for m in re.finditer(pat, low):
+            if in_dialogue(m.start()):
+                sim_d += 1
+                examples.append({"where": "dialogue", "hit": m.group(0).strip(), "text": excerpt(m.start(), m.end())})
+            else:
+                sim_n += 1
+                examples.append({"where": "narration", "hit": m.group(0).strip(), "text": excerpt(m.start(), m.end())})
+    poet_hits = Counter()
+    for phrase in POET_LEXICON:
+        for m in re.finditer(r"\b" + re.escape(phrase) + r"\b", low):
+            poet_hits[phrase] += 1
+            examples.append({"where": "dialogue" if in_dialogue(m.start()) else "narration",
+                             "hit": phrase, "text": excerpt(m.start(), m.end())})
+    return sim_d, sim_n, dict(poet_hits), examples
+
 # Palabras en -ly que NO son adverbios de manera (no cuentan para el tic)
 LY_STOPLIST = {
     "only", "family", "early", "reply", "supply", "apply", "belly", "bully",
@@ -69,6 +132,10 @@ UMBRALES = {
     "palabras_parrafo_media_max": 40.0,
     "guion_largo_por_1000_max": 1.0,  # guiones largos (— –) por 1000 palabras
     "said_ratio_min": 0.75,           # proporción de atribuciones que son said/asked
+    # Anti-poeta (corrección del autor, v2.2): los personajes hablan NORMAL.
+    "simil_dialogo_max": 2,           # símiles en boca de personajes por capítulo (y solo de calle)
+    "simil_narracion_por_1000_max": 1.5,  # símiles del narrador por 1000 palabras
+    "poeta_lexico_max": 0,            # léxico de poeta-matemático: cero
 }
 
 
@@ -131,8 +198,14 @@ def analyze_text(text, prev_texts=None):
         shared = [(g, prev_grams[g]) for g in this_grams if prev_grams[g] >= 1]
         cross_rep = sorted(shared, key=lambda x: -x[1])[:8]
 
+    sim_d, sim_n, poet_hits, fig_examples = figurative_report(text)
+
     return {
         "words": n_words,
+        "dialogue_similes": sim_d,
+        "narration_similes_per_1000": round(1000 * sim_n / n_words, 2),
+        "poet_lexicon_hits": poet_hits,
+        "figurative_examples": fig_examples,
         "sentences": n_sent,
         "sentence_length_mean": round(mean_len, 1),
         "sentence_length_std": round(std_len, 1),
@@ -184,6 +257,15 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"GUIONES LARGOS: {m['em_dash_per_1000']}/1000 (la prosa de referencia tiene 0). Sustituir por punto o coma.")
     if m["said_ratio"] < UMBRALES["said_ratio_min"] and (m["dialogue_paragraph_pct"] > 10):
         warnings.append(f"Atribuciones de diálogo rebuscadas: solo {int(m['said_ratio']*100)}% son said/asked. Usar 'said'.")
+    if m["dialogue_similes"] > UMBRALES["simil_dialogo_max"]:
+        warnings.append(f"POETAS EN EL DIÁLOGO: {m['dialogue_similes']} símiles o comparaciones en boca de personajes "
+                        f"(máximo {UMBRALES['simil_dialogo_max']}, y solo de calle). La gente habla normal. Ver figurative_examples.")
+    if m["narration_similes_per_1000"] > UMBRALES["simil_narracion_por_1000_max"]:
+        warnings.append(f"Símiles del narrador: {m['narration_similes_per_1000']}/1000 (máximo {UMBRALES['simil_narracion_por_1000_max']}). "
+                        "Cortar los literarios; dejar solo los concretos que diría un chaval de dieciséis.")
+    if sum(m["poet_lexicon_hits"].values()) > UMBRALES["poeta_lexico_max"]:
+        warnings.append(f"LÉXICO DE POETA-MATEMÁTICO ({sum(m['poet_lexicon_hits'].values())} usos): "
+                        f"{dict(list(m['poet_lexicon_hits'].items())[:8])}. Prohibido: nadie describe una pelea o un sentimiento con aritmética, gramática o geometría.")
     for gram, count in m["repeated_4grams"][:3]:
         warnings.append(f"Muletilla interna: '{gram}' aparece {count} veces en el capítulo.")
     for gram, _ in m["pet_phrases_from_previous_chapters"][:3]:

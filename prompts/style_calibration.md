@@ -15,6 +15,10 @@ Preguntar (y aceptar "no sé, enséñame opciones" como respuesta):
 3. ¿Cuánta imagen poética toleras? (1 = Carver, 10 = García Márquez)
 4. ¿Cuánto monólogo interior? (1 = conductista puro, 10 = flujo de conciencia)
 5. ¿Hay algo que ODIES encontrarte en un libro?
+   (Regresión conocida del modelo: personajes que hablan con símiles y
+   comparaciones poéticas y con vocabulario de oficio abstracto, "arithmetic",
+   "geometry", "grammar". Por defecto está PROHIBIDO salvo que el autor lo
+   pida; el linter lo mide aparte para diálogo y narración.)
 
 ### Paso 2 — Tres muestras en competencia
 
