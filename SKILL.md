@@ -71,6 +71,11 @@ defecto" de los LLMs.
    símil, personificación, comparación poética, hipérbole ornamental,
    sustantivo abstracto, definición-epigrama, cadencia de escritor. "Ingenio
    no es igual a floritura" (el autor).
+8. **Las instituciones y los objetos no tienen ojos**: la leva, el Imperio, la
+   oficina, la máquina, "the room", "the yard" no miran, piensan, saben,
+   quieren, recuerdan ni mienten. Se nombra a la gente que lo hace. Documentos
+   y máquinas pueden "decir" o "mostrar"; instituciones pueden hacer actos
+   institucionales. El linter lo cuenta (`personification_hits`).
 
 ---
 
