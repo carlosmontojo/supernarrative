@@ -11,4 +11,4 @@
 - Si update devuelve "unmatched", muéstramelo y corrige los nombres antes de reaplicar con --replace
 - Los archivos de la novela están en source/
 - Antes de sesiones largas, crea un snapshot: `python3 supernarrative.py snapshot`
-- Los personajes NO son poetas ni matemáticos: hablan normal. Cero símiles y comparaciones poéticas en diálogo, cero léxico abstracto de oficio (arithmetic, geometry, grammar, ledger, "a kind of", "the shape of"...). Si el linter avisa de POETAS o LÉXICO DE POETA-MATEMÁTICO, el capítulo no está terminado. Es mi regresión más típica: revisarla en cada pasada
+- Los personajes NO son poetas ni matemáticos: hablan normal. Cero símiles y comparaciones poéticas en diálogo, cero léxico abstracto de oficio (arithmetic, geometry, grammar, ledger, "a kind of", "the shape of"...). Tampoco frases redondas: ni antítesis-remate ("That's not X. That's Y."), ni definiciones como sabiduría, ni "there's a word for it", ni anáforas. La gente dice la cosa concreta con sintaxis normal. Si el linter avisa de POETAS, LÉXICO DE POETA-MATEMÁTICO o EPIGRAMAS, el capítulo no está terminado. Es mi regresión más típica: revisarla en cada pasada

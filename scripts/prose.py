@@ -75,6 +75,52 @@ SIMILE_PATTERNS = [
     r"\bcomo (?:si|un|una|el|la|los|las) \b", r"\ba la manera de\b",
 ]
 
+# Registro de epigrama: la gente no habla en sentencias. Patrones de "frase redonda" que
+# delatan al poeta aunque no haya símil: antítesis "That's not X. That's Y.", definiciones
+# "That's what an arena is", "the only thing that helps", "there's a word for it",
+# "people like us... people like us", fragmentos-sentencia "Not fear. Arithmetic."
+EPIGRAM_PATTERNS = [
+    r"\bthat's not (?:a |an |the )?[^.?!\"]{1,40}\. that's\b",
+    r"\bit's not (?:a |an |the )?[^.?!\"]{1,40}\. it's\b",
+    r"\b(?:isn't|aren't|wasn't) (?:a |an |the )?[^.?!\"]{1,40}\. (?:it's|they're|it was|that's)\b",
+    r"\bthe only (?:thing|one|part|question|rule) (?:that|is|was|which)\b",
+    r"\bthere's a (?:word|name) for\b", r"\bthe word (?:for it|doesn't|isn't|is|was)\b",
+    r"\bthe thing (?:is|about|that|with|was)\b", r"\bthe part (?:that|where|of it)\b",
+    r"\bthe kind that\b", r"\bthat's what (?:a |an |the )?\w+ (?:is|are|does|do|means)\b",
+    r"\bthat's (?:the whole|the only|the first|the real|the one) (?:thing|rule|trick|point|of it|question)\b",
+    r"\b(?:is|are|was|were) the (?:useful|only|whole|real|hard|easy|interesting|dangerous) part\b",
+    r"\bthat's (?:not )?(?:a|an) (?:fact|rule|promise|question|answer|limit|number|clock|formula|lie|choice|decision|punishment|threat|offer)\b\.",
+    r"(?:^|[.!?] )not (?:a |an |the )?\w+\. (?:a |an |the )?\w+\.",
+    r"\bpeople like (?:us|you|me|him|her|them)\b[^\"]{0,80}\bpeople like (?:us|you|me|him|her|them)\b",
+    r"\bthat's (?:how|where|why|when) (?:you|it|they|we|he|she) \w+\. that's\b",
+    r"\bno\. (?:a |an |the )?\w+\.", r"\byes\. (?:a |an |the )?\w+\.",
+]
+
+def epigram_report(text):
+    """Frases redondas en diálogo (y fragmentos-sentencia en narración), con extractos."""
+    low = text.lower(); spans = dialogue_spans(text)
+    def in_dialogue(i): return any(a <= i < b for a, b in spans)
+    def excerpt(i, j):
+        a = max(0, i - 50); b = min(len(text), j + 50)
+        return re.sub(r"\s+", " ", text[a:b]).strip()
+    hits_d, hits_n, examples = 0, 0, []
+    for pat in EPIGRAM_PATTERNS:
+        for m in re.finditer(pat, low):
+            where = "dialogue" if in_dialogue(m.start()) else "narration"
+            if where == "dialogue": hits_d += 1
+            else: hits_n += 1
+            examples.append({"where": where, "hit": m.group(0).strip()[:60], "text": excerpt(m.start(), m.end())})
+    # anáfora dentro de una misma réplica: dos frases seguidas que arrancan con las mismas dos palabras
+    for a, b in spans:
+        sents = [x.strip() for x in re.split(r"(?<=[.!?])\s+", text[a + 1:b - 1]) if len(x.split()) >= 3]
+        for s1, s2 in zip(sents, sents[1:]):
+            w1, w2 = s1.lower().split()[:2], s2.lower().split()[:2]
+            if w1 == w2:
+                hits_d += 1
+                examples.append({"where": "dialogue", "hit": "anaphora: " + " ".join(w1), "text": excerpt(a, min(b, a + 160))})
+                break
+    return hits_d, hits_n, examples
+
 def dialogue_spans(text):
     """Tramos entre comillas dobles (rectas o tipográficas) en una misma línea."""
     spans = []
@@ -136,6 +182,7 @@ UMBRALES = {
     "simil_dialogo_max": 2,           # símiles en boca de personajes por capítulo (y solo de calle)
     "simil_narracion_por_1000_max": 1.5,  # símiles del narrador por 1000 palabras
     "poeta_lexico_max": 0,            # léxico de poeta-matemático: cero
+    "epigrama_dialogo_max": 3,        # frases redondas en boca de personajes por capítulo
 }
 
 
@@ -199,6 +246,7 @@ def analyze_text(text, prev_texts=None):
         cross_rep = sorted(shared, key=lambda x: -x[1])[:8]
 
     sim_d, sim_n, poet_hits, fig_examples = figurative_report(text)
+    epi_d, epi_n, epi_examples = epigram_report(text)
 
     return {
         "words": n_words,
@@ -206,6 +254,9 @@ def analyze_text(text, prev_texts=None):
         "narration_similes_per_1000": round(1000 * sim_n / n_words, 2),
         "poet_lexicon_hits": poet_hits,
         "figurative_examples": fig_examples,
+        "dialogue_epigrams": epi_d,
+        "narration_epigrams": epi_n,
+        "epigram_examples": epi_examples,
         "sentences": n_sent,
         "sentence_length_mean": round(mean_len, 1),
         "sentence_length_std": round(std_len, 1),
@@ -263,6 +314,10 @@ def evaluate(metrics, anchor_metrics=None):
     if m["narration_similes_per_1000"] > UMBRALES["simil_narracion_por_1000_max"]:
         warnings.append(f"Símiles del narrador: {m['narration_similes_per_1000']}/1000 (máximo {UMBRALES['simil_narracion_por_1000_max']}). "
                         "Cortar los literarios; dejar solo los concretos que diría un chaval de dieciséis.")
+    if m["dialogue_epigrams"] > UMBRALES["epigrama_dialogo_max"]:
+        warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
+                        f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
+                        "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
     if sum(m["poet_lexicon_hits"].values()) > UMBRALES["poeta_lexico_max"]:
         warnings.append(f"LÉXICO DE POETA-MATEMÁTICO ({sum(m['poet_lexicon_hits'].values())} usos): "
                         f"{dict(list(m['poet_lexicon_hits'].items())[:8])}. Prohibido: nadie describe una pelea o un sentimiento con aritmética, gramática o geometría.")

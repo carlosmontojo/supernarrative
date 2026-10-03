@@ -58,10 +58,13 @@ defecto" de los LLMs.
 6. **Los personajes no son poetas ni matemáticos** (regla fija, corrección del
    autor): la gente habla NORMAL. Cero símiles literarios en diálogo, cero
    léxico de poeta-matemático (arithmetic, geometry, grammar, ledger, "a kind
-   of", "the shape of"...) en diálogo y en narración. El ingenio es literal y
-   se entiende a la primera. El linter lo mide por separado (`dialogue_similes`,
-   `poet_lexicon_hits`, `figurative_examples`) y un capítulo con ese aviso no
-   está terminado. Es la regresión más típica del modelo: vigilar en CADA pasada.
+   of", "the shape of"...) en diálogo y en narración, y cero frases redondas
+   (antítesis-remate, definiciones como sabiduría, "there's a word for it",
+   anáforas, fragmentos-sentencia). El ingenio es literal y se entiende a la
+   primera. El linter lo mide por separado (`dialogue_similes`,
+   `poet_lexicon_hits`, `dialogue_epigrams`, con extractos) y un capítulo con
+   ese aviso no está terminado. Es la regresión más típica del modelo: vigilar
+   en CADA pasada.
 
 ---
 

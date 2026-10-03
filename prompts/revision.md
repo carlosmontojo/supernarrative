@@ -31,6 +31,8 @@ en revisión dirigida, no en el primer intento.
   boca de un personaje se sustituye por el hecho concreto que quería decir
   (ver `figurative_examples` del linter). Cero léxico de poeta-matemático
   (arithmetic, geometry, grammar, ledger, "a kind of", "the shape of"...).
+  Cero frases redondas (`epigram_examples`): antítesis-remate, definiciones
+  como sabiduría, "there's a word for it", anáforas, fragmentos-sentencia.
   El ingenio permitido es literal y se entiende a la primera.
 - Emoción explicada ("sintió que...", "una oleada de..."): borrar la
   explicación; dejar el gesto, el objeto, el silencio.
