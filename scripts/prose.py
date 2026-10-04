@@ -93,7 +93,6 @@ EPIGRAM_PATTERNS = [
     r"(?:^|[.!?] )not (?:a |an |the )?\w+\. (?:a |an |the )?\w+\.",
     r"\bpeople like (?:us|you|me|him|her|them)\b[^\"]{0,80}\bpeople like (?:us|you|me|him|her|them)\b",
     r"\bthat's (?:how|where|why|when) (?:you|it|they|we|he|she) \w+\. that's\b",
-    r"\bno\. (?:a |an |the )?\w+\.", r"\byes\. (?:a |an |the )?\w+\.",
 ]
 
 def epigram_report(text):
@@ -110,14 +109,16 @@ def epigram_report(text):
             if where == "dialogue": hits_d += 1
             else: hits_n += 1
             examples.append({"where": where, "hit": m.group(0).strip()[:60], "text": excerpt(m.start(), m.end())})
-    # anáfora dentro de una misma réplica: dos frases seguidas que arrancan con las mismas dos palabras
+    # anáfora retórica dentro de una réplica: TRES frases seguidas con las mismas dos palabras de
+    # arranque (regla de tres). Dos seguidas es habla normal ("You were scary. You were actually
+    # scary.") y no cuenta desde la pasada de voces v3.
     for a, b in spans:
         sents = [x.strip() for x in re.split(r"(?<=[.!?])\s+", text[a + 1:b - 1]) if len(x.split()) >= 3]
-        for s1, s2 in zip(sents, sents[1:]):
-            w1, w2 = s1.lower().split()[:2], s2.lower().split()[:2]
-            if w1 == w2:
+        for s1, s2, s3 in zip(sents, sents[1:], sents[2:]):
+            w1, w2, w3 = s1.lower().split()[:2], s2.lower().split()[:2], s3.lower().split()[:2]
+            if w1 == w2 == w3:
                 hits_d += 1
-                examples.append({"where": "dialogue", "hit": "anaphora: " + " ".join(w1), "text": excerpt(a, min(b, a + 160))})
+                examples.append({"where": "dialogue", "hit": "anaphora x3: " + " ".join(w1), "text": excerpt(a, min(b, a + 160))})
                 break
     return hits_d, hits_n, examples
 
