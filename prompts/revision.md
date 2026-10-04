@@ -51,6 +51,11 @@ en revisión dirigida, no en el primer intento.
   ¿Se distingue quién habla por sintaxis, registro y muletillas?
 - Si no: reescribir usando las réplicas de ejemplo de cada ficha como
   diapasón. NO añadir atribuciones para compensar — cambiar las voces.
+- Remates: leer la última frase de cada réplica. Si solo está para quedar
+  bien (generalización sabionda, aparte ingenioso, "So what.", "Obviously.",
+  "Sir." suelto, tríptico con giro, detalle raro para hacer gracia), quitarla
+  o decir la cosa normal. Si quitándola la réplica dice lo mismo, sobra.
+  El linter cuenta los evidentes (dialogue_punchlines); los demás se buscan leyendo.
 - Cada réplica informativa ("Como sabes, el testamento..."): eliminarla.
   La información se gana en escena o no se da.
 

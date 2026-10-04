@@ -164,6 +164,27 @@ def wit_report(text):
             hits.append({"where": "narration", "hit": "one-line zinger", "text": t})
     return hits
 
+# Remates (quinta corrección del autor, 4-oct): frases que solo están para "quedar bien" y hacen
+# repelentes a los personajes. "The shiny ones are in eights too, they just don't know why",
+# "People always do", "Everybody says that", "So what", "Obviously.", un "Sir." suelto al final
+# de una pulla, "nobody wrote it down". Se miden por frase dentro de cada réplica.
+PUNCHLINE_PATTERNS = [
+    r"^(?:people|everyone|everybody|nobody|no one|they|girls|boys|houses|patricians|the shiny ones) (?:always|never|just) ",
+    r"\b(?:they always do|people always do|always do\.|never do\.|every single time|ask anyone|just don'?t know (?:it|why|that)|nobody (?:wrote|writes|asked|asks|counts|counted) (?:it|that|them|me)\b|so what\b|which is the point|that'?s the point|that'?s the joke|you'?ll see\.|trust me\.|everybody says that|everyone says that|people say that|said nobody|famous last words)",
+    r"^(?:obviously|naturally|apparently|clearly|famously)\.$",
+    r"^sir\.$",
+]
+
+def punchline_report(text):
+    hits = []
+    for a, b in dialogue_spans(text):
+        inner = text[a + 1:b - 1]
+        for sent in [x.strip() for x in re.split(r"(?<=[.!?])\s+", inner) if x.strip()]:
+            low = sent.lower()
+            if any(re.search(p_, low) for p_ in PUNCHLINE_PATTERNS):
+                hits.append({"hit": sent[:80], "text": re.sub(r"\s+", " ", inner)[:160]})
+    return hits
+
 def dialogue_spans(text):
     """Tramos entre comillas dobles (rectas o tipográficas) en una misma línea."""
     spans = []
@@ -226,6 +247,7 @@ UMBRALES = {
     "simil_narracion_por_1000_max": 1.5,  # símiles del narrador por 1000 palabras
     "poeta_lexico_max": 0,            # léxico de poeta-matemático: cero
     "epigrama_dialogo_max": 3,        # frases redondas en boca de personajes por capítulo
+    "remate_dialogo_max": 2,          # remates para quedar bien ("People always do", "So what") por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
     "personificacion_narracion_max": 2,  # instituciones/objetos con verbos de persona, en narración
 }
@@ -292,6 +314,7 @@ def analyze_text(text, prev_texts=None):
 
     sim_d, sim_n, poet_hits, fig_examples = figurative_report(text)
     epi_d, epi_n, epi_examples = epigram_report(text)
+    punch_hits = punchline_report(text)
     wit_hits = wit_report(text)
     person_hits = personification_report(text)
 
@@ -306,6 +329,8 @@ def analyze_text(text, prev_texts=None):
         "personification_examples": person_hits[:60],
         "wit_markers": len(wit_hits),
         "wit_examples": wit_hits[:40],
+        "dialogue_punchlines": len(punch_hits),
+        "punchline_examples": punch_hits[:12],
         "dialogue_epigrams": epi_d,
         "narration_epigrams": epi_n,
         "epigram_examples": epi_examples,
@@ -370,6 +395,11 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
                         f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
                         "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
+    if m["dialogue_punchlines"] > UMBRALES["remate_dialogo_max"]:
+        warnings.append(f"REMATES EN EL DIÁLOGO: {m['dialogue_punchlines']} frases que solo están para quedar bien "
+                        f"(máximo {UMBRALES['remate_dialogo_max']}): generalizaciones sabiondas, apartes ingeniosos, 'So what', "
+                        "'People always do', un 'Sir.' suelto tras una pulla. Hacen repelentes a los personajes. La gente dice "
+                        "lo que tiene que decir y se calla. Ver punchline_examples.")
     if m["personification_narration"] > UMBRALES["personificacion_narracion_max"]:
         warnings.append(f"LAS INSTITUCIONES NO TIENEN OJOS: {m['personification_narration']} sujetos institucionales, colectivos u objetos "
                         f"con verbos de persona en narración (máximo {UMBRALES['personificacion_narracion_max']}). 'The levy didn't look at medical notes': "
