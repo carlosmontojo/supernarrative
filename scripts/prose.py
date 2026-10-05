@@ -208,6 +208,22 @@ def description_report(text):
             hits.append({"hit": m.group(0)[:60], "text": re.sub(r"\s+", " ", text[a:b]).strip()})
     return hits
 
+# Contar cosas (séptima corrección, 5-oct): "todo el mundo cuenta cosas, 40 pasos, 30 frases... les hace muy robóticos".
+_NUM = r"(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|hundred)(?:[- ](?:one|two|three|four|five|six|seven|eight|nine))?"
+COUNTING_PATTERNS = [
+    r"\b(?:I|he|she|they|Dex|Pále|Sabina|Felix|Tulia|Castor|Brennus|Aurelia) (?:had )?counted\b",
+    r"\b(?:'d counted|kept count|was counting|counted (?:them|it|every|out|the (?:steps|lines|names|seconds)))\b",
+    r"\b" + _NUM + r" (?:steps|paces|strides|sentences|lines|words|breaths|heartbeats|seconds|names|ticks|rungs|stairs)\b",
+]
+
+def counting_report(text):
+    hits = []
+    for pat in COUNTING_PATTERNS:
+        for m in re.finditer(pat, text, re.I):
+            a = max(0, m.start() - 60); b = min(len(text), m.end() + 50)
+            hits.append({"hit": m.group(0)[:50], "text": re.sub(r"\s+", " ", text[a:b]).strip()})
+    return hits
+
 def dialogue_spans(text):
     """Tramos entre comillas dobles (rectas o tipográficas) en una misma línea."""
     spans = []
@@ -271,7 +287,8 @@ UMBRALES = {
     "poeta_lexico_max": 0,            # léxico de poeta-matemático: cero
     "epigrama_dialogo_max": 3,        # frases redondas en boca de personajes por capítulo
     "remate_dialogo_max": 2,
-    "descripcion_poetica_max": 1,     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
+    "descripcion_poetica_max": 1,
+    "contar_cosas_max": 2,            # contar pasos, frases, segundos, "I counted"... por capítulo     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
     "personificacion_narracion_max": 2,  # instituciones/objetos con verbos de persona, en narración
 }
@@ -340,6 +357,7 @@ def analyze_text(text, prev_texts=None):
     epi_d, epi_n, epi_examples = epigram_report(text)
     punch_hits = punchline_report(text)
     desc_hits = description_report(text)
+    count_hits = counting_report(text)
     wit_hits = wit_report(text)
     person_hits = personification_report(text)
 
@@ -356,6 +374,8 @@ def analyze_text(text, prev_texts=None):
         "wit_examples": wit_hits[:40],
         "dialogue_punchlines": len(punch_hits),
         "description_filler": len(desc_hits),
+        "counting_habit": len(count_hits),
+        "counting_examples": count_hits[:12],
         "description_examples": desc_hits[:12],
         "punchline_examples": punch_hits[:12],
         "dialogue_epigrams": epi_d,
@@ -422,6 +442,10 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
                         f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
                         "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
+    if m["counting_habit"] > UMBRALES["contar_cosas_max"]:
+        warnings.append(f"CONTAR COSAS: {m['counting_habit']} veces alguien cuenta pasos, frases, líneas, segundos o dice "
+                        f"'I counted' (máximo {UMBRALES['contar_cosas_max']}). La gente normal no cuenta; les vuelve robóticos. "
+                        "Números solo para el sistema, el dinero y la cuenta de Pále en pelea. Ver counting_examples.")
     if m["description_filler"] > UMBRALES["descripcion_poetica_max"]:
         warnings.append(f"DESCRIPCIÓN POÉTICA: {m['description_filler']} rellenos descriptivos evidentes en narración "
                         f"(máximo {UMBRALES['descripcion_poetica_max']}): contrastes 'by day/by night', luz y sombra, "
