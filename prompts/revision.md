@@ -59,6 +59,12 @@ en revisión dirigida, no en el primer intento.
 - Cada réplica informativa ("Como sabes, el testamento..."): eliminarla.
   La información se gana en escena o no se da.
 
+### 3b. Narración normal (descripción)
+- Cada párrafo de descripción: ¿lo necesita la escena para entenderse? Si no, fuera.
+  Si sí, una o dos frases normales: qué hay y dónde. Sin ambiente, sin luz y sombra,
+  sin contrastes de efecto, sin símiles, sin "you" genérico, sin remate final.
+- El linter cuenta los evidentes (description_filler); el resto se encuentra leyendo.
+
 ### 4. Pasada de fluidez
 - Transiciones entre escenas: cortar la primera y la última frase de cada
   escena si no pierden nada (suelen ser andamiaje).

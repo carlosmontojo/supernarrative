@@ -185,6 +185,29 @@ def punchline_report(text):
                 hits.append({"hit": sent[:80], "text": re.sub(r"\s+", " ", inner)[:160]})
     return hits
 
+# Descripción poética del narrador (sexta corrección del autor, 5-oct): "Cuando describes cosas te vuelves
+# muy poético también... hay miles de rellenos poéticos así que no aportan nada". El vault "by day... by night",
+# "the racks went off into the dark like the shelves in the Annona's fields", "caught the lamp one at a time as
+# you walked past", "All of them.", "which was often". Patrones evidentes; el resto se encuentra leyendo.
+DESCRIPTION_PATTERNS = [
+    r"\b(?:at night|by night|by day|in daylight)\b[^.]{0,40}\b(?:was|were)\b",
+    r"\b(?:caught the (?:light|lamp|sun)|went off into the dark|into the dark on both|pooled|the light (?:fell|lay)|lamp-?light)\b",
+    r"\b(?:as you (?:walked|went|came|passed)|you could (?:tell|see|feel|hear) (?:from|that|it|the))\b",
+    r"\b(?:which was often|which turned out to matter|which was (?:most of|all of|the point|how)|that was the \w+ all over)\b",
+    r"\bthe (?:quiet|silence|stillness|noise|sound|smell) of (?:two thousand|a|people|men|everyone)\b",
+    r"\bwas a different (?:room|place|building|yard|field) (?:from|at|by)\b",
+]
+
+def description_report(text):
+    spans = dialogue_spans(text); hits = []
+    for pat in DESCRIPTION_PATTERNS:
+        for m in re.finditer(pat, text, re.I):
+            if any(a <= m.start() < b for a, b in spans):
+                continue
+            a = max(0, m.start() - 60); b = min(len(text), m.end() + 60)
+            hits.append({"hit": m.group(0)[:60], "text": re.sub(r"\s+", " ", text[a:b]).strip()})
+    return hits
+
 def dialogue_spans(text):
     """Tramos entre comillas dobles (rectas o tipográficas) en una misma línea."""
     spans = []
@@ -244,10 +267,11 @@ UMBRALES = {
     "said_ratio_min": 0.75,           # proporción de atribuciones que son said/asked
     # Anti-poeta (corrección del autor, v2.2): los personajes hablan NORMAL.
     "simil_dialogo_max": 2,           # símiles en boca de personajes por capítulo (y solo de calle)
-    "simil_narracion_por_1000_max": 1.5,  # símiles del narrador por 1000 palabras
+    "simil_narracion_por_1000_max": 0.3,  # símiles del narrador por 1000 palabras
     "poeta_lexico_max": 0,            # léxico de poeta-matemático: cero
     "epigrama_dialogo_max": 3,        # frases redondas en boca de personajes por capítulo
-    "remate_dialogo_max": 2,          # remates para quedar bien ("People always do", "So what") por capítulo
+    "remate_dialogo_max": 2,
+    "descripcion_poetica_max": 1,     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
     "personificacion_narracion_max": 2,  # instituciones/objetos con verbos de persona, en narración
 }
@@ -315,6 +339,7 @@ def analyze_text(text, prev_texts=None):
     sim_d, sim_n, poet_hits, fig_examples = figurative_report(text)
     epi_d, epi_n, epi_examples = epigram_report(text)
     punch_hits = punchline_report(text)
+    desc_hits = description_report(text)
     wit_hits = wit_report(text)
     person_hits = personification_report(text)
 
@@ -330,6 +355,8 @@ def analyze_text(text, prev_texts=None):
         "wit_markers": len(wit_hits),
         "wit_examples": wit_hits[:40],
         "dialogue_punchlines": len(punch_hits),
+        "description_filler": len(desc_hits),
+        "description_examples": desc_hits[:12],
         "punchline_examples": punch_hits[:12],
         "dialogue_epigrams": epi_d,
         "narration_epigrams": epi_n,
@@ -395,6 +422,11 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
                         f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
                         "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
+    if m["description_filler"] > UMBRALES["descripcion_poetica_max"]:
+        warnings.append(f"DESCRIPCIÓN POÉTICA: {m['description_filler']} rellenos descriptivos evidentes en narración "
+                        f"(máximo {UMBRALES['descripcion_poetica_max']}): contrastes 'by day/by night', luz y sombra, "
+                        "'as you walked past', remates del narrador. Se describe solo lo que la escena necesita, en una o dos "
+                        "frases normales. Ver description_examples.")
     if m["dialogue_punchlines"] > UMBRALES["remate_dialogo_max"]:
         warnings.append(f"REMATES EN EL DIÁLOGO: {m['dialogue_punchlines']} frases que solo están para quedar bien "
                         f"(máximo {UMBRALES['remate_dialogo_max']}): generalizaciones sabiondas, apartes ingeniosos, 'So what', "
