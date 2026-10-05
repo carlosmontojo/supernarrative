@@ -233,6 +233,21 @@ TRANSACTION_PATTERNS = [
     r"\b(?:started a tab|run(?:ning)? a tab|we(?:'re| are) even|call it even|that pays|pay(?:s|ing)? (?:it|the debt|you back|that back)|a debt|my debt|debts|owe you|owing|i cannot stand owing|receipt|ledger|invoice|watch the paperwork|on my slate|on the slate|that's the rent|the rent|the price of|that's the price|costs? (?:you|me|him|her|us) (?:nothing|something|more)|in the book|i'm keeping (?:count|score))\b",
 ]
 
+# Acción (novena corrección, 5-oct): "llevo varios capítulos sin acción... tienen que enseñarles a pelear".
+# Densidad de verbos de contacto, esfuerzo y daño por 1000 palabras. Es una medida tosca: solo avisa cuando el
+# capítulo Y el anterior están por debajo del umbral (dos seguidos sin acción física), y nunca en interludios.
+ACTION_PATTERN = re.compile(
+    r"\b(?:hit|hits|hitting|struck|strikes?|striking|thrust(?:s|ing)?|punch\w*|kick(?:ed|s|ing)?|block(?:ed|ing)|"
+    r"parr(?:y|ied|ies|ying)|swung|swing(?:s|ing)?|blows?|knock(?:ed|s|ing)?|shov(?:e|ed|es|ing)|slamm?(?:ed|ing)?|"
+    r"thrown|tripp?(?:ed|ing)|swept|sprawl\w*|bled|bleed\w*|blood|ribs?|jaw|tooth|teeth|bruis\w*|in the tanks?|"
+    r"yield(?:ed|s)?|sparr\w*|bouts?|fought|fight(?:ing)?|lung(?:e|ed|ing)|grappl\w*|clinch\w*|wrestl\w*|dodg\w*|"
+    r"ducked|went down|on the sand|got up|winded|sprint\w*|laps?|climb(?:ed|ing)?|dragg(?:ed|ing)|haul(?:ed|ing)|"
+    r"jump(?:ed|ing)|fell|falling|to (?:his|her|their) knees|on (?:his|her) back|threw (?:him|her|me|them)|"
+    r"carr(?:ied|ying) (?:the|a|him|her|iron|bars?|shields?))\b", re.I)
+
+def action_density(text):
+    return round(1000 * len(ACTION_PATTERN.findall(text)) / max(1, len(text.split())), 1)
+
 def conversation_report(text):
     spans = dialogue_spans(text)
     turns = [text[a + 1:b - 1] for a, b in spans]
@@ -314,6 +329,7 @@ UMBRALES = {
     "contar_cosas_max": 2,
     "preguntas_dialogo_min": 20,      # % de réplicas que son preguntas (HWFWM 37 %)
     "fragmentos_dialogo_max": 25,     # % de frases de diálogo de dos palabras o menos (HWFWM 23 %)
+    "accion_por_1000_min": 4.0,       # verbos de contacto/esfuerzo por 1000 palabras (dos capítulos seguidos por debajo = aviso)
     "metafora_papeleo_max": 0,        # deudas, cuentas, papeleo como metáfora en diálogo            # contar pasos, frases, segundos, "I counted"... por capítulo     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
     "personificacion_narracion_max": 2,  # instituciones/objetos con verbos de persona, en narración
@@ -405,6 +421,8 @@ def analyze_text(text, prev_texts=None):
         "dialogue_question_pct": conv["question_pct"],
         "dialogue_fragment_pct": conv["fragment_pct"],
         "transaction_metaphors": len(conv["transaction_hits"]),
+        "action_per_1000": action_density(text),
+        "previous_chapter_action_per_1000": (action_density(prev_texts[0]) if prev_texts and len(prev_texts[0].split()) > 2000 else None),
         "transaction_examples": conv["transaction_hits"][:10],
         "counting_examples": count_hits[:12],
         "description_examples": desc_hits[:12],
@@ -480,6 +498,13 @@ def evaluate(metrics, anchor_metrics=None):
     if m["dialogue_paragraph_pct"] > 10 and m["dialogue_fragment_pct"] > UMBRALES["fragmentos_dialogo_max"]:
         warnings.append(f"DIÁLOGO A TROZOS: {m['dialogue_fragment_pct']}% de las frases de diálogo tienen dos palabras o menos "
                         f"(HWFWM 23 %, máximo {UMBRALES['fragmentos_dialogo_max']} %). Frases completas y normales.")
+    if (m["words"] > 2000 and m["action_per_1000"] < UMBRALES["accion_por_1000_min"]
+            and m.get("previous_chapter_action_per_1000") is not None
+            and m["previous_chapter_action_per_1000"] < UMBRALES["accion_por_1000_min"]):
+        warnings.append(f"POCA ACCIÓN: este capítulo ({m['action_per_1000']}/1000) y el anterior "
+                        f"({m['previous_chapter_action_per_1000']}/1000) casi no tienen golpes, entrenamiento con contacto ni "
+                        f"esfuerzo físico (mínimo {UMBRALES['accion_por_1000_min']}). Medida tosca: revisar. Dos capítulos seguidos "
+                        "sin acción física aburren; el entrenamiento se enseña en la página, con contacto y consecuencias.")
     if m["transaction_metaphors"] > UMBRALES["metafora_papeleo_max"]:
         warnings.append(f"METÁFORA DE PAPELEO: {m['transaction_metaphors']} veces se habla de deudas, cuentas, 'we're even', "
                         "'a tab', 'watch the paperwork' para hablar de personas o favores. El dinero y los papeles de verdad, sí; "
