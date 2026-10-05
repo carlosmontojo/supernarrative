@@ -213,7 +213,9 @@ _NUM = r"(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|t
 COUNTING_PATTERNS = [
     r"\b(?:I|he|she|they|Dex|Pále|Sabina|Felix|Tulia|Castor|Brennus|Aurelia) (?:had )?counted\b",
     r"\b(?:'d counted|kept count|was counting|counted (?:them|it|every|out|the (?:steps|lines|names|seconds)))\b",
-    r"\b" + _NUM + r" (?:steps|paces|strides|sentences|lines|words|breaths|heartbeats|seconds|names|ticks|rungs|stairs)\b",
+    r"\b" + _NUM + r" (?:steps|paces|strides|sentences|words|breaths|heartbeats|seconds|names|ticks|rungs|stairs)\b",
+    # "lines" solo con cinco o más: "two lines" es una línea de sangre (sistema); "Thirteen lines" es contar la tira
+    r"\b(?:\d{2,}|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty)(?:[- ](?:one|two|three|four|five|six|seven|eight|nine))? lines\b",
 ]
 
 def counting_report(text):
