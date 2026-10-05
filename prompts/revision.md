@@ -59,6 +59,18 @@ en revisión dirigida, no en el primer intento.
 - Cada réplica informativa ("Como sabes, el testamento..."): eliminarla.
   La información se gana en escena o no se da.
 
+### 3a. Hablan como personas (mecánica de conversación de HWFWM)
+- ¿Alguien pregunta algo? ¿Alguien reacciona a lo que acaba de oír? En HWFWM
+  el 37 % de las réplicas llevan pregunta; el mínimo aquí es 20 %
+  (dialogue_question_pct). Si nadie pregunta ni reacciona, reescribir como
+  pregunta → respuesta directa y completa → reacción → siguiente pregunta.
+- Frases enteras y contracciones para todos, adultos incluidos. Las respuestas
+  cortas no van en ristra ("Hm. Again. Better. One."): como mucho un 25 % de
+  frases de dos palabras o menos (dialogue_fragment_pct).
+- Cero metáforas de deudas, cuentas, papeleo, pestañas, precios o "estar en paz"
+  para hablar de personas o favores (transaction_metaphors = 0). Se dice la cosa.
+- Modelo: capítulo 7 (Livia, Gracchus, Cassius, Aurelia en el desayuno).
+
 ### 3b. Narración normal (descripción)
 - Cada párrafo de descripción: ¿lo necesita la escena para entenderse? Si no, fuera.
   Si sí, una o dos frases normales: qué hay y dónde. Sin ambiente, sin luz y sombra,

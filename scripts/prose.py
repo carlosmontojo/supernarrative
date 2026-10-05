@@ -226,6 +226,27 @@ def counting_report(text):
             hits.append({"hit": m.group(0)[:50], "text": re.sub(r"\s+", " ", text[a:b]).strip()})
     return hits
 
+# Conversación como HWFWM (octava corrección, 5-oct): "son robots... no eres capaz de coger la forma de escribir del autor".
+# Medido sobre HWFWM 1-8: 37 % de las réplicas son preguntas (CORVUS 9-12 %); frases de <=2 palabras 23 % (CORVUS 31-35 %);
+# metáfora de deuda/papeleo 1,8 por 1000 palabras de diálogo (CORVUS 5, cap. 7 15). Se miden las tres.
+TRANSACTION_PATTERNS = [
+    r"\b(?:started a tab|run(?:ning)? a tab|we(?:'re| are) even|call it even|that pays|pay(?:s|ing)? (?:it|the debt|you back|that back)|a debt|my debt|debts|owe you|owing|i cannot stand owing|receipt|ledger|invoice|watch the paperwork|on my slate|on the slate|that's the rent|the rent|the price of|that's the price|costs? (?:you|me|him|her|us) (?:nothing|something|more)|in the book|i'm keeping (?:count|score))\b",
+]
+
+def conversation_report(text):
+    spans = dialogue_spans(text)
+    turns = [text[a + 1:b - 1] for a, b in spans]
+    q = sum(1 for t in turns if "?" in t)
+    sents = [x for t in turns for x in re.split(r"(?<=[.!?])\s+", t) if x.strip()]
+    frag = sum(1 for x in sents if len(x.split()) <= 2)
+    trans = []
+    for t in turns:
+        for pat in TRANSACTION_PATTERNS:
+            for m in re.finditer(pat, t, re.I):
+                trans.append({"hit": m.group(0), "text": re.sub(r"\s+", " ", t)[:140]})
+    return {"turns": len(turns), "question_pct": round(100 * q / max(1, len(turns)), 1),
+            "fragment_pct": round(100 * frag / max(1, len(sents)), 1), "transaction_hits": trans}
+
 def dialogue_spans(text):
     """Tramos entre comillas dobles (rectas o tipográficas) en una misma línea."""
     spans = []
@@ -290,7 +311,10 @@ UMBRALES = {
     "epigrama_dialogo_max": 3,        # frases redondas en boca de personajes por capítulo
     "remate_dialogo_max": 2,
     "descripcion_poetica_max": 1,
-    "contar_cosas_max": 2,            # contar pasos, frases, segundos, "I counted"... por capítulo     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
+    "contar_cosas_max": 2,
+    "preguntas_dialogo_min": 20,      # % de réplicas que son preguntas (HWFWM 37 %)
+    "fragmentos_dialogo_max": 25,     # % de frases de diálogo de dos palabras o menos (HWFWM 23 %)
+    "metafora_papeleo_max": 0,        # deudas, cuentas, papeleo como metáfora en diálogo            # contar pasos, frases, segundos, "I counted"... por capítulo     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
     "personificacion_narracion_max": 2,  # instituciones/objetos con verbos de persona, en narración
 }
@@ -360,6 +384,7 @@ def analyze_text(text, prev_texts=None):
     punch_hits = punchline_report(text)
     desc_hits = description_report(text)
     count_hits = counting_report(text)
+    conv = conversation_report(text)
     wit_hits = wit_report(text)
     person_hits = personification_report(text)
 
@@ -377,6 +402,10 @@ def analyze_text(text, prev_texts=None):
         "dialogue_punchlines": len(punch_hits),
         "description_filler": len(desc_hits),
         "counting_habit": len(count_hits),
+        "dialogue_question_pct": conv["question_pct"],
+        "dialogue_fragment_pct": conv["fragment_pct"],
+        "transaction_metaphors": len(conv["transaction_hits"]),
+        "transaction_examples": conv["transaction_hits"][:10],
         "counting_examples": count_hits[:12],
         "description_examples": desc_hits[:12],
         "punchline_examples": punch_hits[:12],
@@ -444,6 +473,17 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
                         f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
                         "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
+    if m["dialogue_paragraph_pct"] > 10 and m["dialogue_question_pct"] < UMBRALES["preguntas_dialogo_min"]:
+        warnings.append(f"CONVERSACIÓN DE ROBOTS: solo el {m['dialogue_question_pct']}% de las réplicas son preguntas "
+                        f"(HWFWM 37 %, mínimo {UMBRALES['preguntas_dialogo_min']} %). La gente se pregunta cosas, reacciona, "
+                        "se queja y contesta a lo que le dicen; no se turna para soltar declaraciones.")
+    if m["dialogue_paragraph_pct"] > 10 and m["dialogue_fragment_pct"] > UMBRALES["fragmentos_dialogo_max"]:
+        warnings.append(f"DIÁLOGO A TROZOS: {m['dialogue_fragment_pct']}% de las frases de diálogo tienen dos palabras o menos "
+                        f"(HWFWM 23 %, máximo {UMBRALES['fragmentos_dialogo_max']} %). Frases completas y normales.")
+    if m["transaction_metaphors"] > UMBRALES["metafora_papeleo_max"]:
+        warnings.append(f"METÁFORA DE PAPELEO: {m['transaction_metaphors']} veces se habla de deudas, cuentas, 'we're even', "
+                        "'a tab', 'watch the paperwork' para hablar de personas o favores. El dinero y los papeles de verdad, sí; "
+                        "como metáfora, no. Ver transaction_examples.")
     if m["counting_habit"] > UMBRALES["contar_cosas_max"]:
         warnings.append(f"CONTAR COSAS: {m['counting_habit']} veces alguien cuenta pasos, frases, líneas, segundos o dice "
                         f"'I counted' (máximo {UMBRALES['contar_cosas_max']}). La gente normal no cuenta; les vuelve robóticos. "
