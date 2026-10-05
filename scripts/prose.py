@@ -231,6 +231,10 @@ def counting_report(text):
 # metáfora de deuda/papeleo 1,8 por 1000 palabras de diálogo (CORVUS 5, cap. 7 15). Se miden las tres.
 TRANSACTION_PATTERNS = [
     r"\b(?:started a tab|run(?:ning)? a tab|we(?:'re| are) even|call it even|that pays|pay(?:s|ing)? (?:it|the debt|you back|that back)|a debt|my debt|debts|owe you|owing|i cannot stand owing|receipt|ledger|invoice|watch the paperwork|on my slate|on the slate|that's the rent|the rent|the price of|that's the price|costs? (?:you|me|him|her|us) (?:nothing|something|more)|in the book|i'm keeping (?:count|score))\b",
+    # Papeleo como muletilla (corrección del 5-oct: "ya basta de records y filing"): expedientes y registros dichos de
+    # boquilla. Los documentos de verdad (el expediente del Censorado, el registro Veda, la tira) se nombran sin estas frases.
+    r"\b(?:for the record|on the record|off the record|on a record|goes on (?:a|the) record|put (?:it|that) on record|"
+    r"where it (?:can be|gets|'s) written down|i'd like it (?:noted|on record|minuted)|for the file|make a note of (?:it|that))\b",
 ]
 
 # Acción (novena corrección, 5-oct): "llevo varios capítulos sin acción... tienen que enseñarles a pelear".
