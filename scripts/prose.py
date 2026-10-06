@@ -333,6 +333,7 @@ UMBRALES = {
     "contar_cosas_max": 2,
     "preguntas_dialogo_min": 20,      # % de réplicas que son preguntas (HWFWM 37 %)
     "fragmentos_dialogo_max": 25,     # % de frases de diálogo de dos palabras o menos (HWFWM 23 %)
+    "sorry_max": 5,                   # "sorry" en boca de personajes por capítulo (muletilla de Sabina y Dex)
     "accion_por_1000_min": 4.0,       # verbos de contacto/esfuerzo por 1000 palabras (dos capítulos seguidos por debajo = aviso)
     "metafora_papeleo_max": 0,        # deudas, cuentas, papeleo como metáfora en diálogo            # contar pasos, frases, segundos, "I counted"... por capítulo     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
@@ -426,6 +427,7 @@ def analyze_text(text, prev_texts=None):
         "dialogue_fragment_pct": conv["fragment_pct"],
         "transaction_metaphors": len(conv["transaction_hits"]),
         "action_per_1000": action_density(text),
+        "dialogue_sorry": sum(len(re.findall(r"(?i)\bsorry\b", text[x:y])) for x, y in dialogue_spans(text)),
         "previous_chapter_action_per_1000": (action_density(prev_texts[0]) if prev_texts and len(prev_texts[0].split()) > 2000 else None),
         "transaction_examples": conv["transaction_hits"][:10],
         "counting_examples": count_hits[:12],
@@ -502,6 +504,10 @@ def evaluate(metrics, anchor_metrics=None):
     if m["dialogue_paragraph_pct"] > 10 and m["dialogue_fragment_pct"] > UMBRALES["fragmentos_dialogo_max"]:
         warnings.append(f"DIÁLOGO A TROZOS: {m['dialogue_fragment_pct']}% de las frases de diálogo tienen dos palabras o menos "
                         f"(HWFWM 23 %, máximo {UMBRALES['fragmentos_dialogo_max']} %). Frases completas y normales.")
+    if m["dialogue_sorry"] > UMBRALES["sorry_max"]:
+        warnings.append(f"MULETILLA SORRY: {m['dialogue_sorry']} 'sorry' en el diálogo (máximo {UMBRALES['sorry_max']}). "
+                        "Sabina se corrige y Dex es educado, pero una disculpa en cada frase les convierte en una muletilla. "
+                        "Como mucho uno por escena, y solo donde de verdad se disculparía.")
     if (m["words"] > 2000 and m["action_per_1000"] < UMBRALES["accion_por_1000_min"]
             and m.get("previous_chapter_action_per_1000") is not None
             and m["previous_chapter_action_per_1000"] < UMBRALES["accion_por_1000_min"]):
