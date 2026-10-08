@@ -357,7 +357,10 @@ def split_sentences(text):
 def and_chain_report(text):
     """Frases encadenadas con 'and' (X, and Y, and Z): suenan a máquina. HWFWM casi no tiene ninguna."""
     out = []
-    for sent in split_sentences(re.sub(r"\s+", " ", text)):
+    pieces = []
+    for para in text.split("\n"):
+        pieces += re.split(r'(?<=[.!?])["\u201d]?\s+|(?<=["\u201d])\s+(?=[A-Z"\u201c])', para)
+    for sent in pieces:
         n_and = len(re.findall(r"\band\b", sent, flags=re.I))
         n_comma_and = len(re.findall(r",\s+and\b", sent, flags=re.I))
         if n_and >= 3 or n_comma_and >= 2:
