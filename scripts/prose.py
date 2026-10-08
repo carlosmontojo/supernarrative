@@ -308,6 +308,10 @@ LY_STOPLIST = {
     "monopoly", "anomaly", "melancholy", "butterfly", "multiply", "imply",
 }
 
+OBVIOUS_QUESTION = re.compile(
+    r"(?i)\b(?:is|was|isn't|wasn't) (?:that|it|this) (?:good|bad|good or bad|bad or good|a good thing|a bad thing)\b[^.?!\"]{0,25}\?"
+    r"|\bwhat does (?:that|it|this) mean\?")
+
 UMBRALES = {
     "std_frase_min": 6.0,        # desviación típica de longitud de frase (palabras)
     "mente_por_1000_max": 16.0,  # adverbios de manera (-mente / -ly) por 1000 palabras (HWFWM ~14)
@@ -334,6 +338,7 @@ UMBRALES = {
     "preguntas_dialogo_min": 20,      # % de réplicas que son preguntas (HWFWM 37 %)
     "fragmentos_dialogo_max": 25,     # % de frases de diálogo de dos palabras o menos (HWFWM 23 %)
     "sorry_max": 5,                   # "sorry" en boca de personajes por capítulo (muletilla de Sabina y Dex)
+    "pregunta_obvia_max": 1,          # "Is that good?" y similares: hacen parecer tonto al que pregunta
     "accion_por_1000_min": 4.0,       # verbos de contacto/esfuerzo por 1000 palabras (dos capítulos seguidos por debajo = aviso)
     "metafora_papeleo_max": 0,        # deudas, cuentas, papeleo como metáfora en diálogo            # contar pasos, frases, segundos, "I counted"... por capítulo     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
     "ingenio_marcadores_max": 12,     # remates "which was X", párrafos-remate de una línea, etc.
@@ -428,6 +433,7 @@ def analyze_text(text, prev_texts=None):
         "transaction_metaphors": len(conv["transaction_hits"]),
         "action_per_1000": action_density(text),
         "dialogue_sorry": sum(len(re.findall(r"(?i)\bsorry\b", text[x:y])) for x, y in dialogue_spans(text)),
+        "dialogue_obvious_questions": sum(len(re.findall(OBVIOUS_QUESTION, text[x:y])) for x, y in dialogue_spans(text)),
         "previous_chapter_action_per_1000": (action_density(prev_texts[0]) if prev_texts and len(prev_texts[0].split()) > 2000 else None),
         "transaction_examples": conv["transaction_hits"][:10],
         "counting_examples": count_hits[:12],
@@ -504,6 +510,10 @@ def evaluate(metrics, anchor_metrics=None):
     if m["dialogue_paragraph_pct"] > 10 and m["dialogue_fragment_pct"] > UMBRALES["fragmentos_dialogo_max"]:
         warnings.append(f"DIÁLOGO A TROZOS: {m['dialogue_fragment_pct']}% de las frases de diálogo tienen dos palabras o menos "
                         f"(HWFWM 23 %, máximo {UMBRALES['fragmentos_dialogo_max']} %). Frases completas y normales.")
+    if m["dialogue_obvious_questions"] > UMBRALES["pregunta_obvia_max"]:
+        warnings.append(f"PREGUNTA OBVIA: {m['dialogue_obvious_questions']} preguntas del tipo 'Is that good?' / 'What does that mean?' "
+                        f"(máximo {UMBRALES['pregunta_obvia_max']}). Dex es listo: saca la conclusión él solo y pregunta lo que de verdad "
+                        "no puede saber, enseñando que ya lo ha pensado.")
     if m["dialogue_sorry"] > UMBRALES["sorry_max"]:
         warnings.append(f"MULETILLA SORRY: {m['dialogue_sorry']} 'sorry' en el diálogo (máximo {UMBRALES['sorry_max']}). "
                         "Sabina se corrige y Dex es educado, pero una disculpa en cada frase les convierte en una muletilla. "
