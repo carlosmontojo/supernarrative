@@ -338,6 +338,8 @@ UMBRALES = {
     "preguntas_dialogo_min": 20,      # % de réplicas que son preguntas (HWFWM 37 %)
     "fragmentos_dialogo_max": 25,     # % de frases de diálogo de dos palabras o menos (HWFWM 23 %)
     "sorry_max": 5,                   # "sorry" en boca de personajes por capítulo (muletilla de Sabina y Dex)
+    "cadenas_and_max": 2,             # frases "X, and Y, and Z" por capítulo (HWFWM: casi cero)
+    "tics_ia_max": 6,                 # "for a moment", "didn't say anything", "something went across his face"...
     "pregunta_obvia_max": 1,          # "Is that good?" y similares: hacen parecer tonto al que pregunta
     "accion_por_1000_min": 4.0,       # verbos de contacto/esfuerzo por 1000 palabras (dos capítulos seguidos por debajo = aviso)
     "metafora_papeleo_max": 0,        # deudas, cuentas, papeleo como metáfora en diálogo            # contar pasos, frases, segundos, "I counted"... por capítulo     # relleno descriptivo evidente en narración por capítulo          # remates para quedar bien ("People always do", "So what") por capítulo
@@ -350,6 +352,33 @@ def split_sentences(text):
     text = re.sub(r"\s+", " ", text)
     parts = re.split(r"(?<=[.!?…])\s+", text)
     return [p.strip() for p in parts if len(p.strip().split()) >= 1]
+
+
+def and_chain_report(text):
+    """Frases encadenadas con 'and' (X, and Y, and Z): suenan a máquina. HWFWM casi no tiene ninguna."""
+    out = []
+    for sent in split_sentences(re.sub(r"\s+", " ", text)):
+        n_and = len(re.findall(r"\band\b", sent, flags=re.I))
+        n_comma_and = len(re.findall(r",\s+and\b", sent, flags=re.I))
+        if n_and >= 3 or n_comma_and >= 2:
+            out.append(sent.strip()[:160])
+    return out
+
+
+AI_TICS = [
+    r"(?:went|passed|flickered) (?:across|over) (?:his|her|their|[A-Z][a-z]+'s) face",
+    r"something (?:went|moved|changed|shifted) (?:in|across) (?:his|her|their|[A-Z][a-z]+'s) (?:face|eyes|voice)",
+    r"for a (?:long )?moment",
+    r"(?:didn't|did not) say anything",
+    r"nobody said anything",
+    r"(?:the )?corner of (?:his|her|their) mouth",
+    r"and then stopped",
+    r"(?:doesn't|never) say(?:s)? (?:things|anything) (?:he|she|they) (?:doesn't|don't) mean",
+]
+
+
+def ai_tic_report(text):
+    return [m.group(0) for pat in AI_TICS for m in re.finditer(pat, text, flags=re.I)]
 
 
 def analyze_text(text, prev_texts=None):
@@ -434,6 +463,8 @@ def analyze_text(text, prev_texts=None):
         "action_per_1000": action_density(text),
         "dialogue_sorry": sum(len(re.findall(r"(?i)\bsorry\b", text[x:y])) for x, y in dialogue_spans(text)),
         "dialogue_obvious_questions": sum(len(re.findall(OBVIOUS_QUESTION, text[x:y])) for x, y in dialogue_spans(text)),
+        "and_chains": and_chain_report(text),
+        "ai_tics": ai_tic_report(text),
         "previous_chapter_action_per_1000": (action_density(prev_texts[0]) if prev_texts and len(prev_texts[0].split()) > 2000 else None),
         "transaction_examples": conv["transaction_hits"][:10],
         "counting_examples": count_hits[:12],
@@ -510,6 +541,13 @@ def evaluate(metrics, anchor_metrics=None):
     if m["dialogue_paragraph_pct"] > 10 and m["dialogue_fragment_pct"] > UMBRALES["fragmentos_dialogo_max"]:
         warnings.append(f"DIÁLOGO A TROZOS: {m['dialogue_fragment_pct']}% de las frases de diálogo tienen dos palabras o menos "
                         f"(HWFWM 23 %, máximo {UMBRALES['fragmentos_dialogo_max']} %). Frases completas y normales.")
+    if len(m["and_chains"]) > UMBRALES["cadenas_and_max"]:
+        warnings.append(f"CADENAS DE AND: {len(m['and_chains'])} frases encadenadas con 'and' (máximo {UMBRALES['cadenas_and_max']}). "
+                        "La gente no habla en 'X, and Y, and Z': se parte en frases normales o se quita lo que sobra. "
+                        f"Ej.: {m['and_chains'][:2]}")
+    if len(m["ai_tics"]) > UMBRALES["tics_ia_max"]:
+        warnings.append(f"TICS DE IA: {len(m['ai_tics'])} fórmulas gastadas (máximo {UMBRALES['tics_ia_max']}): "
+                        f"{sorted(set(t.lower() for t in m['ai_tics']))[:6]}. Se dice qué hace la persona, o nada.")
     if m["dialogue_obvious_questions"] > UMBRALES["pregunta_obvia_max"]:
         warnings.append(f"PREGUNTA OBVIA: {m['dialogue_obvious_questions']} preguntas del tipo 'Is that good?' / 'What does that mean?' "
                         f"(máximo {UMBRALES['pregunta_obvia_max']}). Dex es listo: saca la conclusión él solo y pregunta lo que de verdad "
