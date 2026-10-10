@@ -384,6 +384,18 @@ def ai_tic_report(text):
     return [m.group(0) for pat in AI_TICS for m in re.finditer(pat, text, flags=re.I)]
 
 
+def recap_strip_report(text):
+    """La 'tira' de fin de capítulo: un bloque en mayúsculas que resume el día. Es el capítulo contado otra vez."""
+    scenes = [sc for sc in re.split(r"\n-{3,}\n", text) if sc.strip()]
+    if not scenes:
+        return 0
+    last = scenes[-1]
+    caps = [l for l in last.split("\n") if len([c for c in l if c.isalpha()]) >= 8
+            and sum(c.isupper() for c in l if c.isalpha()) / max(1, len([c for c in l if c.isalpha()])) > 0.85]
+    prose_words = sum(len(l.split()) for l in last.split("\n") if l not in caps)
+    return len(caps) if (len(caps) >= 3 and prose_words < 150) else 0
+
+
 def analyze_text(text, prev_texts=None):
     words = text.split()
     n_words = max(1, len(words))
@@ -467,6 +479,7 @@ def analyze_text(text, prev_texts=None):
         "dialogue_sorry": sum(len(re.findall(r"(?i)\bsorry\b", text[x:y])) for x, y in dialogue_spans(text)),
         "dialogue_obvious_questions": sum(len(re.findall(OBVIOUS_QUESTION, text[x:y])) for x, y in dialogue_spans(text)),
         "and_chains": and_chain_report(text),
+        "recap_strip_lines": recap_strip_report(text),
         "ai_tics": ai_tic_report(text),
         "previous_chapter_action_per_1000": (action_density(prev_texts[0]) if prev_texts and len(prev_texts[0].split()) > 2000 else None),
         "transaction_examples": conv["transaction_hits"][:10],
@@ -544,6 +557,9 @@ def evaluate(metrics, anchor_metrics=None):
     if m["dialogue_paragraph_pct"] > 10 and m["dialogue_fragment_pct"] > UMBRALES["fragmentos_dialogo_max"]:
         warnings.append(f"DIÁLOGO A TROZOS: {m['dialogue_fragment_pct']}% de las frases de diálogo tienen dos palabras o menos "
                         f"(HWFWM 23 %, máximo {UMBRALES['fragmentos_dialogo_max']} %). Frases completas y normales.")
+    if m["recap_strip_lines"]:
+        warnings.append(f"TIRA DE RESUMEN: el capítulo acaba con {m['recap_strip_lines']} líneas en mayúsculas que resumen lo que "
+                        "ya ha pasado. Es el capítulo contado otra vez: se quita y el capítulo acaba en una escena.")
     if len(m["and_chains"]) > UMBRALES["cadenas_and_max"]:
         warnings.append(f"CADENAS DE AND: {len(m['and_chains'])} frases encadenadas con 'and' (máximo {UMBRALES['cadenas_and_max']}). "
                         "La gente no habla en 'X, and Y, and Z': se parte en frases normales o se quita lo que sobra. "
