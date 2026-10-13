@@ -57,12 +57,12 @@ POET_LEXICON = [
     "ledger", "liturgy", "liturgical", "currency", "economy of", "the economy", "economics",
     "grammar", "syntax", "vocabulary", "punctuation", "a sentence that", "the sentence",
     "the physics", "the logic of", "the language of", "the music of", "the architecture of",
-    "the shape of", "the weight of", "the colour of", "the color of", "the texture of",
-    "a kind of", "kind of thing", "the kind of thing", "which is to say", "the particular",
-    "a thing that", "a thing with", "a thing the", "is a place", "not a time", "is a time",
-    "the opposite of", "a version of", "the version of",
-    "a question with", "the answer to a", "a word for", "the word for", "what it costs", "the cost of",
-    "a tax", "a tithe", "the price of", "a debt to", "in the currency",
+    "the shape of", "the colour of", "the color of", "the texture of",
+    "a kind of", "which is to say", "the particular",
+    "is a place", "not a time", "is a time",
+    "a version of", "the version of",
+    "a question with", "the answer to a", "a word for", "the word for",
+    "a tax", "a tithe", "a debt to", "in the currency",
     "aritmética", "geometría", "ecuación", "gramática", "sintaxis", "liturgia", "la suma de",
     "una especie de", "la forma de", "el peso de", "el color de", "lo que cuesta",
 ]
@@ -83,13 +83,8 @@ EPIGRAM_PATTERNS = [
     r"\bthat's not (?:a |an |the )?[^.?!\"]{1,40}\. that's\b",
     r"\bit's not (?:a |an |the )?[^.?!\"]{1,40}\. it's\b",
     r"\b(?:isn't|aren't|wasn't) (?:a |an |the )?[^.?!\"]{1,40}\. (?:it's|they're|it was|that's)\b",
-    r"\bthe only (?:thing|one|part|question|rule) (?:that|is|was|which)\b",
     r"\bthere's a (?:word|name) for\b", r"\bthe word (?:for it|doesn't|isn't|is|was)\b",
-    r"\bthe thing (?:is|about|that|with|was)\b", r"\bthe part (?:that|where|of it)\b",
-    r"\bthe kind that\b", r"\bthat's what (?:a |an |the )?\w+ (?:is|are|does|do|means)\b",
-    r"\bthat's (?:the whole|the only|the first|the real|the one) (?:thing|rule|trick|point|of it|question)\b",
-    r"\b(?:is|are|was|were) the (?:useful|only|whole|real|hard|easy|interesting|dangerous) part\b",
-    r"\bthat's (?:not )?(?:a|an) (?:fact|rule|promise|question|answer|limit|number|clock|formula|lie|choice|decision|punishment|threat|offer)\b\.",
+    r"\bthat's what (?:a |an |the )?\w+ (?:is|are|does|do|means)\b",
     r"(?:^|[.!?] )not (?:a |an |the )?\w+\. (?:a |an |the )?\w+\.",
     r"\bpeople like (?:us|you|me|him|her|them)\b[^\"]{0,80}\bpeople like (?:us|you|me|him|her|them)\b",
     r"\bthat's (?:how|where|why|when) (?:you|it|they|we|he|she) \w+\. that's\b",
@@ -170,8 +165,8 @@ def wit_report(text):
 # de una pulla, "nobody wrote it down". Se miden por frase dentro de cada réplica.
 PUNCHLINE_PATTERNS = [
     r"^(?:people|everyone|everybody|nobody|no one|they|girls|boys|houses|patricians|the shiny ones) (?:always|never|just) ",
-    r"\b(?:they always do|people always do|always do\.|never do\.|every single time|ask anyone|just don'?t know (?:it|why|that)|nobody (?:wrote|writes|asked|asks|counts|counted) (?:it|that|them|me)\b|so what\b|which is the point|that'?s the point|that'?s the joke|you'?ll see\.|trust me\.|everybody says that|everyone says that|people say that|said nobody|famous last words)",
-    r"^(?:obviously|naturally|apparently|clearly|famously)\.$",
+    r"\b(?:they always do|people always do|always do\.|never do\.|just don'?t know (?:it|why|that)|nobody (?:wrote|writes|asked|asks|counts|counted) (?:it|that|them|me)\b|which is the point|that'?s the point|that'?s the joke|everybody says that|everyone says that|people say that|said nobody|famous last words)",
+    r"^(?:obviously|naturally|apparently|clearly|famously|so what)[.!]?$",
     r"^sir\.$",
 ]
 
@@ -230,7 +225,7 @@ def counting_report(text):
 # Medido sobre HWFWM 1-8: 37 % de las réplicas son preguntas (CORVUS 9-12 %); frases de <=2 palabras 23 % (CORVUS 31-35 %);
 # metáfora de deuda/papeleo 1,8 por 1000 palabras de diálogo (CORVUS 5, cap. 7 15). Se miden las tres.
 TRANSACTION_PATTERNS = [
-    r"\b(?:started a tab|run(?:ning)? a tab|we(?:'re| are) even|call it even|that pays|pay(?:s|ing)? (?:it|the debt|you back|that back)|a debt|my debt|debts|owe you|owing|i cannot stand owing|receipt|ledger|invoice|watch the paperwork|on my slate|on the slate|that's the rent|the rent|the price of|that's the price|costs? (?:you|me|him|her|us) (?:nothing|something|more)|in the book|i'm keeping (?:count|score))\b",
+    r"\b(?:started a tab|run(?:ning)? a tab|we(?:'re| are) even|call it even|that pays|pay(?:s|ing)? (?:it|the debt|you back|that back)|a debt|my debt|debts|owe you|owing|i cannot stand owing|receipt|ledger|invoice|watch the paperwork|on my slate|on the slate|i'm keeping (?:count|score))\b",
     # Papeleo como muletilla (corrección del 5-oct: "ya basta de records y filing"): expedientes y registros dichos de
     # boquilla. Los documentos de verdad (el expediente del Censorado, el registro Veda, la tira) se nombran sin estas frases.
     r"\b(?:for the record|on the record|off the record|on a record|goes on (?:a|the) record|put (?:it|that) on record|"
@@ -550,13 +545,9 @@ def evaluate(metrics, anchor_metrics=None):
         warnings.append(f"EPIGRAMAS EN EL DIÁLOGO: {m['dialogue_epigrams']} frases redondas en boca de personajes "
                         f"(máximo {UMBRALES['epigrama_dialogo_max']}). Antítesis, definiciones, 'the only thing that', 'there's a word for it', "
                         "anáforas. La gente dice lo que quiere decir, con sintaxis normal. Ver epigram_examples.")
-    if m["dialogue_paragraph_pct"] > 10 and m["dialogue_question_pct"] < UMBRALES["preguntas_dialogo_min"]:
-        warnings.append(f"CONVERSACIÓN DE ROBOTS: solo el {m['dialogue_question_pct']}% de las réplicas son preguntas "
-                        f"(HWFWM 37 %, mínimo {UMBRALES['preguntas_dialogo_min']} %). La gente se pregunta cosas, reacciona, "
-                        "se queja y contesta a lo que le dicen; no se turna para soltar declaraciones.")
-    if m["dialogue_paragraph_pct"] > 10 and m["dialogue_fragment_pct"] > UMBRALES["fragmentos_dialogo_max"]:
-        warnings.append(f"DIÁLOGO A TROZOS: {m['dialogue_fragment_pct']}% de las frases de diálogo tienen dos palabras o menos "
-                        f"(HWFWM 23 %, máximo {UMBRALES['fragmentos_dialogo_max']} %). Frases completas y normales.")
+    # Sin avisos por porcentaje de preguntas ni de frases cortas (corrección del autor, 13-oct: "el cálculo matemático
+    # no hace que suene a HWFWM, necesito que suene igual, no que tenga la misma estructura"). Las métricas
+    # dialogue_question_pct y dialogue_fragment_pct se quedan solo como información. Cómo suena se juzga leyendo.
     if m["recap_strip_lines"]:
         warnings.append(f"TIRA DE RESUMEN: el capítulo acaba con {m['recap_strip_lines']} líneas en mayúsculas que resumen lo que "
                         "ya ha pasado. Es el capítulo contado otra vez: se quita y el capítulo acaba en una escena.")
