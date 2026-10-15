@@ -4,6 +4,7 @@ import glob, re, os, uuid, zipfile, datetime, html, sys
 from xml.etree import ElementTree as ET
 
 ROOT='source'; OUT=sys.argv[1] if len(sys.argv)>1 else 'source/CORVUS_Book_One.epub'
+CHDIR=sys.argv[3] if len(sys.argv)>3 else 'chapters'  # v6: 'chapters_v6'
 COVER=sys.argv[2] if len(sys.argv)>2 else 'source/cover/var_01_michroma.png'
 FONTS={'OEBPS/fonts/michroma.woff2':'source/cover/fonts/michroma.woff2','OEBPS/fonts/spacegrotesk.woff2':'source/cover/fonts/spacegrotesk.woff2'}  # both SIL Open Font License
 TITLE='CORVUS'; AUTHOR='Pseudonim'; SERIES='Corvus Saga'; SUBTITLE='A Sci-Fi Progression Novel'
@@ -25,6 +26,10 @@ def esc(s): return html.escape(smart(s), quote=False)
 
 def block_html(block):
     lines=block.split('\n')
+    if lines[0].startswith('```'):
+        body=[l for l in lines[1:] if not l.startswith('```')]
+        conv=lambda l: esc(l.replace('\u25ae','\u25a0').replace('\u25af','\u25a1')).replace('  ','&#160;&#160;')
+        return '<p class="screen">'+'<br/>'.join(conv(l) for l in body)+'</p>'
     if lines[0].startswith('>'):
         paras=[]; cur=[]
         for l in lines:
@@ -63,20 +68,23 @@ def chapter_xhtml(num, heading, body_blocks):
 </section></body></html>'''
 
 # ---- read chapters ----
-files=sorted(glob.glob(f'{ROOT}/chapters/ch*.md'), key=lambda f:int(re.search(r'ch(\d+)',f).group(1)))
+def _key(f):
+    m=re.search(r'ch(\d+)([a-z]?)\.md$',f); return (int(m.group(1)), m.group(2))
+files=sorted(glob.glob(f'{ROOT}/{CHDIR}/ch*.md'), key=_key)
 chapters=[]
 for f in files:
-    n=int(re.search(r'ch(\d+)',f).group(1))
+    n,suf=_key(f)
     text=open(f).read().strip()
     blocks=[b.strip() for b in text.split('\n\n') if b.strip()]
     heading=blocks[0].lstrip('#').strip() if blocks[0].startswith('#') else f'Chapter {n}'
     body=[b for b in blocks[1:] if b!='END OF BOOK ONE']
     if 'END OF BOOK ONE' in text: body.append('END OF BOOK ONE')
     label,title,xhtml=chapter_xhtml(n,heading,body)
-    chapters.append(dict(n=n,label=label,title=title,xhtml=xhtml,file=f'ch{n:02d}.xhtml'))
+    chapters.append(dict(n=n,label=label,title=title,xhtml=xhtml,file=f'ch{n:02d}{suf}.xhtml'))
 
 # acts
 acts=[('Act I','The Reading',1,10),('Act II','The Bidding',11,33),('Act III','Saturnalia',34,44)]
+if CHDIR=='chapters_v6': acts=[('Act I','The Null',1,14),('Act II','The Rise',15,37),('Act III','Saturnalia',38,60)]
 
 css='''
 @font-face { font-family: "Michroma"; font-style: normal; font-weight: 400; src: url(fonts/michroma.woff2) format("woff2"); }
@@ -92,6 +100,8 @@ header.chap .mark { text-indent: 0; text-align: center; color: #b8902a; font-siz
 hr.scene { border: 0; text-align: center; margin: 1.6em auto; width: 30%; height: 1px; background: #b8902a; }
 p.log { font-family: "Courier New", Courier, monospace; font-size: 0.82em; line-height: 1.45; text-indent: 0; text-align: left; margin: 1em 0 1em 1.3em; letter-spacing: 0.02em; }
 p.lines { text-indent: 0; margin: 0.6em 0; }
+p.screen { font-family: "Courier New", Courier, monospace; font-size: 0.78em; line-height: 1.4; text-indent: 0; text-align: left; margin: 1em 0; padding: 0.6em 0.8em; border-left: 2px solid #b8902a; white-space: pre-wrap; }
+p.screen + p { text-indent: 0; }
 blockquote.letter { margin: 1.2em 1.6em; font-style: italic; }
 blockquote.letter p { text-indent: 0; margin-bottom: 0.7em; }
 p.end { text-indent: 0; text-align: center; letter-spacing: 0.35em; margin-top: 3em; color: #8a6a1f; font-size: 0.85em; }
@@ -132,6 +142,8 @@ colophon_x=page('Copyright',f'<section epub:type="copyright-page" class="colopho
 parts=[]
 for i,(lab,name,a,b) in enumerate(acts,1):
     parts.append(dict(file=f'part{i}.xhtml',xhtml=page(lab,f'<section epub:type="part" class="part"><p class="label">{lab}</p><h1>{name}</h1></section>'),label=lab,name=name,a=a,b=b))
+# a partial build leaves later acts empty: drop them so the nav has no empty lists
+parts=[p for p in parts if any(p['a']<=c['n']<=p['b'] for c in chapters)]
 
 # nav
 def chap_entry(c):
