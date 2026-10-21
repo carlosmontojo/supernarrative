@@ -84,7 +84,7 @@ for f in files:
 
 # acts
 acts=[('Act I','The Reading',1,10),('Act II','The Bidding',11,33),('Act III','Saturnalia',34,44)]
-if CHDIR in ('chapters_v6','chapters_v7'): acts=[('Act I','The Null',1,14),('Act II','The Rise',15,37),('Act III','Saturnalia',38,60)]
+if CHDIR.startswith('chapters_v'): acts=[('Act I','The Null',1,14),('Act II','The Rise',15,37),('Act III','Saturnalia',38,60)]
 
 css='''
 @font-face { font-family: "Michroma"; font-style: normal; font-weight: 400; src: url(fonts/michroma.woff2) format("woff2"); }
