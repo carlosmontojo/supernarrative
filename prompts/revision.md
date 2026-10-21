@@ -20,6 +20,13 @@ en revisión dirigida, no en el primer intento.
 
 ## OPERACIONES, EN ESTE ORDEN
 
+### 0. Leer la voz del protagonista
+- Si el proyecto tiene `prompts/voz_*.md` (en CORVUS, `prompts/voz_dex.md`), leerlo ENTERO antes de
+  empezar. Manda sobre todo lo de abajo en lo que toca a cómo habla y piensa el protagonista: si una
+  operación de esta pasada le quitaría la gracia, le haría contestar corto o le callaría, esa operación
+  no se le aplica.
+- Pasar su lista de comprobación (§9) a cada escena en la que sale.
+
 ### 1. Matar los tics de IA (usa el informe del linter como lista de objetivos)
 - Cada frase señalada por el léxico quemado: reescribirla desde la escena,
   no sustituirla por otro cliché.
@@ -51,22 +58,24 @@ en revisión dirigida, no en el primer intento.
   ¿Se distingue quién habla por sintaxis, registro y muletillas?
 - Si no: reescribir usando las réplicas de ejemplo de cada ficha como
   diapasón. NO añadir atribuciones para compensar — cambiar las voces.
-- Remates: leer la última frase de cada réplica. Si solo está para quedar
-  bien (generalización sabionda, aparte ingenioso, "So what.", "Obviously.",
-  "Sir." suelto, tríptico con giro, detalle raro para hacer gracia), quitarla
-  o decir la cosa normal. Si quitándola la réplica dice lo mismo, sobra.
-  El linter cuenta los evidentes (dialogue_punchlines); los demás se buscan leyendo.
+- Remates de superioridad: leer la última frase de cada réplica. Si está para
+  poner a alguien por encima de otro (generalización sabionda, aparte de listillo,
+  "So what.", "Obviously.", "Sir." suelto tras una pulla, tríptico con giro),
+  quitarla o decir la cosa normal. La gracia del protagonista (contestar con el
+  chiste dentro, comentar, picar, reírse de sí mismo) NO es un remate y se queda:
+  ver la voz del protagonista. El linter cuenta los evidentes (dialogue_punchlines);
+  los demás se buscan leyendo.
 - Cada réplica informativa ("Como sabes, el testamento..."): eliminarla.
   La información se gana en escena o no se da.
 
 ### 3a. Hablan como personas (mecánica de conversación de HWFWM)
-- ¿Alguien pregunta algo? ¿Alguien reacciona a lo que acaba de oír? En HWFWM
-  el 37 % de las réplicas llevan pregunta; el mínimo aquí es 20 %
-  (dialogue_question_pct). Si nadie pregunta ni reacciona, reescribir como
-  pregunta → respuesta directa y completa → reacción → siguiente pregunta.
+- ¿Alguien pregunta algo? ¿Alguien reacciona a lo que acaba de oír? Si nadie
+  pregunta ni reacciona, reescribir como pregunta → respuesta directa y completa →
+  reacción → siguiente pregunta. (dialogue_question_pct es solo información: cómo
+  suena se juzga leyendo la escena al lado de una de HWFWM, no con números.)
 - Frases enteras y contracciones para todos, adultos incluidos. Las respuestas
-  cortas no van en ristra ("Hm. Again. Better. One."): como mucho un 25 % de
-  frases de dos palabras o menos (dialogue_fragment_pct).
+  cortas no van en ristra ("Hm. Again. Better. One."), y el protagonista contesta
+  entero (ver su voz).
 - Cero metáforas de deudas, cuentas, papeleo, pestañas, precios o "estar en paz"
   para hablar de personas o favores (transaction_metaphors = 0). Se dice la cosa.
 - Modelo: capítulo 7 (Livia, Gracchus, Cassius, Aurelia en el desayuno).

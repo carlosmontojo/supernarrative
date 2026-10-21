@@ -147,6 +147,11 @@ class TestPipeline(unittest.TestCase):
         self.assertIn("Alice", out["epistemic_matrix"])
         self.assertIn("LECTOR", out["epistemic_matrix"])
         self.assertTrue(len(out["recent_events"]) >= 1, "Los eventos deben llegar al contexto")
+        # La voz del protagonista (prompts/voz_*.md) llega entera y va primero
+        self.assertIn("voice_bible", out)
+        self.assertIn("voz_dex.md", out["voice_bible"])
+        self.assertIn("bocazas encantador", out["voice_bible"]["voz_dex.md"])
+        self.assertEqual(list(out)[:2], ["read_first", "voice_bible"])
 
     def test_05_dependency_check_fires(self):
         """'La revelación final' está developing con su requisito sin resolver:

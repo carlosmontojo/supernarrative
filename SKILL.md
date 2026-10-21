@@ -88,6 +88,7 @@ defecto" de los LLMs.
 python3 supernarrative.py context --chapter N
 ```
 Esto genera un informe con:
+- **La voz del protagonista** (`voice_bible`, de `prompts/voz_*.md`), entera y la primera: se lee antes que nada y manda sobre cualquier otra regla en lo que toca a cómo habla y piensa
 - Estado del mundo (ubicaciones de personajes, objetos, fecha/hora en la historia)
 - Fichas de los personajes principales (motivación, secreto, defecto, voz)
 - Eventos recientes de los últimos capítulos

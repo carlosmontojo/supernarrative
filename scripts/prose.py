@@ -155,7 +155,8 @@ def wit_report(text):
     # párrafos-remate de narración: una sola frase de 6 palabras o menos, sin comillas
     for para in text.split("\n\n"):
         t = para.strip()
-        if t and '"' not in t and not t.startswith(("#", ">", "-")) and 1 <= len(t.split()) <= 6 and t[-1] in ".!" and not t.isupper():
+        # Los pensamientos del protagonista en cursiva (*...*) son su voz, no un remate del narrador
+        if t and '"' not in t and not t.startswith(("#", ">", "-", "*", "_")) and 1 <= len(t.split()) <= 6 and t[-1] in ".!" and not t.isupper():
             hits.append({"where": "narration", "hit": "one-line zinger", "text": t})
     return hits
 
@@ -589,15 +590,17 @@ def evaluate(metrics, anchor_metrics=None):
     if m["dialogue_punchlines"] > UMBRALES["remate_dialogo_max"]:
         warnings.append(f"REMATES EN EL DIÁLOGO: {m['dialogue_punchlines']} frases que solo están para quedar bien "
                         f"(máximo {UMBRALES['remate_dialogo_max']}): generalizaciones sabiondas, apartes ingeniosos, 'So what', "
-                        "'People always do', un 'Sir.' suelto tras una pulla. Hacen repelentes a los personajes. La gente dice "
-                        "lo que tiene que decir y se calla. Ver punchline_examples.")
+                        "'People always do', un 'Sir.' suelto tras una pulla. Hacen repelentes a los personajes. Fuera la frase "
+                        "que pone a alguien por encima de otro; la gracia del protagonista (prompts/voz_*.md) se queda. "
+                        "Ver punchline_examples.")
     if m["personification_narration"] > UMBRALES["personificacion_narracion_max"]:
         warnings.append(f"LAS INSTITUCIONES NO TIENEN OJOS: {m['personification_narration']} sujetos institucionales, colectivos u objetos "
                         f"con verbos de persona en narración (máximo {UMBRALES['personificacion_narracion_max']}). 'The levy didn't look at medical notes': "
                         "las levas no miran, los médicos de la leva sí. Ver personification_examples.")
     if m["wit_markers"] > UMBRALES["ingenio_marcadores_max"]:
         warnings.append(f"INGENIO DE NARRADOR: {m['wit_markers']} marcadores (remates 'which was X', párrafos-remate de una línea, "
-                        f"hipérboles; máximo {UMBRALES['ingenio_marcadores_max']}). Una observación ligera por página. Ver wit_examples.")
+                        f"hipérboles; máximo {UMBRALES['ingenio_marcadores_max']}). Una observación ligera por página. Lo que piensa el "
+                        "protagonista en estilo indirecto libre es su voz, no ingenio de narrador (prompts/voz_*.md). Ver wit_examples.")
     if sum(m["poet_lexicon_hits"].values()) > UMBRALES["poeta_lexico_max"]:
         warnings.append(f"LÉXICO DE POETA-MATEMÁTICO ({sum(m['poet_lexicon_hits'].values())} usos): "
                         f"{dict(list(m['poet_lexicon_hits'].items())[:8])}. Prohibido: nadie describe una pelea o un sentimiento con aritmética, gramática o geometría.")

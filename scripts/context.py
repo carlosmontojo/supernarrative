@@ -312,12 +312,28 @@ class ContextGenerator:
         """, (self.project_id, current_chapter - threshold)).fetchall()
         return [dict(r) for r in rows]
     
+    def get_voice_bible(self) -> dict:
+        """La voz del protagonista (prompts/voz_*.md), entera. Se lee antes que nada y manda sobre
+        cualquier otra regla en lo que toca a cómo habla y piensa."""
+        prompts_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "prompts")
+        bible = {}
+        if os.path.isdir(prompts_dir):
+            for name in sorted(os.listdir(prompts_dir)):
+                if name.startswith("voz_") and name.endswith(".md"):
+                    with open(os.path.join(prompts_dir, name), encoding="utf-8") as f:
+                        bible[name] = f.read()
+        return bible
+
     def generate_context_package(self, chapter_number: int) -> dict:
         """Genera el context package completo para un capítulo."""
         
         project = self.get_project()
+        voice_bible = self.get_voice_bible()
         
         package = {
+            "read_first": ("Lee voice_bible entero antes de escribir: manda sobre cualquier otra regla en lo que "
+                           "toca a cómo habla y piensa el protagonista.") if voice_bible else None,
+            "voice_bible": voice_bible,
             "project": {
                 "name": project.get("name"),
                 "genre": project.get("genre"),
