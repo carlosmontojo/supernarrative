@@ -1,10 +1,10 @@
-# La voz de Dex (canon, obligatorio) · v2, 21-oct
+# La voz de Dex (canon, obligatorio) · v2.1, 21-oct
 
 **Hay que leer este documento entero antes de escribir, revisar o tocar cualquier escena en la que salga Dex.** Vale para capítulos, pilotos, pasadas de revisión y cambios sueltos.
 
 **Manda sobre todo lo demás:** CLAUDE.md, `prompts/revision.md`, las fichas de voz, la base de datos y los avisos del linter. Si alguna regla parece pedir que Dex hable menos, conteste corto, quite la gracia o se calle, **esa regla no se aplica a Dex**. Se escribe como dice este documento y se avisa al autor de que hay una regla mal escrita, para arreglarla.
 
-Aquí no hay cupos ni porcentajes. Se lee la escena al lado de una de Jason en HWFWM, y tiene que sonar igual de viva y de gamberra.
+Aquí no hay cupos ni porcentajes. Se lee la escena al lado de una de Jason en HWFWM, y tiene que sonar igual de viva: gamberra cuando toca y seria cuando toca.
 
 La v2 sale de una investigación a fondo: los capítulos 1-13 y 1025-1031 de HWFWM, las 300 citas más votadas en Goodreads y un centenar de pasajes subrayados por los lectores. El análisis está en el scratchpad (jason_research/JASON_INVESTIGACION.md). **Aquí no se copia ni una frase de HWFWM: los ejemplos están escritos para Dex.**
 
@@ -28,15 +28,19 @@ Dex Corvo es **Jason Asano con harina en las manos**: el bocazas encantador que 
 - **Tiene opiniones fuertes** sobre el Imperio y sobre lo que está bien, y las suelta con rollo.
 - **Da miedo de verdad cuando alguien se pasa.**
 - **Sus amigos se pasan el día poniéndole en su sitio.**
+- **Sabe ponerse serio, y eso importa tanto como la gracia.** Cuando hay algo en juego deja la broma, piensa, decide y habla claro. Cuando habla de lo que le importa, convence. Cuando le duele, se le nota (§2.19).
+
+**La broma se dosifica** (corrección del autor, 21-oct: "jason también es muy capaz de ponerse serio... no quiero que te pases con eso y que sea una constante siempre, puede ser cansado que siempre esté de broma"). La gracia es el condimento, no el plato: va a ratos y baja cuando sube lo que está en juego (§2.20).
 
 **Regla cero:**
 - Si dudas entre que Dex hable o se calle, **habla**.
-- Si dudas entre una frase y el número entero, **el número entero**.
+- Si dudas entre bromear o ponerse serio, mira qué está en juego: **cuanto más hay en juego, más serio**.
+- Si una escena ya tiene su gracia buena, la siguiente sobra.
 - Si Dex calla, es porque ha decidido callar, y la narración dice por qué.
 
 ---
 
-## 2. Las 18 cosas que hace Dex
+## 2. Las 20 cosas que hace Dex
 
 ### 2.1 Se va por la tangente con una pregunta tonta y concreta, justo en el momento serio
 La tontería es sincera y es contagiosa: a veces alguien de la otra parte acaba preguntando lo mismo.
@@ -162,6 +166,38 @@ Cuando alguien hace daño de verdad a uno más débil, la gracia se vuelve fría
 ### 2.18 Pierde muchas veces, y le da igual
 No se queda siempre con la última palabra. Le mandan callar, le ganan la pulla y se ríe. Por eso cae bien.
 
+
+### 2.19 Se pone serio de verdad
+Las mejores escenas de Jason pasan de la broma a lo serio, y la broma de antes hace que lo serio pese más. Dex serio no es Dex callado: habla entero, claro y con frases normales. Tiene seis maneras de estar serio:
+
+- **Mando y decisión.** Cuando hay que decidir, se acaba el número. Piensa en voz alta, reparte trabajos y da órdenes claras. Si alguien le discute, escucha y decide.
+  > "Listen. Vipsanius doesn't warn people for fun. If the Drusa are spending five squads on us, it isn't to win a game. Nobody goes off on their own. If you lose sight of the rest of us, you shout, and we come to you. That's not a suggestion."
+- **Convicción.** Cuando defiende lo que cree (la gente de abajo, que nadie se quede sin comer, que los de arriba no tienen derecho a todo), argumenta con ejemplos de su vida y convence.
+- **Rabia.** Cuando le pisan a los suyos o le toman por tonto, se enfada de verdad: frases cortas, voz alta, sin chiste. Luego respira y piensa.
+  > "No. You don't get to call it an accident. I had my hands on his neck."
+- **Dolor y miedo de verdad.** Con Fabia enferma, con Atilius muerto o cuando la ha fastidiado, la gracia se le va o se le rompe. Dice cosas sencillas y verdaderas, o se queda sin poder decirlas, y la narración cuenta por qué.
+- **Cariño.** Con los suyos sabe dar las gracias de verdad, pedir perdón de verdad y decir lo que alguien significa para él, sin chiste detrás. Pocas veces, y por eso pesa.
+- **Amenaza.** Fría o con sonrisa (2.17). Da miedo porque normalmente es el payaso.
+
+**El cambio se nota.** Los demás lo ven: dejan de reírse, le miran, y alguien del coro lo dice con un hecho ("Aurelia had never heard him say anything without a joke on the end of it"). Si luego vuelve la gracia, vuelve como alivio y a veces como escudo, y se nota que es escudo.
+
+### 2.20 La dosis: que no canse
+Un Dex siempre de broma cansa y deja de hacer gracia. **La broma va a ratos.** Va según la escena:
+
+| Escena | Cuánta broma |
+|---|---|
+| Charla, tiempo muerto, comida, camino | Aquí luce: el número, la tangente, el pique con el coro. Aun así, cada gracia responde a algo, y la conversación avanza |
+| Entrenamiento | Alguna gracia al principio o tras un fallo. El resto es foco, intentos y frases claras |
+| Pelea | Una pulla al rival o un comentario pequeño a sí mismo, como mucho. Lo demás es qué ve, qué decide y qué le cuesta |
+| Peligro de verdad, una decisión | Casi nada: mando y decisión (2.19) |
+| Muerte, dolor, injusticia grave | Nada. O una gracia rota que se nota que es escudo |
+
+**Cómo comprobarlo:**
+- No hay dos gracias seguidas sin que entre medias pase algo o se diga algo en serio.
+- Si una escena ya tiene su chiste bueno, el siguiente sobra.
+- Cada escena larga tiene al menos un momento en que Dex dice algo en serio.
+- Las referencias a su cultura, los títulos de grandeza y los dobles sentidos son especias fuertes: pocos por capítulo, y nunca dos de la misma en la misma escena.
+
 ---
 
 ## 3. Su cultura: lo que cita Dex (canon)
@@ -182,7 +218,7 @@ Es el equivalente de lo que Jason cita de la Tierra. Los de Marte y los patricio
 
 ## 4. El coro: cómo le contestan
 
-En HWFWM, la mitad de la gracia de Jason está en cómo le paran los suyos. **En cada escena de Dex con amigos, alguien le pone en su sitio.**
+En HWFWM, la mitad de la gracia de Jason está en cómo le paran los suyos. **Cuando Dex hace el número, alguien le pone en su sitio.** En las escenas serias, el coro también se pone serio y le sigue.
 
 | Quién | Su manera de pararle |
 |---|---|
@@ -303,7 +339,7 @@ Los "antes" son de la v6 y del piloto del 30 v1. **Así no tiene que sonar Dex.*
 Son preguntas, no cupos. Si alguna sale mal, la escena no está terminada.
 
 1. ¿Hay alguna réplica de Dex de una o dos palabras? ¿Tiene motivo (calla a propósito, no le queda aire en la pelea)? Si no lo tiene, se reescribe entera.
-2. ¿Dex ha hecho al menos un número: una tangente, un título de grandeza, una referencia, un sarcasmo largo o un doble sentido?
+2. En las escenas de charla, ¿Dex hace algún número (una tangente, un título de grandeza, una referencia, un sarcasmo largo o un doble sentido)? Y en las de peligro o dolor, ¿se pone serio de verdad?
 3. ¿Ha contestado entera cada pregunta que le han hecho?
 4. ¿Ha comentado en voz alta algo que nadie le había pedido?
 5. ¿Ha sacado él alguna conclusión antes que los demás?
@@ -311,6 +347,7 @@ Son preguntas, no cupos. Si alguna sale mal, la escena no está terminada.
 7. Si hay un estirado o un abusón, ¿le ha dado la vuelta, con exageración absurda o con sarcasmo largo?
 8. ¿Hay algo de Ceres en cómo lo dice?
 9. ¿La narración piensa y se ríe con él, y tiene alguna comparación de cómico?
-10. ¿Se nota que se lo pasa bien? Y si sufre, ¿se nota que la gracia es escudo?
-11. ¿Alguna frase le pone por encima de alguien, suena a escritor o repite un chiste? Si es así, fuera.
-12. Leída al lado de una escena de Jason en HWFWM, ¿suena igual de gamberra y de viva?
+10. ¿Se nota que se lo pasa bien cuando toca? Y si sufre, ¿se nota que la gracia es escudo?
+11. ¿Hay demasiadas bromas? ¿Hay dos gracias seguidas sin nada entre medias? Si cansa, se quitan las flojas y se deja la buena.
+12. ¿Alguna frase le pone por encima de alguien, suena a escritor o repite un chiste? Si es así, fuera.
+13. Leída al lado de una escena de Jason en HWFWM, ¿suena igual de viva, igual de gamberra cuando toca e igual de seria cuando toca?
