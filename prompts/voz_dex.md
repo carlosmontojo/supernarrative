@@ -1,4 +1,4 @@
-# La voz de Dex (canon, obligatorio) · v2.1, 21-oct
+# La voz de Dex (canon, obligatorio) · v2.2, 21-oct
 
 **Hay que leer este documento entero antes de escribir, revisar o tocar cualquier escena en la que salga Dex.** Vale para capítulos, pilotos, pasadas de revisión y cambios sueltos.
 
@@ -28,14 +28,15 @@ Dex Corvo es **Jason Asano con harina en las manos**: el bocazas encantador que 
 - **Tiene opiniones fuertes** sobre el Imperio y sobre lo que está bien, y las suelta con rollo.
 - **Da miedo de verdad cuando alguien se pasa.**
 - **Sus amigos se pasan el día poniéndole en su sitio.**
-- **Sabe ponerse serio, y eso importa tanto como la gracia.** Cuando hay algo en juego deja la broma, piensa, decide y habla claro. Cuando habla de lo que le importa, convence. Cuando le duele, se le nota (§2.19).
+- **Bromea donde nadie bromearía.** Ante el enemigo, con las costillas rotas, con un moribundo en los brazos: suelta la gracia que nadie más se atrevería a decir, y sigue haciendo lo que hay que hacer. Es su firma, no un fallo de tono (§2.20).
+- **Sabe ponerse serio, y eso importa tanto como la gracia.** Cuando alguien le necesita entero (hay que decidir por todos, uno de los suyos está asustado o herido, defiende algo en lo que cree, alguien se pasa) habla claro, decide y convence. Cuando le duele, se le nota (§2.19).
 
-**La broma se dosifica** (corrección del autor, 21-oct: "jason también es muy capaz de ponerse serio... no quiero que te pases con eso y que sea una constante siempre, puede ser cansado que siempre esté de broma"). La gracia es el condimento, no el plato: va a ratos y baja cuando sube lo que está en juego (§2.20).
+**La broma se dosifica por cantidad, no por momento** (correcciones del autor, 21-oct: "jason también es muy capaz de ponerse serio... no quiero que te pases con eso y que sea una constante siempre, puede ser cansado que siempre esté de broma" y "jason es profesional en hacer una broma en momentos en los que nadie bromearía"). No hay ningún momento prohibido para la broma. Lo que cansa es que haya una detrás de otra, que no choquen con nada y que Dex nunca hable en serio (§2.20).
 
 **Regla cero:**
 - Si dudas entre que Dex hable o se calle, **habla**.
-- Si dudas entre bromear o ponerse serio, mira qué está en juego: **cuanto más hay en juego, más serio**.
-- Si una escena ya tiene su gracia buena, la siguiente sobra.
+- Si dudas entre bromear o ponerse serio, no mires lo gordo que es el momento. Mira **dos cosas**: si la broma le planta cara a algo (un enemigo, el miedo, el dolor, un estirado), va, por terrible que sea el momento; si alguien le necesita entero, lo primero es lo serio, y la broma, si cabe, va detrás.
+- Si una escena ya tiene su gracia buena, la siguiente sobra. La gracia en el peor momento es suya; la quinta de una charla, no.
 - Si Dex calla, es porque ha decidido callar, y la narración dice por qué.
 
 ---
@@ -170,31 +171,46 @@ No se queda siempre con la última palabra. Le mandan callar, le ganan la pulla 
 ### 2.19 Se pone serio de verdad
 Las mejores escenas de Jason pasan de la broma a lo serio, y la broma de antes hace que lo serio pese más. Dex serio no es Dex callado: habla entero, claro y con frases normales. Tiene seis maneras de estar serio:
 
-- **Mando y decisión.** Cuando hay que decidir, se acaba el número. Piensa en voz alta, reparte trabajos y da órdenes claras. Si alguien le discute, escucha y decide.
+- **Mando y decisión.** Cuando hay que decidir, la orden va primero y va clara. Piensa en voz alta, reparte trabajos y da órdenes. Si alguien le discute, escucha y decide. Puede rematar con una gracia, pero la gracia va después y no tapa la orden.
   > "Listen. Vipsanius doesn't warn people for fun. If the Drusa are spending five squads on us, it isn't to win a game. Nobody goes off on their own. If you lose sight of the rest of us, you shout, and we come to you. That's not a suggestion."
 - **Convicción.** Cuando defiende lo que cree (la gente de abajo, que nadie se quede sin comer, que los de arriba no tienen derecho a todo), argumenta con ejemplos de su vida y convence.
 - **Rabia.** Cuando le pisan a los suyos o le toman por tonto, se enfada de verdad: frases cortas, voz alta, sin chiste. Luego respira y piensa.
   > "No. You don't get to call it an accident. I had my hands on his neck."
-- **Dolor y miedo de verdad.** Con Fabia enferma, con Atilius muerto o cuando la ha fastidiado, la gracia se le va o se le rompe. Dice cosas sencillas y verdaderas, o se queda sin poder decirlas, y la narración cuenta por qué.
+- **Dolor y miedo de verdad.** Con Fabia enferma, con Atilius muerto o cuando la ha fastidiado. A veces la gracia se le va o se le rompe, y dice cosas sencillas y verdaderas, o no le salen, y la narración cuenta por qué. Otras veces bromea igual, y eso es lo más valiente que hace: el chiste a un moribundo para que no tenga miedo, o el que se cuenta a sí mismo para no venirse abajo. Se nota lo que le cuesta.
 - **Cariño.** Con los suyos sabe dar las gracias de verdad, pedir perdón de verdad y decir lo que alguien significa para él, sin chiste detrás. Pocas veces, y por eso pesa.
 - **Amenaza.** Fría o con sonrisa (2.17). Da miedo porque normalmente es el payaso.
 
 **El cambio se nota.** Los demás lo ven: dejan de reírse, le miran, y alguien del coro lo dice con un hecho ("Aurelia had never heard him say anything without a joke on the end of it"). Si luego vuelve la gracia, vuelve como alivio y a veces como escudo, y se nota que es escudo.
 
 ### 2.20 La dosis: que no canse
-Un Dex siempre de broma cansa y deja de hacer gracia. **La broma va a ratos.** Va según la escena:
+Un Dex siempre de broma cansa y deja de hacer gracia. Pero la dosis **no va por lo que está en juego**: Jason es un profesional de la broma en los momentos en que nadie bromearía, y Dex también. En la jaula, ante el monstruo, con las costillas rotas o con un amigo desangrándose, una gracia suya es lo que el lector recuerda.
 
-| Escena | Cuánta broma |
+**La broma en el peor momento** funciona cuando:
+- es una sola, corta y sale de algo concreto de la escena (el fuego, la herida, la cara del rival);
+- le planta cara a algo: al enemigo, al miedo, al dolor o a la muerte;
+- no frena la acción: la dice y sigue luchando, corriendo o apretando la herida;
+- los demás reaccionan como reaccionaría alguien ahí ("Are you joking? Now?", una risa que se les escapa, o nada, porque no hay tiempo).
+
+**Lo que cansa:**
+- La cantidad: una gracia detrás de otra, o que todas las réplicas lleven chiste.
+- Las gracias que no chocan con nada: el relleno en una charla en la que no pasa nada.
+- Repetir el mismo tipo de chiste (dos referencias de Ceres, dos títulos de grandeza o dos dobles sentidos en la misma escena).
+- Que nunca hable en serio. Sin los momentos serios, la broma no pesa.
+
+**Según la escena:**
+
+| Escena | Cómo va la broma |
 |---|---|
-| Charla, tiempo muerto, comida, camino | Aquí luce: el número, la tangente, el pique con el coro. Aun así, cada gracia responde a algo, y la conversación avanza |
-| Entrenamiento | Alguna gracia al principio o tras un fallo. El resto es foco, intentos y frases claras |
-| Pelea | Una pulla al rival o un comentario pequeño a sí mismo, como mucho. Lo demás es qué ve, qué decide y qué le cuesta |
-| Peligro de verdad, una decisión | Casi nada: mando y decisión (2.19) |
-| Muerte, dolor, injusticia grave | Nada. O una gracia rota que se nota que es escudo |
+| Charla, tiempo muerto, comida, camino | Aquí luce el número entero (la tangente, el pique con el coro), y aquí es donde más fácil cansa. Cada gracia responde a algo, la conversación avanza y alguien del coro le corta |
+| Entrenamiento | Alguna gracia tras un fallo o para picar al rival. El resto es foco, intentos y frases claras |
+| Pelea | Una pulla al rival o un comentario a su propio dolor, en el peor momento, y a seguir. Lo demás es qué ve, qué decide y qué le cuesta |
+| Peligro de verdad, una decisión | La orden clara primero. La gracia, si va, va detrás y es corta |
+| Muerte, dolor, injusticia grave | Puede ir la gracia que nadie haría (con el moribundo, ante lo horrible), una y pequeña, y lo que viene detrás va en serio. O se le va la gracia sola, y la narración lo cuenta. Nunca una gracia a costa de la víctima |
 
 **Cómo comprobarlo:**
 - No hay dos gracias seguidas sin que entre medias pase algo o se diga algo en serio.
 - Si una escena ya tiene su chiste bueno, el siguiente sobra.
+- En los momentos más duros del capítulo, ¿hay alguno en que Dex suelte la gracia que nadie soltaría? Si los ha pasado todos callado, no es Jason.
 - Cada escena larga tiene al menos un momento en que Dex dice algo en serio.
 - Las referencias a su cultura, los títulos de grandeza y los dobles sentidos son especias fuertes: pocos por capítulo, y nunca dos de la misma en la misma escena.
 
@@ -248,7 +264,8 @@ En HWFWM, la mitad de la gracia de Jason está en cómo le paran los suyos. **Cu
 - **Peligro.** Un comentario pequeño, o una referencia de Ferox, y a actuar.
 - **Le dan las gracias.** Le da una razón práctica o le pone un bollo delante.
 - **Momento serio de verdad** (Fabia, la muerte de Atilius).
-  - Se le va la gracia, o la usa de escudo y se nota que es escudo.
+  - Puede soltar la gracia que nadie soltaría (al moribundo, para que no tenga miedo), una, y lo siguiente va en serio.
+  - O se le va la gracia, o la usa de escudo y se nota que es escudo.
   - Habla con frases sencillas.
 - **Injusticia.** Amenaza alegre o frío (2.17).
 - **Calla.** Solo a propósito, y la narración dice por qué.
@@ -328,6 +345,10 @@ Los "antes" son de la v6 y del piloto del 30 v1. **Así no tiene que sonar Dex.*
 - Antes: "It's quite a nice fire."
 - Después: "On my own? I'm insulted. I'm a Crow, and we come in flocks. Mine's behind that rock, being very quiet, because I asked nicely. Do you want to go back down? The fire's that way. It's a lovely fire. Very warm. Very fire."
 
+**Cap. 30, Atilius desangrándose** (la gracia que nadie haría, como cariño).
+- Antes: "I know. I know. It's all right."
+- Después: "Then we'll work on it. After supper, at the post. I'll hit you in the neck with a stale loaf until it goes stone, and you'll moan the whole time. You'll love it." Atilius casi se ríe. Dex sigue apretando la herida.
+
 **Cap. 30, los Metelli.**
 - Antes: "Morning. Didn't see you at breakfast."
 - Después: "Morning. I'd say it's nice to see you, but last time I saw you, you were face down on a road, and I liked you better that way."
@@ -339,7 +360,7 @@ Los "antes" son de la v6 y del piloto del 30 v1. **Así no tiene que sonar Dex.*
 Son preguntas, no cupos. Si alguna sale mal, la escena no está terminada.
 
 1. ¿Hay alguna réplica de Dex de una o dos palabras? ¿Tiene motivo (calla a propósito, no le queda aire en la pelea)? Si no lo tiene, se reescribe entera.
-2. En las escenas de charla, ¿Dex hace algún número (una tangente, un título de grandeza, una referencia, un sarcasmo largo o un doble sentido)? Y en las de peligro o dolor, ¿se pone serio de verdad?
+2. En las escenas de charla, ¿Dex hace algún número (una tangente, un título de grandeza, una referencia, un sarcasmo largo o un doble sentido)? En el peligro y el dolor, ¿suelta alguna vez la gracia que nadie soltaría, sin frenar la acción? ¿Y hay algún momento en que habla en serio porque alguien le necesita?
 3. ¿Ha contestado entera cada pregunta que le han hecho?
 4. ¿Ha comentado en voz alta algo que nadie le había pedido?
 5. ¿Ha sacado él alguna conclusión antes que los demás?
