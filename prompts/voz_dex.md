@@ -1,360 +1,316 @@
-# La voz de Dex (canon, obligatorio)
+# La voz de Dex (canon, obligatorio) · v2, 21-oct
 
-**Hay que leer este documento entero antes de escribir, revisar o tocar cualquier escena en la que salga Dex.** Eso vale para capítulos, pilotos, pasadas de revisión y cambios sueltos.
+**Hay que leer este documento entero antes de escribir, revisar o tocar cualquier escena en la que salga Dex.** Vale para capítulos, pilotos, pasadas de revisión y cambios sueltos.
 
-**Manda sobre todo lo demás:** CLAUDE.md, `prompts/revision.md`, las fichas de voz, la base de datos y los avisos del linter. Si alguna regla parece pedir que Dex hable menos, conteste corto, quite la gracia o se calle, **esa regla no se aplica a Dex**. Se escribe como dice este documento, y se avisa al autor de que hay una regla mal escrita para arreglarla.
+**Manda sobre todo lo demás:** CLAUDE.md, `prompts/revision.md`, las fichas de voz, la base de datos y los avisos del linter. Si alguna regla parece pedir que Dex hable menos, conteste corto, quite la gracia o se calle, **esa regla no se aplica a Dex**. Se escribe como dice este documento y se avisa al autor de que hay una regla mal escrita, para arreglarla.
 
-Aquí no hay cupos ni porcentajes. Esto no se mide con números (lo dijo el autor el 13-oct). Se lee la escena al lado de una de Jason en HWFWM, y tiene que sonar igual de vivo.
+Aquí no hay cupos ni porcentajes. Se lee la escena al lado de una de Jason en HWFWM, y tiene que sonar igual de viva y de gamberra.
+
+La v2 sale de una investigación a fondo: los capítulos 1-13 y 1025-1031 de HWFWM, las 300 citas más votadas en Goodreads y un centenar de pasajes subrayados por los lectores. El análisis está en el scratchpad (jason_research/JASON_INVESTIGACION.md). **Aquí no se copia ni una frase de HWFWM: los ejemplos están escritos para Dex.**
 
 ---
 
 ## 1. Quién es Dex cuando abre la boca
 
-Dex Corvo es **el bocazas encantador**. Es Jason Asano, de He Who Fights With Monsters, con harina en las manos: un chaval de dieciséis años del Horno de Ceres, expósito y criado por Fabia, que lleva media vida dándole palique a la cola del pan.
+Dex Corvo es **Jason Asano con harina en las manos**: el bocazas encantador que pide el autor, un payaso gamberro, teatral y con muchísima labia. Tiene dieciséis años, es del Horno de Ceres, expósito, criado por Fabia, y se ha pasado media vida dándole palique a la cola del pan.
 
-- **Es el que más habla** de cualquier escena en la que esté, y lo hace por gusto, no por nervios.
-- **Comenta en voz alta todo lo que le pasa**, aunque esté solo.
-- **Contesta siempre entero, con la gracia dentro.**
-- **Se lo pasa bien**, incluso cuando le están dando una paliza.
-- **A los estirados les da la vuelta al juego**, y a veces lo paga.
-- **A los amigos les da conversación.** Les pica y le pican.
-- **Es listo.** Saca él las conclusiones.
-- **Si alguien hace daño a alguien de verdad, se le acaba la gracia** y habla frío.
+**Lo que NO es:** el chaval seco de comedia británica que suelta una frase corta e ingeniosa y se calla ("It's quite a nice fire."). Esa versión ya la probamos y no funciona.
+
+**Lo que SÍ es:**
+- **El que más habla de cualquier escena,** y lo hace por gusto.
+- **Se va por la tangente** con preguntas tontas y concretas justo en el momento serio.
+- **Le baja los humos a lo enorme** con cosas de andar por casa: el pan, el tranvía, la cola.
+- **Cita su cultura** (las novelas por entregas, el Orbe, los títeres, las canciones de Ceres) y nadie la pilla.
+- **Se pone títulos de grandeza de broma.**
+- **Hace chistes guarros y de doble sentido.**
+- **A los estirados les suelta sarcasmo largo y bien hablado, y lo paga.**
+- **Admite su miedo riéndose.**
+- **Tiene opiniones fuertes** sobre el Imperio y sobre lo que está bien, y las suelta con rollo.
+- **Da miedo de verdad cuando alguien se pasa.**
+- **Sus amigos se pasan el día poniéndole en su sitio.**
 
 **Regla cero:**
 - Si dudas entre que Dex hable o se calle, **habla**.
-- Si dudas entre una respuesta corta y una entera, **entera**.
-- Si Dex calla, es porque ha decidido callar. La narración dice por qué.
+- Si dudas entre una frase y el número entero, **el número entero**.
+- Si Dex calla, es porque ha decidido callar, y la narración dice por qué.
 
 ---
 
-## 2. Lo que hace siempre
+## 2. Las 18 cosas que hace Dex
 
-Los ejemplos de esta sección son de CORVUS, escritos para Dex. No se copian frases de HWFWM.
+### 2.1 Se va por la tangente con una pregunta tonta y concreta, justo en el momento serio
+La tontería es sincera y es contagiosa: a veces alguien de la otra parte acaba preguntando lo mismo.
 
-### 2.1 Contesta entero, y la gracia va dentro de la respuesta
-Nunca contesta con "Moved.", "Two.", "And?", "Fair enough." o "I'll try." Da la respuesta completa, y el chiste o el dato sincero van dentro de lo que dice, no pegados detrás.
+> "Sir, quick question. If I'm dead, can I still eat? Only it's a long day, and nobody's said anything about lunch, and I'd hate to die hungry and then be dead and hungry."
 
-> "What did you do when you knew?"
-> "Got out of the way, sir. Properly out of the way. If the wall hadn't been there I'd have gone into the next arena."
+> (A Dento, antes del combate) "Before we start, are your arms made, or do they just come like that? I've been eating Castor's porridge for a month and nothing's happening."
 
-> "Can you lift that arm?"
-> "As far as my ear. So I'm fine, as long as everybody aims at my ear."
+### 2.2 Le baja los humos a lo enorme con cosas de andar por casa
+El Imperio, los dioses, los Censores, el Senado y las líneas, contados como si fueran la panadería, el tranvía o la cola de la mañana.
 
-### 2.2 Comenta en voz alta lo que le pasa, también a solas y también a su armilla
-Va narrando su propia vida con guasa. Le habla a su armilla, a su línea y a sí mismo.
+> "So I'm a state secret. Lovely. The only secret we had on Ceres was what Fabia put in the rye, and that was just more salt."
 
-> "Oh, you're joking," he told his wrist. "You couldn't have done that on the ship?"
+> "The Senate's basically the tram company with swords. Nobody voted for it, it's always late, and you're not allowed to complain to the driver."
 
-> "That worked. Why did that work? Nobody tell me. I don't want to know."
+### 2.3 Cita su cultura, y los de Marte no la pillan
+Las referencias son de Ceres (§3). Si alguien no lo entiende, se lo explica, y la explicación es otro chiste. Así la referencia queda clara para el lector a la primera.
 
-> "Right, Corvo. One more lap. You love laps. Laps are your friends."
+> "This is very Ferox. Chapter one, the legate loses his helmet. Chapter two, he takes one off a dead Expoliatus. I'd like to skip to chapter two."
+> "What's Ferox?"
+> "Only the greatest story ever printed on paper you can also use to wrap fish. Twelve years running. Ferox never dies, he just gets captured a lot."
 
-### 2.3 Ante lo terrible, un comentario pequeño en tono normal
-Cuanto más grande es el peligro, más pequeño y más casero es el comentario. Después actúa.
+### 2.4 Grandeza de mentira y vanidad en broma
+Se pone títulos, presume de cosas absurdas y se imagina en el cartel. Los amigos se lo desmontan.
 
-> "That's a big lad. He's a lot bigger than he looked on the board."
+> "Decimus Corvo. The Crow of Ceres. Terror of the Morning Queue."
+> "Nobody calls you that."
+> "Everybody will, once I've said it enough times."
+
+> "I'm going to be first on that board, and when I am, they're going to paint me on the side of a tram."
+
+### 2.5 Sarcasmo largo y bien hablado contra la autoridad pomposa, y lo paga
+Educación exagerada, palabras de patricio y frases largas. Debajo va una crítica de verdad.
+
+> "No, I understand, sir. I'm a baker, and the client system is very complicated. It's definitely not that the great houses own the votes, the courts and the bread, and then call it duty so nobody has to say 'own'. I'm sure it's much subtler than that, and I'd need a purple stripe to follow it."
+
+### 2.6 Sátira del Imperio desde la calle
+Tiene el ojo de un chaval pobre que ha visto a los ricos desde el otro lado del mostrador.
+
+> "On Ceres we had two parties as well. The people who own the ovens and the people who are hungry. The ones with the ovens worry about the hungry ones all the time. They have meetings about it. With cake."
+
+### 2.7 Humor guarro y de doble sentido
+Es humor de chaval de dieciséis años: dobles sentidos, salchichas, la cola del pan y la viuda Marcia. Nunca va a costa del débil ni se convierte en contenido sexual: se queda en chiste.
+
+> "Castor, you've got to stop telling people you're going to 'give me a good pounding after supper'. I know you mean drills. The sergeant doesn't."
+
+> "...as the widow Marcia said to the coal man." (Es su "that's what she said", y sale una vez de vez en cuando, no en cada escena.)
+
+> "This is very Maccus and the Censor. Somebody's about to get hit with a sausage, and I'd like it not to be me."
+
+### 2.8 Pullas con exageración absurda a los abusones
+Cuanto más se cree el abusón, más grande y más ridícula es la exageración.
+
+> "Touch his tray again and I'll hit you so hard your house loses a seat in the Senate."
+
+> "I'm not sure you know how fighting works. Or swords. Or feet."
+
+> "No, I haven't got a mother. I've got Fabia, which is worse for you. She's got a bread paddle, and she knows where Mars is."
+
+### 2.9 Comenta el género en el que está metido
+Sabe cómo van las novelas por entregas y los combates del Orbe, y lo dice en voz alta.
+
+> "This is the bit in Ferox where the villain explains his plan. Go on. I've got time. I'm bleeding quite slowly."
+
+> "If this was the Orb, the man on the rail would be saying 'and the Ceres boy is in trouble now'."
+
+### 2.10 Ante lo horrible, un comentario pequeño y casero, y luego actúa
+
+> "That's a lot of fire. That's more fire than I asked for."
+
+> "That's horrible. That's meant to be on the inside."
 
 > "That's not a practice sword. I'd like everybody to know that's not a practice sword."
 
-> (VETITA en su muñeca) "That's probably fine. That's probably a good word."
+### 2.11 Admite el miedo y la cobardía riéndose, y luego lo hace igual
 
-### 2.4 Dice que es malo como si diera un dato, casi contento, y luego lo hace igual
-No se lamenta nunca ni dice que lo hace todo mal. Informa de lo que le falta y sigue.
+> "I'm terrified, just so everybody knows. I'm going to do it anyway, because the alternative is Aurelia's face."
 
-> "Before anyone asks, no, I can't hit hard. I can be somewhere else very quickly, which is nearly as good."
+> "Before anyone asks, no, I can't hit hard. I'm very good at being somewhere else, though, which is nearly as good."
 
-> "I'm the worst cadet in the year by a long way. I've seen the board. Keep your hopes low and you'll be thrilled."
+### 2.12 Se habla a sí mismo, a su armilla y a su línea
 
-### 2.5 A los estirados les da la vuelta al juego, y a veces le cuesta
-Con los pomposos, los que se creen más y los que abusan de su rango (Gracchus, Messalla, los Genetrix, los clientes Drusa):
-- usa una educación exagerada que en realidad es guasa;
-- les contesta con su propia pregunta;
-- les suelta un sarcasmo largo y bien hablado;
-- les pone el título que no esperan.
+> "Right, Corvo. You've seen it. You know where it's going. Now stand there like you meant to."
 
-**No se calla ni agacha la cabeza.** Si le castigan, el castigo se lo gana con la boca, y le da igual.
+> "Oh, you're joking," he told his wrist. "You couldn't have done that on the ship?"
 
-> "Is that for asking, sir, or for them laughing? I'd like to know which one to stop doing."
+> "Come on, you lovely thing. Work. I'll polish you, I promise."
 
-> "Cadet Corvo, actually. But I do a very good loaf, if you're ever on Ceres. I'll do you the house price, which is double."
+### 2.13 Juegos de palabras malos y latín destrozado, que él defiende
+Es plebeyo y el latín de patricio le suena raro. Lo destroza, Sabina le corrige y él insiste.
 
-> "No, you're right, sir. I'm sure the Senate thought very hard about the bakers before it took the vote off us. I bet it kept them up at night. I bet somebody from Ceres was nearly invited."
+> "Vetita? Sounds like a cheese."
+> "It means forbidden."
+> "Forbidden cheese, then. Even better."
 
-### 2.6 Dice en voz alta lo incómodo
-Lo que los demás callan por educación, él lo pregunta o lo dice, con sinceridad y sin mala fe. Eso le da soltura con cualquiera.
+> "Ad digitum? I thought that was a pastry."
 
-> "Can I ask about the exile thing, or is that going to get me hit? I'd like to know which, so I can stand in the right place."
+### 2.14 Le pillan las mentiras y pierde
 
-> "You're being nice to me and I don't know why. It's making me nervous. Is this a Drusa thing?"
+> "I wasn't asleep in doctrine."
+> "You snored," Sabina said.
+> "That was thinking. Loud thinking. It runs in Ceres."
 
-### 2.7 Saca él la conclusión, y discute con los expertos
-Cuando alguien explica algo, Dex se adelanta, saca la consecuencia o pincha la explicación. **No hace de entrevistador** ("And?", "Such as?", "How do you know?"): pregunta solo lo que de verdad no puede saber, y enseña que ya lo ha pensado.
+### 2.15 Cuando se pone serio, opina con argumentos
+Pocas veces y en momentos grandes. Habla con palabras normales y ejemplos concretos, no con sentencias de escritor. Puede soltar una frase redonda, pero una en un momento grande y nunca de adorno.
 
-> "The great houses. So the people who won the war wrote the book about the war, and the book says the problem was everybody else having a vote. That's handy for them."
+> "It wasn't the vote that got everybody killed. It was being tired. People were tired and scared, and they handed it over to the first thing that promised to think for them. And the lesson the families took was that people like my mum shouldn't get to choose anything. That's a very convenient lesson if you're the family."
 
-> "Hang on. If you can only measure me when I'm still, then I should be still when it matters. That's the whole trick, isn't it?"
+### 2.16 Comida y hospitalidad: es panadero
+Da de comer, es un snob del pan y cualquier victoria la celebra con bollos.
 
-> "So that's twenty on the average and I'm E-two?"
+> "Martian bread is a crime against wheat. If we live through this, I'm making everybody proper rolls."
 
-### 2.8 Opina, cuenta cosas de su vida y se entusiasma sin vergüenza
-- Tiene opiniones y las defiende con rollo.
-- Cuenta anécdotas de Ceres que acaban en chiste.
-- Cuando algo es increíble, lo dice a gritos.
-- **Dice lo que quiere: ser el primero del tablón**, y llegar a ser lo que fueron los Cuervos.
+> "Don't thank me. Eat. You can thank me with your mouth full, that's how they do it on Ceres."
 
-> "My mum once chased a man the length of Scale Street with a bread paddle because he said her rye was dry. He was right, as well. It was dry. She still got him."
+### 2.17 Amenaza alegre y miedo de verdad
+Cuando alguien hace daño de verdad a uno más débil, la gracia se vuelve fría. A veces sigue sonriendo, y eso da más miedo.
 
-> "Did you see that? She went up the wall! Tulia, you went up the wall! Do it again, I wasn't ready!"
+> "I'm not threatening you. I'm a baker. Bakers don't threaten people. I'm just telling you I get up at four every morning, I've got nothing to do until the bell, and I know which bunk is yours."
 
-> "I'm going to be first, by the way. In the year. I know where I am on the board. It's a long way up, so I thought I'd better start early."
+> "You went for his head with live steel. Do it again and everybody on this hill hears your name."
 
-### 2.9 No acepta que le den las gracias, y pierde intercambios
-- Cuando le agradecen algo, lo disfraza de interés práctico.
-- No se queda siempre con la última palabra. Le mandan callar, le ganan la pulla y se lo toman a broma. **Por eso cae bien en lugar de resultar repelente.**
-
-> "Don't thank me. If they'd thrown you out, I'd have been on pots on my own, and nobody wants that."
-
-> "Do you ever stop talking?"
-> "I stopped once, on the ship. It was awful. Everybody got worried."
-> "I wasn't worried," Aurelia said.
-
-### 2.10 Habla como se habla, y con Ceres dentro
-Usa contracciones, frases a medio hacer que se corrigen y el relleno de habla de verdad:
-- "Hang on", "Honestly?", "Actually…", "Right", "Go on, then", "I mean", "a bit", "loads", "way too", "pretty much";
-- "Oh, come on", "You're joking", "Lovely", "Brilliant", "Fair point", "Here we go", "Still not helping";
-- "mate", con los amigos.
-
-**Hay que variarlas**: ninguna puede convertirse en coletilla de cada escena.
-
-Sus referencias son de su mundo y no las explica:
-- el Horno;
-- la cola de la mañana;
-- los clientes que regatean;
-- el pan de ayer y el peso corto;
-- fregar cacharros ("on pots");
-- lo que dice Fabia ("no te fíes de nada que te conteste sin boca");
-- los túneles y las lanzaderas de Ceres;
-- los campeones del Orbe, de los que es muy fan.
-
-### 2.11 Ante la injusticia de verdad, se le va la gracia
-Cuando alguien hace daño a uno más débil, abusa de su fuerza o de su rango, o va a matar, la broma se acaba de golpe:
-- frases cortas y frías;
-- dice lo que el otro ha hecho y lo que va a pasar;
-- se pone en medio y dice que no;
-- no se disculpa después.
-
-> "You went for his head with live steel because he's got a line you haven't. Do it again and everybody on this hill hears your name."
-
-### 2.12 Es cálido con los suyos
-- Da de comer.
-- Se acuerda de lo que le importa a cada uno.
-- Usa la gracia para quitarle el miedo al que lo pasa mal, nunca para reírse de él.
-- Cuando la fastidia, pide perdón de verdad, en serio y pocas veces: un "sorry" por escena como mucho.
-
-> "Eat. Nobody's looking at your hands. I'm looking at the tray, and the tray's doing fine."
+### 2.18 Pierde muchas veces, y le da igual
+No se queda siempre con la última palabra. Le mandan callar, le ganan la pulla y se ríe. Por eso cae bien.
 
 ---
 
-## 3. Con quién habla y cómo
+## 3. Su cultura: lo que cita Dex (canon)
 
-| Con quién | Cómo habla Dex |
+Es el equivalente de lo que Jason cita de la Tierra. Los de Marte y los patricios no lo pillan, o lo desprecian por ser cosa de muelle.
+
+| Qué | Qué es | Cómo lo usa Dex |
+|---|---|---|
+| **Ferox of the Limes** | Novela por entregas en hojas baratas que se venden en las paradas del tranvía de Ceres. Un legado que pelea contra los Expoliados. Lleva doce años, está mal escrita y cada entrega acaba en un suspense. Ferox pierde el casco en el primer capítulo de cada historia y tiene un grito: "Not on my wall!" | Para comentar el género ("this is the bit where…") y para animarse. Se ha leído todas. Si alguien le pilla citándola, finge que no |
+| **Los campeones del Orbe** | Los combates del Orbe, cuyos resultados se clavaban en un tablón frente a la panadería. Galba "the Anvil" (Robur), que se comió un rayo Fulmen en una final y pidió agua. Lucilla Nine-Toes (Celeritas), que perdió un dedo en el hielo de Europa. Los gemelos de Vesta | Es fan, como Rei de las SCT. Se sabe sus rangos y sus peleas. Se compara con ellos en broma ("Galba was C4 at sixteen. I'm D2. So I'm basically Galba, give or take everything") y los usa para deducir |
+| **Maccus and the Censor** | Teatro de títeres de las fiestas de Ceres. Maccus, el tonto, mata al Censor a golpes de salchicha | Chistes de salchicha, de Censores y de autoridad apaleada |
+| **La panadería y Fabia** | El Horno, la cola de la mañana, el reparto por los túneles, el pan de ayer, el peso corto y fregar cacharros ("on pots"). Fabia y sus refranes ("no te fíes de nada que te conteste sin boca"; "si sale quemado por abajo, véndeselo a un senador"). La viuda Marcia, que se queja de todo. Barbatus, el estibador Robur | Anécdotas que acaban en chiste. Comparaciones caseras. Su ética: nadie se queda sin comer |
+| **Ceres** | Los túneles, la gravedad floja, el tranvía que anuncia las paradas con su voz de mecanismo tonto (Lex Mechanica), el foso de los mineros y la canción de taberna de la mujer del minero | Le da su sitio en el mundo: es de provincias, y se le nota |
+
+**Las referencias se dosifican:** una o dos por escena, nunca en cada réplica. Ningún chiste concreto se repite dos veces en el libro, salvo los recurrentes a propósito (la viuda Marcia, Ferox), que salen pocas veces y cada vez distintos.
+
+---
+
+## 4. El coro: cómo le contestan
+
+En HWFWM, la mitad de la gracia de Jason está en cómo le paran los suyos. **En cada escena de Dex con amigos, alguien le pone en su sitio.**
+
+| Quién | Su manera de pararle |
 |---|---|
-| **Aurelia** | Se pican de igual a igual y ella le gana muchas. Él le dice lo incómodo y ella le corta. Hay coqueteo de fondo, sin decirlo. Cuando ella está mal, deja la guasa y se queda |
-| **Brennus** | Le habla él por los dos. Brennus contesta poco y seco, y a veces le gana con una sola frase. Dex se apoya en él y se lo dice |
-| **Felix** | Dos charlatanes. Felix va de dinero, de miedo al dolor y de cotilleos de los muelles; Dex le pica con las apuestas una vez por capítulo como mucho |
-| **Sabina** | Ella sabe y él deduce. Dex le gana la conclusión, ella se molesta y le corrige el dato. Se respetan |
-| **Tulia** | Competición a gritos. Ella ladra y él le devuelve la pulla. Se celebran a lo grande |
-| **Castor** | Cariño práctico. Dex le pica por ser el padre del grupo y le da las gracias de verdad cuando toca |
-| **Pále** | Le habla con suavidad y sin agobiarla. Le hace preguntas fáciles y la protege. Cuando ella dice algo, Dex le hace caso enseguida |
-| **Autoridad justa** (Varro, Mura, Hostilia, Niger) | Respeto con descaro: pregunta, bromea, pide más, acepta el palo y vuelve. Nunca les desprecia. Gana poco con ellos, y le parece bien |
-| **Pomposos e injustos** (Gracchus, Messalla, los Genetrix, los clientes) | Educación de guasa, sarcasmo largo, títulos que no esperan. Paga el castigo y sale entero |
-| **Abusones** (Drusus, los Metelli, Rufo, Tuck) | Desprecio alegre mientras es un juego. Frío en cuanto hacen daño de verdad |
-| **Rivales que respeta** (Cassius, Dento, Livia) | Pique de igual a igual. Dice su ambición en voz alta, admira al otro sin rodeos y lo reconoce cuando pierde |
-| **Los débiles** (Pelio, los heridos) | Se pone en medio y usa la gracia para quitarles el miedo |
-| **En pelea** | Habla a ráfagas, porque falta el aire: una pulla al rival, una orden a los suyos o un comentario a sí mismo. Cuando no tiene aliento, piensa, y lo que piensa va en la narración |
-| **Consigo mismo y con su armilla** | Se anima, se riñe, se ríe de su plan y le pide a la armilla que funcione |
+| **Aurelia** | La que le gana: corta en seco, le corrige, se le escapa la risa y no lo admite. "Corvo. No." / "Every time you open your mouth, a praetor gets a headache." |
+| **Felix** | El que le hunde por ayudar: "He's genuinely terrible at this." / "Thank you, Felix." / "I'm only saying. He needs all the help he can get." |
+| **Sabina** | La pedante. Le corrige el latín, el dato y la lógica del chiste: "That's not what vetita means. That's not what anything means." |
+| **Brennus** | El literal. No pilla la broma, o la pilla y la remata en seco: "Your face isn't that nice." |
+| **Tulia** | Se apunta a la tontería y la sube de nivel. Compite hasta en eso |
+| **Castor** | El práctico: "Eat something. Then be stupid." |
+| **Pále** | Casi nunca. Cuando habla, una sola frase lo tumba todo |
+| **Varro y Mura** | Le aguantan medio número y le cortan con una orden. A veces se les escapa algo que casi es una sonrisa |
+| **Los de fuera** | Se quedan mirando. Alguien de los suyos les avisa: "He's like this all the time. You get used to it, or you get a headache. Most people get the headache." |
 
 ---
 
-## 4. Cómo reacciona en cada situación
+## 5. Cómo reacciona en cada situación
 
-- **Le explican algo.** Se adelanta, saca la consecuencia, pincha la explicación o la resume a su manera.
-- **Le preguntan.** Contesta entero (2.1).
-- **Gana.** Lo disfruta y lo dice: "That worked! I didn't think that was going to work." Presume en broma, nunca a costa del caído. El mérito es suyo y no lo regala.
+- **Le explican algo.** Se adelanta, saca la consecuencia, lo baja a la panadería o hace una pregunta tangente.
+- **Le preguntan.** Contesta entero, con la gracia dentro.
+- **Gana.** Lo disfruta, se pone un título y se imagina pintado en un tranvía. El mérito es suyo.
 - **Pierde.** Lo encaja con gracia y con hambre ("Again." / "Same time tomorrow?"). Por dentro le escuece, y la narración lo cuenta.
 - **Sube de rango o le sale una pantalla.**
-  - La lee dos veces y lo celebra a lo grande.
+  - Lo celebra a lo grande.
   - Le habla a la armilla.
+  - Se compara con Galba.
   - Saca cuentas de lo que le falta.
-  - Se lo enseña a alguien o decide no enseñárselo, y dice por qué.
-- **Peligro.** Un comentario pequeño (2.3) y a actuar.
-- **Le dan las gracias.** Le da una razón práctica (2.9).
-- **Momento serio** (Fabia, la muerte de Atilius, el miedo de verdad).
-  - O se le va la gracia, o la usa de escudo y se le nota que es escudo.
-  - Habla con frases sencillas. Puede decir algo verdadero y bonito, pero sin sentencias.
-- **Injusticia.** Frío (2.11).
-- **Calla.** Solo a propósito, y la narración dice por qué ("He'd have liked to say something clever. He didn't trust his voice.").
+- **Peligro.** Un comentario pequeño, o una referencia de Ferox, y a actuar.
+- **Le dan las gracias.** Le da una razón práctica o le pone un bollo delante.
+- **Momento serio de verdad** (Fabia, la muerte de Atilius).
+  - Se le va la gracia, o la usa de escudo y se nota que es escudo.
+  - Habla con frases sencillas.
+- **Injusticia.** Amenaza alegre o frío (2.17).
+- **Calla.** Solo a propósito, y la narración dice por qué.
 
 ---
 
-## 5. La narración pegada a Dex
+## 6. La narración pegada a Dex
 
-El narrador es normal: nada de poesía, de ambiente ni de remates del narrador. **Pero está pegado a Dex y piensa con él**, en estilo indirecto libre:
-- sus opiniones;
-- sus chistes;
-- sus miedos;
-- sus planes;
-- lo que quiere;
-- las preguntas que se hace.
+El narrador está pegado a Dex y **piensa y se ríe con él**, en estilo indirecto libre:
+- sus opiniones, sus chistes, sus miedos y sus planes;
+- las preguntas que se hace;
+- lo que quiere.
 
-Eso no es relleno: es su voz, y en cada escena tiene que haberla. Los pensamientos directos van en cursiva.
+Los pensamientos directos van en cursiva.
 
-> For the first part of the hour it was fine. He used it to look at the tribune's hair and decide that somebody had to curl it for him every morning. He'd have liked to meet them; they were very good. Then his shoulders started to burn.
+**Comparaciones de cómico, sí:** son de su mundo, casi siempre de panadería, de Ceres o del Orbe, son para hacer gracia y se entienden a la primera.
+> "Libo came through the front rank like a man who'd heard there was free bread at the back."
+> "The Metelli came down the rocks the way the widow Marcia came into the shop: slowly, together, and already annoyed."
 
-> E6. Dex read it twice, because the first time he assumed he'd read it wrong.
-
-> *Well done, Corvo. Brilliant. Now you've got a Drusa angry and no arm to hold the shield up with.*
+**Imágenes de escritor, no:** nada de luz y sombra, ambiente ni poesía ("the racks went off into the dark like the shelves in the Annona's fields"). La diferencia está en que la de cómico hace reír y la de escritor quiere quedar bonita.
 
 ---
 
-## 6. Lo que le hace caer mal (fuera)
+## 7. Lo que le hace caer mal (fuera)
 
-Esto es lo que el autor corrigió el 4-oct y sigue fuera. **No es la gracia de Dex: es su contrario.**
-- **Rematar para quedar por encima:**
-  - sentencias sabiondas ("People always do", "they just don't know why", "Everybody says that");
+- **Rematar para quedar por encima de otro:**
+  - sentencias sabiondas ("People always do");
   - cortes despectivos ("So what.", "Obviously.");
-  - el "Sir." suelto detrás de una pulla;
-  - el tríptico corto con giro.
+  - el "Sir." suelto tras una pulla.
 - **Reírse de alguien más débil o de un amigo que lo está pasando mal.**
 - **Quedarse siempre con la última palabra.**
-- **Repetir el mismo chiste:** "I'm a baker" una vez, no seis.
-- **Encadenar pullas sin conversación** (réplica corta, remate, réplica corta, remate). La gracia de Dex responde a lo que le acaban de decir.
-- **Hacerse el tonto o preguntar lo obvio** ("Is that good?").
+- **Repetir el mismo chiste.**
+- **Las referencias en cada réplica.**
+- **Hacerse el tonto o preguntar lo obvio.** La tangente es otra cosa: es una pregunta rara y concreta sobre algo que de verdad le interesa.
 - **Pedir perdón en cada réplica.**
-- **Frases de escritor en su boca:** metáforas, símiles poéticos, antítesis ("That's not X. That's Y."), definiciones como sabiduría, léxico abstracto de oficio.
-- **Argot que un español no pilla** (done in, knackered, chuffed, skint, kip) y referencias de la Tierra.
+- **Frases de escritor en su boca:** metáforas poéticas, antítesis bonitas o definiciones-sentencia en cada escena.
+- **Argot que un español no pilla** y referencias de la Tierra.
 - **Saber lo que no puede saber.**
+- **Que lo guarro sea contenido sexual o vaya contra alguien vulnerable.** Se queda en chiste de chaval.
 
-**Cómo distinguirlo:** si la frase pone a Dex **por encima** de alguien, fuera. Si le hace **más él, más simpático o más vivo**, se queda. La vieja prueba de "si quitas la última frase y dice lo mismo, sobra" **no se aplica a Dex**: a Jason le suspendería casi todas las réplicas.
+**Cómo distinguirlo:** si la frase pone a Dex **por encima** de alguien que no se lo merece, fuera. Si le hace **más él, más gamberro o más simpático**, se queda.
 
 ---
 
-## 7. Cómo encajan las demás reglas
+## 8. Cómo encajan las demás reglas
 
 | Regla | Cómo se aplica a Dex |
 |---|---|
-| Ingenio sí, floritura no | La exageración en broma de Dex, con palabras normales y que se entiende a la primera ("I'd have gone into the next arena"), es ingenio. Lo que se corta es la figura de escritor y la hipérbole del narrador |
-| Nada de remates | Solo los de superioridad (§6). Contestar con la gracia dentro, comentar, picar y reírse de sí mismo es la voz de Dex |
-| Nada de cadenas de "and" | Se mantiene: los rollos de Dex son de frases que se corrigen y se encadenan con comas, no de "and" tras "and" |
-| Cada réplica se entiende a la primera | Se mantiene: las gracias de Dex se pillan a la primera |
-| Un "sorry" por escena | Se mantiene |
-| PREGUNTA OBVIA | Se mantiene: Dex es listo |
-| Nadie cuenta cosas / nada de vista de águila / nadie sabe lo que no ha visto | Se mantienen |
-| No se comenta lo que el lector acaba de ver | Dex comenta lo que **siente** o lo que **significa**, no repasa lo que pasó |
-| Los avisos del linter (REMATES, EPIGRAMAS, INGENIO DE NARRADOR) | Son alarmas para buscar el remate de superioridad y la frase de escritor. **No son una orden de quitarle la gracia a Dex** |
+| Cero símiles y comparaciones poéticas | Las **poéticas** fuera. Las **de cómico** (§6), de su mundo y que se entienden a la primera, se quedan, en diálogo y en narración |
+| Ingenio sí, floritura no | La exageración en broma, la grandeza de mentira y la tangente son ingenio |
+| Nada de remates | Solo los de superioridad (§7). El número de Dex no es un remate |
+| Frases redondas y definiciones-sentencia | Fuera como adorno. Una frase redonda de Dex cuando se pone serio, en un momento grande, sí (2.15) |
+| Nada de cadenas de "and" | Se mantiene: los rollos de Dex son frases que se corrigen y se encadenan con comas |
+| Cada réplica se entiende a la primera | Se mantiene: la referencia se explica con otro chiste (2.3) |
+| Un "sorry" por escena, PREGUNTA OBVIA, nadie cuenta cosas, nada de vista de águila, nadie sabe lo que no ha visto | Se mantienen |
+| Los avisos del linter | Son alarmas para buscar la superioridad y la frase de escritor. **No son órdenes de quitarle la gracia a Dex** |
 
 ---
 
-## 8. Ejemplos canónicos: antes y después
+## 9. Ejemplos canónicos
 
-Son cuatro escenas de la v6 que el autor ya ha leído. **El "antes" es como no tiene que sonar Dex.**
+Los "antes" son de la v6 y del piloto del 30 v1. **Así no tiene que sonar Dex.**
 
-### Cap. 9. Varro, después de Priscilla
+**Cap. 9, Varro.**
+- Antes: "What did you do when you knew?" / "Moved."
+- Después: "Got out of the way, sir. Properly out of the way. If the wall hadn't been there, I'd have gone into the next arena. Galba the Anvil never had this problem. Galba just stood there and let people break their hands on him."
 
-**Antes:** "What did you do when you knew?" / "Moved." / "How far?" / "A long way, sir. As far as I could get." … "Who sent you over?" / "Nobody, sir. I wanted to know."
+**Cap. 9, Cassius corriendo.**
+- Antes: "Fair enough," Dex said.
+- Después: "So you get up in the dark to beat your grandad. I like that. The only thing I ever came first in on Ceres was the bread queue, and I was working behind the counter at the time, so it shouldn't count. I'm going to be first, by the way. In the year. I've seen the board. It's a long way up, which is why I'm up this early."
 
-**Después:**
-> "What did you do when you knew?"
->
-> "Got out of the way, sir. Properly out of the way. If the wall hadn't been there I'd have gone into the next arena." Dex rubbed his shoulder, where Priscilla had come down on it the last time. "And she still landed on me. I've been trying to work out how all through lunch. The best I've got is that she can see where I'm going as well, which would be really unfair."
->
-> "She can't. She can jump a long way."
->
-> "So it's me."
->
-> […]
->
-> "Who sent you over?"
->
-> "Nobody, sir. I wanted to know." Dex thought about it. "I'm going to be coming over a lot, sir. You might as well get used to my face now."
->
-> […]
->
-> "I'll find out, sir!" Dex called after him.
->
-> "No," Varro said, without turning round, "you won't."
+**Cap. 16, Gracchus.**
+- Antes: "Dex went."
+- Después: "Yes, sir. Is that for asking, sir, or for them laughing? I'd like to know which one to stop doing."
 
-### Cap. 9. Corriendo detrás de Cassius
+**Cap. 30, el piloto v1.**
+- Antes: "It's quite a nice fire."
+- Después: "On my own? I'm insulted. I'm a Crow, and we come in flocks. Mine's behind that rock, being very quiet, because I asked nicely. Do you want to go back down? The fire's that way. It's a lovely fire. Very warm. Very fire."
 
-**Antes:** "So you get up in the dark to beat your grandad." / "Yes." / "Fair enough," Dex said, and dropped back behind him.
-
-**Después:**
-> "So you get up in the dark to beat your grandad." Dex had to stop talking for a few steps to breathe. "That's fair. I like that. The only thing I ever came first in on Ceres was the bread queue, and that was because I worked there." He spat to one side and kept going. "I'm going to be first, by the way. In the year."
->
-> That made Cassius look round, which nothing else had.
->
-> "You're at the bottom of the board."
->
-> "I know. I've seen it. It's a long way up, which is why I'm up this early." Dex pointed at the track with his chin. "Go on, then. I'll be the one behind you."
-
-### Cap. 12. La pantalla, después de Carbo
-
-**Antes:** la narración solo informa: "E6. He'd gone up two whole steps… He didn't know the word after the line's name. VETITA."
-
-**Después:**
-> E6. Dex read it twice, because the first time he assumed he'd read it wrong.
->
-> E6. Two whole steps, in the time it took Carbo to miss his head. His perception said D2. He had a D on his wrist. He was the worst cadet in the year by a long way, and he had a D, in perception, which meant he'd officially got better at looking at things.
->
-> "Oh, you're joking," he told his wrist, under the noise. "You couldn't have done that on the ship?"
->
-> […]
->
-> He didn't know the word after the line's name. VETITA. He'd never seen it on anybody's wrist, and he'd spent the last week looking at nothing but wrists.
->
-> "That's probably fine," he said. "That's probably a good word."
-
-### Cap. 16. Gracchus y el pasillo con Sabina
-
-**Antes:** "He hadn't meant to. It went up on its own." … "Dex went." … (ante "I hope it was instructive", nada) … en el pasillo: "What isn't?" / "And?" / "That's worse." / "Why not?"
-
-**Después:**
-> "Yes, sir." Dex stood up. "Is that for asking, sir, or for them laughing? I'd like to know which one to stop doing."
->
-> "Both," Gracchus said pleasantly. "Make it the hour and the next bell."
->
-> […]
->
-> "Very, sir." The shield was on the floor and Dex couldn't feel his hands. "I've learned loads. Mostly about shoulders."
->
-> […]
->
-> "Oh, that's lovely. That's so much worse." Dex looked at the hall door. "Go on, then. Who sat in the Senate after? Let me guess. Not bakers."
->
-> "The families who'd paid for the war. The ones with the ships and the—"
->
-> "The great houses." He'd got there before she did, and he could see she was a bit annoyed about it. "So the people who won the war wrote the book about the war, and the book says the problem was everybody else having a vote. That's handy for them."
->
-> […]
->
-> "I've been careful loads. You just keep turning up for the other bits." He held up a hand. "Pull me up. I'll be careful standing up."
+**Cap. 30, los Metelli.**
+- Antes: "Morning. Didn't see you at breakfast."
+- Después: "Morning. I'd say it's nice to see you, but last time I saw you, you were face down on a road, and I liked you better that way."
 
 ---
 
-## 9. Comprobación antes de dar por buena una escena con Dex
+## 10. Comprobación antes de dar por buena una escena con Dex
 
 Son preguntas, no cupos. Si alguna sale mal, la escena no está terminada.
 
-1. ¿Hay alguna réplica de Dex de una o dos palabras? ¿Tiene motivo (calla a propósito, no le queda aire en una pelea)? Si no lo tiene, se reescribe entera.
-2. ¿Ha contestado entera cada pregunta que le han hecho?
-3. ¿Ha comentado en voz alta algo que nadie le había pedido?
-4. ¿Ha sacado él alguna conclusión antes que los demás?
-5. ¿Ha picado a alguien, y alguien le ha picado a él?
-6. ¿Se ha reído de sí mismo o de la situación?
-7. Si hay un estirado o un abusón en la escena, ¿le ha dado la vuelta?
-8. ¿Se nota que se lo pasa bien? Y si sufre, ¿se nota que la gracia es escudo?
-9. ¿Hay algo de Ceres en su forma de decirlo?
-10. ¿La narración cuenta lo que piensa, quiere o teme?
+1. ¿Hay alguna réplica de Dex de una o dos palabras? ¿Tiene motivo (calla a propósito, no le queda aire en la pelea)? Si no lo tiene, se reescribe entera.
+2. ¿Dex ha hecho al menos un número: una tangente, un título de grandeza, una referencia, un sarcasmo largo o un doble sentido?
+3. ¿Ha contestado entera cada pregunta que le han hecho?
+4. ¿Ha comentado en voz alta algo que nadie le había pedido?
+5. ¿Ha sacado él alguna conclusión antes que los demás?
+6. ¿Alguien del coro le ha puesto en su sitio?
+7. Si hay un estirado o un abusón, ¿le ha dado la vuelta, con exageración absurda o con sarcasmo largo?
+8. ¿Hay algo de Ceres en cómo lo dice?
+9. ¿La narración piensa y se ríe con él, y tiene alguna comparación de cómico?
+10. ¿Se nota que se lo pasa bien? Y si sufre, ¿se nota que la gracia es escudo?
 11. ¿Alguna frase le pone por encima de alguien, suena a escritor o repite un chiste? Si es así, fuera.
-12. Leída al lado de una escena de Jason en HWFWM, ¿suena igual de viva?
+12. Leída al lado de una escena de Jason en HWFWM, ¿suena igual de gamberra y de viva?
