@@ -4,7 +4,7 @@ import glob, re, os, uuid, zipfile, datetime, html, sys
 from xml.etree import ElementTree as ET
 
 ROOT='source'; OUT=sys.argv[1] if len(sys.argv)>1 else 'source/CORVUS_Book_One.epub'
-CHDIR=sys.argv[3] if len(sys.argv)>3 else 'chapters'  # v6: 'chapters_v6'
+CHDIR=sys.argv[3] if len(sys.argv)>3 else 'chapters'  # v6: 'chapters_v6', v7: 'chapters_v7'
 COVER=sys.argv[2] if len(sys.argv)>2 else 'source/cover/var_01_michroma.png'
 FONTS={'OEBPS/fonts/michroma.woff2':'source/cover/fonts/michroma.woff2','OEBPS/fonts/spacegrotesk.woff2':'source/cover/fonts/spacegrotesk.woff2'}  # both SIL Open Font License
 TITLE='CORVUS'; AUTHOR='Pseudonim'; SERIES='Corvus Saga'; SUBTITLE='A Sci-Fi Progression Novel'
@@ -84,7 +84,7 @@ for f in files:
 
 # acts
 acts=[('Act I','The Reading',1,10),('Act II','The Bidding',11,33),('Act III','Saturnalia',34,44)]
-if CHDIR=='chapters_v6': acts=[('Act I','The Null',1,14),('Act II','The Rise',15,37),('Act III','Saturnalia',38,60)]
+if CHDIR in ('chapters_v6','chapters_v7'): acts=[('Act I','The Null',1,14),('Act II','The Rise',15,37),('Act III','Saturnalia',38,60)]
 
 css='''
 @font-face { font-family: "Michroma"; font-style: normal; font-weight: 400; src: url(fonts/michroma.woff2) format("woff2"); }
